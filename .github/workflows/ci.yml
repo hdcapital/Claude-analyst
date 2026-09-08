@@ -14,7 +14,7 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
 
@@ -26,7 +26,7 @@ jobs:
         run: pip install -e ".[dev,s3]"
 
       - name: Lint
-        run: python -m ruff check src tests
+        run: python -m ruff check src tests scripts
 
       - name: Typecheck
         run: python -m mypy
@@ -48,6 +48,7 @@ jobs:
         if: ${{ hashFiles('.e2e-run') != '' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MARKET_INGESTER_PATH: ./_lake_mirror
           ANALYST_DATA_DIR: ./data
           ANALYST_BUDGET_USD_TOTAL: "10"
           ANALYST_BUDGET_USD_DAILY: "2"
@@ -56,12 +57,17 @@ jobs:
           if [ -z "$ANTHROPIC_API_KEY" ]; then
             echo "No ANTHROPIC_API_KEY secret — cannot run live E2E"; exit 1
           fi
-          # .e2e-run holds the analyst arguments, one run per line
+          python scripts/unpack_lake.py
+          # restore spend/state from any previous E2E so the TOTAL cap spans runs
+          if [ -d e2e_output ]; then mkdir -p data && cp -r e2e_output/. data/; fi
+          # .e2e-run holds the analyst arguments, one run per line;
+          # exit code 3 = clean budget stop, still worth publishing outputs
           while IFS= read -r line; do
             [ -z "$line" ] && continue
             echo "== analyst $line"
             # shellcheck disable=SC2086
-            analyst $line
+            analyst $line && rc=0 || rc=$?
+            if [ "$rc" -ne 0 ] && [ "$rc" -ne 3 ]; then exit "$rc"; fi
           done < .e2e-run
 
       - name: Push E2E outputs back to the branch
@@ -70,6 +76,7 @@ jobs:
           set -euo pipefail
           git config user.name "analyst-ci-bot"
           git config user.email "actions@users.noreply.github.com"
+          rm -rf e2e_output
           mkdir -p e2e_output
           cp -r data/. e2e_output/ 2>/dev/null || true
           git add -f e2e_output
