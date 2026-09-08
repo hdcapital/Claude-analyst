@@ -51,10 +51,10 @@ jobs:
           MARKET_INGESTER_PATH: ./_lake_mirror
           ANALYST_DATA_DIR: ./data
           ANALYST_BUDGET_USD_TOTAL: "10"
-          # Build runs replay several real lake days in one calendar day; the
-          # production default ($2/day) would stop that replay by design.
-          # The $10 total cap is unchanged and remains the hard limit.
-          ANALYST_BUDGET_USD_DAILY: "6"
+          # Build runs replay several real lake days in one calendar day and
+          # carry reconciled spend from earlier runs, so the per-day gate is
+          # set to the total; the $10 TOTAL cap is the binding hard limit.
+          ANALYST_BUDGET_USD_DAILY: "10"
         run: |
           set -euo pipefail
           if [ -z "$ANTHROPIC_API_KEY" ]; then
@@ -63,6 +63,8 @@ jobs:
           python scripts/unpack_lake.py
           # restore spend/state from any previous E2E so the TOTAL cap spans runs
           if [ -d e2e_output ]; then mkdir -p data && cp -r e2e_output/. data/; fi
+          # count spend whose per-call rows were lost with failed CI runners
+          python scripts/reconcile_spend.py
           # .e2e-run holds the analyst arguments, one run per line;
           # exit code 3 = clean budget stop, still worth publishing outputs
           while IFS= read -r line; do
@@ -74,9 +76,12 @@ jobs:
           done < .e2e-run
 
       - name: Push E2E outputs back to the branch
-        if: ${{ hashFiles('.e2e-run') != '' }}
+        # always(): a failed or budget-stopped E2E still spent real money and
+        # produced state — losing it once (run 34230547892) was enough
+        if: ${{ always() && hashFiles('.e2e-run') != '' }}
         run: |
           set -euo pipefail
+          if [ ! -d data ]; then echo "no data directory — nothing to push"; exit 0; fi
           git config user.name "analyst-ci-bot"
           git config user.email "actions@users.noreply.github.com"
           rm -rf e2e_output
