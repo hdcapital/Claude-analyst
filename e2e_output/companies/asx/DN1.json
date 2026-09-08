@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/DN1",
+ "identity": {
+  "ticker": "DN1",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "dividend filing: first_of_type (0/128 lines changed)",
+   "data": {
+    "diff_group": "dividend",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 128,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:b497dc263a6bec65ab44a03fe1ec90e8",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

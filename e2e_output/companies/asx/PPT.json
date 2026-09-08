@@ -1,0 +1,44 @@
+{
+ "issuer_key": "asx/PPT",
+ "identity": {
+  "ticker": "PPT",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=PERPETUAL LIMITED and its related bodies corporate, previous_voting_power_pct=6.618, present_voting_power_pct=7.714",
+   "data": {
+    "form": "604_change",
+    "holder": "PERPETUAL LIMITED and its related bodies corporate",
+    "became_on": null,
+    "previous_voting_power_pct": 6.618,
+    "present_voting_power_pct": 7.714
+   },
+   "source": "asx:c8915f1d0e440219dab93fa3d863d508",
+   "locator": "chars 210+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - PPT",
+   "data": {
+    "title": "Notification of cessation of securities - PPT",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136555",
+    "is_admin_noise": true
+   },
+   "source": "asx:ca246a8d85516c3a0034b5f0bba4944e",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

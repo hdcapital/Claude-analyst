@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/MAG",
+ "identity": {
+  "ticker": "MAG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - MAG",
+   "data": {
+    "title": "Notification regarding unquoted securities - MAG",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136853",
+    "is_admin_noise": true
+   },
+   "source": "asx:9e7d3a949b3d52e7da2a3e5447be1954",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/RMV",
+ "identity": {
+  "ticker": "RMV",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=743882776.0, highest_price=1.0, lowest_price=1.0",
+   "data": {
+    "shares_purchased": 743882776.0,
+    "highest_price": 1.0,
+    "lowest_price": 1.0,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9758690",
+   "locator": "chars 758+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

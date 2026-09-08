@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/VLX",
+ "identity": {
+  "ticker": "VLX",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=160000.0, vwap=593.5906, lowest_price=581.12, highest_price=607.5, days=4, implied_consideration=94974496.0",
+   "data": {
+    "shares_purchased": 160000.0,
+    "vwap": 593.5906,
+    "lowest_price": 581.12,
+    "highest_price": 607.5,
+    "days": 4,
+    "implied_consideration": 94974496.0
+   },
+   "source": "uk:9758400",
+   "locator": "chars 1090+ (purchase table)",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

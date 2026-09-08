@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/SSPG",
+ "identity": {
+  "ticker": "SSPG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=49597501.0, highest_price=199.6, lowest_price=192.0, vwap=196.1333, implied_consideration=9727721542.88",
+   "data": {
+    "shares_purchased": 49597501.0,
+    "highest_price": 199.6,
+    "lowest_price": 192.0,
+    "vwap": 196.1333,
+    "implied_consideration": 9727721542.88
+   },
+   "source": "uk:9757498",
+   "locator": "chars 816+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

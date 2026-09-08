@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/TA1",
+ "identity": {
+  "ticker": "TA1",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/5134 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 5134,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:8b0eb03bf1771d5a89e6fd30db8c197d",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

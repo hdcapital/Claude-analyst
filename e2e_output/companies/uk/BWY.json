@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/BWY",
+ "identity": {
+  "ticker": "BWY",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=113493.0, highest_price=2095.87, lowest_price=1.0, vwap=1.0, implied_consideration=113493.0",
+   "data": {
+    "shares_purchased": 113493.0,
+    "highest_price": 2095.87,
+    "lowest_price": 1.0,
+    "vwap": 1.0,
+    "implied_consideration": 113493.0
+   },
+   "source": "uk:9757524",
+   "locator": "chars 906+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

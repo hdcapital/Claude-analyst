@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/MMA",
+ "identity": {
+  "ticker": "MMA",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

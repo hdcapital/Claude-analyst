@@ -5,10 +5,25 @@
   "exchange": "ASX"
  },
  "facts": [],
- "situations": [],
- "changelog": [],
+ "situations": [
+  {
+   "situation_id": "S-ad63af5fec",
+   "date": "2026-09-07",
+   "headline": "BUPA redirects international telehealth referrals away from Doctors on Demand, ~$6m FY27 revenue hit",
+   "status": "open",
+   "source": "asx:042ed727ef37b1c9c3c2289f4f645264"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: BUPA redirects international telehealth referrals away from Doctors on Demand, ~$6m FY27 revenue hit (interest 6, risk 5)",
+   "source": "asx:042ed727ef37b1c9c3c2289f4f645264",
+   "recorded_at": "2026-09-08T14:49:22Z"
+  }
+ ],
  "thesis": {
-  "text": "",
-  "updated": null
+  "text": "Vitura's Doctors on Demand unit faces a material, partner-driven revenue shock (~$6m FY27) from BUPA redirecting international-member telehealth traffic to a platform BUPA has a financial stake in, despite prior volume assurances; the breach notice signals a live commercial dispute whose resolution (financial remedy, contract renegotiation, or litigation) is the near-term catalyst, while management's reaffirmed FY2027 improvement claim (unquantified) should be tested against other segment performance (Canview, Cannadoc, Releaf) as the group's earnings mix shifts away from BUPA-linked telehealth.",
+  "updated": "2026-09-07"
  }
 }

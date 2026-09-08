@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/FMET",
+ "identity": {
+  "ticker": "FMET",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

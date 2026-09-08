@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/WAX",
+ "identity": {
+  "ticker": "WAX",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

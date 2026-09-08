@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/DXN",
+ "identity": {
+  "ticker": "DXN",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing Notice",
+   "data": {
+    "title": "Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136559",
+    "is_admin_noise": true
+   },
+   "source": "asx:437e30809aaa8fd3dbb591777e91fb12",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=200000.0, issue_price=0.14, implied_raise=28000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 200000.0,
+    "issue_price": 0.14,
+    "implied_raise": 28000.0
+   },
+   "source": "asx:634ff4e025f91a56262db675d3dd99ca",
+   "locator": "chars 280+",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

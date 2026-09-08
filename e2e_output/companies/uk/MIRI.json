@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/MIRI",
+ "identity": {
+  "ticker": "MIRI",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Change of Registered Office",
+   "data": {
+    "title": "Change of Registered Office",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/mirriad-advertising--miri/change-of-registered-office/9758789",
+    "is_admin_noise": false
+   },
+   "source": "uk:9758789",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

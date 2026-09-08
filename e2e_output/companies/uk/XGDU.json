@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/XGDU",
+ "identity": {
+  "ticker": "XGDU",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

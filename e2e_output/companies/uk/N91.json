@@ -1,0 +1,46 @@
+{
+ "issuer_key": "uk/N91",
+ "identity": {
+  "ticker": "N91",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=7325143.0, vwap=1.0, implied_consideration=7325143.0",
+   "data": {
+    "shares_purchased": 7325143.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 1.0,
+    "implied_consideration": 7325143.0
+   },
+   "source": "uk:9759099",
+   "locator": "chars 1357+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Legal person, position=In terms of UK MAR, the Listing Rules, and the Disclosure Guidance and Transpare, nature=Acquisition of shares, price=2.088, volume=2.088, value=4.36",
+   "data": {
+    "person": "Legal person",
+    "position": "In terms of UK MAR, the Listing Rules, and the Disclosure Guidance and Transpare",
+    "nature": "Acquisition of shares",
+    "price": 2.088,
+    "volume": 2.088,
+    "value": 4.36
+   },
+   "source": "uk:9759275",
+   "locator": "chars 1534+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

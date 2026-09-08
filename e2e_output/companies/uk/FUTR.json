@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/FUTR",
+ "identity": {
+  "ticker": "FUTR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=6291708.0, highest_price=305.6, lowest_price=294.4, vwap=299.7725, implied_consideration=1886081036.43",
+   "data": {
+    "shares_purchased": 6291708.0,
+    "highest_price": 305.6,
+    "lowest_price": 294.4,
+    "vwap": 299.7725,
+    "implied_consideration": 1886081036.43
+   },
+   "source": "uk:9757497",
+   "locator": "chars 495+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

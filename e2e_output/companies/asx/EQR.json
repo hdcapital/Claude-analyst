@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/EQR",
+ "identity": {
+  "ticker": "EQR",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing Notice",
+   "data": {
+    "title": "Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136430",
+    "is_admin_noise": true
+   },
+   "source": "asx:a7b7a254d9fbda6d86d31c5e3523bddc",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=2504376.0, issue_price=0.0675, implied_raise=169045.38",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 2504376.0,
+    "issue_price": 0.0675,
+    "implied_raise": 169045.38
+   },
+   "source": "asx:e684e6aaab4a65f4b2659743a0cb3123",
+   "locator": "chars 289+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

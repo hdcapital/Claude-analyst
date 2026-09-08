@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/IMA",
+ "identity": {
+  "ticker": "IMA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Final Director's Interest Notice - A Soo",
+   "data": {
+    "title": "Final Director's Interest Notice - A Soo",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136670",
+    "is_admin_noise": true
+   },
+   "source": "asx:664af095ba92443afd3354c0aa8118a0",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

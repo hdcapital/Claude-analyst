@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/CGO",
+ "identity": {
+  "ticker": "CGO",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Alvar Financial Services Ltd, resulting_voting_rights_pct=3.398074, previous_voting_rights_pct=5.417475",
+   "data": {
+    "holder": "Alvar Financial Services Ltd",
+    "resulting_voting_rights_pct": 3.398074,
+    "previous_voting_rights_pct": 5.417475
+   },
+   "source": "uk:9759114",
+   "locator": "chars 241+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "issuer_key": "asx/FMG",
+ "identity": {
+  "ticker": "FMG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - FMG",
+   "data": {
+    "title": "Notification regarding unquoted securities - FMG",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136578",
+    "is_admin_noise": true
+   },
+   "source": "asx:809f9b6ac475c6afd5b51d23cb33cdd1",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - FMG",
+   "data": {
+    "title": "Notification regarding unquoted securities - FMG",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136584",
+    "is_admin_noise": true
+   },
+   "source": "asx:82c975c7e872be3218da4f325770bcca",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - FMG",
+   "data": {
+    "title": "Notification of cessation of securities - FMG",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136579",
+    "is_admin_noise": true
+   },
+   "source": "asx:f2230f9c461b6870dd2cf8e5c1c753cc",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

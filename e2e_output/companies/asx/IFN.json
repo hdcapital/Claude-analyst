@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/IFN",
+ "identity": {
+  "ticker": "IFN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

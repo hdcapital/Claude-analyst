@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/UOG",
+ "identity": {
+  "ticker": "UOG",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

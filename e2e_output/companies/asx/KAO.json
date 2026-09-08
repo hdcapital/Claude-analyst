@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/KAO",
+ "identity": {
+  "ticker": "KAO",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=9090910.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 9090910.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:c2d3f066252842637ea713777a9579d2",
+   "locator": "chars 245+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

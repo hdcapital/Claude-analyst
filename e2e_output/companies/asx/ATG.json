@@ -1,0 +1,46 @@
+{
+ "issuer_key": "asx/ATG",
+ "identity": {
+  "ticker": "ATG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - ATG",
+   "data": {
+    "title": "Notification regarding unquoted securities - ATG",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136693",
+    "is_admin_noise": true
+   },
+   "source": "asx:b13f43d943e9be6a84a51f3c579a2493",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Robin Mendelson, date_of_change=2026-09-02, number_acquired=45292.0, number_disposed=45292.0, held_after_change=90588.0, direct_or_indirect=Direct and Indirect",
+   "data": {
+    "director": "Robin Mendelson",
+    "date_of_change": "2026-09-02",
+    "number_acquired": 45292.0,
+    "number_disposed": 45292.0,
+    "value_consideration": null,
+    "held_after_change": 90588.0,
+    "direct_or_indirect": "Direct and Indirect"
+   },
+   "source": "asx:cd531985e1891b3c8b7e8ede51b9f35d",
+   "locator": "chars 652+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

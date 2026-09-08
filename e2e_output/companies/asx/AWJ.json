@@ -5,10 +5,25 @@
   "exchange": "ASX"
  },
  "facts": [],
- "situations": [],
- "changelog": [],
+ "situations": [
+  {
+   "situation_id": "S-114e8ff081",
+   "date": "2026-09-07",
+   "headline": "AWJ trading halt pending material acquisition announcement",
+   "status": "open",
+   "source": "asx:1b74c7a7fe0c069d9f9ed07989018aa0"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: AWJ trading halt pending material acquisition announcement (interest 5, risk 5)",
+   "source": "asx:1b74c7a7fe0c069d9f9ed07989018aa0",
+   "recorded_at": "2026-09-08T14:50:23Z"
+  }
+ ],
  "thesis": {
-  "text": "",
-  "updated": null
+  "text": "Auric Mining is in the process of announcing a material acquisition, disclosed only via a trading halt request as of 7 September 2026; no target, terms, or financing details are yet public. The company file should be monitored closely once the acquisition announcement is released (expected by 9 September 2026) to assess deal quality, dilution risk, and strategic fit before forming a directional view.",
+  "updated": "2026-09-07"
  }
 }

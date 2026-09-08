@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/GRP",
+ "identity": {
+  "ticker": "GRP",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=76130.0, highest_price=0.792, lowest_price=0.785, vwap=0.7885, implied_consideration=60028.5",
+   "data": {
+    "shares_purchased": 76130.0,
+    "highest_price": 0.792,
+    "lowest_price": 0.785,
+    "vwap": 0.7885,
+    "implied_consideration": 60028.5
+   },
+   "source": "uk:9757507",
+   "locator": "chars 427+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

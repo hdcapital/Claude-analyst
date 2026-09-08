@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/PGF",
+ "identity": {
+  "ticker": "PGF",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/30 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 30,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:fd9f470dce8551523e4483b79732ad28",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

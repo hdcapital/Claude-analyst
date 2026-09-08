@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/RST",
+ "identity": {
+  "ticker": "RST",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=160000.0, vwap=288.2797, lowest_price=285.0, highest_price=292.0, days=4, implied_consideration=46124752.0",
+   "data": {
+    "shares_purchased": 160000.0,
+    "vwap": 288.2797,
+    "lowest_price": 285.0,
+    "highest_price": 292.0,
+    "days": 4,
+    "implied_consideration": 46124752.0
+   },
+   "source": "uk:9758786",
+   "locator": "chars 319+ (purchase table)",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/ISE",
+ "identity": {
+  "ticker": "ISE",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

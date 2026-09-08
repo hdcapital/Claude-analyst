@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/CTM",
+ "identity": {
+  "ticker": "CTM",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=3080000.0, issue_price=0.5, implied_raise=1540000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 3080000.0,
+    "issue_price": 0.5,
+    "implied_raise": 1540000.0
+   },
+   "source": "asx:52fc590dba0651f1cdcb4ee980cade83",
+   "locator": "chars 293+",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

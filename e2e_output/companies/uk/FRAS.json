@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/FRAS",
+ "identity": {
+  "ticker": "FRAS",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=259395.0, highest_price=2.0, lowest_price=2.0",
+   "data": {
+    "shares_purchased": 259395.0,
+    "highest_price": 2.0,
+    "lowest_price": 2.0,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9757520",
+   "locator": "chars 213+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

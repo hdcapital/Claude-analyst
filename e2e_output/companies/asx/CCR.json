@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CCR",
+ "identity": {
+  "ticker": "CCR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

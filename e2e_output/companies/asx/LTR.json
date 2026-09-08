@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/LTR",
+ "identity": {
+  "ticker": "LTR",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=692835.0, issue_price=1.2328, implied_raise=854126.99",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 692835.0,
+    "issue_price": 1.2328,
+    "implied_raise": 854126.99
+   },
+   "source": "asx:b12cebfe759e0d9b2931fabf454b0451",
+   "locator": "chars 792+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

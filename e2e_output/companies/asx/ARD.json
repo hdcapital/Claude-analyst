@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/ARD",
+ "identity": {
+  "ticker": "ARD",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

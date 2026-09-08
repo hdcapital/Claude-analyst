@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/CTUK",
+ "identity": {
+  "ticker": "CTUK",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=50000.0, highest_price=358.0, lowest_price=358.0, vwap=358.0, implied_consideration=17900000.0",
+   "data": {
+    "shares_purchased": 50000.0,
+    "highest_price": 358.0,
+    "lowest_price": 358.0,
+    "vwap": 358.0,
+    "implied_consideration": 17900000.0
+   },
+   "source": "uk:9759612",
+   "locator": "chars 423+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

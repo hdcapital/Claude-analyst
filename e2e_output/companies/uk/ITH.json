@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/ITH",
+ "identity": {
+  "ticker": "ITH",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

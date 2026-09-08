@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/AZJ",
+ "identity": {
+  "ticker": "AZJ",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Amanda McMillan, date_of_change=2026-09-02, number_acquired=2653.0, number_disposed=0.0, value_consideration=3.68, held_after_change=30000.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Amanda McMillan",
+    "date_of_change": "2026-09-02",
+    "number_acquired": 2653.0,
+    "number_disposed": 0.0,
+    "value_consideration": 3.68,
+    "held_after_change": 30000.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:76d02b1a6f284f4bcc152a8a8f796731",
+   "locator": "chars 1289+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

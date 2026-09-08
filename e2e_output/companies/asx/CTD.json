@@ -1,0 +1,45 @@
+{
+ "issuer_key": "asx/CTD",
+ "identity": {
+  "ticker": "CTD",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Signature, present_voting_power_pct=20.0",
+   "data": {
+    "form": "604_change",
+    "holder": "Signature",
+    "became_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 20.0
+   },
+   "source": "asx:7e84a969cdc6decdb2145f3e689cbaeb",
+   "locator": "chars 2667+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=STATE STREET GLOBAL ADVISORS, AUSTRALIA, LIMITED, ceased_on=2026-09-03",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "STATE STREET GLOBAL ADVISORS, AUSTRALIA, LIMITED",
+    "ceased_on": "2026-09-03",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:aedb40bb9256c85b115e8afcfb35535e",
+   "locator": "chars 2083+ (form 605)",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

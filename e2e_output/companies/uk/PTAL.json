@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/PTAL",
+ "identity": {
+  "ticker": "PTAL",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

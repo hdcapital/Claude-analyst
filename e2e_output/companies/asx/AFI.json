@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/AFI",
+ "identity": {
+  "ticker": "AFI",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-a6ed98283b",
+   "date": "2026-09-07",
+   "headline": "AFIC trading at ~14% discount to estimated pre-tax NTA",
+   "status": "open",
+   "source": "asx:8ff7b585d16ced215058da20d3ad1a03"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: AFIC trading at ~14% discount to estimated pre-tax NTA (interest 2, risk 2)",
+   "source": "asx:8ff7b585d16ced215058da20d3ad1a03",
+   "recorded_at": "2026-09-08T14:53:58Z"
+  }
+ ],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

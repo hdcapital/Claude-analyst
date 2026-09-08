@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/SRE",
+ "identity": {
+  "ticker": "SRE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Joanne Kenrick, nature=Purchase of shares, price=0.9463, volume=0.9463, value=0.9",
+   "data": {
+    "person": "Joanne Kenrick",
+    "position": null,
+    "nature": "Purchase of shares",
+    "price": 0.9463,
+    "volume": 0.9463,
+    "value": 0.9
+   },
+   "source": "uk:9758900",
+   "locator": "chars 481+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

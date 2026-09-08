@@ -1,0 +1,56 @@
+{
+ "issuer_key": "uk/BARC",
+ "identity": {
+  "ticker": "BARC",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Barclays PLC, resulting_voting_rights_pct=5.66, previous_voting_rights_pct=5.61",
+   "data": {
+    "holder": "Barclays PLC",
+    "resulting_voting_rights_pct": 5.66,
+    "previous_voting_rights_pct": 5.61
+   },
+   "source": "uk:9759289",
+   "locator": "chars 235+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-09aee2aade",
+   "date": "2026-09-07",
+   "headline": "Barclays Capital Securities files routine Rule 38.5(b) dealing disclosure in DCC Energy takeover",
+   "status": "open",
+   "source": "uk:9759035"
+  },
+  {
+   "situation_id": "S-91e49ef36c",
+   "date": "2026-09-07",
+   "headline": "Barclays PLC discloses routine Rule 8.3 dealing position in Permanent TSB (not a BARC-specific event)",
+   "status": "open",
+   "source": "uk:9759386"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Barclays Capital Securities files routine Rule 38.5(b) dealing disclosure in DCC Energy takeover (interest 1, risk 0)",
+   "source": "uk:9759035",
+   "recorded_at": "2026-09-08T15:02:46Z"
+  },
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Barclays PLC discloses routine Rule 8.3 dealing position in Permanent TSB (not a BARC-specific event) (interest 1, risk 0)",
+   "source": "uk:9759386",
+   "recorded_at": "2026-09-08T15:04:28Z"
+  }
+ ],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

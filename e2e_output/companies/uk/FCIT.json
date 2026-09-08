@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/FCIT",
+ "identity": {
+  "ticker": "FCIT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=308160.0, highest_price=344.4, lowest_price=343.8, vwap=344.2715, implied_consideration=106090705.44",
+   "data": {
+    "shares_purchased": 308160.0,
+    "highest_price": 344.4,
+    "lowest_price": 343.8,
+    "vwap": 344.2715,
+    "implied_consideration": 106090705.44
+   },
+   "source": "uk:9759647",
+   "locator": "chars 381+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

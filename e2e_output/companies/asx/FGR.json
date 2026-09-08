@@ -1,0 +1,46 @@
+{
+ "issuer_key": "asx/FGR",
+ "identity": {
+  "ticker": "FGR",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Dr Andrew James Goodwin, date_of_change=2026-09-07, number_acquired=120222.0, number_disposed=120222.0, value_consideration=0.0, direct_or_indirect=Direct and Indirect",
+   "data": {
+    "director": "Dr Andrew James Goodwin",
+    "date_of_change": "2026-09-07",
+    "number_acquired": 120222.0,
+    "number_disposed": 120222.0,
+    "value_consideration": 0.0,
+    "held_after_change": null,
+    "direct_or_indirect": "Direct and Indirect"
+   },
+   "source": "asx:6d19ac4f0f0ecd004d1fe143ca1f9d2f",
+   "locator": "chars 672+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=120222.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 120222.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:d72ce6064099f371d4dcb9a481162971",
+   "locator": "chars 291+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

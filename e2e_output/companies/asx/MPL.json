@@ -4,7 +4,22 @@
   "ticker": "MPL",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - MPL",
+   "data": {
+    "title": "Notification regarding unquoted securities - MPL",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136301",
+    "is_admin_noise": true
+   },
+   "source": "asx:dd36271a7a35096f153cdc2f1af06820",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

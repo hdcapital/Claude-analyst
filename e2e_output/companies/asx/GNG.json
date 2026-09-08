@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/GNG",
+ "identity": {
+  "ticker": "GNG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - GNG",
+   "data": {
+    "title": "Notification of cessation of securities - GNG",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136726",
+    "is_admin_noise": true
+   },
+   "source": "asx:5c396f81a13b47640c46796b5ba391e8",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

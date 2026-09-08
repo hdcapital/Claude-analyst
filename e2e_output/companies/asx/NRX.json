@@ -35,6 +35,169 @@
    "source": "asx:295c22cc1b0096c1fe7e2e83c7b736b5",
    "locator": "chars 640+ (form fields)",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - NRX",
+   "data": {
+    "title": "Notification regarding unquoted securities - NRX",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136772",
+    "is_admin_noise": true
+   },
+   "source": "asx:418eadb619837afa5d9ac5aa1f90a5a0",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - NRX",
+   "data": {
+    "title": "Notification regarding unquoted securities - NRX",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136774",
+    "is_admin_noise": true
+   },
+   "source": "asx:5182430907934168a922df8d30ea1a92",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=4000000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 4000000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:554b011c2338b74b0251340d8d876c53",
+   "locator": "chars 284+",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=Bridge The Gap Trading Pty Ltd, became_on=2026-09-07, present_voting_power_pct=5.26",
+   "data": {
+    "form": "603_becoming",
+    "holder": "Bridge The Gap Trading Pty Ltd",
+    "became_on": "2026-09-07",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 5.26
+   },
+   "source": "asx:5e786dc226565ed0fcdee5ae7a074af1",
+   "locator": "chars 205+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - NRX",
+   "data": {
+    "title": "Notification regarding unquoted securities - NRX",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136773",
+    "is_admin_noise": true
+   },
+   "source": "asx:657ed385093d0cd763d43c29f9faaf31",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Exercise of Sleitat Option & Grant of Listing Rule Waiver",
+   "data": {
+    "title": "Exercise of Sleitat Option & Grant of Listing Rule Waiver",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136286",
+    "is_admin_noise": true
+   },
+   "source": "asx:6eecfcfbd01e14caa1f34c9cb1ed3528",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=Eric Martin Sondergaard, became_on=2026-09-07, present_voting_power_pct=5.26",
+   "data": {
+    "form": "603_becoming",
+    "holder": "Eric Martin Sondergaard",
+    "became_on": "2026-09-07",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 5.26
+   },
+   "source": "asx:99c135cada7fd0cb21916de4eac840b8",
+   "locator": "chars 205+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=David Prentice, date_of_change=2026-09-07, number_acquired=1.0, number_disposed=24720.0, value_consideration=24720.0, held_after_change=3608527.0, direct_or_indirect=Direct and indirect",
+   "data": {
+    "director": "David Prentice",
+    "date_of_change": "2026-09-07",
+    "number_acquired": 1.0,
+    "number_disposed": 24720.0,
+    "value_consideration": 24720.0,
+    "held_after_change": 3608527.0,
+    "direct_or_indirect": "Direct and indirect"
+   },
+   "source": "asx:d12ded631c06a7e8da0d31ec772eb08c",
+   "locator": "chars 644+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Larchmont Holdings Pty Ltd <Larchmont A/C>, previous_voting_power_pct=11.66, present_voting_power_pct=12.69",
+   "data": {
+    "form": "604_change",
+    "holder": "Larchmont Holdings Pty Ltd <Larchmont A/C>",
+    "became_on": null,
+    "previous_voting_power_pct": 11.66,
+    "present_voting_power_pct": 12.69
+   },
+   "source": "asx:d3eefcfe6676b1b8db9c6c000432a4e9",
+   "locator": "chars 184+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Piers Lewis, date_of_change=2026-09-07, number_acquired=1.0, number_disposed=90140.0, value_consideration=90140.0, held_after_change=4677327.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Piers Lewis",
+    "date_of_change": "2026-09-07",
+    "number_acquired": 1.0,
+    "number_disposed": 90140.0,
+    "value_consideration": 90140.0,
+    "held_after_change": 4677327.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:defcd7478c117310632837e032555ec4",
+   "locator": "chars 640+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=88843956.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 88843956.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:e8f52c7f4b7cc419c475db0b81cd369b",
+   "locator": "chars 284+",
+   "recorded_at": "2026-09-08T14:34:26Z"
   }
  ],
  "situations": [],

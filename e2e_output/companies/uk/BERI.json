@@ -1,0 +1,44 @@
+{
+ "issuer_key": "uk/BERI",
+ "identity": {
+  "ticker": "BERI",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=86433.0, vwap=185.5, implied_consideration=16033321.5",
+   "data": {
+    "shares_purchased": 86433.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 185.5,
+    "implied_consideration": 16033321.5
+   },
+   "source": "uk:9755035",
+   "locator": "chars 204+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Total Voting Rights",
+   "data": {
+    "title": "Total Voting Rights",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/prn/blackrock-energy-and-resources-income-trust--beri/total-voting-rights/9757826",
+    "is_admin_noise": true
+   },
+   "source": "uk:9757826",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

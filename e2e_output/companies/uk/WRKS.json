@@ -1,0 +1,46 @@
+{
+ "issuer_key": "uk/WRKS",
+ "identity": {
+  "ticker": "WRKS",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/51 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 51,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "uk:9757559",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Result of AGM",
+   "data": {
+    "title": "Result of AGM",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/theworks-co-uk--wrks/result-of-agm/9759573",
+    "is_admin_noise": true
+   },
+   "source": "uk:9759573",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

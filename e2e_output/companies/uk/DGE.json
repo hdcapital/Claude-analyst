@@ -1,0 +1,47 @@
+{
+ "issuer_key": "uk/DGE",
+ "identity": {
+  "ticker": "DGE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, nature=1. Release of award of American Depositary Shares under the Diageo Exceptional Stock Award Plan, price=1.0, volume=1.0, value=1.0",
+   "data": {
+    "person": "Name",
+    "position": null,
+    "nature": "1. Release of award of American Depositary Shares under the Diageo Exceptional Stock Award Plan",
+    "price": 1.0,
+    "volume": 1.0,
+    "value": 1.0
+   },
+   "source": "uk:9759695",
+   "locator": "chars 657+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, nature=1. Release of award of Ordinary Shares under the Diageo 2014 Long Term Incentive Plan, price=1.0, volume=1.0, value=1.0",
+   "data": {
+    "person": "Name",
+    "position": null,
+    "nature": "1. Release of award of Ordinary Shares under the Diageo 2014 Long Term Incentive Plan",
+    "price": 1.0,
+    "volume": 1.0,
+    "value": 1.0
+   },
+   "source": "uk:9759696",
+   "locator": "chars 615+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/BVC",
+ "identity": {
+  "ticker": "BVC",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

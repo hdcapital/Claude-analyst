@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/EO.P",
+ "identity": {
+  "ticker": "EO.P",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of AGM and Interest Payment",
+   "data": {
+    "title": "Notice of AGM and Interest Payment",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/epe-special-opportunities-limited-di---eo.p/notice-of-agm-and-interest-payment-/9699373",
+    "is_admin_noise": true
+   },
+   "source": "uk:9699373",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

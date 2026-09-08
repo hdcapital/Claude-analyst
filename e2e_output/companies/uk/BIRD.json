@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/BIRD",
+ "identity": {
+  "ticker": "BIRD",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

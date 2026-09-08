@@ -1,0 +1,45 @@
+{
+ "issuer_key": "uk/RIII",
+ "identity": {
+  "ticker": "RIII",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=2000.0, highest_price=24.25, lowest_price=24.25, vwap=24.25, implied_consideration=48500.0",
+   "data": {
+    "shares_purchased": 2000.0,
+    "highest_price": 24.25,
+    "lowest_price": 24.25,
+    "vwap": 24.25,
+    "implied_consideration": 48500.0
+   },
+   "source": "uk:9759697",
+   "locator": "chars 202+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-c0e1eb5de0",
+   "date": "2026-09-07",
+   "headline": "Rights & Issues Investment Trust: Jupiter manager departures trigger board review of management arrangements",
+   "status": "open",
+   "source": "uk:9759003"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Rights & Issues Investment Trust: Jupiter manager departures trigger board review of management arrangements (interest 6, risk 4)",
+   "source": "uk:9759003",
+   "recorded_at": "2026-09-08T15:01:48Z"
+  }
+ ],
+ "thesis": {
+  "text": "RIII faces a governance inflection point following the announced departure of its long-standing Jupiter managers in early 2027, prompting a formal board review of asset management arrangements; outcome (new manager, fee changes, or strategic alternatives) is the key catalyst to monitor, while ongoing buybacks suggest management continues to support the share price/discount in the interim.",
+  "updated": "2026-09-07"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/FRS",
+ "identity": {
+  "ticker": "FRS",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

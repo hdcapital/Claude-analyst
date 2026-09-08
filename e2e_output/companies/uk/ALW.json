@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/ALW",
+ "identity": {
+  "ticker": "ALW",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Director, nature=Sale of Ordinary Shares, price=13.66442, volume=13.66442, value=186.72",
+   "data": {
+    "person": "Name",
+    "position": "Director",
+    "nature": "Sale of Ordinary Shares",
+    "price": 13.66442,
+    "volume": 13.66442,
+    "value": 186.72
+   },
+   "source": "uk:9759623",
+   "locator": "chars 537+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

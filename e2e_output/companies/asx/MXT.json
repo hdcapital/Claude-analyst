@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/MXT",
+ "identity": {
+  "ticker": "MXT",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/42 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 42,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:8611994e1b3250da275ecc2ccbfa49ad",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

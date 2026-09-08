@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/ARS",
+ "identity": {
+  "ticker": "ARS",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-f1d6e0a562",
+   "date": "2026-09-07",
+   "headline": "Asiamet Resources: KSK Project (Indokal) sale to Norin Mining nearing Completion",
+   "status": "open",
+   "source": "uk:9757571"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Asiamet Resources: KSK Project (Indokal) sale to Norin Mining nearing Completion (interest 6, risk 4)",
+   "source": "uk:9757571",
+   "recorded_at": "2026-09-08T15:00:26Z"
+  }
+ ],
+ "thesis": {
+  "text": "Asiamet is in the terminal stage of divesting its KSK Project subsidiary Indokal Limited to Norin Mining; with all conditions precedent satisfied or waived, the next material catalyst is the Completion announcement itself, which should clarify consideration, cash impact, and Asiamet's residual asset base (likely centered on remaining projects) — warranting close monitoring of the next filing for deal terms and strategic direction post-sale.",
+  "updated": "2026-09-07"
+ }
+}

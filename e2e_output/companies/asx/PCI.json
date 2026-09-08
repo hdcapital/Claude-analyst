@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/PCI",
+ "identity": {
+  "ticker": "PCI",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

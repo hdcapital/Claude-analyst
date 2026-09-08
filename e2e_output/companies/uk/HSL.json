@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/HSL",
+ "identity": {
+  "ticker": "HSL",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=80741.0",
+   "data": {
+    "shares_purchased": 80741.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9759658",
+   "locator": "chars 499+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

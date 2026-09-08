@@ -1,0 +1,46 @@
+{
+ "issuer_key": "uk/BNZL",
+ "identity": {
+  "ticker": "BNZL",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=519646.0, vwap=1.0, implied_consideration=519646.0",
+   "data": {
+    "shares_purchased": 519646.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 1.0,
+    "implied_consideration": 519646.0
+   },
+   "source": "uk:9758865",
+   "locator": "chars 175+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Executive Officer, nature=Acquisition of 368 shares at £23.43 per share following the exercise of options granted in 2023 under the Bunzl plc International Sharesave Plan and subsequent, price=26.62, volume=26.62, value=708.62",
+   "data": {
+    "person": "Name",
+    "position": "Chief Executive Officer",
+    "nature": "Acquisition of 368 shares at £23.43 per share following the exercise of options granted in 2023 under the Bunzl plc International Sharesave Plan and subsequent",
+    "price": 26.62,
+    "volume": 26.62,
+    "value": 708.62
+   },
+   "source": "uk:9759718",
+   "locator": "chars 109+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

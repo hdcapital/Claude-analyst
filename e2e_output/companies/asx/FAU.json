@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/FAU",
+ "identity": {
+  "ticker": "FAU",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=4651163.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 4651163.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:e9eb35c2d1e71eac667d1743066aca9b",
+   "locator": "chars 241+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

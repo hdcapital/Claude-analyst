@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/TRUE",
+ "identity": {
+  "ticker": "TRUE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Result of General Meeting",
+   "data": {
+    "title": "Result of General Meeting",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/truetide-plc--true/result-of-general-meeting/9759165",
+    "is_admin_noise": true
+   },
+   "source": "uk:9759165",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

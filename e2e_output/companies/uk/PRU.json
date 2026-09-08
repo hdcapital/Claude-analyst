@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/PRU",
+ "identity": {
+  "ticker": "PRU",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=2492828558.0, highest_price=1.0, vwap=1.0, implied_consideration=2492828558.0",
+   "data": {
+    "shares_purchased": 2492828558.0,
+    "highest_price": 1.0,
+    "lowest_price": null,
+    "vwap": 1.0,
+    "implied_consideration": 2492828558.0
+   },
+   "source": "uk:9757521",
+   "locator": "chars 962+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

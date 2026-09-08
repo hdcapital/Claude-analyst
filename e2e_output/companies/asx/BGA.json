@@ -1,0 +1,33 @@
+{
+ "issuer_key": "asx/BGA",
+ "identity": {
+  "ticker": "BGA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=Registered holder of, became_on=2026-09-03, voting_power_pcts_seen_unordered[1]",
+   "data": {
+    "form": "603_becoming",
+    "holder": "Registered holder of",
+    "became_on": "2026-09-03",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null,
+    "voting_power_pcts_seen_unordered": [
+     5.01
+    ]
+   },
+   "source": "asx:f502f72222c880e80e3d503b054188b8",
+   "locator": "chars 4015+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

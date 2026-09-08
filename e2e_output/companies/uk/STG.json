@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/STG",
+ "identity": {
+  "ticker": "STG",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

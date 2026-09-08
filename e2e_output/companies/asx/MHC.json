@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/MHC",
+ "identity": {
+  "ticker": "MHC",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

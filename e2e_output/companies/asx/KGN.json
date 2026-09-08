@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/KGN",
+ "identity": {
+  "ticker": "KGN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-814fc75863",
+   "date": "2026-09-07",
+   "headline": "Kogan.com proposes radical CEO pay overhaul tied to 100% TSR hurdle; CFO retained via 50% TSR award to FY28",
+   "status": "open",
+   "source": "asx:5b2dd21de5260d39917c7cefabb6be1b"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Kogan.com proposes radical CEO pay overhaul tied to 100% TSR hurdle; CFO retained via 50% TSR award to FY28 (interest 6, risk 3)",
+   "source": "asx:5b2dd21de5260d39917c7cefabb6be1b",
+   "recorded_at": "2026-09-08T14:52:10Z"
+  }
+ ],
+ "thesis": {
+  "text": "Kogan.com's board is pushing a highly shareholder-aligned remuneration reset—stripping the founder-CEO's cash pay to minimum wage and tying his entire upside to a demanding, all-or-nothing 100% absolute TSR hurdle over five years, while retaining the CFO through FY28 via a smaller 50% TSR-linked cash award. This signals confidence in medium-term value creation (implied ~$383m/$207m value targets) and reduces near-term cash comp drag, but outcome depends on EGM shareholder approval; failure would revert to status quo pay and could raise retention risk for both executives. Track future EGM outcome, any Notice of Meeting details, and FY27 trading updates referenced (July gross sales growth) as leading indicators of whether the TSR targets are plausible.",
+  "updated": "2026-09-07"
+ }
+}

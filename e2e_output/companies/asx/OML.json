@@ -19,6 +19,21 @@
    "source": "asx:2b8360600d5eabe1d067301839a323db",
    "locator": "chars 175+ (voting power table)",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Relevant interest under paragraph 608(1)(b) and/or, previous_voting_power_pct=5.98, present_voting_power_pct=7.1",
+   "data": {
+    "form": "604_change",
+    "holder": "Relevant interest under paragraph 608(1)(b) and/or",
+    "became_on": null,
+    "previous_voting_power_pct": 5.98,
+    "present_voting_power_pct": 7.1
+   },
+   "source": "asx:db9c2444d5e998f408691bd22e6dc420",
+   "locator": "chars 3389+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:26Z"
   }
  ],
  "situations": [],

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/RBW",
+ "identity": {
+  "ticker": "RBW",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

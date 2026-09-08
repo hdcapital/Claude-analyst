@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/ASB",
+ "identity": {
+  "ticker": "ASB",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-59becaa320",
+   "date": "2026-09-07",
+   "headline": "Austal confirms preliminary, unsolicited talks with Wildcat Infrastructure — no proposal received",
+   "status": "open",
+   "source": "asx:c09f78ff0b1985bc8f7266dba3b02429"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Austal confirms preliminary, unsolicited talks with Wildcat Infrastructure — no proposal received (interest 5, risk 3)",
+   "source": "asx:c09f78ff0b1985bc8f7266dba3b02429",
+   "recorded_at": "2026-09-08T14:56:00Z"
+  }
+ ],
+ "thesis": {
+  "text": "Austal is a strategically significant defence shipbuilder (Australia's Strategic Shipbuilder, largest defence exporter) that has become subject to preliminary, unsolicited takeover interest from Wildcat Infrastructure; no formal proposal exists yet, so the situation is purely speculative pending further disclosure, but the strategic asset base and government relationships warrant close monitoring of any follow-up announcements.",
+  "updated": "2026-09-07"
+ }
+}

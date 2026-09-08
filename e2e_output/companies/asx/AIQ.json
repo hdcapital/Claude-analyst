@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/AIQ",
+ "identity": {
+  "ticker": "AIQ",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - AIQ",
+   "data": {
+    "title": "Notification of cessation of securities - AIQ",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136625",
+    "is_admin_noise": true
+   },
+   "source": "asx:7825ca1db791c8340c27e6d96a7396b3",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

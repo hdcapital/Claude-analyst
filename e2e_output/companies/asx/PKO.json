@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/PKO",
+ "identity": {
+  "ticker": "PKO",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=85000000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 85000000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:609768226e08281b24bfb11e4ce8a9f2",
+   "locator": "chars 238+",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

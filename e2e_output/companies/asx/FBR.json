@@ -1,0 +1,58 @@
+{
+ "issuer_key": "asx/FBR",
+ "identity": {
+  "ticker": "FBR",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=21739130.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 21739130.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:a241bbab5fd7bb6adfa835db42446bce",
+   "locator": "chars 232+",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=21739130.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 21739130.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:fe588822179e1789fb46659100d165f6",
+   "locator": "chars 232+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-444f016f4b",
+   "date": "2026-09-07",
+   "headline": "FBR raises A$4m via discounted placement + SPP to fund Mantis/Hadrian and repay debt",
+   "status": "open",
+   "source": "asx:c0cb1fe168843b0a44ca488542513696"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: FBR raises A$4m via discounted placement + SPP to fund Mantis/Hadrian and repay debt (interest 3, risk 7)",
+   "source": "asx:c0cb1fe168843b0a44ca488542513696",
+   "recorded_at": "2026-09-08T14:56:21Z"
+  }
+ ],
+ "thesis": {
+  "text": "FBR remains a speculative, pre-commercial robotics developer (Hadrian bricklaying, Mantis welding) reliant on repeated dilutive capital raises to fund product validation and repay short-term debt, as evidenced by this A$4m placement/SPP priced at a steep discount [asx:c0cb1fe168843b0a44ca488542513696 p.2-3]. Value hinges on successful Factory Acceptance Testing and commercial deployment converting into recurring 'Wall as a Service' or Mantis sales; absent that, further dilution and cash-flow strain are likely.",
+  "updated": "2026-09-07"
+ }
+}

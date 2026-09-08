@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/VMC",
+ "identity": {
+  "ticker": "VMC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "dividend filing: first_of_type (0/122 lines changed)",
+   "data": {
+    "diff_group": "dividend",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 122,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:97d5f8481b1a188b534ae320062b4326",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

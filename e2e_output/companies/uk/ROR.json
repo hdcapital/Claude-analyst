@@ -1,0 +1,41 @@
+{
+ "issuer_key": "uk/ROR",
+ "identity": {
+  "ticker": "ROR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=JPMorgan Chase & Co., resulting_voting_rights_pct=5.513141, previous_voting_rights_pct=5.014832",
+   "data": {
+    "holder": "JPMorgan Chase & Co.",
+    "resulting_voting_rights_pct": 5.513141,
+    "previous_voting_rights_pct": 5.014832
+   },
+   "source": "uk:9759310",
+   "locator": "chars 233+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Societe Generale, resulting_voting_rights_pct=9.901887, previous_voting_rights_pct=10.712563",
+   "data": {
+    "holder": "Societe Generale",
+    "resulting_voting_rights_pct": 9.901887,
+    "previous_voting_rights_pct": 10.712563
+   },
+   "source": "uk:9759492",
+   "locator": "chars 225+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

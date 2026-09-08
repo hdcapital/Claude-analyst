@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/RMY",
+ "identity": {
+  "ticker": "RMY",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=David Williams, date_of_change=2026-09-03, number_acquired=2000000.0, number_disposed=40000.0, value_consideration=40000.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "David Williams",
+    "date_of_change": "2026-09-03",
+    "number_acquired": 2000000.0,
+    "number_disposed": 40000.0,
+    "value_consideration": 40000.0,
+    "held_after_change": null,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:917a4ea3ef70aa657d841cde30182c64",
+   "locator": "chars 1199+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "issuer_key": "asx/LLC",
+ "identity": {
+  "ticker": "LLC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=M&G Plc and its subsidiary companies (please see annexure A), ceased_on=2026-09-03",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "M&G Plc and its subsidiary companies (please see annexure A)",
+    "ceased_on": "2026-09-03",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:a2b2e466b14392fd07f9ac24429447a0",
+   "locator": "chars 179+ (form 605)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - LLC",
+   "data": {
+    "title": "Notification of cessation of securities - LLC",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136700",
+    "is_admin_noise": true
+   },
+   "source": "asx:b25d656327455d770340192eb7e7aa18",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

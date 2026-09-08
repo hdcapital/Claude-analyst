@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/KIST",
+ "identity": {
+  "ticker": "KIST",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

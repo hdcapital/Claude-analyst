@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/0QT8",
+ "identity": {
+  "ticker": "0QT8",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=FMR LLC, resulting_voting_rights_pct=6.9935, previous_voting_rights_pct=7.9499",
+   "data": {
+    "holder": "FMR LLC",
+    "resulting_voting_rights_pct": 6.9935,
+    "previous_voting_rights_pct": 7.9499
+   },
+   "source": "uk:9759081",
+   "locator": "chars 721+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

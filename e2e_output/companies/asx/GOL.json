@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/GOL",
+ "identity": {
+  "ticker": "GOL",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

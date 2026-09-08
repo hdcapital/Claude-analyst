@@ -1,0 +1,41 @@
+{
+ "issuer_key": "uk/VUL",
+ "identity": {
+  "ticker": "VUL",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Killik & Co LLP, resulting_voting_rights_pct=3.0488, previous_voting_rights_pct=3.0488",
+   "data": {
+    "holder": "Killik & Co LLP",
+    "resulting_voting_rights_pct": 3.0488,
+    "previous_voting_rights_pct": 3.0488
+   },
+   "source": "uk:9759601",
+   "locator": "chars 232+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Dowgate Group Limited, resulting_voting_rights_pct=15.95, previous_voting_rights_pct=16.06",
+   "data": {
+    "holder": "Dowgate Group Limited",
+    "resulting_voting_rights_pct": 15.95,
+    "previous_voting_rights_pct": 16.06
+   },
+   "source": "uk:9759603",
+   "locator": "chars 232+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -5,10 +5,25 @@
   "exchange": "ASX"
  },
  "facts": [],
- "situations": [],
- "changelog": [],
+ "situations": [
+  {
+   "situation_id": "S-aaf8d5aba6",
+   "date": "2026-09-07",
+   "headline": "Ingenia rejects unsolicited $4.75/share cash bid from Warburg Pincus",
+   "status": "open",
+   "source": "asx:2b8ff3b57be81ddb4505e293327e885c"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Ingenia rejects unsolicited $4.75/share cash bid from Warburg Pincus (interest 7, risk 4)",
+   "source": "asx:2b8ff3b57be81ddb4505e293327e885c",
+   "recorded_at": "2026-09-08T14:50:39Z"
+  }
+ ],
  "thesis": {
-  "text": "",
-  "updated": null
+  "text": "Ingenia is now an active take-private target with a rejected $4.75/share cash bid from Warburg Pincus establishing a valuation floor/reference point; upside depends on whether Warburg Pincus (or another party) returns with a higher, binding offer, or whether the pending Peet Limited acquisition proceeds and is value-accretive as the Board asserts. Key risks are deal-break (Peet deal falls through, bidder walks) and valuation uncertainty absent a firm offer; monitor for revised proposals, Peet transaction updates, and any board recommendation changes.",
+  "updated": "2026-09-07"
  }
 }

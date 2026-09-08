@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/MOT",
+ "identity": {
+  "ticker": "MOT",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/40 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 40,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:64f6b24ac09cc5efc79aa4bdc5d29f96",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/95NM",
+ "identity": {
+  "ticker": "95NM",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

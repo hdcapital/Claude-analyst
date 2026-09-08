@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/MTH",
+ "identity": {
+  "ticker": "MTH",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - MTH",
+   "data": {
+    "title": "Notification of cessation of securities - MTH",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136667",
+    "is_admin_noise": true
+   },
+   "source": "asx:d93c7dea42cee3b7aae7ee8599403973",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/GML",
+ "identity": {
+  "ticker": "GML",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-bda4d0d02f",
+   "date": "2026-09-07",
+   "headline": "GML trading halt ahead of material capital raising announcement",
+   "status": "open",
+   "source": "asx:d50ce512b8e571cab9f2a5ef4dab93e8"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: GML trading halt ahead of material capital raising announcement (interest 5, risk 5)",
+   "source": "asx:d50ce512b8e571cab9f2a5ef4dab93e8",
+   "recorded_at": "2026-09-08T14:57:42Z"
+  }
+ ],
+ "thesis": {
+  "text": "GML is a small-cap ASX gold miner/explorer now pursuing a material capital raising, per its own trading halt request; until pricing and size are disclosed, the situation is a placeholder event to monitor for dilution quantum and use of proceeds (judgement) [asx:d50ce512b8e571cab9f2a5ef4dab93e8 p.1].",
+  "updated": "2026-09-07"
+ }
+}

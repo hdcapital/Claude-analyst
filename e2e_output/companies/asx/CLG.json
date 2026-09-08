@@ -4,7 +4,50 @@
   "ticker": "CLG",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Final Director's Interest Notice",
+   "data": {
+    "title": "Final Director's Interest Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136464",
+    "is_admin_noise": true
+   },
+   "source": "asx:6129c310df299cc8628c5039bb115e5c",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Initial Director's Interest Notice",
+   "data": {
+    "title": "Initial Director's Interest Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136431",
+    "is_admin_noise": true
+   },
+   "source": "asx:9325730fe9a420683d3b4bc82e55de27",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Initial Director's Interest Notice",
+   "data": {
+    "title": "Initial Director's Interest Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136436",
+    "is_admin_noise": true
+   },
+   "source": "asx:ad6460a8d7811d53b70ed12ab5cf777e",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

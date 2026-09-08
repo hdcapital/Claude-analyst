@@ -18,6 +18,23 @@
    "source": "asx:21e0c158095deba714349e88f3877c94",
    "locator": "metadata",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Gerald Harvey, date_of_change=2026-09-07, number_disposed=191000.0, value_consideration=11.0, held_after_change=41277994.0, direct_or_indirect=Direct Interest",
+   "data": {
+    "director": "Gerald Harvey",
+    "date_of_change": "2026-09-07",
+    "number_acquired": null,
+    "number_disposed": 191000.0,
+    "value_consideration": 11.0,
+    "held_after_change": 41277994.0,
+    "direct_or_indirect": "Direct Interest"
+   },
+   "source": "asx:8867503efc30fd221b8ac034fc034190",
+   "locator": "chars 1533+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:25Z"
   }
  ],
  "situations": [],

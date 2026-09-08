@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/TRCS",
+ "identity": {
+  "ticker": "TRCS",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

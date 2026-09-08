@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/OLL",
+ "identity": {
+  "ticker": "OLL",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

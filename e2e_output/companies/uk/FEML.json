@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/FEML",
+ "identity": {
+  "ticker": "FEML",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City of London Investment Management Company Limited, resulting_voting_rights_pct=35.93, previous_voting_rights_pct=36.95",
+   "data": {
+    "holder": "City of London Investment Management Company Limited",
+    "resulting_voting_rights_pct": 35.93,
+    "previous_voting_rights_pct": 36.95
+   },
+   "source": "uk:9759610",
+   "locator": "chars 249+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

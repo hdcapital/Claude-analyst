@@ -18,6 +18,20 @@
    "source": "asx:1d740007c1a3ebfcd44753a8d06d854a",
    "locator": "metadata",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=1271854.0, issue_price=0.225, implied_raise=286167.15",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 1271854.0,
+    "issue_price": 0.225,
+    "implied_raise": 286167.15
+   },
+   "source": "asx:575d0f23aab34b7c879424ef360a9d1c",
+   "locator": "chars 292+",
+   "recorded_at": "2026-09-08T14:34:24Z"
   }
  ],
  "situations": [],

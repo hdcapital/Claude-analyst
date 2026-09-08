@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/VLRM",
+ "identity": {
+  "ticker": "VLRM",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Quorium Global Photonics SPC, resulting_voting_rights_pct=49.898745, previous_voting_rights_pct=44.841401",
+   "data": {
+    "holder": "Quorium Global Photonics SPC",
+    "resulting_voting_rights_pct": 49.898745,
+    "previous_voting_rights_pct": 44.841401
+   },
+   "source": "uk:9759152",
+   "locator": "chars 377+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

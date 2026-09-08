@@ -5,10 +5,25 @@
   "exchange": "ASX"
  },
  "facts": [],
- "situations": [],
- "changelog": [],
+ "situations": [
+  {
+   "situation_id": "S-d640cb76dd",
+   "date": "2026-09-07",
+   "headline": "Cygnus Metals scheme with CAML clears shareholder vote condition",
+   "status": "open",
+   "source": "asx:1ae062700bb8a877683cef6b042c63f8"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Cygnus Metals scheme with CAML clears shareholder vote condition (interest 5, risk 3)",
+   "source": "asx:1ae062700bb8a877683cef6b042c63f8",
+   "recorded_at": "2026-09-08T14:50:10Z"
+  }
+ ],
  "thesis": {
-  "text": "",
-  "updated": null
+  "text": "Cygnus is in the late stages of a scheme of arrangement whereby CAML will acquire 100% of its shares, with the CAML-side shareholder approval now obtained; remaining risk is deal completion risk (other Scheme Implementation Deed conditions, independent expert opinion, court approval) rather than standalone operating risk, making this a binary merger-arb situation pending disclosure of final terms/timeline [asx:1ae062700bb8a877683cef6b042c63f8 p.1-2].",
+  "updated": "2026-09-07"
  }
 }

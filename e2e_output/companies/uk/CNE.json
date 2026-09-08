@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/CNE",
+ "identity": {
+  "ticker": "CNE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Morgan Stanley, resulting_voting_rights_pct=11.257694, previous_voting_rights_pct=10.066166",
+   "data": {
+    "holder": "Morgan Stanley",
+    "resulting_voting_rights_pct": 11.257694,
+    "previous_voting_rights_pct": 10.066166
+   },
+   "source": "uk:9759438",
+   "locator": "chars 232+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/4BB",
+ "identity": {
+  "ticker": "4BB",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

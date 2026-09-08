@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/TEP",
+ "identity": {
+  "ticker": "TEP",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=94838.0, vwap=846.9795, lowest_price=834.0, highest_price=877.0, days=4, implied_consideration=80325841.82",
+   "data": {
+    "shares_purchased": 94838.0,
+    "vwap": 846.9795,
+    "lowest_price": 834.0,
+    "highest_price": 877.0,
+    "days": 4,
+    "implied_consideration": 80325841.82
+   },
+   "source": "uk:9758666",
+   "locator": "chars 238+ (purchase table)",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

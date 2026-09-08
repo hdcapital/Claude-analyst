@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/ASLI",
+ "identity": {
+  "ticker": "ASLI",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

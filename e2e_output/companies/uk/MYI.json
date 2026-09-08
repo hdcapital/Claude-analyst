@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/MYI",
+ "identity": {
+  "ticker": "MYI",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/VEIL",
+ "identity": {
+  "ticker": "VEIL",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=3473176.0, highest_price=739.4, lowest_price=735.0, vwap=736.64, implied_consideration=2558480368.64",
+   "data": {
+    "shares_purchased": 3473176.0,
+    "highest_price": 739.4,
+    "lowest_price": 735.0,
+    "vwap": 736.64,
+    "implied_consideration": 2558480368.64
+   },
+   "source": "uk:9757464",
+   "locator": "chars 541+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

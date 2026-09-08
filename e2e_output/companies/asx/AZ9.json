@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/AZ9",
+ "identity": {
+  "ticker": "AZ9",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "issuer_key": "uk/GETB",
+ "identity": {
+  "ticker": "GETB",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/1120 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 1120,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "uk:9757486",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief financial officer, nature=Purchase of Ordinary Shares, price=75.9, volume=75.9, value=5760.81",
+   "data": {
+    "person": "Name",
+    "position": "Chief financial officer",
+    "nature": "Purchase of Ordinary Shares",
+    "price": 75.9,
+    "volume": 75.9,
+    "value": 5760.81
+   },
+   "source": "uk:9758883",
+   "locator": "chars 1384+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

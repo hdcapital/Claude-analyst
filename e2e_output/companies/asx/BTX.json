@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/BTX",
+ "identity": {
+  "ticker": "BTX",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

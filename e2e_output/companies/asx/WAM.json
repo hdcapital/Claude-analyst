@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/WAM",
+ "identity": {
+  "ticker": "WAM",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

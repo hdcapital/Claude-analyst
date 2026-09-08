@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/RAT",
+ "identity": {
+  "ticker": "RAT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Group Chief Executive Officer, nature=Acquisition of partnership and matching shares under the Rathbone Inland Revenue Approved Share Incentive Plan, price=16.62, volume=16.62, value=276.22",
+   "data": {
+    "person": "Name",
+    "position": "Group Chief Executive Officer",
+    "nature": "Acquisition of partnership and matching shares under the Rathbone Inland Revenue Approved Share Incentive Plan",
+    "price": 16.62,
+    "volume": 16.62,
+    "value": 276.22
+   },
+   "source": "uk:9759146",
+   "locator": "chars 441+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

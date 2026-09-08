@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/OTES",
+ "identity": {
+  "ticker": "OTES",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=290265.0, highest_price=31.0, lowest_price=31.0, vwap=31.0, implied_consideration=8998215.0",
+   "data": {
+    "shares_purchased": 290265.0,
+    "highest_price": 31.0,
+    "lowest_price": 31.0,
+    "vwap": 31.0,
+    "implied_consideration": 8998215.0
+   },
+   "source": "uk:9758521",
+   "locator": "chars 169+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

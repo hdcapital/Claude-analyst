@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CR3",
+ "identity": {
+  "ticker": "CR3",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

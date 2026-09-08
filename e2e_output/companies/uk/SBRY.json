@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/SBRY",
+ "identity": {
+  "ticker": "SBRY",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=BlackRock, Inc., resulting_voting_rights_pct=8.65, previous_voting_rights_pct=8.73",
+   "data": {
+    "holder": "BlackRock, Inc.",
+    "resulting_voting_rights_pct": 8.65,
+    "previous_voting_rights_pct": 8.73
+   },
+   "source": "uk:9759283",
+   "locator": "chars 227+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "issuer_key": "uk/ITRK",
+ "identity": {
+  "ticker": "ITRK",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Societe Generale, resulting_voting_rights_pct=7.741968, previous_voting_rights_pct=8.854782",
+   "data": {
+    "holder": "Societe Generale",
+    "resulting_voting_rights_pct": 7.741968,
+    "previous_voting_rights_pct": 8.854782
+   },
+   "source": "uk:9758593",
+   "locator": "chars 230+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Bank of America Corporation, resulting_voting_rights_pct=9.836258, previous_voting_rights_pct=9.596649",
+   "data": {
+    "holder": "Bank of America Corporation",
+    "resulting_voting_rights_pct": 9.836258,
+    "previous_voting_rights_pct": 9.596649
+   },
+   "source": "uk:9759376",
+   "locator": "chars 246+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Bank of America Corporation, resulting_voting_rights_pct=9.520466, previous_voting_rights_pct=9.835903",
+   "data": {
+    "holder": "Bank of America Corporation",
+    "resulting_voting_rights_pct": 9.520466,
+    "previous_voting_rights_pct": 9.835903
+   },
+   "source": "uk:9759611",
+   "locator": "chars 245+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/FXPO",
+ "identity": {
+  "ticker": "FXPO",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

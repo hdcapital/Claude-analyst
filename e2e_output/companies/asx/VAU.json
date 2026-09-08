@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/VAU",
+ "identity": {
+  "ticker": "VAU",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

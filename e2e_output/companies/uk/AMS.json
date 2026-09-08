@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/AMS",
+ "identity": {
+  "ticker": "AMS",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=JPMorgan Chase & Co., resulting_voting_rights_pct=5.166058, previous_voting_rights_pct=5.434638",
+   "data": {
+    "holder": "JPMorgan Chase & Co.",
+    "resulting_voting_rights_pct": 5.166058,
+    "previous_voting_rights_pct": 5.434638
+   },
+   "source": "uk:9758869",
+   "locator": "chars 248+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

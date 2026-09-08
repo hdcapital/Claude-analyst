@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/OD6",
+ "identity": {
+  "ticker": "OD6",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

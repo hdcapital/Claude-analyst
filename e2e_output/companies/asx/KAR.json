@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/KAR",
+ "identity": {
+  "ticker": "KAR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

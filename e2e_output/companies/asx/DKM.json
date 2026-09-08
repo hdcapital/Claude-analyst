@@ -4,7 +4,25 @@
   "ticker": "DKM",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/3759 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 3759,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:c820e66e8967b0cf62ff6b6aad7eb781",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

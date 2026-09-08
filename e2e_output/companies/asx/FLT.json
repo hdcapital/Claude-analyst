@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/FLT",
+ "identity": {
+  "ticker": "FLT",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

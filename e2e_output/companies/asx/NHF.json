@@ -1,0 +1,60 @@
+{
+ "issuer_key": "asx/NHF",
+ "identity": {
+  "ticker": "NHF",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Edward Close, date_of_change=2026-09-01, number_acquired=68210.0, number_disposed=0.0, value_consideration=0.0, held_after_change=49090.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Edward Close",
+    "date_of_change": "2026-09-01",
+    "number_acquired": 68210.0,
+    "number_disposed": 0.0,
+    "value_consideration": 0.0,
+    "held_after_change": 49090.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:61e0f2873a76773b6c7897113764c902",
+   "locator": "chars 1878+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - NHF",
+   "data": {
+    "title": "Notification of cessation of securities - NHF",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136622",
+    "is_admin_noise": true
+   },
+   "source": "asx:fa0799980477768282b9c3de3a382c1b",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - NHF",
+   "data": {
+    "title": "Notification regarding unquoted securities - NHF",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136620",
+    "is_admin_noise": true
+   },
+   "source": "asx:fc34b9b82facada7c289123623a4e39c",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

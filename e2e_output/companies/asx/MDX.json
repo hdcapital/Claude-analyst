@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/MDX",
+ "identity": {
+  "ticker": "MDX",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

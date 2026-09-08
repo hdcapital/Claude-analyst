@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/ADF",
+ "identity": {
+  "ticker": "ADF",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Harwood Capital LLP, resulting_voting_rights_pct=21.029, previous_voting_rights_pct=20.914",
+   "data": {
+    "holder": "Harwood Capital LLP",
+    "resulting_voting_rights_pct": 21.029,
+    "previous_voting_rights_pct": 20.914
+   },
+   "source": "uk:9759491",
+   "locator": "chars 233+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

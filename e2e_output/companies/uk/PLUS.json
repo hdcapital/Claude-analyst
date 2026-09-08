@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/PLUS",
+ "identity": {
+  "ticker": "PLUS",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=9753.0, highest_price=3722.0, lowest_price=3668.0, vwap=3683.72, implied_consideration=35927321.16",
+   "data": {
+    "shares_purchased": 9753.0,
+    "highest_price": 3722.0,
+    "lowest_price": 3668.0,
+    "vwap": 3683.72,
+    "implied_consideration": 35927321.16
+   },
+   "source": "uk:9757540",
+   "locator": "chars 518+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/GAMA",
+ "identity": {
+  "ticker": "GAMA",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Executive Officer, nature=Award of options over Ordinary Shares of 0.25p each under the Gamma Long Term Incentive Plan, price=143163.0, volume=143163.0, value=20495644569.0",
+   "data": {
+    "person": "Name",
+    "position": "Chief Executive Officer",
+    "nature": "Award of options over Ordinary Shares of 0.25p each under the Gamma Long Term Incentive Plan",
+    "price": 143163.0,
+    "volume": 143163.0,
+    "value": 20495644569.0
+   },
+   "source": "uk:9758522",
+   "locator": "chars 3685+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

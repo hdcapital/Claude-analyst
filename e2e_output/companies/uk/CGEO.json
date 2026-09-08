@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/CGEO",
+ "identity": {
+  "ticker": "CGEO",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=25000.0, highest_price=4405.0, lowest_price=4285.0, vwap=4314.0968, implied_consideration=107852420.0",
+   "data": {
+    "shares_purchased": 25000.0,
+    "highest_price": 4405.0,
+    "lowest_price": 4285.0,
+    "vwap": 4314.0968,
+    "implied_consideration": 107852420.0
+   },
+   "source": "uk:9758864",
+   "locator": "chars 590+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

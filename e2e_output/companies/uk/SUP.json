@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/SUP",
+ "identity": {
+  "ticker": "SUP",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Mikhail Stiskin, resulting_voting_rights_pct=10.010387, previous_voting_rights_pct=9.008834",
+   "data": {
+    "holder": "Mikhail Stiskin",
+    "resulting_voting_rights_pct": 10.010387,
+    "previous_voting_rights_pct": 9.008834
+   },
+   "source": "uk:9757593",
+   "locator": "chars 223+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

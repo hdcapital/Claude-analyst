@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/IGO",
+ "identity": {
+  "ticker": "IGO",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - IGO",
+   "data": {
+    "title": "Notification of cessation of securities - IGO",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136741",
+    "is_admin_noise": true
+   },
+   "source": "asx:dd487441ec2ccee7c84ec9fd7d1484b5",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/DYM",
+ "identity": {
+  "ticker": "DYM",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Final Director's Interest Notice",
+   "data": {
+    "title": "Final Director's Interest Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136649",
+    "is_admin_noise": true
+   },
+   "source": "asx:e3c4b734324c3030faf510f87f804b1c",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/BBT",
+ "identity": {
+  "ticker": "BBT",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - BBT",
+   "data": {
+    "title": "Notification of cessation of securities - BBT",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136473",
+    "is_admin_noise": true
+   },
+   "source": "asx:b7c9780c607ad086700df2923e17a0da",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

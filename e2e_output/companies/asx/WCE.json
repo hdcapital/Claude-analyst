@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/WCE",
+ "identity": {
+  "ticker": "WCE",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=62315791.0, issue_price=0.095, implied_raise=5920000.15",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 62315791.0,
+    "issue_price": 0.095,
+    "implied_raise": 5920000.15
+   },
+   "source": "asx:af024078eb967a4b66dc777e1d1aebc2",
+   "locator": "chars 294+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing notice",
+   "data": {
+    "title": "Cleansing notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136815",
+    "is_admin_noise": true
+   },
+   "source": "asx:c119357081b88910faecfa70840704a4",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

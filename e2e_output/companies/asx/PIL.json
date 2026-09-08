@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/PIL",
+ "identity": {
+  "ticker": "PIL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=71428571.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 71428571.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:cbb649899ba1414d89124eedc4c2daf6",
+   "locator": "chars 254+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

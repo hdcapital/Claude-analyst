@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/10X",
+ "identity": {
+  "ticker": "10X",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=875000.0, issue_price=0.1, implied_raise=87500.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 875000.0,
+    "issue_price": 0.1,
+    "implied_raise": 87500.0
+   },
+   "source": "asx:aaa3fcde395e6774ab77ff6261f0e3d6",
+   "locator": "chars 294+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

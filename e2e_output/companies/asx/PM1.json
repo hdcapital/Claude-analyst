@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/PM1",
+ "identity": {
+  "ticker": "PM1",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=1500000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 1500000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:5b9b3927394b2c7be3c31244912326aa",
+   "locator": "chars 288+",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

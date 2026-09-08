@@ -33,6 +33,21 @@
    "source": "asx:1b303b22d0551fec3b19bd12b36cf7ff",
    "locator": "chars 295+",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=Ramelius Resources Limited (Ramelius) and each of the entities as set out in Annexure A (each, a, became_on=2026-09-04, present_voting_power_pct=9.4",
+   "data": {
+    "form": "603_becoming",
+    "holder": "Ramelius Resources Limited (Ramelius) and each of the entities as set out in Annexure A (each, a",
+    "became_on": "2026-09-04",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 9.4
+   },
+   "source": "asx:9c34a031087d550315c763d0f649aae3",
+   "locator": "chars 182+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:25Z"
   }
  ],
  "situations": [],

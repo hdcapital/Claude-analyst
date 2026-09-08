@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/IPT",
+ "identity": {
+  "ticker": "IPT",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

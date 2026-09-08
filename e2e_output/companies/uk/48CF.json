@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/48CF",
+ "identity": {
+  "ticker": "48CF",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

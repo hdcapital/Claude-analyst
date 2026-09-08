@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/ATA",
+ "identity": {
+  "ticker": "ATA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Shan Shamsher Kanji, date_of_change=2026-09-02, number_acquired=263.0, number_disposed=0.0, value_consideration=2780000.0, held_after_change=115724809.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Shan Shamsher Kanji",
+    "date_of_change": "2026-09-02",
+    "number_acquired": 263.0,
+    "number_disposed": 0.0,
+    "value_consideration": 2780000.0,
+    "held_after_change": 115724809.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:594c664c14518819b24a1a1544beb923",
+   "locator": "chars 757+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "issuer_key": "asx/TSR",
+ "identity": {
+  "ticker": "TSR",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=55000000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 55000000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:e36dae827529b2268a2fd1cafaffdc50",
+   "locator": "chars 2934+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-f4f6b0dc38",
+   "date": "2026-09-07",
+   "headline": "TSR A$1.1m Placement Tranche Reallocation",
+   "status": "open",
+   "source": "asx:ebf38aa2700bd5c8e0b7318d5a34c07a"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: TSR A$1.1m Placement Tranche Reallocation (interest 2, risk 7)",
+   "source": "asx:ebf38aa2700bd5c8e0b7318d5a34c07a",
+   "recorded_at": "2026-09-08T14:58:22Z"
+  }
+ ],
+ "thesis": {
+  "text": "Turnstone remains a micro-cap explorer funding operations via small dilutive placements; near-term value depends on outcomes of Swedish copper-gold exploration and strategic review of German potash assets, both unproven catalysts pending further disclosure.",
+  "updated": "2026-09-07"
+ }
+}

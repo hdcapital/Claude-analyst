@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/RG1",
+ "identity": {
+  "ticker": "RG1",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/34 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 34,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:c6ec804c3f4bcf521a509892d6042afa",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

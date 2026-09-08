@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/OCI",
+ "identity": {
+  "ticker": "OCI",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Total Voting Rights",
+   "data": {
+    "title": "Total Voting Rights",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/oakley-capital-investments-ltd-di---oci/total-voting-rights/9757552",
+    "is_admin_noise": true
+   },
+   "source": "uk:9757552",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

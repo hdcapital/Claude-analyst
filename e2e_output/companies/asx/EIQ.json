@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/EIQ",
+ "identity": {
+  "ticker": "EIQ",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-c76b27ece4",
+   "date": "2026-09-07",
+   "headline": "EIQ trading halt pending EchoSolv HF regulatory pathway announcement",
+   "status": "open",
+   "source": "asx:b2fd52d5bca64690481b76cbde727894"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: EIQ trading halt pending EchoSolv HF regulatory pathway announcement (interest 6, risk 6)",
+   "source": "asx:b2fd52d5bca64690481b76cbde727894",
+   "recorded_at": "2026-09-08T14:54:48Z"
+  }
+ ],
+ "thesis": {
+  "text": "EchoIQ is a pre-revenue/early-commercial ASX-listed AI diagnostics company whose value is heavily tied to regulatory clearance and adoption of its EchoSolv HF heart-failure detection algorithm; the imminent announcement on its 'regulatory pathway' is a binary catalyst that could materially re-rate the stock either direction, warranting close monitoring of the follow-up disclosure (judgement).",
+  "updated": "2026-09-07"
+ }
+}

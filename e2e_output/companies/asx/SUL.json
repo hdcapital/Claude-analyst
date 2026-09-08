@@ -1,0 +1,33 @@
+{
+ "issuer_key": "asx/SUL",
+ "identity": {
+  "ticker": "SUL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=State Street Corporation and subsidiaries named in paragraph 7 to this form, became_on=2026-09-03, voting_power_pcts_seen_unordered[1]",
+   "data": {
+    "form": "603_becoming",
+    "holder": "State Street Corporation and subsidiaries named in paragraph 7 to this form",
+    "became_on": "2026-09-03",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null,
+    "voting_power_pcts_seen_unordered": [
+     5.07
+    ]
+   },
+   "source": "asx:fc1b93230a8d5453fb41b0c1ca821fa6",
+   "locator": "chars 2828+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

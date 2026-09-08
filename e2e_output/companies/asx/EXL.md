@@ -1,0 +1,17 @@
+# EXL
+
+## Identity
+- ticker: EXL
+- exchange: ASX
+
+## Thesis
+EXL has exited its loss-making, non-material US hemp business and is now a pure-play Australian nutrition/wellness platform (Hemp Foods Australia, The Healthy Chef, Mt Elephant, B2B Ingredients) showing genuine operating improvement — revenue growth, expanding gross margin, and near-breakeven Adjusted EBITDA — funded by a fresh $1.055m convertible note. The market cap (~$3.5m) trades at a steep discount to L12M revenue (0.24x) and gross profit, reflecting historical losses and micro-cap illiquidity rather than the improved unit economics. Re-rating catalysts are operational (Priceline rollout, Mt Elephant grocery expansion, peptide pipeline) rather than transactional, making this a small-cap turnaround/compounder bet contingent on sustained execution and balance-sheet stability, with material risk given thin cash ($1.0m) and ongoing dilution from convertible notes.
+*(updated 2026-09-07)*
+
+## Open situations
+- 2026-09-07 **EXL completes US divestment, refocuses as Australian wellness turnaround** (S-c61db5719b) [asx:7f06e3986c41bd3e44ca814403a14126]
+
+## Fact time series
+
+## What changed (newest first)
+- 2026-09-07: stage-2 assessment: EXL completes US divestment, refocuses as Australian wellness turnaround (interest 5, risk 7) [asx:7f06e3986c41bd3e44ca814403a14126]

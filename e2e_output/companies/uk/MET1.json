@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/MET1",
+ "identity": {
+  "ticker": "MET1",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

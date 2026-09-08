@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/AMC",
+ "identity": {
+  "ticker": "AMC",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

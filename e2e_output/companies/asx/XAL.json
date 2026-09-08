@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/XAL",
+ "identity": {
+  "ticker": "XAL",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

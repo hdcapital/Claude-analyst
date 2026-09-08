@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/AGT",
+ "identity": {
+  "ticker": "AGT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=475000.0, highest_price=266.0, lowest_price=264.5",
+   "data": {
+    "shares_purchased": 475000.0,
+    "highest_price": 266.0,
+    "lowest_price": 264.5,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9759693",
+   "locator": "chars 116+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/CHH",
+ "identity": {
+  "ticker": "CHH",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

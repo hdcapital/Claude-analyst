@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/ACG",
+ "identity": {
+  "ticker": "ACG",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

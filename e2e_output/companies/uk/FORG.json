@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/FORG",
+ "identity": {
+  "ticker": "FORG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Alvar Financial Services Ltd, resulting_voting_rights_pct=5.520183, previous_voting_rights_pct=5.520183",
+   "data": {
+    "holder": "Alvar Financial Services Ltd",
+    "resulting_voting_rights_pct": 5.520183,
+    "previous_voting_rights_pct": 5.520183
+   },
+   "source": "uk:9759581",
+   "locator": "chars 228+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

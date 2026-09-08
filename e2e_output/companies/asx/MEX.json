@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/MEX",
+ "identity": {
+  "ticker": "MEX",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Appointment of Non-Executive Director & Appendix 3X",
+   "data": {
+    "title": "Appointment of Non-Executive Director & Appendix 3X",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136633",
+    "is_admin_noise": true
+   },
+   "source": "asx:647cfe48e647438aac7b6f331294b8ab",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

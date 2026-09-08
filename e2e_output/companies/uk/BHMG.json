@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/BHMG",
+ "identity": {
+  "ticker": "BHMG",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

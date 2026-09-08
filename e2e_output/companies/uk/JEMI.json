@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/JEMI",
+ "identity": {
+  "ticker": "JEMI",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

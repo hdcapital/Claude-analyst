@@ -1,0 +1,44 @@
+{
+ "issuer_key": "uk/BRSC",
+ "identity": {
+  "ticker": "BRSC",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=150000.0, vwap=269.83, implied_consideration=40474500.0",
+   "data": {
+    "shares_purchased": 150000.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 269.83,
+    "implied_consideration": 40474500.0
+   },
+   "source": "uk:9755039",
+   "locator": "chars 194+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Total Voting Rights",
+   "data": {
+    "title": "Total Voting Rights",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/prn/blackrock-smaller-companies-trust--brsc/total-voting-rights/9757831",
+    "is_admin_noise": true
+   },
+   "source": "uk:9757831",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

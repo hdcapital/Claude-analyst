@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/CHP",
+ "identity": {
+  "ticker": "CHP",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Cintel Holdings Limited, resulting_voting_rights_pct=6.04, previous_voting_rights_pct=4.1",
+   "data": {
+    "holder": "Cintel Holdings Limited",
+    "resulting_voting_rights_pct": 6.04,
+    "previous_voting_rights_pct": 4.1
+   },
+   "source": "uk:9757590",
+   "locator": "chars 831+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

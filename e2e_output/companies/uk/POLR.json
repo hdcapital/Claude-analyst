@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/POLR",
+ "identity": {
+  "ticker": "POLR",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

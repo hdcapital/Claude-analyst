@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/GSCU",
+ "identity": {
+  "ticker": "GSCU",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

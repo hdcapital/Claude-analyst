@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/AAM",
+ "identity": {
+  "ticker": "AAM",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=300000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 300000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:ac935dcbde98849a1cc6d3f2e048287f",
+   "locator": "chars 286+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

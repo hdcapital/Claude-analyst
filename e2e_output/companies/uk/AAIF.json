@@ -1,0 +1,44 @@
+{
+ "issuer_key": "uk/AAIF",
+ "identity": {
+  "ticker": "AAIF",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Director Declaration",
+   "data": {
+    "title": "Director Declaration",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/aberdeen-asian-income-fund-limited--aaif/director-declaration/9759340",
+    "is_admin_noise": false
+   },
+   "source": "uk:9759340",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=38184.0",
+   "data": {
+    "shares_purchased": 38184.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9759676",
+   "locator": "chars 170+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/BATS",
+ "identity": {
+  "ticker": "BATS",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=2159483907.0, highest_price=4172.0, lowest_price=4086.0, vwap=4113.72, implied_consideration=8883512137904.04",
+   "data": {
+    "shares_purchased": 2159483907.0,
+    "highest_price": 4172.0,
+    "lowest_price": 4086.0,
+    "vwap": 4113.72,
+    "implied_consideration": 8883512137904.04
+   },
+   "source": "uk:9759104",
+   "locator": "chars 921+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

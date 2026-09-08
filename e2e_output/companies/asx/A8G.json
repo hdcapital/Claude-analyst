@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/A8G",
+ "identity": {
+  "ticker": "A8G",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=7693308.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 7693308.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:d192c6f0c06e9701e006371922c32d4e",
+   "locator": "chars 252+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

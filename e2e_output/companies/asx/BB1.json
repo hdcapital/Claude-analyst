@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/BB1",
+ "identity": {
+  "ticker": "BB1",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

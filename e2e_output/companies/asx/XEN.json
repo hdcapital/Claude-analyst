@@ -4,7 +4,22 @@
   "ticker": "XEN",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=156333332.0, issue_price=0.003, implied_raise=469000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 156333332.0,
+    "issue_price": 0.003,
+    "implied_raise": 469000.0
+   },
+   "source": "asx:944ff53b6cddf1c54fdf739208a2772c",
+   "locator": "chars 284+",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

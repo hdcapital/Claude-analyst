@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/RC1",
+ "identity": {
+  "ticker": "RC1",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

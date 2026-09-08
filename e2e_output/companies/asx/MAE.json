@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/MAE",
+ "identity": {
+  "ticker": "MAE",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

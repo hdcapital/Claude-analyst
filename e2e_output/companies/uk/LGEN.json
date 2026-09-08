@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/LGEN",
+ "identity": {
+  "ticker": "LGEN",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=4787862.0, vwap=1.0, implied_consideration=4787862.0",
+   "data": {
+    "shares_purchased": 4787862.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 1.0,
+    "implied_consideration": 4787862.0
+   },
+   "source": "uk:9759726",
+   "locator": "chars 267+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

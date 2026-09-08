@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/SAGA",
+ "identity": {
+  "ticker": "SAGA",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=JPMorgan Asset Management Holdings Inc., resulting_voting_rights_pct=5.101747, previous_voting_rights_pct=4.866816",
+   "data": {
+    "holder": "JPMorgan Asset Management Holdings Inc.",
+    "resulting_voting_rights_pct": 5.101747,
+    "previous_voting_rights_pct": 4.866816
+   },
+   "source": "uk:9759203",
+   "locator": "chars 220+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

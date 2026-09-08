@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/ZIL",
+ "identity": {
+  "ticker": "ZIL",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

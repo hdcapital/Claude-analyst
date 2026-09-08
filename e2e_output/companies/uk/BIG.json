@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/BIG",
+ "identity": {
+  "ticker": "BIG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Liontrust Investment Partners LLP, resulting_voting_rights_pct=10.9144, previous_voting_rights_pct=11.21937",
+   "data": {
+    "holder": "Liontrust Investment Partners LLP",
+    "resulting_voting_rights_pct": 10.9144,
+    "previous_voting_rights_pct": 11.21937
+   },
+   "source": "uk:9759007",
+   "locator": "chars 232+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

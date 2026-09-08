@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/GTI",
+ "identity": {
+  "ticker": "GTI",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Iain Dunstan, date_of_change=2026-09-01, number_acquired=0.0, number_disposed=60000.0, value_consideration=0.0, held_after_change=718478.0, direct_or_indirect=Direct and indirect",
+   "data": {
+    "director": "Iain Dunstan",
+    "date_of_change": "2026-09-01",
+    "number_acquired": 0.0,
+    "number_disposed": 60000.0,
+    "value_consideration": 0.0,
+    "held_after_change": 718478.0,
+    "direct_or_indirect": "Direct and indirect"
+   },
+   "source": "asx:f9e34357afc76f71da1e48d5c581e529",
+   "locator": "chars 710+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

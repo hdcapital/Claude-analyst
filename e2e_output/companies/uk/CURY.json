@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/CURY",
+ "identity": {
+  "ticker": "CURY",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, nature=Purchase of ordinary shares, price=152.2, volume=152.2, value=23164.84",
+   "data": {
+    "person": "Name",
+    "position": null,
+    "nature": "Purchase of ordinary shares",
+    "price": 152.2,
+    "volume": 152.2,
+    "value": 23164.84
+   },
+   "source": "uk:9758807",
+   "locator": "chars 641+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

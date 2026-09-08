@@ -1,0 +1,45 @@
+{
+ "issuer_key": "asx/COH",
+ "identity": {
+  "ticker": "COH",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=The Bank of New York Mellon Corporation (BNY) and each Group Entity, previous_voting_power_pct=5.02, present_voting_power_pct=6.26",
+   "data": {
+    "form": "604_change",
+    "holder": "The Bank of New York Mellon Corporation (BNY) and each Group Entity",
+    "became_on": null,
+    "previous_voting_power_pct": 5.02,
+    "present_voting_power_pct": 6.26
+   },
+   "source": "asx:74f9b2589e36fb8670ef8ef02b821e74",
+   "locator": "chars 179+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=JPMorgan Chase & Co. and its affiliates",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "JPMorgan Chase & Co. and its affiliates",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:79b096861dec2778f42cfe3aa420c076",
+   "locator": "chars 208+ (form 605)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

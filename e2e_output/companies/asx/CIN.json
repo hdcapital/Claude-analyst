@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CIN",
+ "identity": {
+  "ticker": "CIN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

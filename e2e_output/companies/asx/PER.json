@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/PER",
+ "identity": {
+  "ticker": "PER",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=2026 Notice of Annual General Meeting",
+   "data": {
+    "title": "2026 Notice of Annual General Meeting",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136283",
+    "is_admin_noise": true
+   },
+   "source": "asx:d942a3e34f20338d7ab3556788f065e6",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=300000000.0, issue_price=0.005, implied_raise=1500000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 300000000.0,
+    "issue_price": 0.005,
+    "implied_raise": 1500000.0
+   },
+   "source": "asx:e75ae2e6a5e63ade48469d7e0b64f16f",
+   "locator": "chars 299+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

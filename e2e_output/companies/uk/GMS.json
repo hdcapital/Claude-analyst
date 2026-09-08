@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/GMS",
+ "identity": {
+  "ticker": "GMS",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

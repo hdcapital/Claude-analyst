@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/BC8",
+ "identity": {
+  "ticker": "BC8",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Final Director's Interest Notice",
+   "data": {
+    "title": "Final Director's Interest Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136403",
+    "is_admin_noise": true
+   },
+   "source": "asx:971e8e9870c4d8acde22a029f7c1e515",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

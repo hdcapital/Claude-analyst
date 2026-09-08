@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/APE",
+ "identity": {
+  "ticker": "APE",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - APE",
+   "data": {
+    "title": "Notification of cessation of securities - APE",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136706",
+    "is_admin_noise": true
+   },
+   "source": "asx:f77d8ca373b7505fc4d34d2efd940423",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

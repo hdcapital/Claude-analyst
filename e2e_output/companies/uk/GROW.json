@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/GROW",
+ "identity": {
+  "ticker": "GROW",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

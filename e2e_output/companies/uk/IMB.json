@@ -1,0 +1,44 @@
+{
+ "issuer_key": "uk/IMB",
+ "identity": {
+  "ticker": "IMB",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Director Declaration",
+   "data": {
+    "title": "Director Declaration",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/imperial-brands--imb/director-declaration/9758619",
+    "is_admin_noise": false
+   },
+   "source": "uk:9758619",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=370000.0, highest_price=2510.0, lowest_price=2484.0, vwap=2496.3129, implied_consideration=923635773.0",
+   "data": {
+    "shares_purchased": 370000.0,
+    "highest_price": 2510.0,
+    "lowest_price": 2484.0,
+    "vwap": 2496.3129,
+    "implied_consideration": 923635773.0
+   },
+   "source": "uk:9759125",
+   "locator": "chars 452+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

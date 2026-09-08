@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/VEU",
+ "identity": {
+  "ticker": "VEU",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

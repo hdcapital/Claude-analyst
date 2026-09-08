@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/PRO",
+ "identity": {
+  "ticker": "PRO",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

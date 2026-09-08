@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/BAB",
+ "identity": {
+  "ticker": "BAB",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=3006284.0, highest_price=10.15, lowest_price=9.922, vwap=9.9806, implied_consideration=30004518.09",
+   "data": {
+    "shares_purchased": 3006284.0,
+    "highest_price": 10.15,
+    "lowest_price": 9.922,
+    "vwap": 9.9806,
+    "implied_consideration": 30004518.09
+   },
+   "source": "uk:9757509",
+   "locator": "chars 682+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

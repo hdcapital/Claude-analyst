@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/ACRM",
+ "identity": {
+  "ticker": "ACRM",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

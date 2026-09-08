@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/PIN",
+ "identity": {
+  "ticker": "PIN",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=259303.0, highest_price=392.5, lowest_price=391.5, vwap=391.990565, implied_consideration=101644329.48",
+   "data": {
+    "shares_purchased": 259303.0,
+    "highest_price": 392.5,
+    "lowest_price": 391.5,
+    "vwap": 391.990565,
+    "implied_consideration": 101644329.48
+   },
+   "source": "uk:9757503",
+   "locator": "chars 792+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

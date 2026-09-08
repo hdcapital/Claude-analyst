@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/DTVL",
+ "identity": {
+  "ticker": "DTVL",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of AGM",
+   "data": {
+    "title": "Notice of AGM",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dish-tv-india-limited--dtvl/notice-of-agm-/9759255",
+    "is_admin_noise": true
+   },
+   "source": "uk:9759255",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

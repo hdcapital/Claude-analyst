@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/JEGI",
+ "identity": {
+  "ticker": "JEGI",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "issuer_key": "asx/EG1",
+ "identity": {
+  "ticker": "EG1",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Steven John Morris, date_of_change=2026-09-01, number_acquired=1.1, number_disposed=1.1, value_consideration=1.1, held_after_change=1.1, direct_or_indirect=(1) DIRECT",
+   "data": {
+    "director": "Steven John Morris",
+    "date_of_change": "2026-09-01",
+    "number_acquired": 1.1,
+    "number_disposed": 1.1,
+    "value_consideration": 1.1,
+    "held_after_change": 1.1,
+    "direct_or_indirect": "(1) DIRECT"
+   },
+   "source": "asx:8a35b10670bfced0bcc9bea9decffae6",
+   "locator": "chars 898+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Peter Marks, date_of_change=2026-09-01, number_acquired=1.1, number_disposed=1.0, value_consideration=1.1, held_after_change=1.1, direct_or_indirect=(1) INDIRECT",
+   "data": {
+    "director": "Peter Marks",
+    "date_of_change": "2026-09-01",
+    "number_acquired": 1.1,
+    "number_disposed": 1.0,
+    "value_consideration": 1.1,
+    "held_after_change": 1.1,
+    "direct_or_indirect": "(1) INDIRECT"
+   },
+   "source": "asx:9a00abfb5adaaa65923e23922d12d559",
+   "locator": "chars 898+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Simon Lill, date_of_change=2026-09-01, number_acquired=1.1, number_disposed=1.0, value_consideration=1.1, held_after_change=1.1, direct_or_indirect=(1) Indirect",
+   "data": {
+    "director": "Simon Lill",
+    "date_of_change": "2026-09-01",
+    "number_acquired": 1.1,
+    "number_disposed": 1.0,
+    "value_consideration": 1.1,
+    "held_after_change": 1.1,
+    "direct_or_indirect": "(1) Indirect"
+   },
+   "source": "asx:a5f42b3222de46c8f01d84f681a611ec",
+   "locator": "chars 898+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

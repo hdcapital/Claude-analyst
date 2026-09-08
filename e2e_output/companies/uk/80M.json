@@ -1,0 +1,41 @@
+{
+ "issuer_key": "uk/80M",
+ "identity": {
+  "ticker": "80M",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Vidacos Nominees Limited, resulting_voting_rights_pct=3.02",
+   "data": {
+    "holder": "Vidacos Nominees Limited",
+    "resulting_voting_rights_pct": 3.02,
+    "previous_voting_rights_pct": null
+   },
+   "source": "uk:9759727",
+   "locator": "chars 1601+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Vidacos Nominees Limited, resulting_voting_rights_pct=4.42, previous_voting_rights_pct=3.02",
+   "data": {
+    "holder": "Vidacos Nominees Limited",
+    "resulting_voting_rights_pct": 4.42,
+    "previous_voting_rights_pct": 3.02
+   },
+   "source": "uk:9759729",
+   "locator": "chars 1601+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

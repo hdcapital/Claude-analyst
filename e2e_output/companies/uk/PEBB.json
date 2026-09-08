@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/PEBB",
+ "identity": {
+  "ticker": "PEBB",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Harwood Capital LLP, resulting_voting_rights_pct=20.0765, previous_voting_rights_pct=19.8933",
+   "data": {
+    "holder": "Harwood Capital LLP",
+    "resulting_voting_rights_pct": 20.0765,
+    "previous_voting_rights_pct": 19.8933
+   },
+   "source": "uk:9759350",
+   "locator": "chars 232+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

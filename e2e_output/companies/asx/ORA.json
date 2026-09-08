@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/ORA",
+ "identity": {
+  "ticker": "ORA",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

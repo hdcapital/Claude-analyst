@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/AEV",
+ "identity": {
+  "ticker": "AEV",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=8145134543.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 8145134543.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:5847f11212306d0230b1a2f4a9ab3397",
+   "locator": "chars 3647+",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

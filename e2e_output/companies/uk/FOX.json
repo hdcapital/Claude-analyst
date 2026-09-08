@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/FOX",
+ "identity": {
+  "ticker": "FOX",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

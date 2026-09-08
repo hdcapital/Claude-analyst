@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/NST",
+ "identity": {
+  "ticker": "NST",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=JEFFREY ALLAN QUARTERMAINE, date_of_change=2026-09-04, number_acquired=10000.0, number_disposed=0.0, value_consideration=23.18, held_after_change=10000.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "JEFFREY ALLAN QUARTERMAINE",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 10000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 23.18,
+    "held_after_change": 10000.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:a97d81394fbb477b215c4cbf4795e498",
+   "locator": "chars 652+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

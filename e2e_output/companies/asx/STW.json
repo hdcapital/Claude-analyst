@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/STW",
+ "identity": {
+  "ticker": "STW",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/750 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 750,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:de51c5e09d91b2b2667a6ece65198b8b",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

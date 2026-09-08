@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/MQS",
+ "identity": {
+  "ticker": "MQS",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

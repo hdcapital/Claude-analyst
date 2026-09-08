@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/RGG",
+ "identity": {
+  "ticker": "RGG",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

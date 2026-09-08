@@ -1,0 +1,46 @@
+{
+ "issuer_key": "asx/SLC",
+ "identity": {
+  "ticker": "SLC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Paul Tyler, date_of_change=2026-09-01, number_acquired=56763.0, number_disposed=0.0, value_consideration=163477.0, held_after_change=3.0, direct_or_indirect=Direct & Indirect Interests",
+   "data": {
+    "director": "Paul Tyler",
+    "date_of_change": "2026-09-01",
+    "number_acquired": 56763.0,
+    "number_disposed": 0.0,
+    "value_consideration": 163477.0,
+    "held_after_change": 3.0,
+    "direct_or_indirect": "Direct & Indirect Interests"
+   },
+   "source": "asx:a91f0fb2a4c37efe00d0ffeb96d6ddfd",
+   "locator": "chars 657+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=484210.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 484210.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:e1f3e5406718d2482155b9cb28d39bfb",
+   "locator": "chars 286+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

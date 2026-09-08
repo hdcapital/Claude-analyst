@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/ULTP",
+ "identity": {
+  "ticker": "ULTP",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

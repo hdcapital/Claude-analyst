@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/TYM",
+ "identity": {
+  "ticker": "TYM",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

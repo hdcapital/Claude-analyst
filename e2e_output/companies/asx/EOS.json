@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/EOS",
+ "identity": {
+  "ticker": "EOS",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - EOS",
+   "data": {
+    "title": "Notification regarding unquoted securities - EOS",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136439",
+    "is_admin_noise": true
+   },
+   "source": "asx:7ab3e3d2add90037ad1cabc694fa76d3",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

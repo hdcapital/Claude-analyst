@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/ADE",
+ "identity": {
+  "ticker": "ADE",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

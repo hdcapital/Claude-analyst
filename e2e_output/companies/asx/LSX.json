@@ -1,0 +1,47 @@
+{
+ "issuer_key": "asx/LSX",
+ "identity": {
+  "ticker": "LSX",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/129 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 129,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:5e30d3e5c546b7ea957e23f63dd86375",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-7076b3346a",
+   "date": "2026-09-07",
+   "headline": "LSX trading at ~14.7% discount to after-tax NTA amid routine monthly update",
+   "status": "open",
+   "source": "asx:5e30d3e5c546b7ea957e23f63dd86375"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: LSX trading at ~14.7% discount to after-tax NTA amid routine monthly update (interest 3, risk 5)",
+   "source": "asx:5e30d3e5c546b7ea957e23f63dd86375",
+   "recorded_at": "2026-09-08T14:52:29Z"
+  }
+ ],
+ "thesis": {
+  "text": "LSX is a micro-cap resources-focused listed investment company trading at a persistent discount to NTA, with a strong long-term TSR track record; monitor monthly NTA prints and discount trend for potential mean-reversion or catalyst (buyback/dividend) opportunities.",
+  "updated": "2026-09-07"
+ }
+}

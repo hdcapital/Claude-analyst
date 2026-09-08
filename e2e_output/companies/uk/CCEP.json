@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/CCEP",
+ "identity": {
+  "ticker": "CCEP",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/TTE",
+ "identity": {
+  "ticker": "TTE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Total Voting Rights",
+   "data": {
+    "title": "Total Voting Rights",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/total-voting-rights/9759378",
+    "is_admin_noise": true
+   },
+   "source": "uk:9759378",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

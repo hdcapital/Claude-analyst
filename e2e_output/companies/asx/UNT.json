@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/UNT",
+ "identity": {
+  "ticker": "UNT",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Scott Mison, date_of_change=2026-09-04, number_acquired=1.0, number_disposed=0.0, value_consideration=39706.22, held_after_change=39420059.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Scott Mison",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 1.0,
+    "number_disposed": 0.0,
+    "value_consideration": 39706.22,
+    "held_after_change": 39420059.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:ba919eac1d7255d071f2fef0c94d79e6",
+   "locator": "chars 680+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

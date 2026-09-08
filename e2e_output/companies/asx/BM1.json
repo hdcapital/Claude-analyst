@@ -21,6 +21,74 @@
    "source": "asx:2fcf34687e97e594cd0413466a340380",
    "locator": "chars 626+ (form fields)",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Timothy Peter Manners, date_of_change=2026-09-04, number_acquired=1000000.0, number_disposed=0.0, value_consideration=0.0, held_after_change=42086.0, direct_or_indirect=Direct",
+   "data": {
+    "director": "Timothy Peter Manners",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 1000000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 0.0,
+    "held_after_change": 42086.0,
+    "direct_or_indirect": "Direct"
+   },
+   "source": "asx:76006716210251d22ce5ab6c5ebb07ae",
+   "locator": "chars 626+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Paul Brennan, date_of_change=2026-09-04, number_acquired=1000000.0, number_disposed=0.0, value_consideration=0.0, held_after_change=4500000.0, direct_or_indirect=Direct",
+   "data": {
+    "director": "Paul Brennan",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 1000000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 0.0,
+    "held_after_change": 4500000.0,
+    "direct_or_indirect": "Direct"
+   },
+   "source": "asx:862f7359485272419e57707dfbc31486",
+   "locator": "chars 626+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=James Lindsay Croser, date_of_change=2026-09-04, number_acquired=750000.0, number_disposed=0.0, value_consideration=0.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "James Lindsay Croser",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 750000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 0.0,
+    "held_after_change": null,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:cc67103382c441a5a890fcdcbddc7767",
+   "locator": "chars 626+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Stuart Mathews, date_of_change=2026-09-04, number_acquired=750000.0, number_disposed=0.0, value_consideration=0.0, held_after_change=400000.0, direct_or_indirect=Direct",
+   "data": {
+    "director": "Stuart Mathews",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 750000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 0.0,
+    "held_after_change": 400000.0,
+    "direct_or_indirect": "Direct"
+   },
+   "source": "asx:f48e6fa5dccb494d193cc5b322fb1d48",
+   "locator": "chars 626+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:27Z"
   }
  ],
  "situations": [],

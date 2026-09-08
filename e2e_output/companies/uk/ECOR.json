@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/ECOR",
+ "identity": {
+  "ticker": "ECOR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Change of Registered Office Address",
+   "data": {
+    "title": "Change of Registered Office Address",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/ecora-resources--ecor/change-of-registered-office-address/9759385",
+    "is_admin_noise": false
+   },
+   "source": "uk:9759385",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/BBIL",
+ "identity": {
+  "ticker": "BBIL",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

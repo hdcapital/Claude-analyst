@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/ALA",
+ "identity": {
+  "ticker": "ALA",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-4762df9b21",
+   "date": "2026-09-07",
+   "headline": "Arovella doses first ALA-101 patient imminently after batch release and site activation",
+   "status": "open",
+   "source": "asx:f0e97854378c073eec90dbffeaf8450e"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Arovella doses first ALA-101 patient imminently after batch release and site activation (interest 6, risk 7)",
+   "source": "asx:f0e97854378c073eec90dbffeaf8450e",
+   "recorded_at": "2026-09-08T14:58:39Z"
+  }
+ ],
+ "thesis": {
+  "text": "Arovella is a pre-revenue, single-lead-asset clinical biotech whose value hinges on Phase 1 proof-of-concept for ALA-101, an allogeneic iNKT/CAR19 cell therapy; the recent batch release and site activation de-risk the manufacturing step but the company remains fully exposed to binary clinical readouts, funding needs, and regulatory risk, warranting close monitoring of dosing and interim data announcements rather than a position based on this milestone alone.",
+  "updated": "2026-09-07"
+ }
+}

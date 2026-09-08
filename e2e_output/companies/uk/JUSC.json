@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/JUSC",
+ "identity": {
+  "ticker": "JUSC",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

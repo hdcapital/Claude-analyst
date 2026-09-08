@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/BHM",
+ "identity": {
+  "ticker": "BHM",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Letter to Shareholders - Notice of General Meeting",
+   "data": {
+    "title": "Letter to Shareholders - Notice of General Meeting",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136630",
+    "is_admin_noise": true
+   },
+   "source": "asx:8ec1a5e6f67dd664b5f4d32b36bcf56d",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of Extraordinary General Meeting/Proxy Form",
+   "data": {
+    "title": "Notice of Extraordinary General Meeting/Proxy Form",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136629",
+    "is_admin_noise": true
+   },
+   "source": "asx:d35c16eed4f66e198a81c7c8566fb403",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

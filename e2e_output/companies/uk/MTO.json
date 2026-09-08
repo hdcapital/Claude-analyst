@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/MTO",
+ "identity": {
+  "ticker": "MTO",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=PDMR - CHIEF EXECUTIVE, nature=PURCHASE OF SHARES UNDER THE DIVIDEND REINVESTMENT PLAN BY THE MITIE GROUP PLC SHARE INCENTIVE PLAN TRUSTEES, price=2.088, volume=2.088, value=4.36",
+   "data": {
+    "person": "Name",
+    "position": "PDMR - CHIEF EXECUTIVE",
+    "nature": "PURCHASE OF SHARES UNDER THE DIVIDEND REINVESTMENT PLAN BY THE MITIE GROUP PLC SHARE INCENTIVE PLAN TRUSTEES",
+    "price": 2.088,
+    "volume": 2.088,
+    "value": 4.36
+   },
+   "source": "uk:9759616",
+   "locator": "chars 847+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

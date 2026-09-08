@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/CVSG",
+ "identity": {
+  "ticker": "CVSG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=67862629.0, highest_price=1322.0, lowest_price=1273.0, vwap=1299.03, implied_consideration=88155590949.87",
+   "data": {
+    "shares_purchased": 67862629.0,
+    "highest_price": 1322.0,
+    "lowest_price": 1273.0,
+    "vwap": 1299.03,
+    "implied_consideration": 88155590949.87
+   },
+   "source": "uk:9757522",
+   "locator": "chars 761+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

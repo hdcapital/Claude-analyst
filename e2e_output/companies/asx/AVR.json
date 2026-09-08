@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/AVR",
+ "identity": {
+  "ticker": "AVR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

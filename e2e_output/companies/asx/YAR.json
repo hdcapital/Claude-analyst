@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/YAR",
+ "identity": {
+  "ticker": "YAR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/TTA",
+ "identity": {
+  "ticker": "TTA",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of AGM",
+   "data": {
+    "title": "Notice of AGM",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/time-to-act-plc--tta/notice-of-agm/9759347",
+    "is_admin_noise": true
+   },
+   "source": "uk:9759347",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

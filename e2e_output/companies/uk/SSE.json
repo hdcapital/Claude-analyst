@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/SSE",
+ "identity": {
+  "ticker": "SSE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=(s), position=As noted in 1a) above, price=23.905738, volume=4.0, value=95.62",
+   "data": {
+    "person": "(s)",
+    "position": "As noted in 1a) above",
+    "nature": null,
+    "price": 23.905738,
+    "volume": 4.0,
+    "value": 95.62
+   },
+   "source": "uk:9759396",
+   "locator": "chars 921+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

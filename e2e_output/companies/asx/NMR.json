@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/NMR",
+ "identity": {
+  "ticker": "NMR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

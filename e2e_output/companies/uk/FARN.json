@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/FARN",
+ "identity": {
+  "ticker": "FARN",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

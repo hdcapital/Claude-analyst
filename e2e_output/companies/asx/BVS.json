@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/BVS",
+ "identity": {
+  "ticker": "BVS",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

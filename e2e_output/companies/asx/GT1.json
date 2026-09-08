@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/GT1",
+ "identity": {
+  "ticker": "GT1",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=4000000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 4000000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:92ca9516f8088aaf41743400ed833247",
+   "locator": "chars 300+",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

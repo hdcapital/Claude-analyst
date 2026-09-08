@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/0HDP",
+ "identity": {
+  "ticker": "0HDP",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

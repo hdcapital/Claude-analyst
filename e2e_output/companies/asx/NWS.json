@@ -38,6 +38,34 @@
    "source": "asx:329329e92245201a7adab1132231ac9b",
    "locator": "diff vs asx:0e18297e957395cedf871b85639dcac8",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - NWS",
+   "data": {
+    "title": "Notification of cessation of securities - NWS",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136258",
+    "is_admin_noise": true
+   },
+   "source": "asx:98dd6161d129f313b7fc0e53a0c90c83",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - NWS",
+   "data": {
+    "title": "Notification of cessation of securities - NWS",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136256",
+    "is_admin_noise": true
+   },
+   "source": "asx:bb01fff7a1bc6dd73a83b31539dd2aae",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
   }
  ],
  "situations": [],

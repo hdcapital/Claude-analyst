@@ -1,0 +1,44 @@
+{
+ "issuer_key": "asx/OSL",
+ "identity": {
+  "ticker": "OSL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=4000000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 4000000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:5c4d68a818afbe631aa51181fb2f44ff",
+   "locator": "chars 244+",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-aa35789686",
+   "date": "2026-09-07",
+   "headline": "OncoSil secures $5.6m placement/option exercise from top holders to fund US/AU commercial launch",
+   "status": "open",
+   "source": "asx:cb2d73f4933a03fc71013da3429ab782"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: OncoSil secures $5.6m placement/option exercise from top holders to fund US/AU commercial launch (interest 5, risk 6)",
+   "source": "asx:cb2d73f4933a03fc71013da3429ab782",
+   "recorded_at": "2026-09-08T14:56:43Z"
+  }
+ ],
+ "thesis": {
+  "text": "OncoSil is transitioning from a clinical/regulatory-stage medtech to commercial-stage following FDA HDE and TGA approvals, with major existing shareholders reinforcing conviction via a premium-priced placement and option exercise that extends pro-forma cash to $12.1m. The next catalysts are 1H FY27 operational milestones (European filings, G-BA study, manufacturing scale-up) that will determine whether commercialization revenue can be realized before further dilution is needed; permanent loss risk remains elevated given pre-revenue status and reliance on continued capital access.",
+  "updated": "2026-09-07"
+ }
+}

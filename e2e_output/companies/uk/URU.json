@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/URU",
+ "identity": {
+  "ticker": "URU",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

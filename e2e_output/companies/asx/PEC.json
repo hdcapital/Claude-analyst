@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/PEC",
+ "identity": {
+  "ticker": "PEC",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

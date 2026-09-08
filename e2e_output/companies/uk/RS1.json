@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/RS1",
+ "identity": {
+  "ticker": "RS1",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=4666428.0, vwap=1.0, implied_consideration=4666428.0",
+   "data": {
+    "shares_purchased": 4666428.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 1.0,
+    "implied_consideration": 4666428.0
+   },
+   "source": "uk:9757510",
+   "locator": "chars 997+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/CTEC",
+ "identity": {
+  "ticker": "CTEC",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=114702844.0, vwap=1.0, implied_consideration=114702844.0",
+   "data": {
+    "shares_purchased": 114702844.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 1.0,
+    "implied_consideration": 114702844.0
+   },
+   "source": "uk:9758898",
+   "locator": "chars 780+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

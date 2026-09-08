@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/ESNT",
+ "identity": {
+  "ticker": "ESNT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=FMR LLC, resulting_voting_rights_pct=10.0122, previous_voting_rights_pct=9.9116",
+   "data": {
+    "holder": "FMR LLC",
+    "resulting_voting_rights_pct": 10.0122,
+    "previous_voting_rights_pct": 9.9116
+   },
+   "source": "uk:9758607",
+   "locator": "chars 229+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

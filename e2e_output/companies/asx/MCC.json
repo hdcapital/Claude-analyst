@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/MCC",
+ "identity": {
+  "ticker": "MCC",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/SNR",
+ "identity": {
+  "ticker": "SNR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Societe Generale, resulting_voting_rights_pct=11.899853, previous_voting_rights_pct=12.237459",
+   "data": {
+    "holder": "Societe Generale",
+    "resulting_voting_rights_pct": 11.899853,
+    "previous_voting_rights_pct": 12.237459
+   },
+   "source": "uk:9759704",
+   "locator": "chars 222+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

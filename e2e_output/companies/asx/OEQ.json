@@ -1,0 +1,49 @@
+{
+ "issuer_key": "asx/OEQ",
+ "identity": {
+  "ticker": "OEQ",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/136 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 136,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:7cca659269aae692b6831eb49e6dd063",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (69/139 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:7cca659269aae692b6831eb49e6dd063",
+    "changed_lines": 69,
+    "total_lines": 139,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-Net Tangible Asset Backing – 31 August 2026\n+This is a replacement to an announcement dated and lodged on ASX on 11 August 2026\n+entitled “Net Tangible Asset Backing - 31 July 2026” to correct a typographical error with the\n+Pre and Post-Tax NTA Backing per share (as at 31 July 2026) incorrectly cited as $0.0426.\n+Net Tangible Asset Backing – 31 July 2026\n-31 August 2026\n-Consolidated\n+30 June 2026\n+Consolidated\n-$6.697m\n+$6.390m\n-+0.56%\n-$0.4280\n-$0.4256\n++4.22%\n+$0.426\n+$0.4083\n-$6.697m\n+$6.390m\n-+0.56%\n-$0.4280\n-$0.4256\n++4.22%\n+$0.426\n+$0.4083\n-0.210\n-(b) Shares in other listed securities\n+0.300\n+(b)\n+Shares in other listed securities\n-0.790\n+-\n-2.500\n+2.100\n-3.197\n+3.990\n-6.697\n+6.390\n-6.697\n+6.390\n-ASX of 0.9 cents per share (valuing Orion’s investment at $0.185m) and Bentley’s after-tax NTA value\n-of 0.31 cent per share (valuing Orion’s investment based on Bentley’s NTA backing at $0.63m) as at\n-31 August 2026.\n+ASX of 1.2 cents per share (valuing Orion’s investment at $0.256m) and Bentley’s after-tax NTA value\n+of 0.46 cent per share (valuing Orion’s investment based on Bentley’s NTA backing at $0.94m) as at\n+31 July 2026.\n-20260907 OEQ ASX NTA Backing as at 31 August 2026.docx\n+20260907 OEQ ASX NTA Backing as at 31 July 2026 - Replacement\n-by such Associated Entity. Refer also Note 19 (Investments in Associates) on page 36\n-of the Company’s 30 June 2026 Full Year Report for further details in this regard.\n+by such Associated Entity. Refer also Note 20 (Investments in Associates) on page 37\n+of the Company’s 30 June 2025 Annual Report for further details in this regard.\n-Accordingly, as at 31 August 2026, the Company’s 20,513,783 shares (26.95% interest)\n-(31 July 2026: 20,513,783 shares and 26.95%) in BEL have a nil carrying value; this\n-compares with BEL’s last bid price on ASX of 0.9 cents per share ($0.185m) and BEL’s\n-after-tax NTA backing of 0.31 cent per share ($0.63m) 1, as at month end.\n+Accordingly, as at 31 July 2026, the Company’s 20,513,783 sha"
+   },
+   "source": "asx:a702dd63624bae9b16e541c196dbb8ca",
+   "locator": "diff vs asx:7cca659269aae692b6831eb49e6dd063",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

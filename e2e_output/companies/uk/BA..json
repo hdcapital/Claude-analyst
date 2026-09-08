@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/BA.",
+ "identity": {
+  "ticker": "BA.",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=5209255.0, vwap=1.0, implied_consideration=5209255.0",
+   "data": {
+    "shares_purchased": 5209255.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 1.0,
+    "implied_consideration": 5209255.0
+   },
+   "source": "uk:9759295",
+   "locator": "chars 1443+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

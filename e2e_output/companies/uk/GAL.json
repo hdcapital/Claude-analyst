@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/GAL",
+ "identity": {
+  "ticker": "GAL",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

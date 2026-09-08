@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/GCP",
+ "identity": {
+  "ticker": "GCP",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=108587557.0, highest_price=83.9, lowest_price=83.6, vwap=83.83, implied_consideration=9102894903.31",
+   "data": {
+    "shares_purchased": 108587557.0,
+    "highest_price": 83.9,
+    "lowest_price": 83.6,
+    "vwap": 83.83,
+    "implied_consideration": 9102894903.31
+   },
+   "source": "uk:9758608",
+   "locator": "chars 1175+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

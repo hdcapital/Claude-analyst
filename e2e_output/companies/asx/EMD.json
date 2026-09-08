@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/EMD",
+ "identity": {
+  "ticker": "EMD",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/AMA",
+ "identity": {
+  "ticker": "AMA",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

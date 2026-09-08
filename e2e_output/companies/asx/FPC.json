@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/FPC",
+ "identity": {
+  "ticker": "FPC",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

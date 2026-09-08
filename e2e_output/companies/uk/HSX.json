@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/HSX",
+ "identity": {
+  "ticker": "HSX",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=67691.0, highest_price=1863.0, lowest_price=1839.0, vwap=1852.47, implied_consideration=125395546.77",
+   "data": {
+    "shares_purchased": 67691.0,
+    "highest_price": 1863.0,
+    "lowest_price": 1839.0,
+    "vwap": 1852.47,
+    "implied_consideration": 125395546.77
+   },
+   "source": "uk:9757527",
+   "locator": "chars 542+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

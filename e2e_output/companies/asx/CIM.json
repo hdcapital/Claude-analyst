@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CIM",
+ "identity": {
+  "ticker": "CIM",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

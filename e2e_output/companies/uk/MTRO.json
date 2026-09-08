@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/MTRO",
+ "identity": {
+  "ticker": "MTRO",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Spaldy Investments Limited, resulting_voting_rights_pct=53.03, previous_voting_rights_pct=43.78",
+   "data": {
+    "holder": "Spaldy Investments Limited",
+    "resulting_voting_rights_pct": 53.03,
+    "previous_voting_rights_pct": 43.78
+   },
+   "source": "uk:9759380",
+   "locator": "chars 316+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

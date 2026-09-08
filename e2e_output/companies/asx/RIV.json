@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/RIV",
+ "identity": {
+  "ticker": "RIV",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

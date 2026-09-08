@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/GTLY",
+ "identity": {
+  "ticker": "GTLY",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

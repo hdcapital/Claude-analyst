@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/ETM",
+ "identity": {
+  "ticker": "ETM",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/1092 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 1092,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:f077ad35a56b516f172d2d7fa60ddf31",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

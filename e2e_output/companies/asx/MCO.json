@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/MCO",
+ "identity": {
+  "ticker": "MCO",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Change of Registered Office Address",
+   "data": {
+    "title": "Change of Registered Office Address",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136389",
+    "is_admin_noise": true
+   },
+   "source": "asx:d8bda939fa3a51d18a878b78e8228769",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/GFTU",
+ "identity": {
+  "ticker": "GFTU",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=2045955.0, highest_price=10.11, lowest_price=9.925, vwap=10.014504, implied_consideration=20489224.53",
+   "data": {
+    "shares_purchased": 2045955.0,
+    "highest_price": 10.11,
+    "lowest_price": 9.925,
+    "vwap": 10.014504,
+    "implied_consideration": 20489224.53
+   },
+   "source": "uk:9757492",
+   "locator": "chars 666+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

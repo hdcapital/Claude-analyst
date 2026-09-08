@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/MONY",
+ "identity": {
+  "ticker": "MONY",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=PDMR, nature=Purchase under the MONY Group PLC Share Incentive Plan, price=2.012, volume=2.012, value=4.05",
+   "data": {
+    "person": "Name",
+    "position": "PDMR",
+    "nature": "Purchase under the MONY Group PLC Share Incentive Plan",
+    "price": 2.012,
+    "volume": 2.012,
+    "value": 4.05
+   },
+   "source": "uk:9759256",
+   "locator": "chars 479+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

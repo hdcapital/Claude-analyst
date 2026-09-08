@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/MNDI",
+ "identity": {
+  "ticker": "MNDI",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Director Declaration",
+   "data": {
+    "title": "Director Declaration",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/prn/mondi--mndi/director-declaration/9758599",
+    "is_admin_noise": false
+   },
+   "source": "uk:9758599",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

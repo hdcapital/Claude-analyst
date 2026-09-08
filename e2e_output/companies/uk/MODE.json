@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/MODE",
+ "identity": {
+  "ticker": "MODE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Lamera Holdings Limited, resulting_voting_rights_pct=4.0461",
+   "data": {
+    "holder": "Lamera Holdings Limited",
+    "resulting_voting_rights_pct": 4.0461,
+    "previous_voting_rights_pct": null
+   },
+   "source": "uk:9759097",
+   "locator": "chars 842+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

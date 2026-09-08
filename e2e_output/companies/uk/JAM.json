@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/JAM",
+ "identity": {
+  "ticker": "JAM",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

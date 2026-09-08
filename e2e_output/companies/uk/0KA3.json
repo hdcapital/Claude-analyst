@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/0KA3",
+ "identity": {
+  "ticker": "0KA3",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

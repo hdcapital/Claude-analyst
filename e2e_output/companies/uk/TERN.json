@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/TERN",
+ "identity": {
+  "ticker": "TERN",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

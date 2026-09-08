@@ -1,0 +1,34 @@
+{
+ "issuer_key": "asx/RSG",
+ "identity": {
+  "ticker": "RSG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Person’s votes, voting_power_pcts_seen_unordered[2]",
+   "data": {
+    "form": "604_change",
+    "holder": "Person’s votes",
+    "became_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null,
+    "voting_power_pcts_seen_unordered": [
+     5.24,
+     7.05
+    ]
+   },
+   "source": "asx:fad17b03c54cc53f9bd0ea3ed96e62da",
+   "locator": "chars 5111+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

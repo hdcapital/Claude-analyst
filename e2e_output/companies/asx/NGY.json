@@ -4,11 +4,41 @@
   "ticker": "NGY",
   "exchange": "ASX"
  },
- "facts": [],
- "situations": [],
- "changelog": [],
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=56169491.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 56169491.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:b419bb00bbbe3e8f01c3fb820756598d",
+   "locator": "chars 245+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-f4078948a5",
+   "date": "2026-09-07",
+   "headline": "NuEnergy A$3.05m placement to fund Tanjung Enim gas sales ramp-up",
+   "status": "open",
+   "source": "asx:132f8d6c3bc295dac71eafe689c5761b"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: NuEnergy A$3.05m placement to fund Tanjung Enim gas sales ramp-up (interest 4, risk 7)",
+   "source": "asx:132f8d6c3bc295dac71eafe689c5761b",
+   "recorded_at": "2026-09-08T14:49:57Z"
+  }
+ ],
  "thesis": {
-  "text": "",
-  "updated": null
+  "text": "NuEnergy remains a speculative, pre-production Indonesian CBM developer whose value hinges on executing the Tanjung Enim POD1 gas sales ramp (EGSI to 1 MMSCFD, then Phase 2 to 24 MMSCFD) via its PT BEL partnership; the latest A$3.05m placement at a 15.5% discount funds near-term site works but adds further dilution (7.1% of issued capital) and signals ongoing reliance on capital markets rather than internally generated cash flow, keeping permanent loss risk elevated until first gas sales and POD approvals for the remaining three PSCs are demonstrated.",
+  "updated": "2026-09-07"
  }
 }

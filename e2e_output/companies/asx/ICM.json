@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/ICM",
+ "identity": {
+  "ticker": "ICM",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

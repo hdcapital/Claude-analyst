@@ -1,0 +1,47 @@
+{
+ "issuer_key": "uk/MPAL",
+ "identity": {
+  "ticker": "MPAL",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/67 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 67,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "uk:9757541",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-307c23a332",
+   "date": "2026-09-07",
+   "headline": "MedPal AI (MPAL): August trading update shows explosive New Health GLP-1 growth to £28m annualised run-rate",
+   "status": "open",
+   "source": "uk:9757541"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: MedPal AI (MPAL): August trading update shows explosive New Health GLP-1 growth to £28m annualised run-rate (interest 7, risk 7)",
+   "source": "uk:9757541",
+   "recorded_at": "2026-09-08T14:59:53Z"
+  }
+ ],
+ "thesis": {
+  "text": "MedPal AI is an early-stage, AIM-listed digital health/pharmacy roll-up showing very rapid organic revenue scaling driven by its New Health GLP-1 clinic, reaching an approximate £28m annualised run-rate within ten months of a zero base [uk:9757541 p.1]. The thesis hinges on whether this growth rate and stated gross margins (25-82% across segments) translate into sustainable unit economics and profitability as customer acquisition costs and NHS/care-home integration scale; no cash, debt, or net margin data has yet been disclosed, so near-term risk of capital raises or growth deceleration remains high [uk:9757541 p.1]. Future trading updates and full financials should be monitored closely for confirmation of margin durability and cash runway.",
+  "updated": "2026-09-07"
+ }
+}

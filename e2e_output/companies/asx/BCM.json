@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/BCM",
+ "identity": {
+  "ticker": "BCM",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing Notice",
+   "data": {
+    "title": "Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136678",
+    "is_admin_noise": true
+   },
+   "source": "asx:d27fb4f9e3617494b4d19b15f4d3ea9d",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=2854166.0, issue_price=0.011, implied_raise=31395.83",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 2854166.0,
+    "issue_price": 0.011,
+    "implied_raise": 31395.83
+   },
+   "source": "asx:d51ca102c152671cce143d85aff063a8",
+   "locator": "chars 304+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/KRPZ",
+ "identity": {
+  "ticker": "KRPZ",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-86c4a7e791",
+   "date": "2026-09-07",
+   "headline": "Kropz halts Phosrock production, restructures Elandsfontein amid sustained losses",
+   "status": "open",
+   "source": "uk:9757551"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Kropz halts Phosrock production, restructures Elandsfontein amid sustained losses (interest 4, risk 8)",
+   "source": "uk:9757551",
+   "recorded_at": "2026-09-08T15:00:10Z"
+  }
+ ],
+ "thesis": {
+  "text": "Kropz is a distressed single-asset (Elandsfontein) phosphate producer forced to halt its core Phosrock production due to sustained unprofitability from adverse pricing and cost inflation, pivoting to an unproven, lower-volume Nanophos niche market; the situation is a turnaround/restructuring event with high downside risk pending evidence that Nanophos can restore sustainable cash flow, and future announcements (job cuts, MPRDA filings, funding needs, Nanophos traction) should be monitored closely.",
+  "updated": "2026-09-07"
+ }
+}

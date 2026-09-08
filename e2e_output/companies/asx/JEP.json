@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/JEP",
+ "identity": {
+  "ticker": "JEP",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

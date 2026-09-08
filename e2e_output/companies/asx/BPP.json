@@ -33,6 +33,20 @@
    "source": "asx:18862732dcc83e4ff6a48de59ca824b2",
    "locator": "chars 297+",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Appendix 3X and Listing Rule 3.16.4 Information",
+   "data": {
+    "title": "Appendix 3X and Listing Rule 3.16.4 Information",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136800",
+    "is_admin_noise": true
+   },
+   "source": "asx:d64be77d0d34dddbff43cf75fc5531ce",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
   }
  ],
  "situations": [],

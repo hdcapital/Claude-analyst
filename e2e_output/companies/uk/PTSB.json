@@ -1,0 +1,63 @@
+{
+ "issuer_key": "uk/PTSB",
+ "identity": {
+  "ticker": "PTSB",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - Permanent TSB Group Holdings plc",
+   "data": {
+    "title": "Form 8.3 - Permanent TSB Group Holdings plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/permanent-tsb-group-holdings-cdi---ptsb/form-8-3-permanent-tsb-group-holdings-plc-/9759354",
+    "is_admin_noise": true
+   },
+   "source": "uk:9759354",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-6815f1bcec",
+   "date": "2026-09-07",
+   "headline": "BAWAG Group offer for Permanent TSB Group Holdings – confirmed live via connected-party dealing disclosure",
+   "status": "open",
+   "source": "uk:9758624"
+  },
+  {
+   "situation_id": "S-d5fd0b7608",
+   "date": "2026-09-07",
+   "headline": "PTSB scheme sanction hearing set for 27 October 2026 in BAWAG acquisition",
+   "status": "open",
+   "source": "uk:9758782"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: BAWAG Group offer for Permanent TSB Group Holdings – confirmed live via connected-party dealing disclosure (interest 4, risk 3)",
+   "source": "uk:9758624",
+   "recorded_at": "2026-09-08T15:00:44Z"
+  },
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: PTSB scheme sanction hearing set for 27 October 2026 in BAWAG acquisition (interest 4, risk 2)",
+   "source": "uk:9758782",
+   "recorded_at": "2026-09-08T15:01:30Z"
+  },
+  {
+   "date": "2026-09-07",
+   "entry": "thesis superseded (was: \"Permanent TSB is subject to a live, Irish Takeover Panel-regulated offer situation involving BAWAG Group AG as offeror; dealing disclosures from connected exempt principal traders (e.g., Citigroup) confirm ongoing market activity around EUR 2.94/share, but the specific offer price, structure and tim\")",
+   "source": "uk:9758782",
+   "recorded_at": "2026-09-08T15:01:30Z"
+  }
+ ],
+ "thesis": {
+  "text": "PTSB is in the final stages of a court-sanctioned scheme of arrangement to be acquired by BAWAG PSK; shareholder approval is secured (30 July 2026) and the Irish High Court Sanction Hearing is scheduled for 27 October 2026, with regulatory approval as the remaining key condition [uk:9758782 p.1]. Deal risk is now primarily regulatory/court process risk rather than shareholder approval risk.",
+  "updated": "2026-09-07"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/TG1",
+ "identity": {
+  "ticker": "TG1",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -4,7 +4,25 @@
   "ticker": "TCF",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "dividend filing: first_of_type (0/137 lines changed)",
+   "data": {
+    "diff_group": "dividend",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 137,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:8a597bc00c5d73dca6ad1c3a279efe31",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

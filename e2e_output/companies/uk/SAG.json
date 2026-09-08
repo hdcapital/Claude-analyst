@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/SAG",
+ "identity": {
+  "ticker": "SAG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=20000.0, highest_price=577.0, lowest_price=577.0, vwap=577.0, implied_consideration=11540000.0",
+   "data": {
+    "shares_purchased": 20000.0,
+    "highest_price": 577.0,
+    "lowest_price": 577.0,
+    "vwap": 577.0,
+    "implied_consideration": 11540000.0
+   },
+   "source": "uk:9757496",
+   "locator": "chars 167+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/EXPN",
+ "identity": {
+  "ticker": "EXPN",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=122871.0, highest_price=2859.0, lowest_price=2785.0, vwap=2802.8598, implied_consideration=344390186.49",
+   "data": {
+    "shares_purchased": 122871.0,
+    "highest_price": 2859.0,
+    "lowest_price": 2785.0,
+    "vwap": 2802.8598,
+    "implied_consideration": 344390186.49
+   },
+   "source": "uk:9757519",
+   "locator": "chars 520+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

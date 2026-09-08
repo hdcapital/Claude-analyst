@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/0RYA",
+ "identity": {
+  "ticker": "0RYA",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=208945.0, vwap=31.0, implied_consideration=6477295.0",
+   "data": {
+    "shares_purchased": 208945.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 31.0,
+    "implied_consideration": 6477295.0
+   },
+   "source": "uk:9758655",
+   "locator": "chars 154+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

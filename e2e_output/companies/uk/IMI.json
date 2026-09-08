@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/IMI",
+ "identity": {
+  "ticker": "IMI",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=98000.0, vwap=3051.1062, implied_consideration=299008407.6",
+   "data": {
+    "shares_purchased": 98000.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 3051.1062,
+    "implied_consideration": 299008407.6
+   },
+   "source": "uk:9757526",
+   "locator": "chars 406+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

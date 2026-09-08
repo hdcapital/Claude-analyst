@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/ID8",
+ "identity": {
+  "ticker": "ID8",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Cameron Beavis, previous_voting_power_pct=28.19, present_voting_power_pct=31.16",
+   "data": {
+    "form": "604_change",
+    "holder": "Cameron Beavis",
+    "became_on": null,
+    "previous_voting_power_pct": 28.19,
+    "present_voting_power_pct": 31.16
+   },
+   "source": "asx:840085bf9641e76abce7e9e45580aaf1",
+   "locator": "chars 221+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

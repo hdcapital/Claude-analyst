@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/C7A",
+ "identity": {
+  "ticker": "C7A",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

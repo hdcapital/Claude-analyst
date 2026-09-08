@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/AEP",
+ "identity": {
+  "ticker": "AEP",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=399762720.0, highest_price=198.2, lowest_price=189.2, vwap=194.8, implied_consideration=77873777856.0",
+   "data": {
+    "shares_purchased": 399762720.0,
+    "highest_price": 198.2,
+    "lowest_price": 189.2,
+    "vwap": 194.8,
+    "implied_consideration": 77873777856.0
+   },
+   "source": "uk:9757495",
+   "locator": "chars 717+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

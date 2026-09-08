@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/INCH",
+ "identity": {
+  "ticker": "INCH",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=525653.0, highest_price=850.0, lowest_price=833.5, vwap=840.8, implied_consideration=441969042.4",
+   "data": {
+    "shares_purchased": 525653.0,
+    "highest_price": 850.0,
+    "lowest_price": 833.5,
+    "vwap": 840.8,
+    "implied_consideration": 441969042.4
+   },
+   "source": "uk:9757511",
+   "locator": "chars 185+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

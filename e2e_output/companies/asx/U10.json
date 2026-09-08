@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/U10",
+ "identity": {
+  "ticker": "U10",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

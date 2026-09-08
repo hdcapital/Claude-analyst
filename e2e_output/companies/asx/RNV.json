@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/RNV",
+ "identity": {
+  "ticker": "RNV",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

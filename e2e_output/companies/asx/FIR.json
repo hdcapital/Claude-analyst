@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/FIR",
+ "identity": {
+  "ticker": "FIR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

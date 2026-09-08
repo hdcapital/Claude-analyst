@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/EF2",
+ "identity": {
+  "ticker": "EF2",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

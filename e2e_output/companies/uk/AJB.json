@@ -1,0 +1,44 @@
+{
+ "issuer_key": "uk/AJB",
+ "identity": {
+  "ticker": "AJB",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Director Declaration",
+   "data": {
+    "title": "Director Declaration",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/aj-bell--ajb/director-declaration/9758902",
+    "is_admin_noise": false
+   },
+   "source": "uk:9758902",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=100000.0, highest_price=604.5, lowest_price=594.0, vwap=600.71, implied_consideration=60071000.0",
+   "data": {
+    "shares_purchased": 100000.0,
+    "highest_price": 604.5,
+    "lowest_price": 594.0,
+    "vwap": 600.71,
+    "implied_consideration": 60071000.0
+   },
+   "source": "uk:9759598",
+   "locator": "chars 161+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

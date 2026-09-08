@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/TOO",
+ "identity": {
+  "ticker": "TOO",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=First Equity Limited, resulting_voting_rights_pct=3.423903, previous_voting_rights_pct=3.423903",
+   "data": {
+    "holder": "First Equity Limited",
+    "resulting_voting_rights_pct": 3.423903,
+    "previous_voting_rights_pct": 3.423903
+   },
+   "source": "uk:9759237",
+   "locator": "chars 221+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

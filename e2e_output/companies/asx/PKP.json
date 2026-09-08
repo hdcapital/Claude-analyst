@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/PKP",
+ "identity": {
+  "ticker": "PKP",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=4803963.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 4803963.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:a4d6479e20e7414b1f7fd74e04fe8030",
+   "locator": "chars 292+",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing notice",
+   "data": {
+    "title": "Cleansing notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136533",
+    "is_admin_noise": true
+   },
+   "source": "asx:d2b41b38f5338568dcbcdbe6db361051",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

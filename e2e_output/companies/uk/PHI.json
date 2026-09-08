@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/PHI",
+ "identity": {
+  "ticker": "PHI",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=150000.0",
+   "data": {
+    "shares_purchased": 150000.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9759632",
+   "locator": "chars 165+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

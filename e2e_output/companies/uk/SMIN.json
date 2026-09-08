@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/SMIN",
+ "identity": {
+  "ticker": "SMIN",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=BlackRock, Inc., resulting_voting_rights_pct=13.03, previous_voting_rights_pct=12.56",
+   "data": {
+    "holder": "BlackRock, Inc.",
+    "resulting_voting_rights_pct": 13.03,
+    "previous_voting_rights_pct": 12.56
+   },
+   "source": "uk:9759687",
+   "locator": "chars 281+",
+   "recorded_at": "2026-09-08T14:34:29Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

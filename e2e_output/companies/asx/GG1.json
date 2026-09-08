@@ -18,12 +18,55 @@
    "source": "asx:2719139b736337efb2fd574bfd980636",
    "locator": "metadata",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=15960594.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 15960594.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:67d4b65ac21d9e5c708896fb4ca93514",
+   "locator": "chars 254+",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=6384238.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 6384238.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:736a0c6878f5a582efafb33127a5d194",
+   "locator": "chars 254+",
+   "recorded_at": "2026-09-08T14:34:25Z"
   }
  ],
- "situations": [],
- "changelog": [],
+ "situations": [
+  {
+   "situation_id": "S-5c41bc6f4e",
+   "date": "2026-09-07",
+   "headline": "GG1 $3.2m Renounceable Rights Issue to Fund Copper & Gold Drilling",
+   "status": "open",
+   "source": "asx:b7b410cb2857634e42cfc50e190734d4"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: GG1 $3.2m Renounceable Rights Issue to Fund Copper & Gold Drilling (interest 6, risk 7)",
+   "source": "asx:b7b410cb2857634e42cfc50e190734d4",
+   "recorded_at": "2026-09-08T14:55:06Z"
+  }
+ ],
  "thesis": {
-  "text": "",
-  "updated": null
+  "text": "GG1 is a dual-commodity NE Queensland explorer using a discounted, director-backed rights issue to fund near-term drilling at high-grade Herberton copper-silver-tin targets (Copper Hills, Siberia-Mt Gossan, Elizabeth Bluffs) and Chillagoe gold resource growth (Mt Wandoo, Sentinel), with multiple assay catalysts expected through late 2026; success could re-rate the stock materially given the small $3.2m raise size relative to reported high-grade intercepts, but permanent capital loss risk remains high given early-stage, pre-resource status of most targets.",
+  "updated": "2026-09-07"
  }
 }

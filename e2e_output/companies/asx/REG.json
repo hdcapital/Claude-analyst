@@ -1,0 +1,46 @@
+{
+ "issuer_key": "asx/REG",
+ "identity": {
+  "ticker": "REG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Graham Kennedy Hodges, date_of_change=2026-09-04, number_acquired=20000.0, number_disposed=0.0, value_consideration=89963.16, held_after_change=152000.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Graham Kennedy Hodges",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 20000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 89963.16,
+    "held_after_change": 152000.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:55a23d4237f828b9a249315460e9ef0a",
+   "locator": "chars 523+ (form fields)",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=68543.0, issue_price=6.124, implied_raise=419757.33",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 68543.0,
+    "issue_price": 6.124,
+    "implied_raise": 419757.33
+   },
+   "source": "asx:ddd43353df4d55cc33adbfadc791b0ec",
+   "locator": "chars 293+",
+   "recorded_at": "2026-09-08T14:34:26Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

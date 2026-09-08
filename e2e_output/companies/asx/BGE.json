@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/BGE",
+ "identity": {
+  "ticker": "BGE",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - BGE",
+   "data": {
+    "title": "Notification of cessation of securities - BGE",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136529",
+    "is_admin_noise": true
+   },
+   "source": "asx:5010ffd3f4028121427c731b8cb9071a",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T14:34:24Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

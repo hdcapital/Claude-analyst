@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/L1H",
+ "identity": {
+  "ticker": "L1H",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

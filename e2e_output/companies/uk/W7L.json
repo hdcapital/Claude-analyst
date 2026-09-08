@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/W7L",
+ "identity": {
+  "ticker": "W7L",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=80787321.0, vwap=1.0, implied_consideration=80787321.0",
+   "data": {
+    "shares_purchased": 80787321.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 1.0,
+    "implied_consideration": 80787321.0
+   },
+   "source": "uk:9757546",
+   "locator": "chars 896+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

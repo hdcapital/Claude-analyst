@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/STN",
+ "identity": {
+  "ticker": "STN",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=Dauntless Investment Group, LLC, became_on=2026-09-01, present_voting_power_pct=5.36",
+   "data": {
+    "form": "603_becoming",
+    "holder": "Dauntless Investment Group, LLC",
+    "became_on": "2026-09-01",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 5.36
+   },
+   "source": "asx:9fbe1e1bddfeca4221b3d1d0cfc21195",
+   "locator": "chars 170+ (voting power table)",
+   "recorded_at": "2026-09-08T14:34:25Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

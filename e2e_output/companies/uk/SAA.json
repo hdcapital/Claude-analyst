@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/SAA",
+ "identity": {
+  "ticker": "SAA",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=20000.0, highest_price=148.5, lowest_price=148.5, vwap=148.5, implied_consideration=2970000.0",
+   "data": {
+    "shares_purchased": 20000.0,
+    "highest_price": 148.5,
+    "lowest_price": 148.5,
+    "vwap": 148.5,
+    "implied_consideration": 2970000.0
+   },
+   "source": "uk:9757544",
+   "locator": "chars 142+",
+   "recorded_at": "2026-09-08T14:34:27Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

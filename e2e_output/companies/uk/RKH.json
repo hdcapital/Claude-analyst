@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/RKH",
+ "identity": {
+  "ticker": "RKH",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Clal Insurance Enterprises Holdings Ltd, resulting_voting_rights_pct=3.5, previous_voting_rights_pct=34.0",
+   "data": {
+    "holder": "Clal Insurance Enterprises Holdings Ltd",
+    "resulting_voting_rights_pct": 3.5,
+    "previous_voting_rights_pct": 34.0
+   },
+   "source": "uk:9759300",
+   "locator": "chars 238+",
+   "recorded_at": "2026-09-08T14:34:28Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

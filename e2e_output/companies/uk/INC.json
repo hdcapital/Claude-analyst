@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/INC",
+ "identity": {
+  "ticker": "INC",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-4e8d6cf4f4",
+   "date": "2026-09-07",
+   "headline": "Incanthera signs exclusive bioactive-cream supply deal with LED skincare maker iSmart",
+   "status": "open",
+   "source": "uk:9757472"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-07",
+   "entry": "stage-2 assessment: Incanthera signs exclusive bioactive-cream supply deal with LED skincare maker iSmart (interest 4, risk 7)",
+   "source": "uk:9757472",
+   "recorded_at": "2026-09-08T14:58:56Z"
+  }
+ ],
+ "thesis": {
+  "text": "Incanthera is pivoting from a direct-to-consumer skincare marketer to an IP/formulation supplier embedded in partners' distribution, evidenced by the iSmart deal following prior June/July 2026 partnership announcements [uk:9757472 p.1]. The model could generate recurring, higher-margin contracted revenue if minimum order volumes scale with iSmart's ~1m unit/year device base, but success is unproven, trial evidence is preliminary, and no financial terms are disclosed, so this remains a speculative, catalyst-dependent micro-cap situation pending further data on contract economics and next-gen wearable collaboration [uk:9757472 p.1-2].",
+  "updated": "2026-09-07"
+ }
+}
