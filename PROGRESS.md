@@ -54,13 +54,17 @@ Claude-analyst repo's CI (the only place an ANTHROPIC_API_KEY is available
 to this build) and push their `data/` back to the branch as `e2e_output/`.
 Numbers recorded here after each run.
 
-Ledger so far (final totals filled in after the recovery E2E):
+Final ledger — **$9.2212 total against the $10 hard cap** (never exceeded;
+every run stopped or finished under the gate):
 
 | Run | What | Cost |
 |---|---|---|
-| First E2E attempt (run 34210635762) | batch submitted, CI job cancelled before collection; batch cancelled server-side but a sliver had processed | ~$0.03 (reconciled) |
-| Validation E2E (150 real Sep-7 docs, realtime) | database kept in `e2e_output/` | $0.388 |
-| Full multi-day E2E (run 34230547892) | 1,725 docs routed, 886 Stage-1 verdicts, hit the daily gate mid-Stage-2; **database lost** because outputs pushed only on success | $5.944 (reconciled) |
+| First E2E attempt (run 34210635762) | batch submitted, CI job cancelled before collection; batch cancelled server-side but a sliver had processed | $0.0300 (reconciled) |
+| Validation E2E (150 real Sep-7 docs, realtime) | proved triage quality, exposed the 1,500-token Stage-2 truncation and the caching miss | $0.3880 |
+| Full multi-day E2E (run 34230547892) | 1,725 docs routed, 886 Stage-1 verdicts, hit the daily gate mid-Stage-2; **database lost** because outputs pushed only on success | $5.9444 (reconciled) |
+| Recovery E2E (run 34239054850) | full 2026-09-07 day: 494 Stage-1 calls, 51 Stage-2, 19 audit; database kept in `e2e_output/` | $2.8588 |
+
+Remaining headroom: ~$0.78.
 
 The two lost-spend rows are seeded into the spend log by
 `scripts/reconcile_spend.py` (idempotent; runs in CI before the E2E), so
@@ -89,6 +93,34 @@ it saves at daily volumes. The production cost lever is the Batch API
 wait on queue latency). Stage 2 (Sonnet, minimum 1,024) does cache its
 system prompt and company-file blocks.
 
+## Final E2E results (2026-09-07, one full real day)
+
+Outputs live in `e2e_output/` on this branch (`analyst.db`, `briefs/`,
+`companies/`); produced by CI run 34239054850 against the real lake mirror.
+
+- **Coverage / nothing dropped**: 1,013 announcements stored, 1,013 routed,
+  0 unrouted (480 AI, 491 deterministic, 42 diff). The brief header prints
+  the check.
+- **Stage 1**: 559 verdicts (Haiku, strict JSON validated).
+- **Stage 2**: 47 valid assessments of 51 attempts (**92% validity** at the
+  2,400-token cap; 4 responses still wrote to the cap and were discarded as
+  truncated JSON — see next steps). Up from 0% validity at the original
+  1,500 cap.
+- **Situations + brief**: 47 situations; `briefs/2026-09-07.md` ranks them
+  with every factual sentence carrying `[doc_id locator]` provenance and a
+  link back to the source announcement. Top of book was real and sensible:
+  Ingenia's rejected $4.75 Warburg Pincus bid, the Pacific Current
+  strategic review, the Forrestania/Zenith takeover dispute.
+- **Audit sampler**: 18 valid samples of culled/low-scored docs (2% rate);
+  **miss rate 11.1%** — 2 flagged misrouted, both genuine (a Santos Papua
+  LNG stake acquisition Stage-1 scored 4; a tungsten PFS presentation
+  scored 3). Honest signal that Stage-1 under-scores dense PDFs whose
+  substance sits deep in the document.
+- **Eval**: runs and reports empty — the labels table is intentionally
+  unpopulated until a real price feed exists (never fabricated).
+- **Company files**: per-issuer append-only MD+JSON with theses (e.g.
+  `companies/asx/INA.md` carries the take-private thesis with provenance).
+
 ## Next steps (in order)
 
 1. **Backfill** — the highest-value missing piece. The lake holds months of
@@ -105,6 +137,12 @@ system prompt and company-file blocks.
 3. **13D/G real-fixture measurement** — the parser is written; collect real
    SC 13D/G texts as the lake accumulates them (rare — ~1 per 8 days) or
    via a non-Actions harvest path, then hold it to the same ≥90% bar.
+
+Smaller items observed in the final run: 4/51 Stage-2 responses still hit
+the 2,400-token cap (retry once with an explicit "memo ran long — halve
+it" instruction, or record the partial), and the audit's two misses point
+at giving Stage-1 a slightly larger snippet window for dense PDF decks
+(cost trade-off: +~30% Stage-1 input).
 
 ## Deferred / not built (by design)
 
