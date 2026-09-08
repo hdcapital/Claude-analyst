@@ -22,9 +22,16 @@ def load_taxonomy(path: Path) -> dict[str, Any]:
 
 
 def stage1_system_blocks(taxonomy: dict[str, Any]) -> list[dict[str, Any]]:
-    event = "\n".join(f"  - {t}" for t in taxonomy.get("event_track", []))
-    compounder = "\n".join(f"  - {t}" for t in taxonomy.get("compounder_track", []))
-    avoid = "\n".join(f"  - {t}" for t in taxonomy.get("avoidance_flags", []))
+    defs = taxonomy.get("definitions") or {}
+
+    def render(names: list[str]) -> str:
+        return "\n".join(
+            f"  - {t}: {defs[t]}" if t in defs else f"  - {t}" for t in names
+        )
+
+    event = render(taxonomy.get("event_track", []))
+    compounder = render(taxonomy.get("compounder_track", []))
+    avoid = render(taxonomy.get("avoidance_flags", []))
     text = f"""You are the first-pass triage analyst for a professional investor's daily \
 announcement flow (ASX, LSE, US). You see only the headline and the opening of each \
 document. Your job is to flag anything a special-situations or quality-compounder \
@@ -46,10 +53,65 @@ Respond with STRICT JSON only — no markdown fences, no commentary — exactly 
  "track": "event" | "compounder" | "none",
  "why": "<one sentence>"}}
 
-Scoring guide: 0-2 routine noise; 3-5 mildly notable, file it; 6-7 worth a full read \
-today; 8-10 drop-everything situation. Score the SITUATION, not the company's size. \
-Use only types from the lists above; empty list with track "none" is the common case. \
-Never invent facts not present in the excerpt; "why" must reference what you actually saw."""
+Scoring guide — interest_score:
+  0-1: pure administration (registry changes, quotation paperwork, routine compliance \
+notices, template disclosures with no economic content).
+  2-3: routine business updates with no thesis relevance — ordinary results in line with \
+expectations, standard operational commentary, periodic filings showing no change.
+  4-5: mildly notable — file it in the company record: modest contract wins, small \
+insider buys, incremental guidance moves, holder percentage drifting without intent \
+signals. An analyst would want it in the file but would not open the document today.
+  6-7: worth a full read today — a taxonomy event has plausibly begun (an offer, a \
+review, a stake with intent, an operational inflection), or a compounder signal is \
+specific and quantified. This is the escalation threshold; when torn between 5 and 6, \
+ask whether a special-situations PM would regret NOT reading the full document today.
+  8-10: drop-everything — live takeover battles, liquidations with quantified NTA \
+discounts, forced-seller dislocations, broken deals at busted prices.
+
+Scoring guide — permanent_loss_risk (independent of interest):
+  0-2: cash-rich, diversified, or the situation itself is low-risk (e.g. capital return).
+  3-5: ordinary operating risk; some leverage or customer concentration.
+  6-8: one or more avoidance flags present, heavy leverage, going-concern language, \
+thesis hinges on refinancing or a raise.
+  9-10: survival is the question: auditor doubt, imminent maturities, binary events.
+
+Track selection: "event" needs an identifiable catalyst with a rough time horizon; \
+"compounder" needs evidence of durable economics or an inflection, not a single good \
+quarter; "none" is the common, correct answer for most announcements. If both apply, \
+choose the track a portfolio manager would act on first (usually the event).
+
+What each feed sends you:
+  - ASX: PDF-extracted announcements. Price-sensitive news mixes with template \
+appendices (3Y director interests, 3B security issues, 4C/5B quarterly cash flows, \
+603/604/605 substantial holder notices) — the templates normally go to deterministic \
+parsing, so when one reaches you the extraction was unusual. Quarterly cash flow \
+reports cluster at quarter ends; "quarters of funding available" below 2 in an \
+Appendix 4C is a financing-risk signal.
+  - LSE/RNS: HTML announcements. TR-1 major-holdings notices, PDMR dealings and daily \
+buyback prints are routine; results, trading statements, and NAV updates arrive as \
+repeat filings (you often see only their diff). Rule 2.9 and Form 8.x notices signal \
+an offer period is live — the offer itself is the interesting document.
+  - US/EDGAR: tag-stripped filings from a curated form set (8-K, 10-K/10-Q, tender \
+offer and 13E-3 documents, SC 13D activist stakes, Form 25/15 delistings and \
+deregistrations). 8-K item numbers matter: 1.03 bankruptcy, 2.05 exit costs, 3.01 \
+delisting notice, 4.01/4.02 auditor issues, 5.02 officer departures carry the most \
+signal; 2.02 earnings and 7.01/8.01 disclosures are usually routine.
+
+Edge cases you will see:
+  - Text beginning with "+line/-line" diff markers is the DELTA of a repeat filing \
+versus the issuer's previous one: judge the change itself (a NAV drifting 1% is noise; \
+a new wind-up proposal inside a routine update is an 8).
+  - Trading halts name a pending announcement: score on what is pending (capital \
+raising vs "material acquisition" read very differently).
+  - A form document reaching you (director interest, substantial holder, buyback \
+notice) means deterministic parsing failed; extract what the excerpt allows and score \
+the underlying event, not the paperwork.
+  - Foreign-currency and dual-listed filers: score the economics, not the venue.
+
+Hard rules: use only types from the lists above; empty event_types with track "none" \
+is the common case. Score the SITUATION, not the company's size or fame. Never invent \
+facts not present in the excerpt; "why" must reference what you actually saw, in one \
+sentence. Respond with the JSON object only."""
     return [{"type": "text", "text": text, "cache_control": {"type": "ephemeral"}}]
 
 

@@ -14,7 +14,9 @@ from . import prompts
 
 log = logging.getLogger(__name__)
 
-MAX_TOKENS = 1500
+# Validation E2E showed 1500 truncates the JSON mid-memo (every response hit
+# the cap and failed validation); 2800 leaves headroom for memo + citations.
+MAX_TOKENS = 2800
 
 REQUIRED_KEYS = (
     "headline",

@@ -1,6 +1,45 @@
 # Event/compounder taxonomy used by the AI triage cascade. Editable without
 # touching code; the Stage-1 system prompt is generated from this file (and
 # cached, so edits invalidate the prompt cache — that is expected).
+#
+# `definitions` below feed the cached system prompt: they sharpen triage AND
+# push the static prefix over the model's minimum cacheable size (a short
+# prefix silently disables prompt caching).
+
+definitions:
+  liquidation_wind_down: "company announces or moves toward winding up and returning capital to holders"
+  strategic_review: "board announces a review of strategic alternatives, including possible sale"
+  spinoff_demerger: "separation of a business into an independently listed entity"
+  post_restructuring_equity: "equity emerging from insolvency, scheme, or debt restructuring"
+  cef_lic_discount_catalyst: "closed-end fund / LIC action that could close an NTA discount (buyback, conversion, wind-up vote)"
+  takeover_scheme_new: "new takeover offer or scheme of arrangement announced"
+  takeover_scheme_revised: "existing offer improved or terms changed"
+  takeover_scheme_competing: "second bidder emerges"
+  takeover_scheme_broken: "offer withdrawn, rejected, or scheme voted down — potential busted-deal dislocation"
+  delisting_squeeze_out: "compulsory acquisition, delisting notice, or going-private squeeze-out of minorities"
+  activist_stake: "activist investor discloses or raises a stake with stated intentions"
+  insider_buying_cluster: "multiple directors/officers buying stock on-market in a short window"
+  forced_seller: "non-fundamental selling pressure: index deletion, rights issue shortfall, block trade"
+  capital_return: "tender offer, special dividend, or buyback large relative to float (>10%)"
+  board_change_with_strategic_review: "management/board change coupled with a strategic review"
+  operational_inflection: "first positive operating cash flow, burn halving, or similar step-change"
+  goodco_badco: "segment margin divergence or disposal of a loss-making unit revealing a good business inside"
+  self_inflicted_pain: "deliberate short-term pain: capex step-up, investment-driven guidance cut"
+  quality_wobble: "one-off issue at a high-return business the market may be over-punishing"
+  improving_outlook: "contract wins, backlog growth, pricing-power language"
+  management_incentive_signal: "incentive hurdles, cash-based metrics, insider participation in raises"
+  accounting_obscured_economics: "policy changes, heavy acquired-intangible amortisation, recurring 'non-recurring' items masking real economics"
+  early_serial_acquirer: "bolt-on acquisitions at disclosed low multiples funded from operating cash flow"
+  reinvestment_runway: "rollout of a proven unit-economics format with room to grow"
+  cyclical_trough_low_cost_producer: "bottom-of-cycle conditions at the lowest-cost producer in its industry"
+  orphaned_busted_ipo: "post-IPO stock below issue after lockup expiry with no coverage"
+  recurring_revenue_transition: "business model shifting to recurring/subscription revenue"
+  new_stewardship_good_assets: "new capable management or owner taking over good underlying assets"
+  thesis_depends_on_capital_raise: "the situation only works if new equity is raised"
+  binary_outcome: "value hinges on a single yes/no event (drug trial, court ruling, single contract)"
+  auditor_resignation: "auditor resigns or issues qualified/adverse opinion"
+  cfo_departure_within_12m_of_acquisition: "finance chief exits shortly after a major acquisition"
+  substitution_risk: "product/service at risk of being substituted away"
 
 event_track:
   - liquidation_wind_down
