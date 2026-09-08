@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0002009261-26-000011",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2009261/0002009261-26-000011.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:35Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Baran Elizabeth H.",
+    "cik": "2009261"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Baran Elizabeth H.",
+  "content": {
+    "text": "0002009261-26-000011.txt : 20260904\n 0002009261-26-000011.hdr.sgml : 20260904\n 20260904161544\nACCESSION NUMBER: 0002009261-26-000011\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Baran Elizabeth H.\n CENTRAL INDEX KEY: 0002009261\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-31463\n FILM NUMBER: 261362287\n\n\tMAIL ADDRESS:\t\n STREET 1: 345 COURT STREET\n CITY: CORAOPOLIS\n STATE: PA\n ZIP: 15108\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: DICK'S SPORTING GOODS, INC.\n CENTRAL INDEX KEY: 0001089063\n STANDARD INDUSTRIAL CLASSIFICATION:\tRETAIL-MISCELLANEOUS SHOPPING GOODS STORES [5940]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 161241537\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 0130\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 345 COURT STREET\n CITY: CORAOPOLIS\n STATE: PA\n ZIP: 15108\n BUSINESS PHONE: 7242733400\n\n\tMAIL ADDRESS:\t\n STREET 1: 345 COURT STREET\n CITY: CORAOPOLIS\n STATE: PA\n ZIP: 15108\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tDICKS SPORTING GOODS INC\n DATE OF NAME CHANGE:\t19990617\n \n \n 4\n 1\n wk-form4_1788552942.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001089063 \n DICK'S SPORTING GOODS, INC. \n DKS \n \n \n\n \n \n 0002009261 \n Baran Elizabeth H. \n \n \n false \n 345 COURT STREET \n \n CORAOPOLIS \n PA \n 15108 \n \n \n \n 0 \n 1 \n 0 \n 0 \n SVP, General Counsel \n \n \n\n 0 \n\n \n \n \n Common Stock, par value $0.01 per share \n \n \n 2026-09-03 \n \n \n 4 \n F \n 0 \n \n \n \n 68 \n \n \n 139.77 \n \n \n D \n \n \n \n \n 14971 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n\n \n\n \n /s/ Carlos Clark by Power of Attorney \n 2026-09-04",
+    "text_sha256": "38efe8551bf91b17b6c6041701c3e37de5f37659c46a4c08e56aa5cea6fe9b59",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001225208-26-007682",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/275694/0001225208-26-007682.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:32Z",
+  "company": {
+    "ticker": "MCI",
+    "exchange_qualified": null,
+    "name": "BARINGS CORPORATE INVESTORS",
+    "cik": "275694"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — BARINGS CORPORATE INVESTORS",
+  "content": {
+    "text": "0001225208-26-007682.txt : 20260904\n 0001225208-26-007682.hdr.sgml : 20260904\n 20260904122936\nACCESSION NUMBER: 0001225208-26-007682\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Emery Christina\n CENTRAL INDEX KEY: 0001521374\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t811-02183\n FILM NUMBER: 261361247\n\n\tMAIL ADDRESS:\t\n STREET 1: BARINGS LLC\n STREET 2: 300 SOUTH TRYON STREET, SUITE 2500\n CITY: CHARLOTTE\n STATE: NC\n ZIP: 28202\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: BARINGS CORPORATE INVESTORS\n CENTRAL INDEX KEY: 0000275694\n ORGANIZATION NAME: \n EIN: 042483041\n STATE OF INCORPORATION: MA\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: C/O BARINGS LLC\n STREET 2: 300 SOUTH TRYON STREET, SUITE 2500\n CITY: CHARLOTTE\n STATE: NC\n ZIP: 28202\n BUSINESS PHONE: 704-805-7200\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O BARINGS LLC\n STREET 2: 300 SOUTH TRYON STREET, SUITE 2500\n CITY: CHARLOTTE\n STATE: NC\n ZIP: 28202\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tBABSON CAPITAL CORPORATE INVESTORS\n DATE OF NAME CHANGE:\t20111230\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tMASSMUTUAL CORPORATE INVESTORS\n DATE OF NAME CHANGE:\t19920717\n \n \n 4\n 1\n doc4.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0000275694 \n BARINGS CORPORATE INVESTORS \n MCI \n \n \n\n \n \n 0001521374 \n Emery Christina \n \n \n false \n C/O BARINGS LLC \n 300 SOUTH TRYON STREET, SUITE 2500 \n CHARLOTTE \n NC \n 28202 \n \n \n \n 1 \n President \n \n \n\n 0 \n\n \n\n \n \n \n Barings Non-Qualified Thrift Plan \n \n \n \n \n \n 2026-09-03 \n \n \n 4 \n J \n 0 \n \n \n \n \n 39.7167 \n \n \n 18.9200 \n \n \n A \n \n \n \n \n \n \n \n \n \n \n Common Shares (&quot;Shares of Beneficial Interest&quot;) \n \n \n 39.7167 \n \n \n \n \n 7252.4908 \n \n \n \n \n D \n \n \n \n \n\n \n Exercisable only upon termination, retirement, or other plan permitted event. Plan holdings may be &quot;liquidated&quot; and reallocated into other plan investment options by the plan participant. The derivative has no actual securities underlying the plan agreement, which is entirely notional. \n Barings LLC (fka Babson Capital Management LLC) and Massachusetts Mutual Life Insurance Company each offer a non-qualified compensation deferral plan where certain officers are permitted to defer a portion of their compensation into the plans. Deferred compensation into a plan is allocated among one or more investment options at the election of the plan participant. Each plan has an investment option that derives its value from the market value of Barings Corporate Investors' common shares (and includes the value of reinvested dividends). However, pursuant to the terms of the plans, neither the plans nor the participants have an actual ownership interest in the common shares. The shares beneficially owned include the number of shares of Barings Corporate Investors represented by the value of the Barings Corporate Investors investment option under the plan held by the plan participant. \n \n\n \n Stacy Standridge, as Attorney-in-fact \n 2026-09-04",
+    "text_sha256": "2578f90ea00ed7cef796c08d1eedbb074401f6233c4c2e94c1dd5e38cc48ef67",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

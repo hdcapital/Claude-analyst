@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001526520-26-000169",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2067174/0001526520-26-000169.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:25Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Ambeskovic Almir",
+    "cik": "2067174"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Ambeskovic Almir",
+  "content": {
+    "text": "0001526520-26-000169.txt : 20260904\n 0001526520-26-000169.hdr.sgml : 20260904\n 20260904160915\nACCESSION NUMBER: 0001526520-26-000169\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 2\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Ambeskovic Almir\n CENTRAL INDEX KEY: 0002067174\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-35362\n FILM NUMBER: 261362215\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: PIAZZA CAVOUR 2\n CITY: MILAN\n PROVINCE COUNTRY: L6\n ZIP: 20121\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: TripAdvisor, Inc.\n CENTRAL INDEX KEY: 0001526520\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]\n ORGANIZATION NAME: 06 Technology\n EIN: 800743202\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 400 1ST AVENUE\n CITY: NEEDHAM\n STATE: MA\n ZIP: 02494\n BUSINESS PHONE: 781-800-5800\n\n\tMAIL ADDRESS:\t\n STREET 1: 400 1ST AVENUE\n CITY: NEEDHAM\n STATE: MA\n ZIP: 02494\n \n \n 4\n 1\n form4.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001526520 \n TripAdvisor, Inc. \n TRIP \n \n \n\n \n \n 0002067174 \n Ambeskovic Almir \n \n \n false \n 400 1ST AVENUE \n C/O TRIPADVISOR, INC. \n NEEDHAM \n MA \n 02494 \n \n \n \n 1 \n CEO, TheFork \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 8000 \n \n \n \n 9.45 \n \n \n D \n \n \n \n \n 30456 \n \n \n \n \n D \n \n \n \n \n\n \n The transaction reported on this Form 4 was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on December 2, 2025. \n \n\n \n /s/ Michael F. Billotti, attorney-in-fact \n 2026-09-04 \n \n \n \n \n \n \n EX-24\n 2\n doc1.htm\n POWER OF ATTORNEY: POWER OF ATTORNEY\n \n Almir Ambeskovic POA EXHIBIT 24 Tripadvisor, Inc. Power of Attorney \n for Executing Forms 3, 4 and 5 Know\n all men by these presents, that the undersigned, director or officer, or\n both, of Tripadvisor, Inc., hereby constitutes\n and appoints each of Michael F. Billotti,\n signing singly, the undersigned's true and lawful attorney-in-fact to:\n \n (1)\n \n execute for and on behalf of the undersigned, in the undersigned's capacity\n as an officer and/or director of Tripadvisor, Inc. (the \"Company\"),\n Forms 3, 4, and 5 in accordance with Section 16(a) of the Securities Exchange\n Act of 1934 and the rules thereunder;\n \n (2)\n \n do and perform any and all acts for and on behalf of the undersigned which may\n be necessary or desirable to complete and execute any such Form 3, 4 or 5 and\n timely file such form with the United States Securities and Exchange Commission\n and any stock exchange or similar authority; and\n \n (3)\n \n take any other action of any type whatsoever in connection with the foregoing\n which, in the opinion of such attorney-in-fact, may be of benefit to, in the\n best interest of, or legally required by, the undersigned, it being understood\n that the documents executed by such attorney-in-fact on behalf of the undersigned\n pursuant to this Power of Attorney shall be in such form and shall contain such\n terms and conditions as such attorney-in-fact may approve in such attorney-in-fact's\n discretion.\n The\n undersigned hereby grants to each such attorney-in-fact full power and authority\n to do and perform any and every act and thing whatsoever requisite, necessary,\n or proper to be done in the exercise of any of the rights and powers herein\n granted, as fully to all intents and purposes as the undersigned might or could\n do if personally present, with full power of substitution or revocation, hereby\n ratifying and confirming all that such attorney-in-fact, or such attorney-in-fact's\n substitute or substitutes, shall lawfully do or cause to be done by virtue of\n this power of attorney and the rights and powers herein granted. The undersigned\n acknowledges that the foregoing attorneys-in-fact, in serving in such capacity\n at the request of the undersigned, are not assuming, nor is the Company assuming,\n any of the undersigned's responsibilities to comply with Section 16 of the Securities\n Exchange Act of 1934.\n This\n Power of Attorney shall remain in full force and effect until the undersigned\n is no longer required to file Forms 3, 4 and 5 with respect to the\n undersigned's holdings of and transactions in securities of Tripadvisor, Inc.\n unless earlier revoked by the undersigned in a signed writing\n delivered to the foregoing attorneys-in-fact.\n IN\n WITNESS WHEREOF, the undersigned has executed this Power of Attorney as of this 28 th \n day of April, 2025 \n /s/ Almir Ambeskovic Almir Ambeskovic",
+    "text_sha256": "c6ae76f894a58b1626791ae06f9379cc9d316e0df40e02bd98ad4656c81917f8",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

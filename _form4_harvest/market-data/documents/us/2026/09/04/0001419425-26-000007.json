@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001419425-26-000007",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1299709/0001419425-26-000007.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:31Z",
+  "company": {
+    "ticker": "AX",
+    "exchange_qualified": null,
+    "name": "Axos Financial, Inc.",
+    "cik": "1299709"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Axos Financial, Inc.",
+  "content": {
+    "text": "0001419425-26-000007.txt : 20260904\n 0001419425-26-000007.hdr.sgml : 20260904\n 20260904153017\nACCESSION NUMBER: 0001419425-26-000007\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Garrabrants Gregory\n CENTRAL INDEX KEY: 0001419425\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-37709\n FILM NUMBER: 261361913\n\n\tMAIL ADDRESS:\t\n STREET 1: 9205 WEST RUSSELL ROAD\n STREET 2: SUITE #400\n CITY: LAS VEGAS\n STATE: NV\n ZIP: 89148\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Axos Financial, Inc.\n CENTRAL INDEX KEY: 0001299709\n STANDARD INDUSTRIAL CLASSIFICATION:\tSAVINGS INSTITUTION, FEDERALLY CHARTERED [6035]\n ORGANIZATION NAME: 02 Finance\n EIN: 330867444\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 0630\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 9205 WEST RUSSELL ROAD\n STREET 2: SUITE #400\n CITY: LAS VEGAS\n STATE: NV\n ZIP: 89148\n BUSINESS PHONE: (858) 649-2218\n\n\tMAIL ADDRESS:\t\n STREET 1: 9205 WEST RUSSELL ROAD\n STREET 2: SUITE #400\n CITY: LAS VEGAS\n STATE: NV\n ZIP: 89148\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tBofI Holding, Inc.\n DATE OF NAME CHANGE:\t20040805\n \n \n 4\n 1\n edgardoc.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001299709 \n Axos Financial, Inc. \n AX \n \n \n\n \n \n 0001419425 \n Garrabrants Gregory \n \n \n false \n 9205 WEST RUSSELL ROAD \n SUITE 400 \n LAS VEGAS \n NV \n 89148 \n \n \n \n 1 \n 1 \n 0 \n 0 \n President and CEO \n \n \n\n 0 \n\n \n \n \n Restricted Stock Units \n \n \n \n \n \n \n 2026-09-03 \n \n \n 2026-09-03 \n \n \n 4 \n A \n 0 \n \n \n \n 61482 \n \n \n 0.0 \n \n \n A \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 61482 \n \n \n \n \n 454229 \n \n \n \n \n D \n \n \n \n \n\n \n Grant to the reporting person on September 3, 2026 of restricted stock units (&quot;RSUs&quot;) under the Axos Financial, Inc. 2014 stock incentive plan in connection with the reporting person's employment contract as Chief Executive Officer. \n Each RSU represents a contingent right to receive one share of Axos Financial, Inc. Common Stock. \n The RSUs vest over four years, one-fourth on each fiscal year-end following the date of grant. \n \n\n \n By: Derrick Walsh For: Gregory Garrabrants \n 2026-09-04",
+    "text_sha256": "b11bd17413bc31b8b3bc0c9e31c3c99312cafd06cd03039a221e672d0d1fae2e",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

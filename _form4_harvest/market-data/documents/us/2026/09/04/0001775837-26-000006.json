@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001775837-26-000006",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1748790/0001775837-26-000006.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:25Z",
+  "company": {
+    "ticker": "AMCCF",
+    "exchange_qualified": null,
+    "name": "Amcor plc",
+    "cik": "1748790"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Amcor plc",
+  "content": {
+    "text": "0001775837-26-000006.txt : 20260904\n 0001775837-26-000006.hdr.sgml : 20260904\n 20260904160539\nACCESSION NUMBER: 0001775837-26-000006\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Wilson Ian\n CENTRAL INDEX KEY: 0001775837\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-38932\n FILM NUMBER: 261362157\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: C/O AMCOR PLC, 83 TOWER ROAD NORTH\n STREET 2: WARMLEY\n CITY: BRISTOL\n PROVINCE COUNTRY: X0\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Amcor plc\n CENTRAL INDEX KEY: 0001748790\n STANDARD INDUSTRIAL CLASSIFICATION:\tMISCELLANEOUS MANUFACTURING INDUSTRIES [3990]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 000000000\n STATE OF INCORPORATION: Y9\n FISCAL YEAR END: 0630\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 83 TOWER ROAD NORTH\n CITY: WARMLEY, BRISTOL\n STATE: X0\n ZIP: BS30 8XP\n BUSINESS PHONE: 44 117 9753200\n\n\tMAIL ADDRESS:\t\n STREET 1: 83 TOWER ROAD NORTH\n CITY: WARMLEY, BRISTOL\n STATE: X0\n ZIP: BS30 8XP\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tARCTIC JERSEY Ltd\n DATE OF NAME CHANGE:\t20180801\n \n \n 4\n 1\n form4-09042026_080935.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001748790 \n Amcor plc \n AMCR \n \n \n\n \n \n 0001775837 \n Wilson Ian \n \n \n true \n 83 TOWER ROAD NORTH \n \n WARMLEY, BRISTOL \n \n X0 \n BS30 8XP \n UNITED KINGDOM \n \n \n false \n true \n false \n false \n EXECUTIVE VICE PRESIDENT \n \n \n \n\n 0 \n\n \n \n \n Ordinary Shares \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 5782 \n \n \n \n \n \n \n A \n \n \n \n \n 92671.20 \n \n \n \n \n D \n \n \n \n \n \n \n \n \n Ordinary Shares \n \n \n 2026-09-02 \n \n \n 4 \n F \n 0 \n \n \n \n 514 \n \n \n \n 45.82 \n \n \n D \n \n \n \n \n 92157.20 \n \n \n \n \n D \n \n \n \n \n \n \n \n \n Ordinary Shares \n \n \n \n 33718.40 \n \n \n \n \n I \n \n \n By Wilson Global Strategy Consultants \n \n \n \n \n \n Ordinary Shares \n \n \n \n 38657.20 \n \n \n \n \n I \n \n \n By Oscar Wilson Trust by Zedra Trustees \n \n \n \n \n\n \n \n \n Restricted Stock Units \n \n \n \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 5782 \n \n \n \n 0 \n \n \n A \n \n \n \n 2026-08-28 \n \n \n 2033-09-15 \n \n \n \n Ordinary Shares \n \n \n 5782 \n \n \n \n \n 0 \n \n \n \n \n D \n \n \n \n \n \n \n \n\n \n 5,782 of the 33,420 performance rights were exercised. \n Each restricted stock unit represents a contingent right to receive one ordinary share of Amcor upon vesting of the restricted stock units. \n 514 shares were withheld for tax withholding arising from the recent equity incentive plan exercise resulting in 5,268 shares. \n Exercise of the Settlement of performance rights that were granted on September 15, 2022 under the 2023-2024 Long Term Incentive plan of Amcor Limited (&quot;Old Amcor&quot;), a predecessor of Amcor, plc (&quot;Amcor&quot;). 5,782 of the 33,420 performance rights vested based on achievement of the performance conditions and the remaining performance rights were forfeited. \n \n\n \n /s/ Damien Clayton, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "e542296c9fa769cf7aaf7f0ac560dc0ea6d9b8d7aa2d8499fa9c313f453670b0",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

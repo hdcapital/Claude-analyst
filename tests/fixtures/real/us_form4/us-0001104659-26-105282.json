@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001104659-26-105282",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/4977/0001104659-26-105282.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:09Z",
+  "company": {
+    "ticker": "AFL",
+    "exchange_qualified": null,
+    "name": "AFLAC INC",
+    "cik": "4977"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — AFLAC INC",
+  "content": {
+    "text": "0001104659-26-105282.txt : 20260904\n 0001104659-26-105282.hdr.sgml : 20260904\n 20260904090004\nACCESSION NUMBER: 0001104659-26-105282\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Japan Post Holdings Co., Ltd.\n CENTRAL INDEX KEY: 0001783464\n ORGANIZATION NAME: \n STATE OF INCORPORATION: M0\n FISCAL YEAR END: 0331\n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-07434\n FILM NUMBER: 261360259\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 2-3-1 OTEMACHI\n STREET 2: CHIYODA-KU\n CITY: TOKYO\n STATE: M0\n ZIP: 100-8791\n BUSINESS PHONE: 81-2-3477-0212\n\n\tMAIL ADDRESS:\t\n STREET 1: 2-3-1 OTEMACHI\n STREET 2: CHIYODA-KU\n CITY: TOKYO\n STATE: M0\n ZIP: 100-8791\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: AFLAC INC\n CENTRAL INDEX KEY: 0000004977\n STANDARD INDUSTRIAL CLASSIFICATION:\tACCIDENT & HEALTH INSURANCE [6321]\n ORGANIZATION NAME: 02 Finance\n EIN: 581167100\n STATE OF INCORPORATION: GA\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1932 WYNNTON RD\n CITY: COLUMBUS\n STATE: GA\n ZIP: 31999\n BUSINESS PHONE: 7063233431\n\n\tMAIL ADDRESS:\t\n STREET 1: 1932 WYNNTON ROAD\n CITY: COLUMBUS\n STATE: GA\n ZIP: 31999\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tAMERICAN FAMILY CORP\n DATE OF NAME CHANGE:\t19920306\n \n \n 4\n 1\n tm2624595-2_4seq1.xml\n OWNERSHIP DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000004977 \n AFLAC INC \n AFL \n \n \n\n \n \n 0001783464 \n Japan Post Holdings Co., Ltd. \n \n \n true \n 2-3-1, OTEMACHI, CHIYODA-KU \n \n TOKYO \n \n M0 \n 100-8791 \n JAPAN \n \n \n 0 \n 0 \n 1 \n 0 \n \n \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n \n 4 \n S \n 0 \n \n \n \n \n 13500 \n \n \n 117.19 \n \n \n \n D \n \n \n \n \n 50687690 \n \n \n \n \n I \n \n \n See footnote \n \n \n \n \n \n\n \n The price reported represents the weighted average price of shares of Common Stock of Aflac Inc. (the &quot;Issuer&quot;) sold in multiple transactions at prices ranging from $116.67 to $117.50 per share. The reporting person will provide to the Issuer, or the Securities and Exchange Commission staff, upon request, information regarding the number of shares sold at each price within the range. \n The reported securities are held directly by J&A Alliance Holdings Corporation (&quot;J&A Holdings&quot;), in its capacity as the trustee of the J&A Alliance Trust (the &quot;Trust&quot;). General Incorporated Association J&A Alliance (&quot;General Incorporated&quot;), Kenji Sano and Tetsuya Numaguchi each may be deemed to beneficially own the securities held by J&A Holdings (in its capacity as trustee of the Trust) because (i) General Incorporated owns J&A Holdings and (ii) Kenji Sano and Tetsuya Numaguchi each own 50% of the equity interests in General Incorporated. Japan Post Holdings Co., Ltd. (&quot;Japan Post&quot;) may be deemed to beneficially own the shares of common stock owned directly by J&A Holdings, in its capacity as the trustee of the Trust, due to its role as the sole settlor and beneficiary of the Trust. Each of General Incorporated, Kenji Sano, Tetsuya Numaguchi and Japan Post expressly disclaim beneficial ownership of the reported securities except to the extent of its pecuniary interest therein. \n \n\n \n /s/ Yuki Takemura, Senior General Manager, as attorney-in-fact for Kenji Meguro \n 2026-09-04",
+    "text_sha256": "aee87b4ca79658df565aaad497af89720f0adef68c6d063802ddf142f907594c",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001628280-26-060775",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1512673/0001628280-26-060775.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:40Z",
+  "company": {
+    "ticker": "BSQKZ",
+    "exchange_qualified": null,
+    "name": "Block, Inc.",
+    "cik": "1512673"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Block, Inc.",
+  "content": {
+    "text": "0001628280-26-060775.txt : 20260904\n 0001628280-26-060775.hdr.sgml : 20260904\n 20260904175308\nACCESSION NUMBER: 0001628280-26-060775\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Eisen Anthony Mathew\n CENTRAL INDEX KEY: 0001933928\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-37622\n FILM NUMBER: 261362970\n\n\tMAIL ADDRESS:\t\n STREET 1: 61 ST GEORGES ROAD\n CITY: TOORAK VICTORIA\n STATE: C3\n ZIP: 3142\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Block, Inc.\n CENTRAL INDEX KEY: 0001512673\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-PREPACKAGED SOFTWARE [7372]\n ORGANIZATION NAME: 06 Technology\n EIN: 800429876\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1955 BROADWAY\n STREET 2: SUITE 600\n CITY: OAKLAND\n STATE: CA\n ZIP: 94612\n BUSINESS PHONE: 415-375-3176\n\n\tMAIL ADDRESS:\t\n STREET 1: 1955 BROADWAY\n STREET 2: SUITE 600\n CITY: OAKLAND\n STATE: CA\n ZIP: 94612\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tSquare, Inc.\n DATE OF NAME CHANGE:\t20110210\n \n \n 4\n 1\n wk-form4_1788558786.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001512673 \n Block, Inc. \n XYZ \n \n \n\n \n \n 0001933928 \n Eisen Anthony Mathew \n \n \n false \n 1955 BROADWAY \n SUITE 600 \n OAKLAND \n CA \n 94612 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 1 \n\n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 6000 \n \n \n 77.30 \n \n \n D \n \n \n \n \n 1446672 \n \n \n \n \n D \n \n \n \n \n \n Class A Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 6000 \n \n \n 83.57 \n \n \n D \n \n \n \n \n 1440672 \n \n \n \n \n D \n \n \n \n \n \n Class A Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n S \n 0 \n \n \n \n \n 6000 \n \n \n 82.51 \n \n \n D \n \n \n \n \n 1434672 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n The sales reported on this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted on March 2, 2026. \n \n\n \n\n \n /s/ Susan Szotek, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "ce49e3981b7b19db77766bd20543dc2bda1d37aaf7d8009c9130da8ddd93d598",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

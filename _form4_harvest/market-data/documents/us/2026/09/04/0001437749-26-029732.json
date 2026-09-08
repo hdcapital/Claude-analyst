@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001437749-26-029732",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1647542/0001437749-26-029732.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:24Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Altman Peter",
+    "cik": "1647542"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Altman Peter",
+  "content": {
+    "text": "0001437749-26-029732.txt : 20260904\n 0001437749-26-029732.hdr.sgml : 20260904\n 20260904213037\nACCESSION NUMBER: 0001437749-26-029732\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Altman Peter\n CENTRAL INDEX KEY: 0001647542\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-38999\n FILM NUMBER: 261363186\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O BIOCARDIA INC\n STREET 2: 320 SOQUEL WAY\n CITY: SUNNYVALE\n STATE: CA\n ZIP: 94085\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: BioCardia, Inc.\n CENTRAL INDEX KEY: 0000925741\n STANDARD INDUSTRIAL CLASSIFICATION:\tBIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 232753988\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 320 SOQUEL WAY\n CITY: SUNNYVALE\n STATE: CA\n ZIP: 94085\n BUSINESS PHONE: 650-226-0123\n\n\tMAIL ADDRESS:\t\n STREET 1: 320 SOQUEL WAY\n CITY: SUNNYVALE\n STATE: CA\n ZIP: 94085\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tTiger X Medical, Inc.\n DATE OF NAME CHANGE:\t20110616\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCardo Medical, Inc.\n DATE OF NAME CHANGE:\t20081027\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCLICKNSETTLE COM INC\n DATE OF NAME CHANGE:\t20000823\n \n \n 4\n 1\n rdgdoc.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0000925741 \n BioCardia, Inc. \n BCDA \n \n \n\n \n \n 0001647542 \n Altman Peter \n \n \n false \n C/O BIOCARDIA, INC. \n 320 SOQUEL WAY \n SUNNYVALE \n CA \n 94085 \n \n \n \n 1 \n 1 \n President and CEO \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n P \n 0 \n \n \n \n 800 \n \n \n \n 1.09 \n \n \n \n A \n \n \n \n \n 381985 \n \n \n \n \n \n D \n \n \n \n \n\n \n This transaction was executed in multiple trades ranging from $1.09 to $1.10 per share. The price reported above reflects the weighted average per share sales price. The Reporting Person hereby undertakes to provide upon request to the SEC staff, the issuer or security holder of the issuer, full information regarding the number shares purchased at each separate price. \n The total herein has been corrected by adding 70 shares that were inadvertently omitted from the Form 4 filed August 18, 2026. \n \n\n \n /s/ Peter Altman \n 2026-09-04",
+    "text_sha256": "a1b073b5f03e63424906659589ffa279b094c88520e3076b07d53e8b14368aed",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

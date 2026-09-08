@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001985604-26-000003",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1985604/0001985604-26-000003.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:46Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Burkly Linda",
+    "cik": "1985604"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Burkly Linda",
+  "content": {
+    "text": "0001985604-26-000003.txt : 20260904\n 0001985604-26-000003.hdr.sgml : 20260904\n 20260904162742\nACCESSION NUMBER: 0001985604-26-000003\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Burkly Linda\n CENTRAL INDEX KEY: 0001985604\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-37687\n FILM NUMBER: 261362388\n\n\tMAIL ADDRESS:\t\n STREET 1: 1 MAIN STREET\n CITY: CAMBRIDGE\n STATE: MA\n ZIP: 02142\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Editas Medicine, Inc.\n CENTRAL INDEX KEY: 0001650664\n STANDARD INDUSTRIAL CLASSIFICATION:\tBIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 464097528\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 11 HURLEY ST.\n CITY: CAMBRIDGE\n STATE: MA\n ZIP: 02141\n BUSINESS PHONE: 617-401-9000\n\n\tMAIL ADDRESS:\t\n STREET 1: 11 HURLEY ST.\n CITY: CAMBRIDGE\n STATE: MA\n ZIP: 02141\n \n \n 4\n 1\n wk-form4_1788553659.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001650664 \n Editas Medicine, Inc. \n EDIT \n \n \n\n \n \n 0001985604 \n Burkly Linda \n \n \n false \n 11 HURLEY ST. \n \n CAMBRIDGE \n MA \n 02141 \n \n \n \n 0 \n 1 \n 0 \n 0 \n EVP, CHIEF SCIENTIFIC OFFICER \n \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 709 \n \n \n 3.0372 \n \n \n \n D \n \n \n \n \n 61660 \n \n \n \n \n D \n \n \n \n \n \n \n \n\n \n\n \n Sale was effected pursuant to a durable automatic sales instruction plan adopted by the Reporting Person on July 3, 2023, and represents the sale of shares by the Issuer necessary to meet tax withholding obligations as a result of vesting in restricted stock units on September 2, 2026. The sale does not represent a discretionary trade by the Reporting Person. \n This transaction was executed in multiple trades at prices ranging from $3.0050 to $3.0372. The price reported above reflects the weighted average purchase price. The Reporting Person hereby undertakes to provide upon request, to the SEC staff, the Issuer or a security holder of the Issuer, full information regarding the number of shares and prices at which the transaction was effected. \n \n\n \n\n \n /s/ Linda C. Burkly \n 2026-09-04",
+    "text_sha256": "19cd68da9adc78c02a94262708aac62c5dd368ae4364d7f0e8daf677053b1a54",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

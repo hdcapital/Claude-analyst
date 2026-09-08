@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383785",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1823690/0001193125-26-383785.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:45Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Bourdon David",
+    "cik": "1823690"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Bourdon David",
+  "content": {
+    "text": "0001193125-26-383785.txt : 20260904\n 0001193125-26-383785.hdr.sgml : 20260904\n 20260904165226\nACCESSION NUMBER: 0001193125-26-383785\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Bourdon David\n CENTRAL INDEX KEY: 0001823690\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-40478\n FILM NUMBER: 261362670\n\n\tMAIL ADDRESS:\t\n STREET 1: 6303 COWBOYS WAY\n STREET 2: SUITE 350\n CITY: FRISCO\n STATE: TX\n ZIP: 75034\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: LifeStance Health Group, Inc.\n CENTRAL INDEX KEY: 0001845257\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-HEALTH SERVICES [8000]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 000000000\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 4800 N. SCOTTSDALE ROAD\n STREET 2: SUITE 2500\n CITY: SCOTTSDALE\n STATE: AZ\n ZIP: 85251\n BUSINESS PHONE: 602-767-2100\n\n\tMAIL ADDRESS:\t\n STREET 1: 4800 N. SCOTTSDALE ROAD\n STREET 2: SUITE 2500\n CITY: SCOTTSDALE\n STATE: AZ\n ZIP: 85251\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n false \n\n \n 0001845257 \n LifeStance Health Group, Inc. \n LFST \n \n \n\n \n \n 0001823690 \n Bourdon David \n \n \n false \n C/O LIFESTANCE HEALTH GROUP, INC. \n 4800 N. SCOTTSDALE ROAD, SUITE 2500 \n SCOTTSDALE \n AZ \n 85251 \n \n \n \n true \n true \n false \n false \n Chief Executive Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n J \n false \n \n \n \n 150000 \n \n \n \n 0.00 \n \n \n D \n \n \n \n \n 1248247 \n \n \n \n \n D \n \n \n \n \n\n \n Represents shares of the issuer transferred to a family member of the reporting person for no value for estate planning purposes. \n \n\n \n By: /s/ Ryan Pardo, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "6556c00d6e260d026c624e56e90dabe30ece37a8dab76a195e5907e3d556446b",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

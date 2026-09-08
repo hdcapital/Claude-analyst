@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0002114304-26-000001",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2114304/0002114304-26-000001.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:26Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Andzejevska Ilona",
+    "cik": "2114304"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Andzejevska Ilona",
+  "content": {
+    "text": "0002114304-26-000001.txt : 20260904\n 0002114304-26-000001.hdr.sgml : 20260904\n 20260904142727\nACCESSION NUMBER: 0002114304-26-000001\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Andzejevska Ilona\n CENTRAL INDEX KEY: 0002114304\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-56797\n FILM NUMBER: 261361648\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: GAMYKLOS G. 30-18\n CITY: RUDAMINOS K., RUDAMINOS SEN.\n PROVINCE COUNTRY: 1Q\n ZIP: 13249\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Readvantage Corp.\n CENTRAL INDEX KEY: 0002057381\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]\n ORGANIZATION NAME: 06 Technology\n EIN: 320744491\n STATE OF INCORPORATION: NV\n FISCAL YEAR END: 0630\n\n\tBUSINESS ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: GIEDRAICIU ST. 39,\n CITY: VILNIUS\n PROVINCE COUNTRY: 1Q\n ZIP: 09302\n BUSINESS PHONE: 18163276170\n\n\tMAIL ADDRESS:\t\n STREET 1: 801 TRAVIS STREET, SUITE 2101\n CITY: HOUSTON\n STATE: TX\n ZIP: 77002\n \n \n 4\n 1\n primary_doc.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0002057381 \n Readvantage Corp. \n RADC \n N/A \n \n\n \n \n 0002114304 \n Andzejevska Ilona \n \n \n true \n GAMYKLOS G. 30-18 \n \n RUDAMINOS K., RUDAMINOS SEN. \n \n 1Q \n 13249 \n \n \n \n 1 \n 1 \n 1 \n 0 \n President,Treasurer,CEO,CFO \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n \n 2026-09-03 \n \n \n 2026-09-03 \n \n \n 4 \n J \n 0 \n \n \n \n \n \n \n 1500000 \n \n \n 0 \n \n \n D \n \n \n \n \n 3000000 \n \n \n \n \n D \n \n \n \n \n\n \n On September 3, 2026, the reporting person voluntarily surrendered to the Company 1,500,000 shares of common stock of the Company for an aggregate price of US$0.00. \n \n\n \n Ilona Andzejevska \n 2026-09-04",
+    "text_sha256": "66da4968b55bb3aed5f7ba6cb01cdf4711c39b9dd4b55bc6cb99ec6b287b50ff",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

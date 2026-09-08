@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383618",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1817241/0001193125-26-383618.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:27Z",
+  "company": {
+    "ticker": "ARTV",
+    "exchange_qualified": null,
+    "name": "Artiva Biotherapeutics, Inc.",
+    "cik": "1817241"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Artiva Biotherapeutics, Inc.",
+  "content": {
+    "text": "0001193125-26-383618.txt : 20260904\n 0001193125-26-383618.hdr.sgml : 20260904\n 20260904160240\nACCESSION NUMBER: 0001193125-26-383618\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Aslan Fred\n CENTRAL INDEX KEY: 0001909362\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42179\n FILM NUMBER: 261362063\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ARTIVA BIOTHERAPEUTICS, INC.\n STREET 2: 4747 EXECUTIVE DRIVE, SUITE 1150\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92121\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Artiva Biotherapeutics, Inc.\n CENTRAL INDEX KEY: 0001817241\n STANDARD INDUSTRIAL CLASSIFICATION:\tBIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 863614316\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 5505 MOREHOUSE DRIVE\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92121\n BUSINESS PHONE: (858) 267-4467\n\n\tMAIL ADDRESS:\t\n STREET 1: 5505 MOREHOUSE DRIVE\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92121\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0001817241 \n Artiva Biotherapeutics, Inc. \n ARTV \n \n \n\n \n \n 0001909362 \n Aslan Fred \n \n \n false \n C/O ARTIVA BIOTHERAPEUTICS, INC. \n 5505 MOREHOUSE DRIVE, SUITE 100 \n SAN DIEGO \n CA \n 92121 \n \n \n \n true \n true \n false \n false \n Chief Executive Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n false \n \n \n \n 61888 \n \n \n \n 11.1555 \n \n \n \n D \n \n \n \n \n 1473194 \n \n \n \n \n D \n \n \n \n \n\n \n The Issuer has adopted a 'sell-to-cover' policy to satisfy the tax withholding obligations of the Reporting Person. The sales reported on this Form 4 represent the number of shares required to be sold by the Reporting Person to cover tax withholding obligations in connection with the vesting and release of restricted stock units. Such sales were automatic and not at the discretion of the Reporting Person. \n The weighted average sale price for the transaction reported was $11.1555, and the range of prices were between $11.0270 and $11.1556. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of shares sold at each separate price will be provided. \n \n\n \n /s/ Andrew Cronauer, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "ac0ecf596e82449b69add2f464d3f953990c2d789d359859e41c79a457d55c56",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

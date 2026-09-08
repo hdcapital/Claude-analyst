@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001104659-26-105187",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1625414/0001104659-26-105187.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:35Z",
+  "company": {
+    "ticker": "BZUN",
+    "exchange_qualified": null,
+    "name": "Baozun Inc.",
+    "cik": "1625414"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Baozun Inc.",
+  "content": {
+    "text": "0001104659-26-105187.txt : 20260904\n 0001104659-26-105187.hdr.sgml : 20260904\n 20260904060825\nACCESSION NUMBER: 0001104659-26-105187\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Wu Junhua\n CENTRAL INDEX KEY: 0001964084\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-37385\n FILM NUMBER: 261360099\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: NO. 1-9, LANE 510, WEST JIANGCHANG ROAD\n CITY: SHANGHAI\n PROVINCE COUNTRY: F4\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Baozun Inc.\n CENTRAL INDEX KEY: 0001625414\n STANDARD INDUSTRIAL CLASSIFICATION:\tRETAIL-CATALOG & MAIL-ORDER HOUSES [5961]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 000000000\n STATE OF INCORPORATION: E9\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: NO. 1-9, LANE 510, WEST JIANGCHANG ROAD\n STREET 2: JING'AN DISTRICT\n CITY: SHANGHAI\n STATE: F4\n ZIP: 200436\n BUSINESS PHONE: (86-21) 60809991\n\n\tMAIL ADDRESS:\t\n STREET 1: NO. 1-9, LANE 510, WEST JIANGCHANG ROAD\n STREET 2: JING'AN DISTRICT\n CITY: SHANGHAI\n STATE: F4\n ZIP: 200436\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tBaozun Cayman Inc.\n DATE OF NAME CHANGE:\t20141114\n \n \n 4\n 1\n tm2624824-1_4seq1.xml\n OWNERSHIP DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001625414 \n Baozun Inc. \n BZUN \n \n \n\n \n \n 0001964084 \n Wu Junhua \n \n \n true \n NO. 1-9, LANE 510, WEST JIANGCHANG ROAD \n \n SHANGHAI \n F4 \n F4 \n 200346 \n CHINA \n \n \n 1 \n 1 \n 0 \n 0 \n Chief Strategy Officer \n \n \n \n\n 0 \n\n \n \n \n American Depositary Shares \n \n \n 2026-09-02 \n \n \n \n 4 \n P \n 0 \n \n \n \n \n 13500 \n \n \n 2.85 \n \n \n A \n \n \n \n \n 267270 \n \n \n \n \n \n D \n \n \n \n \n\n \n Represents all American Depositary Shares directly owned by the reporting person following the transaction(s) reported under this Form 4. \n \n\n \n /s/ Junhua Wu \n 2026-09-04",
+    "text_sha256": "1140f6a27050974e7d6db4afcd012bc2450c8fb6b9831771cb0fab44225e11b7",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

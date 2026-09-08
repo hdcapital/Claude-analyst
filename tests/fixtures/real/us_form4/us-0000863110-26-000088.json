@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000863110-26-000088",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/863110/0000863110-26-000088.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:12Z",
+  "company": {
+    "ticker": "ARTNB",
+    "exchange_qualified": null,
+    "name": "ARTESIAN RESOURCES CORP",
+    "cik": "863110"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — ARTESIAN RESOURCES CORP",
+  "content": {
+    "text": "0000863110-26-000088.txt : 20260904\n 0000863110-26-000088.hdr.sgml : 20260904\n 20260904092737\nACCESSION NUMBER: 0000863110-26-000088\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: TAYLOR DIAN C\n CENTRAL INDEX KEY: 0001208428\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-18516\n FILM NUMBER: 261360341\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: ARTESIAN RESOURCES CORP\n CENTRAL INDEX KEY: 0000863110\n STANDARD INDUSTRIAL CLASSIFICATION:\tWATER SUPPLY [4941]\n ORGANIZATION NAME: 01 Energy & Transportation\n EIN: 510002090\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 664 CHURCHMANS RD\n CITY: NEWARK\n STATE: DE\n ZIP: 19702\n BUSINESS PHONE: 3024536900\n\n\tMAIL ADDRESS:\t\n STREET 1: 664 CHURCHMANS RD\n CITY: NEWARK\n STATE: DE\n ZIP: 19702\n \n \n 4\n 1\n form4.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0000863110 \n ARTESIAN RESOURCES CORP \n ARTNA \n \n \n\n \n \n 0001208428 \n TAYLOR DIAN C \n \n \n false \n 1403 BOHEMIA MILL ROAD \n \n MIDDLETOWN \n DE \n 19709 \n \n \n \n 1 \n \n \n\n 0 \n\n \n \n \n Class A Non-voting Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 1124 \n \n \n 36.00 \n \n \n D \n \n \n \n \n 26949 \n \n \n \n \n D \n \n \n \n \n \n Class A Non-voting Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 2000 \n \n \n 36.11 \n \n \n D \n \n \n \n \n 24949 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n Dian C. Taylor \n 2026-09-04",
+    "text_sha256": "18db76cc2b0b774fdb931d6a7692c0490d819edfbd3b69533d1e52901f685800",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

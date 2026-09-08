@@ -22,7 +22,7 @@ from .base import parsed, provenance, register, unparsed
 # transaction row in tag-stripped XML value order (price may be absent for
 # awards/gifts; an optional footnote id digit can trail the code)
 _TXN = re.compile(
-    r"(\d{4}-\d{2}-\d{2})\s+4\s+([A-Z])\s+(?:[01]\s+)?"
+    r"(\d{4}-\d{2}-\d{2})\s+4\s+([A-Z])\s+(?:(?:[01]|true|false)\s+)?"
     r"([\d,]+(?:\.\d+)?)\s+(?:([\d,]+(?:\.\d+)?)\s+)?([AD])\s+"
     r"([\d,]+(?:\.\d+)?)\s+([DI])\b"
 )
@@ -82,7 +82,9 @@ def parse_us_form4(ann: Announcement) -> ParseResult:
         after = _num(m.group(6))
         if shares is None or shares <= 0:
             continue
-        if price is not None and (price < 0 or shares * price <= 0 or shares * price > 1e12):
+        if price is not None and price == 0:
+            price = None  # grants/exercises report a zero price — treat as no price
+        if price is not None and (price < 0 or shares * price > 1e12):
             continue
         transactions.append(
             {

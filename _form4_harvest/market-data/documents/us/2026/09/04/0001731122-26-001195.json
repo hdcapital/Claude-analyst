@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001731122-26-001195",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1448356/0001731122-26-001195.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:27Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Argen John",
+    "cik": "1448356"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Argen John",
+  "content": {
+    "text": "0001731122-26-001195.txt : 20260904\n 0001731122-26-001195.hdr.sgml : 20260904\n 20260904192828\nACCESSION NUMBER: 0001731122-26-001195\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Argen John\n CENTRAL INDEX KEY: 0001448356\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-35384\n FILM NUMBER: 261363102\n\n\tMAIL ADDRESS:\t\n STREET 1: 27 JOSEPH STREET\n CITY: MANALAPAN\n STATE: NJ\n ZIP: 07726\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Data Storage Corp\n CENTRAL INDEX KEY: 0001419951\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]\n ORGANIZATION NAME: 06 Technology\n EIN: 980530147\n STATE OF INCORPORATION: NV\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 244 5TH AVENUE\n STREET 2: 2ND FL., SUITE 2821\n CITY: NEW YORK\n STATE: NY\n ZIP: 10001\n BUSINESS PHONE: 212-564-4922\n\n\tMAIL ADDRESS:\t\n STREET 1: 244 5TH AVENUE\n STREET 2: 2ND FL., SUITE 2821\n CITY: NEW YORK\n STATE: NY\n ZIP: 10001\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tEuro Trend Inc.\n DATE OF NAME CHANGE:\t20071130\n \n \n 4\n 1\n ownership.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001419951 \n Data Storage Corp \n DTST \n \n \n\n \n \n 0001448356 \n Argen John \n \n \n false \n C/O DATA STORAGE CORPORATION \n 244 5TH AVENUE, SUITE 2821 \n NEW YORK \n NY \n 10001 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n \n 4 \n M \n 0 \n \n \n \n \n 10000 \n \n \n \n \n 0 \n \n \n A \n \n \n \n \n 10000 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 12000 \n \n \n \n \n 0 \n \n \n A \n \n \n \n \n 22000 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Restricted Stock Unit \n \n \n \n 0 \n \n \n 2026-09-02 \n \n \n \n 4 \n M \n 0 \n \n \n \n \n 10000 \n \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 10000 \n \n \n \n \n 0 \n \n \n \n \n D \n \n \n \n \n\n \n Restricted stock units (&quot;RSUs&quot;) convert into common stock on a one-for-one basis. \n Represents shares of common stock underlying the RSUs granted to the Reporting Person on January 29, 2026. The RSUs vested in full on September 2, 2026, the date of the Issuer's 2026 Annual Meeting of Stockholders. \n Represents the shares of the Issuer's common stock underlying a RSU grant to the Reporting Person on September 2, 2026, which RSUs will vest in full on the date of the Issuer's 2027 Annual Meeting of Stockholders, subject to the Reporting Person's continued service to the Issuer through the vesting date. \n \n\n \n /s/ Wendy Schmittzeh, Attorney-in-fact for John Argen \n 2026-09-04",
+    "text_sha256": "a885372cdda2c4510232a1d1654f653a0319645b7c0d094e13a85a6599ceb3a7",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

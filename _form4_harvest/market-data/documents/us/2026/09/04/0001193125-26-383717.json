@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383717",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1845872/0001193125-26-383717.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:26Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Angermayer Christian",
+    "cik": "1845872"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Angermayer Christian",
+  "content": {
+    "text": "0001193125-26-383717.txt : 20260904\n 0001193125-26-383717.hdr.sgml : 20260904\n 20260904163006\nACCESSION NUMBER: 0001193125-26-383717\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Apeiron Investment Group Ltd.\n CENTRAL INDEX KEY: 0001845711\n ORGANIZATION NAME: \n STATE OF INCORPORATION: O1\n FISCAL YEAR END: 1231\n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42769\n FILM NUMBER: 261362417\n\n\tBUSINESS ADDRESS:\t\n STREET 1: BLOCK A, APT.12\n STREET 2: IL-PIAZZETTA, TOWER ROAD\n CITY: SLIEMA\n STATE: O1\n ZIP: SLM1605\n BUSINESS PHONE: 44 7557 251 563\n\n\tMAIL ADDRESS:\t\n STREET 1: BLOCK A, APT.12\n STREET 2: IL-PIAZZETTA, TOWER ROAD\n CITY: SLIEMA\n STATE: O1\n ZIP: SLM1605\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Enhanced Holdings LP\n CENTRAL INDEX KEY: 0002132854\n ORGANIZATION NAME: \n STATE OF INCORPORATION: E9\n FISCAL YEAR END: 1231\n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42769\n FILM NUMBER: 261362416\n\n\tBUSINESS ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: CENTRIS, TRIQ IS-SALIB TAL-IMRIEHEL\n CITY: BIRKIRKARA\n PROVINCE COUNTRY: O1\n ZIP: CBD 3020\n BUSINESS PHONE: 356 77318422\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: CENTRIS, TRIQ IS-SALIB TAL-IMRIEHEL\n CITY: BIRKIRKARA\n PROVINCE COUNTRY: O1\n ZIP: CBD 3020\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Angermayer Christian\n CENTRAL INDEX KEY: 0001845872\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42769\n FILM NUMBER: 261362415\n\n\tMAIL ADDRESS:\t\n STREET 1: BLOCK A, APT.12\n STREET 2: IL-PIAZZETTA, TOWER ROAD\n CITY: SLIEMA\n STATE: O1\n ZIP: SLM1605\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Enhanced Group Inc.\n CENTRAL INDEX KEY: 0001956439\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 000000000\n STATE OF INCORPORATION: TX\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 169 MADISON AVENUE\n STREET 2: SUITE 15101\n CITY: NEW YORK\n STATE: NY\n ZIP: 10016\n BUSINESS PHONE: 3472483345\n\n\tMAIL ADDRESS:\t\n STREET 1: 169 MADISON AVENUE\n STREET 2: SUITE 15101\n CITY: NEW YORK\n STATE: NY\n ZIP: 10016\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tAParadise Acquisition Corp.\n DATE OF NAME CHANGE:\t20241022\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tAParadigm Acquisition Corp.\n DATE OF NAME CHANGE:\t20230118\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tParadigm Acquisition Corp.\n DATE OF NAME CHANGE:\t20221130\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001956439 \n Enhanced Group Inc. \n ENHA \n \n \n\n \n \n 0001845711 \n Apeiron Investment Group Ltd. \n \n \n true \n TRIQ IS-SALIB TAL-IMRIEHEL \n ZONE 3, CBD \n BIRKIRKARA \n MALTA \n O1 \n 3020 \n MALTA \n \n \n true \n false \n true \n false \n \n \n\n \n \n 0002132854 \n Enhanced Holdings LP \n \n \n true \n TRIQ IS-SALIB TAL-IMRIEHEL \n ZONE 3, CBD \n BIRKIRKARA \n MALTA \n O1 \n 3020 \n MALTA \n \n \n true \n false \n true \n false \n \n \n\n \n \n 0001845872 \n Angermayer Christian \n \n \n true \n TRIQ IS-SALIB TAL-IMRIEHEL \n ZONE 3, CBD \n BIRKIRKARA \n MALTA \n O1 \n 3020 \n MALTA \n \n \n true \n false \n true \n false \n \n \n\n false \n\n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n P \n false \n \n \n \n 107693 \n \n \n 1.5751 \n \n \n A \n \n \n \n \n 37058644 \n \n \n \n \n I \n \n \n See Footnote \n \n \n \n \n \n \n Class A Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n P \n false \n \n \n \n 25414 \n \n \n 1.5799 \n \n \n A \n \n \n \n \n 37084058 \n \n \n \n \n I \n \n \n See Footnote \n \n \n \n \n \n\n \n The securities reported herein are held of record by Apeiron Investment Group Ltd. (&quot;Apeiron&quot;), as nominee for Enhanced Holdings LP. Christian Angermayer is the sole voting shareholder of Apeiron, which is the sole shareholder of Enhanced Holdings GP, which is the general partner of Enhanced Holdings LP. As a result, each of the foregoing entities and Mr. Angermayer may be deemed to share beneficial ownership over the securities reported herein. Mr. Angermayer disclaims beneficial ownership of such securities except to the extent of his pecuniary interest therein. \n \n\n \n Apeiron Investment Group Ltd., By: /s/ Sanad Abushala, Director \n 2026-09-04 \n \n\n \n Enhanced Holdings GP, By: Apeiron Investment Group Ltd., its sole stockholder, By: /s/ Sanad Abushala, Director \n 2026-09-04 \n \n\n \n Enhanced Holdings LP, By: Enhanced Holdings GP, its general partner, By: Apeiron Investment Group Ltd., its sole stockholder, By: /s/ Sanad Abushala, Director \n 2026-09-04 \n \n\n \n /s/ Christian Angermayer \n 2026-09-04",
+    "text_sha256": "c919ba1e2e9a98f8dcf29c90ac7a630544cc96d2b1a1435ba0aad9dce535aaad",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

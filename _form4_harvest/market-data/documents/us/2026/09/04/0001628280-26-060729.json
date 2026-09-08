@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001628280-26-060729",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2025822/0001628280-26-060729.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:22Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Akkerman Michael",
+    "cik": "2025822"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Akkerman Michael",
+  "content": {
+    "text": "0001628280-26-060729.txt : 20260904\n 0001628280-26-060729.hdr.sgml : 20260904\n 20260904161108\nACCESSION NUMBER: 0001628280-26-060729\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Akkerman Michael\n CENTRAL INDEX KEY: 0002025822\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-35958\n FILM NUMBER: 261362236\n\n\tMAIL ADDRESS:\t\n STREET 1: 110 SAN ANTONIO STREET\n STREET 2: UNIT 160\n CITY: AUSTIN\n STATE: TX\n ZIP: 78701\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Digital Turbine, Inc.\n CENTRAL INDEX KEY: 0000317788\n STANDARD INDUSTRIAL CLASSIFICATION:\tPATENT OWNERS & LESSORS [6794]\n ORGANIZATION NAME: 05 Real Estate & Construction\n EIN: 222267658\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 0331\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 111 NUECES STREET\n CITY: AUSTIN\n STATE: TX\n ZIP: 78701\n BUSINESS PHONE: (512) 387-7717\n\n\tMAIL ADDRESS:\t\n STREET 1: 111 NUECES STREET\n CITY: AUSTIN\n STATE: TX\n ZIP: 78701\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tMandalay Digital Group, Inc.\n DATE OF NAME CHANGE:\t20120207\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tNeuMedia, Inc.\n DATE OF NAME CHANGE:\t20100514\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tMandalay Media, Inc.\n DATE OF NAME CHANGE:\t20071109\n \n \n 4\n 1\n wk-form4_1788552664.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000317788 \n Digital Turbine, Inc. \n APPS \n \n \n\n \n \n 0002025822 \n Akkerman Michael \n \n \n false \n 110 SAN ANTONIO STREET \n SUITE 160 \n AUSTIN \n TX \n 78701 \n \n \n \n 0 \n 1 \n 0 \n 0 \n Chief Business Officer \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n \n 2026-09-02 \n \n \n 4 \n A \n 0 \n \n \n \n 76687 \n \n \n \n 9.78 \n \n \n A \n \n \n \n \n 337919 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Performance Stock Units \n \n \n \n 0 \n \n \n 2026-09-02 \n \n \n 4 \n A \n 0 \n \n \n \n 76687 \n \n \n \n 0 \n \n \n A \n \n \n \n 2029-06-15 \n \n \n \n \n \n \n Common Stock \n \n \n 76687 \n \n \n \n \n 76687 \n \n \n \n \n D \n \n \n \n \n\n \n Restricted Stock Units (&quot;RSUs&quot;) granted pursuant to Issuer's 2020 Equity Incentive Plan. \n RSUs vest over three years. One-third of the RSUs vest on the first anniversary of the grant date (i.e., the date indicated). The remaining balance vests proportionately each month through June 15, 2029. \n Performance Stock Units (&quot;PSUs&quot;) granted pursuant to Issuer's 2020 Equity Incentive Plan. \n This is a target award only. The number of shares of Issuer's common stock ultimately deliverable under the PSUs is tied to the satisfaction of certain performance criteria (other than the price of Issuer's common stock), as measured over the fiscal year preceding each of two separate valuation periods ending June 15, 2028 and June 15, 2029, respectively. The actual number of shares deliverable ranges from -0- to 115,031 (subject to adjustment for any subsequent stock splits or similar events), depending on the extent to which the applicable performance criteria are satisfied. \n Not applicable \n \n\n \n\n \n /s/ Michael Akkerman \n 2026-09-04",
+    "text_sha256": "56e04ff307cddfccef2a2c07f8c64de205fbad1d0f31fdb7af6b322a93dbc02c",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

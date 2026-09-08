@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001213900-26-097744",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1388320/0001213900-26-097744.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:17Z",
+  "company": {
+    "ticker": "ATNM",
+    "exchange_qualified": null,
+    "name": "Actinium Pharmaceuticals, Inc.",
+    "cik": "1388320"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Actinium Pharmaceuticals, Inc.",
+  "content": {
+    "text": "0001213900-26-097744.txt : 20260904\n 0001213900-26-097744.hdr.sgml : 20260904\n 20260904170031\nACCESSION NUMBER: 0001213900-26-097744\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Shetty Ajit\n CENTRAL INDEX KEY: 0001667471\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-36374\n FILM NUMBER: 261362726\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: 643 ZEEDIJK\n CITY: KNOKKE\n PROVINCE COUNTRY: C9\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Actinium Pharmaceuticals, Inc.\n CENTRAL INDEX KEY: 0001388320\n STANDARD INDUSTRIAL CLASSIFICATION:\tPHARMACEUTICAL PREPARATIONS [2834]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 880378336\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 100 PARK AVE., 23RD FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10017\n BUSINESS PHONE: (646) 677-3870\n\n\tMAIL ADDRESS:\t\n STREET 1: 100 PARK AVE., 23RD FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10017\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCactus Ventures, Inc.\n DATE OF NAME CHANGE:\t20070130\n \n \n 4\n 1\n ownership.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001388320 \n Actinium Pharmaceuticals, Inc. \n ATNM \n \n \n\n \n \n 0001667471 \n Shetty Ajit \n \n \n false \n C/O ACTINIUM PHARMACEUTICALS, INC. \n 100 PARK AVE., 23RD FLOOR \n NEW YORK \n NY \n 10017 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 61600 \n \n \n \n 0 \n \n \n A \n \n \n \n \n 62357 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Stock Option (Right to Buy) \n \n \n 1.00 \n \n \n 2026-09-02 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 92400 \n \n \n 0 \n \n \n A \n \n \n \n \n \n \n 2036-09-02 \n \n \n \n Common Stock \n \n \n 92400 \n \n \n \n \n 92400 \n \n \n \n \n D \n \n \n \n \n\n \n Represents a grant of restricted stock units (&quot;RSUs&quot;). The RSUs vest as follows: 1/3 on the first anniversary of the date of grant, 1/3 on the second anniversary of the date of grant and 1/3 on the third anniversary of the date of grant. \n The stock options vest and become exercisable in fifty equal monthly tranches beginning on the date of grant. \n \n\n \n /s/ Ajit Shetty \n 2026-09-04",
+    "text_sha256": "767d8624fe569ee125cf5b7895c907b5306ddaaff54de542010b28c613838032",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000805928-26-000101",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/805928/0000805928-26-000101.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:30Z",
+  "company": {
+    "ticker": "AXGN",
+    "exchange_qualified": null,
+    "name": "Axogen, Inc.",
+    "cik": "805928"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Axogen, Inc.",
+  "content": {
+    "text": "0000805928-26-000101.txt : 20260904\n 0000805928-26-000101.hdr.sgml : 20260904\n 20260904160806\nACCESSION NUMBER: 0000805928-26-000101\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: TYNDALL JOSEPH A.\n CENTRAL INDEX KEY: 0001955281\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-36046\n FILM NUMBER: 261362204\n\n\tMAIL ADDRESS:\t\n STREET 1: 13631 PROGRESS BLVD.\n STREET 2: SUITE 400\n CITY: ALACHUA\n STATE: FL\n ZIP: 32615\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Axogen, Inc.\n CENTRAL INDEX KEY: 0000805928\n STANDARD INDUSTRIAL CLASSIFICATION:\tELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 411301878\n STATE OF INCORPORATION: MN\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 13631 PROGRESS BLVD.\n STREET 2: SUITE 400\n CITY: ALACHUA\n STATE: FL\n ZIP: 32615\n BUSINESS PHONE: (386) 462-6817\n\n\tMAIL ADDRESS:\t\n STREET 1: 13631 PROGRESS BLVD.\n STREET 2: SUITE 400\n CITY: ALACHUA\n STATE: FL\n ZIP: 32615\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tAxoGen, Inc.\n DATE OF NAME CHANGE:\t20111004\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tLECTEC CORP /MN/\n DATE OF NAME CHANGE:\t19920703\n \n \n 4\n 1\n wk-form4_1788552483.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000805928 \n Axogen, Inc. \n AXGN \n \n \n\n \n \n 0001955281 \n TYNDALL JOSEPH A. \n \n \n false \n C/O AXOGEN, INC. 13631 PROGRESS BLVD., \n SUITE 400 \n ALACHUA \n FL \n 32615 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 3500 \n \n \n 49.697 \n \n \n \n D \n \n \n \n \n 10650 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n The sale reported on the this Form 4 was effected pursuant to a Rule 10b5-1 trading plan adopted on June 3, 2026. \n The reported price in Column 4 is a weighted average sale price. These shares were sold in multiple transactions at prices ranging from $48.01 to $51.46 per share. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote. \n \n\n \n\n \n /s/ Marc Began as attorney-in-fact for Joseph A. Tyndall \n 2026-09-04",
+    "text_sha256": "5230e69a45f2f3d0b10c95f10bc7ba45732529b9dd871faefe89097aa34fc575",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

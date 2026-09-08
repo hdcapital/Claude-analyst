@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0002082137-26-000004",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1546417/0002082137-26-000004.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:42Z",
+  "company": {
+    "ticker": "BLMN",
+    "exchange_qualified": null,
+    "name": "Bloomin' Brands, Inc.",
+    "cik": "1546417"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Bloomin' Brands, Inc.",
+  "content": {
+    "text": "0002082137-26-000004.txt : 20260904\n 0002082137-26-000004.hdr.sgml : 20260904\n 20260904162630\nACCESSION NUMBER: 0002082137-26-000004\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Christel Eric C\n CENTRAL INDEX KEY: 0002082137\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-35625\n FILM NUMBER: 261362370\n\n\tMAIL ADDRESS:\t\n STREET 1: 2202 N. WEST SHORE BLVD.\n STREET 2: SUITE 500\n CITY: TAMPA\n STATE: FL\n ZIP: 33607\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Bloomin' Brands, Inc.\n CENTRAL INDEX KEY: 0001546417\n STANDARD INDUSTRIAL CLASSIFICATION:\tRETAIL-EATING PLACES [5812]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 208023465\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1227\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 2202 NORTH WEST SHORE BOULEVARD\n STREET 2: SUITE 500\n CITY: TAMPA\n STATE: FL\n ZIP: 33607\n BUSINESS PHONE: 813-282-1225\n\n\tMAIL ADDRESS:\t\n STREET 1: 2202 NORTH WEST SHORE BOULEVARD\n STREET 2: SUITE 500\n CITY: TAMPA\n STATE: FL\n ZIP: 33607\n \n \n 4\n 1\n wk-form4_1788553584.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001546417 \n Bloomin' Brands, Inc. \n BLMN \n \n \n\n \n \n 0002082137 \n Christel Eric C \n \n \n false \n 2202 N. WEST SHORE BLVD., SUITE 500 \n \n TAMPA \n FL \n 33607 \n \n \n \n 0 \n 1 \n 0 \n 0 \n EVP, Chief Financial Officer \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 25151 \n \n \n \n 0 \n \n \n A \n \n \n \n \n 175151 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n F \n 0 \n \n \n \n 6125 \n \n \n \n 9.93 \n \n \n D \n \n \n \n \n 169026 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Restricted Stock Units \n \n \n 0 \n \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 25151 \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 25151 \n \n \n \n \n 50304 \n \n \n \n \n D \n \n \n \n \n\n \n On September 2, 2025, these restricted stock units (&quot;RSU&quot;) were granted in the original amount of 75,455, which vest in three equal annual installments, with a final vesting in 2028. \n These shares of common stock were withheld by the issuer to pay for the applicable withholding tax due upon vesting of certain RSUs. \n Each RSU represents the contingent right to receive one share of common stock of the issuer upon vesting of the unit. \n This field is not applicable. \n \n\n \n\n \n /s/ Allison Hicks, Attorney in Fact \n 2026-09-04",
+    "text_sha256": "005e07c87a551030ac4c3292a52f36f24f855cfceb137d7f3aabbe7620997969",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001213900-26-097741",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1388320/0001213900-26-097741.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:16Z",
+  "company": {
+    "ticker": "ATNM",
+    "exchange_qualified": null,
+    "name": "Actinium Pharmaceuticals, Inc.",
+    "cik": "1388320"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Actinium Pharmaceuticals, Inc.",
+  "content": {
+    "text": "0001213900-26-097741.txt : 20260904\n 0001213900-26-097741.hdr.sgml : 20260904\n 20260904170026\nACCESSION NUMBER: 0001213900-26-097741\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: SETH SANDESH\n CENTRAL INDEX KEY: 0001566175\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-36374\n FILM NUMBER: 261362720\n\n\tMAIL ADDRESS:\t\n STREET 1: 300 E 93RD STREET, #20-B\n CITY: NEW YORK\n STATE: NY\n ZIP: 10128\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Actinium Pharmaceuticals, Inc.\n CENTRAL INDEX KEY: 0001388320\n STANDARD INDUSTRIAL CLASSIFICATION:\tPHARMACEUTICAL PREPARATIONS [2834]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 880378336\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 100 PARK AVE., 23RD FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10017\n BUSINESS PHONE: (646) 677-3870\n\n\tMAIL ADDRESS:\t\n STREET 1: 100 PARK AVE., 23RD FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10017\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCactus Ventures, Inc.\n DATE OF NAME CHANGE:\t20070130\n \n \n 4\n 1\n ownership.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001388320 \n Actinium Pharmaceuticals, Inc. \n ATNM \n \n \n\n \n \n 0001566175 \n SETH SANDESH \n \n \n false \n C/O ACTINIUM PHARMACEUTICALS, INC. \n 100 PARK AVE., 23RD FLOOR \n NEW YORK \n NY \n 10017 \n \n \n \n 1 \n 1 \n 0 \n 0 \n Chief Executive Officer \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 753600 \n \n \n \n 0 \n \n \n A \n \n \n \n \n 938081 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 1027274 \n \n \n \n 0 \n \n \n A \n \n \n \n \n 1965355 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Stock Option (Right to Buy) \n \n \n 1.00 \n \n \n 2026-09-02 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 1130400 \n \n \n 0 \n \n \n A \n \n \n \n \n \n \n 2036-09-02 \n \n \n \n Common Stock \n \n \n 1130400 \n \n \n \n \n 1130400 \n \n \n \n \n D \n \n \n \n \n\n \n Represents a grant of restricted stock units (&quot;RSUs&quot;). These RSUs vest as follows: 1/3 on the first anniversary of the date of grant, 1/3 on the second anniversary of the date of grant and 1/3 on the third anniversary of the date of grant. \n Represents a grant of RSUs. These RSUs vest fully on the third anniversary of the date of grant. \n The stock options vest and become exercisable in fifty equal monthly tranches beginning on the date of grant. \n \n\n \n /s/ Sandesh Seth \n 2026-09-04",
+    "text_sha256": "49f0e7db932241978032cfae5136fe3ae165e441ca971b637997fc1ac6ccc688",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

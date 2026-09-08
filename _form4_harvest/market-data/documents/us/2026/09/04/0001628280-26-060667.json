@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001628280-26-060667",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/784199/0001628280-26-060667.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:12Z",
+  "company": {
+    "ticker": "AORT",
+    "exchange_qualified": null,
+    "name": "ARTIVION, INC.",
+    "cik": "784199"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — ARTIVION, INC.",
+  "content": {
+    "text": "0001628280-26-060667.txt : 20260904\n 0001628280-26-060667.hdr.sgml : 20260904\n 20260904141513\nACCESSION NUMBER: 0001628280-26-060667\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: GREEN ANDREW M\n CENTRAL INDEX KEY: 0001191000\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-13165\n FILM NUMBER: 261361611\n\n\tMAIL ADDRESS:\t\n STREET 1: ARTIVION INC\n STREET 2: 1655 ROBERTS BLVD\n CITY: KENNESAW\n STATE: GA\n ZIP: 30144\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: ARTIVION, INC.\n CENTRAL INDEX KEY: 0000784199\n STANDARD INDUSTRIAL CLASSIFICATION:\tSURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 592417093\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1655 ROBERTS BOULEVARD N W\n CITY: KENNESAW\n STATE: GA\n ZIP: 30144\n BUSINESS PHONE: 7704193355\n\n\tMAIL ADDRESS:\t\n STREET 1: 1655 ROBERTS BOULEVARD N W\n CITY: KENNESAW\n STATE: GA\n ZIP: 30144\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCRYOLIFE INC\n DATE OF NAME CHANGE:\t19940526\n \n \n 4\n 1\n wk-form4_1788545710.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000784199 \n ARTIVION, INC. \n AORT \n \n \n\n \n \n 0001191000 \n GREEN ANDREW M \n \n \n false \n 1655 ROBERTS BLVD., NW \n \n KENNESAW \n GA \n 30144 \n \n \n \n 0 \n 1 \n 0 \n 0 \n SVP, Regulatory and Quality \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n 6510 \n \n \n 27.265 \n \n \n \n D \n \n \n \n \n 53133 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n 1493 \n \n \n 26.016 \n \n \n \n D \n \n \n \n \n 51640 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n Reflects weighted average price. Range of prices were between $27.000 to $27.760. The reporting person will provide upon request by the Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate price. \n Reflects weighted average price. Range of prices were between $26.000 to $26.040. The reporting person will provide upon request by the Commission staff, the issuer, or a security holder of the issuer, full information regarding the number of shares sold at each separate price. \n \n\n \n\n \n /s/ Andrew M. Green \n 2026-09-04",
+    "text_sha256": "a0a3d1cbe1c9a3fc3f997fccff32340ccb0c5546fc5b6e81b76d952c7c80f46d",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

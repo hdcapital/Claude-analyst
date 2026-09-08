@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001123292-26-001228",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1184340/0001123292-26-001228.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:39Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Bertelsen Jeffrey A.",
+    "cik": "1184340"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Bertelsen Jeffrey A.",
+  "content": {
+    "text": "0001123292-26-001228.txt : 20260904\n 0001123292-26-001228.hdr.sgml : 20260904\n 20260904160705\nACCESSION NUMBER: 0001123292-26-001228\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Bertelsen Jeffrey A.\n CENTRAL INDEX KEY: 0001184340\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-40140\n FILM NUMBER: 261362189\n\n\tMAIL ADDRESS:\t\n STREET 1: 5900 GOLDEN HILLS DRIVE\n CITY: GOLDEN VALLEY\n STATE: MN\n ZIP: 55416\n\n\tFORMER NAME:\t\n FORMER CONFORMED NAME:\tBERTELSEN JEFFREY A\n DATE OF NAME CHANGE:\t20020829\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Rigetti Computing, Inc.\n CENTRAL INDEX KEY: 0001838359\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-COMPUTER PROGRAMMING SERVICES [7371]\n ORGANIZATION NAME: 06 Technology\n EIN: 000000000\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 775 HEINZ AVENUE\n CITY: BERKELEY\n STATE: CA\n ZIP: 94710\n BUSINESS PHONE: (510) 210-5550\n\n\tMAIL ADDRESS:\t\n STREET 1: 775 HEINZ AVENUE\n CITY: BERKELEY\n STATE: CA\n ZIP: 94710\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tSupernova Partners Acquisition Co II, Ltd.\n DATE OF NAME CHANGE:\t20201230\n \n \n 4\n 1\n form4.xml\n STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0001838359 \n Rigetti Computing, Inc. \n RGTI \n \n \n\n \n \n 0001184340 \n Bertelsen Jeffrey A. \n \n \n false \n C/O RIGETTI COMPUTING, INC. \n 775 HEINZ AVENUE \n BERKELEY \n CA \n 94710 \n \n \n \n 0 \n 1 \n 0 \n 0 \n CHIEF FINANCIAL OFFICER \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n M \n 0 \n \n \n \n \n 25000 \n \n \n 0.60 \n \n \n A \n \n \n \n \n 193067 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 25000 \n \n \n 15.0004 \n \n \n \n D \n \n \n \n \n 168067 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Employee Stock Option (Right to Buy) \n \n \n 0.60 \n \n \n 2026-09-03 \n \n \n 4 \n M \n 0 \n \n \n \n \n 25000 \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n 2033-03-29 \n \n \n \n Common Stock \n \n \n 25000 \n \n \n \n \n 256250 \n \n \n \n \n D \n \n \n \n \n\n \n This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on June 4, 2026. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $15.00 to $15.01, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n One fourth (1/4th) of the shares subject to the option vested and became exercisable on February 15, 2024, with the remaining shares subject to the option vesting in thirty-six (36) equal monthly installments thereafter, subject to the Reporting Person's continuous service with the Issuer on each such vesting date. \n \n\n \n /s/ Jeffrey Bertelsen \n 2026-09-04",
+    "text_sha256": "423ba1a1633b5e07836397221698f8464699b5f40a43a2370450e0b37412727e",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

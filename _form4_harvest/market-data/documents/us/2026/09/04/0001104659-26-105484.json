@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001104659-26-105484",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1574232/0001104659-26-105484.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:19Z",
+  "company": {
+    "ticker": "ADXN",
+    "exchange_qualified": null,
+    "name": "Addex Therapeutics Ltd.",
+    "cik": "1574232"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Addex Therapeutics Ltd.",
+  "content": {
+    "text": "0001104659-26-105484.txt : 20260904\n 0001104659-26-105484.hdr.sgml : 20260904\n 20260904160106\nACCESSION NUMBER: 0001104659-26-105484\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Hill Raymond George\n CENTRAL INDEX KEY: 0002123864\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-39179\n FILM NUMBER: 261362024\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: CHEMIN DES MINES 9\n CITY: GENEVA\n PROVINCE COUNTRY: V8\n ZIP: CH-1202\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Addex Therapeutics Ltd.\n CENTRAL INDEX KEY: 0001574232\n STANDARD INDUSTRIAL CLASSIFICATION:\tPHARMACEUTICAL PREPARATIONS [2834]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 000000000\n STATE OF INCORPORATION: V8\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: CHEMIN DES MINES 9\n CITY: GENEVA\n STATE: V8\n ZIP: CH-1202\n BUSINESS PHONE: 01141228841555\n\n\tMAIL ADDRESS:\t\n STREET 1: CHEMIN DES MINES 9\n CITY: GENEVA\n STATE: V8\n ZIP: CH-1202\n \n \n 4\n 1\n tm2624769-6_4seq1.xml\n OWNERSHIP DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001574232 \n Addex Therapeutics Ltd. \n ADXN \n [ADXN] \n \n\n \n \n 0002123864 \n Hill Raymond George \n \n \n true \n CHEMIN DES MINES 9 \n \n GENEVA \n \n V8 \n CH-1202 \n SWITZERLAND \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n \n 4 \n D \n 0 \n \n \n \n \n \n 1365532 \n \n \n 0 \n \n \n \n D \n \n \n \n \n 0 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n \n 1365532 \n \n \n 0 \n \n \n \n A \n \n \n \n \n 1365532 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Stock-option (Right to Buy) \n \n \n 0.062 \n \n \n \n 2026-09-02 \n \n \n \n 4 \n D \n 0 \n \n \n \n \n \n 273107 \n \n \n 0 \n \n \n D \n \n \n \n 2024-01-08 \n \n \n 2034-01-07 \n \n \n \n Common Stock \n \n \n 273107 \n \n \n \n \n 0 \n \n \n \n \n D \n \n \n \n \n \n Stock-option (Right to Buy) \n \n \n 0.032 \n \n \n \n 2026-09-02 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n \n 273107 \n \n \n 0 \n \n \n A \n \n \n \n 2024-01-08 \n \n \n 2034-01-07 \n \n \n \n Common Stock \n \n \n 273107 \n \n \n \n \n 273107 \n \n \n \n \n D \n \n \n \n \n\n \n Represents 1,365,532 shares of common Stock listed on SIX Swiss Exchange acquired following the exercise of options. Of these shares, 797,563 were acquired on October 26, 2022 under the deferred strike price payment plan with an initial strike price of $0.16 per share and 567,969 were acquired on November 27, 2023 with an initial strike price of $0.053 per share. On September 2, 2026, following the implementation of the Remuneration Committee's decision, the Strike price of all units was reduced to $0.032. All the other terms of the deferred strike price payment plan remain unchanged. Such transactions were exempt pursuant to Rule 16b-6(d) and Rule 16b-3 of the exchange act as applicable. The strike prices indicated in this section reflect the conversion from CHF to USD at an exchange rate of $1.2296 per CHF 1.00 as of September 2, 2026. \n On September 2, 2026, following the implementation of the Remuneration Committee's decision, the exercise price of the options were repriced to $0.032. All of the other terms of the options remain unchanged. Such transactions were exempt pursuant to Rule 16b-6(d) and Rule 16b-3 of the exchange act as applicable. \n The exercise price is reported in U.S. dollars and reflects the conversion from CHF to USD at an exchange rate of $1.2296 per CHF 1.00 as of September 2, 2026. \n \n\n \n /s/ Lenaic Nathanael Teyssedou by power of attorney \n 2026-09-04",
+    "text_sha256": "a43f2610b95db87c797abf735c66b70459c773f6ef8f7eb22fe0ea13db36c850",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

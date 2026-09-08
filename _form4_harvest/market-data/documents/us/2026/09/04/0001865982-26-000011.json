@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001865982-26-000011",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1927958/0001865982-26-000011.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:10Z",
+  "company": {
+    "ticker": "AIRO",
+    "exchange_qualified": null,
+    "name": "AIRO Group Holdings, Inc.",
+    "cik": "1927958"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — AIRO Group Holdings, Inc.",
+  "content": {
+    "text": "0001865982-26-000011.txt : 20260904\n 0001865982-26-000011.hdr.sgml : 20260904\n 20260904163013\nACCESSION NUMBER: 0001865982-26-000011\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Pylypiv Mariya\n CENTRAL INDEX KEY: 0001865982\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42600\n FILM NUMBER: 261362429\n\n\tMAIL ADDRESS:\t\n STREET 1: 14000 MILITARY TRAIL\n STREET 2: #203\n CITY: DELRAY BEACH\n STATE: FL\n ZIP: 33484\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: AIRO Group Holdings, Inc.\n CENTRAL INDEX KEY: 0001927958\n STANDARD INDUSTRIAL CLASSIFICATION:\tAIRCRAFT [3721]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 880812695\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 8444 WESTPARK DRIVE\n STREET 2: SUITE 840\n CITY: MCLEAN\n STATE: VA\n ZIP: 22102\n BUSINESS PHONE: (505) 338-2434\n\n\tMAIL ADDRESS:\t\n STREET 1: 8444 WESTPARK DRIVE\n STREET 2: SUITE 840\n CITY: MCLEAN\n STATE: VA\n ZIP: 22102\n \n \n 4\n 1\n form4-09042026_040903.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001927958 \n AIRO Group Holdings, Inc. \n AIRO \n \n \n\n \n \n 0001865982 \n Pylypiv Mariya \n \n \n false \n C/O AIRO GROUP HOLDINGS, INC. \n 8444 WESTPARK DRIVE SUITE 840 \n MCLEAN \n VA \n 22102 \n \n \n \n false \n true \n false \n false \n Chief Financial Officer \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 8697 \n \n \n 7.0821 \n \n \n \n D \n \n \n \n \n 267333 \n \n \n \n \n D \n \n \n \n \n \n \n \n \n Common Stock \n \n \n \n 250 \n \n \n \n \n I \n \n \n By Persistent LLC \n \n \n \n \n \n\n \n\n \n The shares were sold to cover tax withholding obligations associated with the settlement of restricted stock units. \n The weighted average sales price for the transaction reported was $7.0821, and the range of prices was between $6.89 and $7.30, inclusive. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of shares sold at each separate price will be provided. \n The Reporting Person is the sole member of Persistent LLC. \n \n\n \n /s/ Joseph D. Burns, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "e94c02c86ad9e3a559b11f8fd521af293e014817e345165f049a4e5050f811ef",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

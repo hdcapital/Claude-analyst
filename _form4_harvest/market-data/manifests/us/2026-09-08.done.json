@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "market": "us",
+  "run_date": "2026-09-08",
+  "status": "ok",
+  "started_at": "2026-09-08T09:18:46Z",
+  "finished_at": "2026-09-08T09:20:59Z",
+  "counts": {
+    "collected": 1429,
+    "written": 150,
+    "skipped_seen": 0,
+    "errors": 0
+  },
+  "errors": [
+    "daily index 2026-09-08: blocked: HTTP 403 x4",
+    "daily index 2026-09-07: blocked: HTTP 403 x4",
+    "daily index 2026-09-06: blocked: HTTP 403 x4",
+    "daily index 2026-09-05: blocked: HTTP 403 x4"
+  ],
+  "run_id": "34209221096",
+  "git_sha": "8d6b26fa7b5d"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001477932-26-005422",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1869115/0001477932-26-005422.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:52Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "CHANG FRED FACHING",
+    "cik": "1869115"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — CHANG FRED FACHING",
+  "content": {
+    "text": "0001477932-26-005422.txt : 20260904\n 0001477932-26-005422.hdr.sgml : 20260904\n 20260904134634\nACCESSION NUMBER: 0001477932-26-005422\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260901\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: CHANG FRED FACHING\n CENTRAL INDEX KEY: 0001869115\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-34661\n FILM NUMBER: 261361517\n\n\tMAIL ADDRESS:\t\n STREET 1: 17560 ROWLAND ST.\n CITY: CITY OF INDUSTRY\n STATE: CA\n ZIP: 91748\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Newegg Commerce, Inc.\n CENTRAL INDEX KEY: 0001474627\n STANDARD INDUSTRIAL CLASSIFICATION:\tRETAIL-RETAIL STORES, NEC [5990]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 000000000\n STATE OF INCORPORATION: D8\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 21688 GATEWAY CENTER DR\n STREET 2: #300\n CITY: DIAMOND BAR\n STATE: CA\n ZIP: 91765\n BUSINESS PHONE: (8610)8860-9850\n\n\tMAIL ADDRESS:\t\n STREET 1: 21688 GATEWAY CENTER DR\n STREET 2: #300\n CITY: DIAMOND BAR\n STATE: CA\n ZIP: 91765\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tLianluo Smart Ltd\n DATE OF NAME CHANGE:\t20161118\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tDehaier Medical Systems Ltd\n DATE OF NAME CHANGE:\t20091015\n \n \n 4\n 1\n form4.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-01-05:00 \n\n false \n\n \n 0001474627 \n Newegg Commerce, Inc. \n NEGG \n \n \n\n \n \n 0001869115 \n CHANG FRED FACHING \n \n \n false \n 21688 GATEWAY CENTER DR. \n SUITE 300 \n DIAMOND BAR \n CA \n 91765 \n \n \n \n true \n false \n true \n false \n \n \n\n false \n\n \n \n \n Common Shares \n \n \n 2026-09-01-05:00 \n \n \n \n 4 \n S \n false \n \n \n \n 3582 \n \n \n 15.873 \n \n \n \n D \n \n \n \n \n 3100851 \n \n \n \n \n I \n \n \n By Tekhill USA LLC \n \n \n \n \n \n \n Common Shares \n \n \n 2026-09-02-05:00 \n \n \n \n 4 \n S \n false \n \n \n \n 23582 \n \n \n 16.77 \n \n \n \n D \n \n \n \n \n 3077269 \n \n \n \n \n I \n \n \n By Tekhill USA LLC \n \n \n \n \n \n \n Common Shares \n \n \n 2026-09-03-05:00 \n \n \n \n 4 \n S \n false \n \n \n \n 3582 \n \n \n 16.40 \n \n \n \n D \n \n \n \n \n 3073687 \n \n \n \n \n I \n \n \n By Tekhill USA LLC \n \n \n \n \n \n \n Common Shares \n \n \n \n 450000 \n \n \n \n \n I \n \n \n By Nabal Spring, LLC \n \n \n \n \n \n \n Common Shares \n \n \n \n 407927 \n \n \n \n \n D \n \n \n \n \n\n \n This price reported is a weighted average price. These shares were sold in multiple transactions at prices ranging from $16.38 to $15.65. The Reporting Person undertakes to provide the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n This price reported is a weighted average price. These shares were sold in multiple transactions at prices ranging from $17.56 to $15.86. The Reporting Person undertakes to provide the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n This price reported is a weighted average price. These shares were sold in multiple transactions at prices ranging from $17.05 to $16.12. The Reporting Person undertakes to provide the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n The Reporting Person is the sole member and manager of Tekhill USA LLC and Nabal Spring, LLC. \n \n\n \n /s/ Alison M. Pear, Attorney-In-Fact \n 2026-09-04",
+    "text_sha256": "2c50f644d29b3a8c36b6b278f243a26e02d588fa50c0cd19d78d64519a1bcfb6",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

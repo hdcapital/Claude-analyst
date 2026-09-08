@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000897069-26-001768",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1134765/0000897069-26-001768.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:59Z",
+  "company": {
+    "ticker": "CHUC",
+    "exchange_qualified": null,
+    "name": "Charlie's Holdings, Inc.",
+    "cik": "1134765"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Charlie's Holdings, Inc.",
+  "content": {
+    "text": "0000897069-26-001768.txt : 20260904\n 0000897069-26-001768.hdr.sgml : 20260904\n 20260904175133\nACCESSION NUMBER: 0000897069-26-001768\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Stump Ryan\n CENTRAL INDEX KEY: 0001775621\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-32420\n FILM NUMBER: 261362961\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O TRUE DRINKS HOLDINGS, INC.\n STREET 2: 2 PARK PLAZA SUITE 1200\n CITY: IRVINE\n STATE: CA\n ZIP: 92614\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Charlie's Holdings, Inc.\n CENTRAL INDEX KEY: 0001134765\n STANDARD INDUSTRIAL CLASSIFICATION:\tMEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 841575085\n STATE OF INCORPORATION: NV\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1007 BRIOSO DR.\n CITY: COSTA MESA\n STATE: CA\n ZIP: 92627\n BUSINESS PHONE: 949-570-0691\n\n\tMAIL ADDRESS:\t\n STREET 1: 1007 BRIOSO DR.\n CITY: COSTA MESA\n STATE: CA\n ZIP: 92627\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tTrue Drinks Holdings, Inc.\n DATE OF NAME CHANGE:\t20130122\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tBAZI INTERNATIONAL, INC.\n DATE OF NAME CHANGE:\t20100803\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tXELR8 HOLDINGS, INC.\n DATE OF NAME CHANGE:\t20070321\n \n \n 4\n 1\n form4.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0001134765 \n Charlie's Holdings, Inc. \n CHUC \n \n \n\n \n \n 0001775621 \n Stump Ryan \n \n \n false \n C/O CHARLIE'S HOLDINGS, INC. \n 1007 BRIOSO DRIVE \n COSTA MESA \n CA \n 92627 \n \n \n \n false \n true \n false \n false \n Chief Operating Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n A \n false \n \n \n \n 200000 \n \n \n \n 0 \n \n \n A \n \n \n \n \n 2551968 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n \n 27349787 \n \n \n \n \n I \n \n \n By Ryan Stump Legacy Trust \n \n \n \n \n\n \n The shares will vest on the one year anniversary of the grant, subject to continued service. \n \n\n \n /s/ Ryan Stump \n 2026-09-04",
+    "text_sha256": "af6addbd3eb227626982ee873644335b296d6f6e626fd6b8ad4b5d8170a1e6b7",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

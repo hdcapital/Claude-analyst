@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383631",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2021728/0001193125-26-383631.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:57Z",
+  "company": {
+    "ticker": "CBRS",
+    "exchange_qualified": null,
+    "name": "Cerebras Systems Inc.",
+    "cik": "2021728"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Cerebras Systems Inc.",
+  "content": {
+    "text": "0001193125-26-383631.txt : 20260904\n 0001193125-26-383631.hdr.sgml : 20260904\n 20260904160507\nACCESSION NUMBER: 0001193125-26-383631\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Susan Lior\n CENTRAL INDEX KEY: 0001832895\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-43284\n FILM NUMBER: 261362101\n\n\tMAIL ADDRESS:\t\n STREET 1: 1412 62ND STREET\n CITY: EMERYVILLE\n STATE: CA\n ZIP: 94608\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Cerebras Systems Inc.\n CENTRAL INDEX KEY: 0002021728\n STANDARD INDUSTRIAL CLASSIFICATION:\tSEMICONDUCTORS & RELATED DEVICES [3674]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 000000000\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1237 E. ARQUES AVE.\n CITY: SUNNYVALE\n STATE: CA\n ZIP: 94085\n BUSINESS PHONE: (650) 933-4890\n\n\tMAIL ADDRESS:\t\n STREET 1: 1237 E. ARQUES AVE.\n CITY: SUNNYVALE\n STATE: CA\n ZIP: 94085\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0002021728 \n Cerebras Systems Inc. \n CBRS \n \n \n\n \n \n 0001832895 \n Susan Lior \n \n \n false \n C/O CEREBRAS SYSTEMS INC. \n 1237 E. ARQUES AVENUE \n SUNNYVALE \n CA \n 94085 \n \n \n \n true \n false \n false \n false \n \n \n\n false \n\n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n J \n false \n \n \n \n \n 902236 \n \n \n \n \n \n D \n \n \n \n \n 7392944 \n \n \n \n \n I \n \n \n See footnote \n \n \n \n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n J \n false \n \n \n \n \n 46455 \n \n \n \n \n \n A \n \n \n \n \n 290661 \n \n \n \n \n D \n \n \n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n J \n false \n \n \n \n \n 47470 \n \n \n \n \n \n A \n \n \n \n \n 255041 \n \n \n \n \n I \n \n \n See footnote \n \n \n \n \n \n\n \n Represents a pro-rata, in-kind distribution by the Eclipse Entities (as defined below) to its partners, for no additional consideration (the &quot;Distribution&quot;). \n Following the distribution, consists of (i) 439,397 shares of Class A common stock held by Eclipse Continuity Fund I, L.P. (&quot;Eclipse Continuity Fund&quot;); (ii) 3,595,108 shares of Class A common stock held by Eclipse SPV II, L.P. (&quot;Eclipse SPV II&quot;); (iii) 329,335 shares of Class A common stock held by Eclipse SPV XIII, L.P. (&quot;Eclipse SPV XIII&quot;); and (iv) 3,029,104 shares of Class A common stock held by Eclipse Ventures Fund I, L.P. (&quot;Eclipse Fund,&quot; and together with Eclipse Continuity Fund, Eclipse SPV II, and Eclipse SPV XIII, &quot;Eclipse Entities&quot;). The Reporting Person is the sole managing member of the general partner of each of the Eclipse Entities and may be deemed to have voting, investment, and dispositive power with respect to the shares held by such entities. \n The shares were obtained pursuant to a pro-rata, in-kind distribution from the Eclipse Entities, for no additional consideration. \n The shares are held directly by an estate-planning vehicle which is controlled by the Reporting Person. \n \n\n \n /s/ Lior Susan \n 2026-09-04",
+    "text_sha256": "9655309c9c958f9a88af067a391a0f2f7884f949f5d5e2a21264d0ed76640931",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

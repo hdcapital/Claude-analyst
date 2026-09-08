@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001437749-26-029676",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/729580/0001437749-26-029676.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:33Z",
+  "company": {
+    "ticker": "BELFB",
+    "exchange_qualified": null,
+    "name": "BEL FUSE INC /NJ",
+    "cik": "729580"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — BEL FUSE INC /NJ",
+  "content": {
+    "text": "0001437749-26-029676.txt : 20260904\n 0001437749-26-029676.hdr.sgml : 20260904\n 20260904112217\nACCESSION NUMBER: 0001437749-26-029676\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Vellucci Vincent\n CENTRAL INDEX KEY: 0001688761\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-11676\n FILM NUMBER: 261360851\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O BEL FUSE INC.\n STREET 2: 206 VAN VORST STREET\n CITY: JERSEY CITY\n STATE: NJ\n ZIP: 07302\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: BEL FUSE INC /NJ\n CENTRAL INDEX KEY: 0000729580\n STANDARD INDUSTRIAL CLASSIFICATION:\tELECTRONIC COILS, TRANSFORMERS & OTHER INDUCTORS [3677]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 221463699\n STATE OF INCORPORATION: NJ\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 300 EXECUTIVE DRIVE\n STREET 2: SUITE 300\n CITY: WEST ORANGE\n STATE: NJ\n ZIP: 07052\n BUSINESS PHONE: 2014320463\n\n\tMAIL ADDRESS:\t\n STREET 1: 300 EXECUTIVE DRIVE\n STREET 2: SUITE 300\n CITY: WEST ORANGE\n STATE: NJ\n ZIP: 07052\n \n \n 4\n 1\n rdgdoc.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0000729580 \n BEL FUSE INC /NJ \n BELFB \n \n \n\n \n \n 0001688761 \n Vellucci Vincent \n \n \n false \n C/O BEL FUSE INC. \n 300 EXECUTIVE DRIVE, SUITE 300 \n WEST ORANGE \n NJ \n 07052 \n \n \n \n 1 \n \n \n\n 0 \n\n \n \n \n Class B Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n 393 \n \n \n \n 243.61 \n \n \n D \n \n \n \n \n 8434 \n \n \n \n \n D \n \n \n \n \n\n \n This price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $243.61 to $243.65, inclusive. The reporting person undertakes to provide to Bel Fuse Inc. (the &quot;Company&quot;), any security holder of the Company, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in footnote (1) to this Form 4. \n \n\n \n /s/ Lynn Hutkin \n 2026-09-04",
+    "text_sha256": "f64dbb762c1ae45a5056fdf2d0e282761def94ada156694ab16f10550f029992",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

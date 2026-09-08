@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383625",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1817241/0001193125-26-383625.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:29Z",
+  "company": {
+    "ticker": "ARTV",
+    "exchange_qualified": null,
+    "name": "Artiva Biotherapeutics, Inc.",
+    "cik": "1817241"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Artiva Biotherapeutics, Inc.",
+  "content": {
+    "text": "0001193125-26-383625.txt : 20260904\n 0001193125-26-383625.hdr.sgml : 20260904\n 20260904160403\nACCESSION NUMBER: 0001193125-26-383625\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Horan Christopher\n CENTRAL INDEX KEY: 0001736819\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42179\n FILM NUMBER: 261362084\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O DERMIRA, INC.\n STREET 2: 275 MIDDLEFIELD ROAD, SUITE 150\n CITY: MENLO PARK\n STATE: CA\n ZIP: 94025\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Artiva Biotherapeutics, Inc.\n CENTRAL INDEX KEY: 0001817241\n STANDARD INDUSTRIAL CLASSIFICATION:\tBIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 863614316\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 5505 MOREHOUSE DRIVE\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92121\n BUSINESS PHONE: (858) 267-4467\n\n\tMAIL ADDRESS:\t\n STREET 1: 5505 MOREHOUSE DRIVE\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92121\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0001817241 \n Artiva Biotherapeutics, Inc. \n ARTV \n \n \n\n \n \n 0001736819 \n Horan Christopher \n \n \n false \n C/O ARTIVA BIOTHERAPEUTICS, INC. \n 5505 MOREHOUSE DRIVE, SUITE 100 \n SAN DIEGO \n CA \n 92121 \n \n \n \n false \n true \n false \n false \n Chief Tech Operations Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n false \n \n \n \n 10366 \n \n \n \n 11.1555 \n \n \n \n D \n \n \n \n \n 283084 \n \n \n \n \n D \n \n \n \n \n\n \n The Issuer has adopted a 'sell-to-cover' policy to satisfy the tax withholding obligations of the Reporting Person. The sales reported on this Form 4 represent the number of shares required to be sold by the Reporting Person to cover tax withholding obligations in connection with the vesting and release of restricted stock units. Such sales were automatic and not at the discretion of the Reporting Person. \n The weighted average sale price for the transaction reported was $11.1555, and the range of prices were between $11.0301 and $11.1556. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of shares sold at each separate price will be provided. \n \n\n \n /s/ Andrew Cronauer, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "0ec4432df21f2cdaaf5df3faaf5c3d473c1a5b535bcc6a9ca5207f532c081248",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

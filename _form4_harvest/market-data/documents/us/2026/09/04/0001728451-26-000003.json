@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001728451-26-000003",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1067983/0001728451-26-000003.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:33Z",
+  "company": {
+    "ticker": "BRK-A",
+    "exchange_qualified": null,
+    "name": "BERKSHIRE HATHAWAY INC",
+    "cik": "1067983"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — BERKSHIRE HATHAWAY INC",
+  "content": {
+    "text": "0001728451-26-000003.txt : 20260904\n 0001728451-26-000003.hdr.sgml : 20260904\n 20260904181916\nACCESSION NUMBER: 0001728451-26-000003\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Jain Ajit\n CENTRAL INDEX KEY: 0001728451\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-14905\n FILM NUMBER: 261363027\n\n\tMAIL ADDRESS:\t\n STREET 1: 100 FIRST STAMFORD PLACE\n STREET 2: BHRG\n CITY: STAMFORD\n STATE: CT\n ZIP: 06902\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: BERKSHIRE HATHAWAY INC\n CENTRAL INDEX KEY: 0001067983\n STANDARD INDUSTRIAL CLASSIFICATION:\tFIRE, MARINE & CASUALTY INSURANCE [6331]\n ORGANIZATION NAME: 02 Finance\n EIN: 470813844\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 3555 FARNAM STREET\n CITY: OMAHA\n STATE: NE\n ZIP: 68131\n BUSINESS PHONE: 4023461400\n\n\tMAIL ADDRESS:\t\n STREET 1: 3555 FARNAM STREET\n CITY: OMAHA\n STATE: NE\n ZIP: 68131\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tNBH INC\n DATE OF NAME CHANGE:\t19980810\n \n \n 4\n 1\n primary_doc.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001067983 \n BERKSHIRE HATHAWAY INC \n BRK.A \n \n\n \n \n 0001728451 \n Jain Ajit \n \n \n false \n 100 FIRST STAMFORD PLACE \n BHRG \n STAMFORD \n CT \n 06902 \n \n \n \n 1 \n 1 \n 0 \n 0 \n Vice Chairman \n \n \n\n 0 \n\n \n \n \n Class B Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n G \n 0 \n \n \n \n \n \n \n 10 \n \n \n \n \n \n D \n \n \n \n \n 317 \n \n \n \n \n D \n \n \n \n \n \n Class B Common Stock \n \n \n \n 107308 \n \n \n \n \n I \n \n \n By Jain Foundation Inc. (Non-Profit Corporation) \n \n \n \n \n\n \n \n \n Class A Common Stock \n \n \n \n \n \n \n \n \n \n \n \n \n Class B Common Stock \n \n \n 91500 \n \n \n \n \n \n 61 \n \n \n \n \n D \n \n \n \n \n \n Class A Common Stock \n \n \n \n \n \n \n \n \n \n \n \n \n Class B Common Stock \n \n \n 25500 \n \n \n \n \n \n 17 \n \n \n \n \n \n I \n \n \n By Indrima Jain Trusts \n \n \n \n \n \n Class A Common Stock \n \n \n \n \n \n \n \n \n \n \n \n \n Class B Common Stock \n \n \n 57000 \n \n \n \n \n \n 38 \n \n \n \n \n \n I \n \n \n By Ajit Jain Trusts \n \n \n \n \n \n Class A Common Stock \n \n \n \n \n \n \n \n \n \n \n \n \n Class B Common Stock \n \n \n 75000 \n \n \n \n \n \n 50 \n \n \n \n \n \n I \n \n \n By Jain Foundation Inc. (Non-Profit Corporation) \n \n \n \n \n\n \n On September 3rd, the Reporting Person made charitable gifts totaling 10 shares of Class B Common stock. \n Each share of Class A Common Stock is convertible at any time at the option of the holder into 1,500 shares of Class B Common Stock. \n Family trusts established by the Reporting Person's spouse for the benefit of the Reporting Person's descendants own 17 shares of Class A Common Stock. \n Family trusts established by the Reporting Person for the benefit of the Reporting Person's descendants own 38 shares of Class A Common Stock. \n The non-profit corporation Jain Foundation, Inc. owns 50 shares of Class A Common Stock. \n \n\n \n Ajit Jain \n 2026-09-04",
+    "text_sha256": "f3c4bf423a525b869a5a0bb466e31ba808cbbca5615ac72c0e07813cde5b5cbc",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

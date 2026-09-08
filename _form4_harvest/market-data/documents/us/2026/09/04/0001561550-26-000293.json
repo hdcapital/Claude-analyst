@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001561550-26-000293",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1861590/0001561550-26-000293.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:40Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Blitzer Adam",
+    "cik": "1861590"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Blitzer Adam",
+  "content": {
+    "text": "0001561550-26-000293.txt : 20260904\n 0001561550-26-000293.hdr.sgml : 20260904\n 20260904163702\nACCESSION NUMBER: 0001561550-26-000293\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Blitzer Adam\n CENTRAL INDEX KEY: 0001861590\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-39051\n FILM NUMBER: 261362525\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O DATADOG, INC.\n STREET 2: 620 EIGHTH AVENUE, 45TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10018\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Datadog, Inc.\n CENTRAL INDEX KEY: 0001561550\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-PREPACKAGED SOFTWARE [7372]\n ORGANIZATION NAME: 06 Technology\n EIN: 272825503\n STATE OF INCORPORATION: NV\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 620 EIGHTH AVENUE, 45TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10018\n BUSINESS PHONE: 866-329-4466\n\n\tMAIL ADDRESS:\t\n STREET 1: 620 EIGHTH AVENUE, 45TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10018\n \n \n 4\n 1\n wk-form4_1788554220.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001561550 \n Datadog, Inc. \n DDOG \n \n \n\n \n \n 0001861590 \n Blitzer Adam \n \n \n false \n C/O DATADOG, INC. \n 620 8TH AVENUE, 45TH FLOOR \n NEW YORK \n NY \n 10018 \n \n \n \n 0 \n 1 \n 0 \n 0 \n Chief Operating Officer \n \n \n\n 0 \n\n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 13812 \n \n \n 212.9041 \n \n \n \n D \n \n \n \n \n 249959 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n The Reporting Person was required by the Issuer to sell only the number of shares of common stock necessary to cover applicable tax withholding obligations realized upon the vesting of restricted stock units and performance-based restricted stock units, as well as any related brokerage commission fees. \n Price reported is a weighted-average sales price. The shares were sold at prices ranging from $210.12 to $213.01. The Reporting Person will provide upon request to the SEC, the Issuer or security holder of the Issuer, full information regarding the number of shares sold at each separate price. \n \n\n \n\n \n /s/ Kerry Acocella, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "77c133b468df583923953aadf501ccd72eb0a82857e51613cfbfb5cf0dfc72ef",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0002050172-26-000034",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2050172/0002050172-26-000034.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:39Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Bernstein Harold",
+    "cik": "2050172"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Bernstein Harold",
+  "content": {
+    "text": "0002050172-26-000034.txt : 20260904\n 0002050172-26-000034.hdr.sgml : 20260904\n 20260904162203\nACCESSION NUMBER: 0002050172-26-000034\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Bernstein Harold\n CENTRAL INDEX KEY: 0002050172\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42490\n FILM NUMBER: 261362336\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O MAZE THERAPEUTICS, INC.\n STREET 2: 171 OYSTER POINT BOULEVARD, SUITE 300\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Maze Therapeutics, Inc.\n CENTRAL INDEX KEY: 0001842295\n STANDARD INDUSTRIAL CLASSIFICATION:\tBIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 000000000\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 171 OYSTER POINT BOULEVARD, SUITE 300\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n BUSINESS PHONE: 6508505070\n\n\tMAIL ADDRESS:\t\n STREET 1: 171 OYSTER POINT BOULEVARD, SUITE 300\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n \n \n 4\n 1\n form4-09042026_080958.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001842295 \n Maze Therapeutics, Inc. \n MAZE \n \n \n\n \n \n 0002050172 \n Bernstein Harold \n \n \n false \n C/O MAZE THERAPEUTICS, INC. \n 171 OYSTER POINT BOULEVARD, SUITE 300 \n SOUTH SAN FRANCISCO \n CA \n 94080 \n \n \n \n false \n true \n false \n false \n President, R&D & CMO \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 4481 \n \n \n 26.3760 \n \n \n \n D \n \n \n \n \n 15519 \n \n \n \n \n D \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 625 \n \n \n 27.1211 \n \n \n \n D \n \n \n \n \n 14894 \n \n \n \n \n D \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 5130 \n \n \n 26.0133 \n \n \n \n D \n \n \n \n \n 9764 \n \n \n \n \n D \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 59 \n \n \n 25.7800 \n \n \n D \n \n \n \n \n 9705 \n \n \n \n \n D \n \n \n \n \n \n \n \n\n \n\n \n The reported transaction represents shares of the Issuer's Common Stock sold to satisfy tax withholding obligations incurred in connection with the vesting of restricted stock units. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $26.03 to $27.00 per share, inclusive. The reporting person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the U.S. Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote and in footnotes 3 and 4 of this Form 4. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $27.055 to $27.40 per share, inclusive. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $25.743 to $26.65 per share, inclusive. \n \n\n \n /s/ Courtney Phillips, as attorney-in-fact \n 2026-09-04",
+    "text_sha256": "602c03b7e6c41a5b9e7959b5eecbeaa7c91b2444185ed92327a76ba8bc7c6340",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

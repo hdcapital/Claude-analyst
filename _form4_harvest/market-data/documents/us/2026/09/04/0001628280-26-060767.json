@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001628280-26-060767",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1854032/0001628280-26-060767.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:41Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Bloom Paul D",
+    "cik": "1854032"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Bloom Paul D",
+  "content": {
+    "text": "0001628280-26-060767.txt : 20260904\n 0001628280-26-060767.hdr.sgml : 20260904\n 20260904172410\nACCESSION NUMBER: 0001628280-26-060767\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Bloom Paul D\n CENTRAL INDEX KEY: 0001854032\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-35073\n FILM NUMBER: 261362881\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O GEVO, INC. 345 INVERNESS DRIVE SOUTH\n STREET 2: BUILDING C, SUITE 310\n CITY: ENGLEWOOD\n STATE: CO\n ZIP: 80112\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Gevo, Inc.\n CENTRAL INDEX KEY: 0001392380\n STANDARD INDUSTRIAL CLASSIFICATION:\tINDUSTRIAL ORGANIC CHEMICALS [2860]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 870747704\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 345 INVERNESS DRIVE SOUTH, BUILDING C\n STREET 2: Suite 310\n CITY: ENGLEWOOD\n STATE: CO\n ZIP: 80112\n BUSINESS PHONE: 303-858-8358\n\n\tMAIL ADDRESS:\t\n STREET 1: 345 INVERNESS DRIVE SOUTH, BUILDING C\n STREET 2: Suite 310\n CITY: ENGLEWOOD\n STATE: CO\n ZIP: 80112\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tGevo Inc\n DATE OF NAME CHANGE:\t20070307\n \n \n 4\n 1\n wk-form4_1788557048.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001392380 \n Gevo, Inc. \n GEVO \n \n \n\n \n \n 0001854032 \n Bloom Paul D \n \n \n false \n C/O GEVO, INC. 345 INVERNESS DRIVE SOUTH \n BUILDING C, SUITE 310 \n ENGLEWOOD \n CO \n 80112 \n \n \n \n 1 \n 1 \n 0 \n 0 \n CEO \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 1514 \n \n \n 1.7099 \n \n \n \n D \n \n \n \n \n 1500789 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n \n 28092.13 \n \n \n \n \n \n I \n \n \n By 401(k) Plan \n \n \n \n \n\n \n\n \n Represents shares sold by the Reporting Person to cover tax withholding obligations upon vesting of a restricted stock award. The reported sales were effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on December 22, 2025 \n The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $1.70 to $1.71 per share, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or to the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n Between August 13, 2026 and September 3, 2026, the reporting person disposed of 9.7 shares of the issuer's common stock under the issuer's 401(k) plan to cover administrative fees. The information in this report is based on a plan statement dated August 25, 2026. \n \n\n \n\n \n /s/ E. Cabell Massey, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "135394eeac82ab777a58391616896ec41b495f308a0c2520550f183317bc5bcf",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

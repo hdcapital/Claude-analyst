@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001288995-26-000005",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1070412/0001288995-26-000005.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:53Z",
+  "company": {
+    "ticker": "CNX",
+    "exchange_qualified": null,
+    "name": "CNX Resources Corp",
+    "cik": "1070412"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — CNX Resources Corp",
+  "content": {
+    "text": "0001288995-26-000005.txt : 20260904\n 0001288995-26-000005.hdr.sgml : 20260904\n 20260904161550\nACCESSION NUMBER: 0001288995-26-000005\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: DEIULIIS NICHOLAS J\n CENTRAL INDEX KEY: 0001288995\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-14901\n FILM NUMBER: 261362289\n\n\tMAIL ADDRESS:\t\n STREET 1: 1000 HORIZON VUE DR\n CITY: CANONSBURG\n STATE: PA\n ZIP: 15317\n\n\tFORMER NAME:\t\n FORMER CONFORMED NAME:\tDEIULIIS N J\n DATE OF NAME CHANGE:\t20060512\n\n\tFORMER NAME:\t\n FORMER CONFORMED NAME:\tDeluliis N J\n DATE OF NAME CHANGE:\t20040429\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: CNX Resources Corp\n CENTRAL INDEX KEY: 0001070412\n STANDARD INDUSTRIAL CLASSIFICATION:\tCRUDE PETROLEUM & NATURAL GAS [1311]\n ORGANIZATION NAME: 01 Energy & Transportation\n EIN: 510337383\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: CNX CENTER\n STREET 2: 1000 HORIZON VUE DRIVE\n CITY: CANONSBURG\n STATE: PA\n ZIP: 15317\n BUSINESS PHONE: 724-485-4000\n\n\tMAIL ADDRESS:\t\n STREET 1: CNX CENTER\n STREET 2: 1000 HORIZON VUE DRIVE\n CITY: CANONSBURG\n STATE: PA\n ZIP: 15317\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCONSOL Energy Inc\n DATE OF NAME CHANGE:\t20090303\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCONSOL ENERGY INC\n DATE OF NAME CHANGE:\t19980915\n \n \n 4\n 1\n wk-form4_1788552948.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001070412 \n CNX Resources Corp \n CNX \n \n \n\n \n \n 0001288995 \n DEIULIIS NICHOLAS J \n \n \n false \n 1000 HORIZON VUE DR \n \n CANONSBURG \n PA \n 15317 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 0 \n\n \n \n \n Common shares, $0.01 par value per share \n \n \n 2026-09-02 \n \n \n 4 \n G \n 0 \n \n \n \n 528000 \n \n \n 0 \n \n \n D \n \n \n \n \n 1863608 \n \n \n \n \n \n D \n \n \n \n \n \n Common shares, $0.01 par value per share \n \n \n 2026-09-02 \n \n \n 5 \n G \n 0 \n \n \n E \n \n \n \n 528000 \n \n \n 0 \n \n \n A \n \n \n \n \n 528000 \n \n \n \n \n I \n \n \n By Trust #3 \n \n \n \n \n \n \n Common shares, $0.01 par value per share \n \n \n \n 135218 \n \n \n \n \n I \n \n \n By Trust #1 \n \n \n \n \n \n \n Common shares, $0.01 par value per share \n \n \n \n 135218 \n \n \n \n \n I \n \n \n By Trust #2 \n \n \n \n \n \n\n \n\n \n Of the shares owned directly, 5,568 are restricted stock units and 2,784 are deferred stock units. \n These shares are held a trust established for the benefit of the reporting person's descendants. The reporting person disclaims beneficial ownership of these securities, and the filing of this report is not an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose. \n These shares are held in trusts established for the benefit of the reporting person's children. The reporting person's spouse is trustee of the trusts. The reporting person disclaims beneficial ownership of these securities, and the filing of this report is not an admission that the reporting person is the beneficial owner of these securities for purposes of Section 16 or for any other purpose. \n \n\n \n\n \n /s/ Sarah Molinero, Attorney-in-fact \n 2026-09-04",
+    "text_sha256": "59f2f21f21b1e68c6cf181d6004272afaa5747126d2dfd80ea3d7c83ddd52af9",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

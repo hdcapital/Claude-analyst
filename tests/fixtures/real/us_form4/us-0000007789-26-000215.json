@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000007789-26-000215",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/7789/0000007789-26-000215.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:14Z",
+  "company": {
+    "ticker": "ASB-PF",
+    "exchange_qualified": null,
+    "name": "ASSOCIATED BANC-CORP",
+    "cik": "7789"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — ASSOCIATED BANC-CORP",
+  "content": {
+    "text": "0000007789-26-000215.txt : 20260904\n 0000007789-26-000215.hdr.sgml : 20260904\n 20260904112018\nACCESSION NUMBER: 0000007789-26-000215\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Ahern Patrick Edward\n CENTRAL INDEX KEY: 0001791042\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-31343\n FILM NUMBER: 261360839\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ASSOCIATED BANC CORP\n STREET 2: 433 MAIN STREET\n CITY: GREEN BAY\n STATE: WI\n ZIP: 54301\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: ASSOCIATED BANC-CORP\n CENTRAL INDEX KEY: 0000007789\n STANDARD INDUSTRIAL CLASSIFICATION:\tSTATE COMMERCIAL BANKS [6022]\n ORGANIZATION NAME: 02 Finance\n EIN: 391098068\n STATE OF INCORPORATION: WI\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 433 MAIN STREET\n CITY: GREEN BAY\n STATE: WI\n ZIP: 54301\n BUSINESS PHONE: 920-491-7500\n\n\tMAIL ADDRESS:\t\n STREET 1: 433 MAIN STREET\n CITY: GREEN BAY\n STATE: WI\n ZIP: 54301\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tASSOCIATED BANK SERVICES INC\n DATE OF NAME CHANGE:\t19770626\n \n \n 4\n 1\n form4.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0000007789 \n ASSOCIATED BANC-CORP \n ASB \n \n \n\n \n \n 0001791042 \n Ahern Patrick Edward \n \n \n false \n C/O ASSOCIATED BANC CORP \n 433 MAIN STREET \n GREEN BAY \n WI \n 54301 \n \n \n \n 1 \n Executive Vice President \n \n \n\n 0 \n\n \n \n \n Common Stock $0.01 Par Value \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 1209 \n \n \n 30.85 \n \n \n D \n \n \n \n \n 43843 \n \n \n \n \n D \n \n \n \n \n \n Common Stock $0.01 Par Value \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 100 \n \n \n 30.8504 \n \n \n D \n \n \n \n \n 43743 \n \n \n \n \n D \n \n \n \n \n \n Common Stock $0.01 Par Value \n \n \n \n 5589.79 \n \n \n \n \n I \n \n \n 401(k) plan \n \n \n \n \n\n \n\n \n /s/Lynn M. Floeter, attorney-in-fact for Patrick Edward Ahern \n 2026-09-04",
+    "text_sha256": "186a584d8b7d543efcddc10af85ae701501cd50067bced38ae6f2e0643ae271b",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

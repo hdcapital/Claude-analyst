@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001628280-26-060772",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2035158/0001628280-26-060772.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:38Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Bergsvik Eirik",
+    "cik": "2035158"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Bergsvik Eirik",
+  "content": {
+    "text": "0001628280-26-060772.txt : 20260904\n 0001628280-26-060772.hdr.sgml : 20260904\n 20260904175024\nACCESSION NUMBER: 0001628280-26-060772\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Bergsvik Eirik\n CENTRAL INDEX KEY: 0002035158\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-43221\n FILM NUMBER: 261362960\n\n\tMAIL ADDRESS:\t\n STREET 1: 3300 NORTH SAM HOUSTON PARKWAY EAST\n CITY: HOUSTON\n STATE: TX\n ZIP: 77032\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: HMH Holding Inc\n CENTRAL INDEX KEY: 0002021880\n STANDARD INDUSTRIAL CLASSIFICATION:\tOIL & GAS FILED MACHINERY & EQUIPMENT [3533]\n ORGANIZATION NAME: 01 Energy & Transportation\n EIN: 992746883\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 3300 NORTH SAM HOUSTON PARKWAY EAST\n CITY: HOUSTON\n STATE: TX\n ZIP: 77032\n BUSINESS PHONE: 281-449-2000\n\n\tMAIL ADDRESS:\t\n STREET 1: 3300 NORTH SAM HOUSTON PARKWAY EAST\n CITY: HOUSTON\n STATE: TX\n ZIP: 77032\n \n \n 4\n 1\n wk-form4_1788558621.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0002021880 \n HMH Holding Inc \n HMH \n \n \n\n \n \n 0002035158 \n Bergsvik Eirik \n \n \n false \n 3300 NORTH SAM HOUSTON PARKWAY EAST \n \n HOUSTON \n TX \n 77032 \n \n \n \n 0 \n 1 \n 0 \n 0 \n Chief Executive Officer \n \n \n\n 0 \n\n \n \n \n Class A Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n A \n 0 \n \n \n \n 17483 \n \n \n \n 19.26 \n \n \n A \n \n \n \n \n 152521 \n \n \n \n \n D \n \n \n \n \n \n Class A Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n F \n 0 \n \n \n \n 8287 \n \n \n \n 19.26 \n \n \n D \n \n \n \n \n 144234 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n On April 2, 2026, the reporting person was granted 17,483 performance-based restricted stock units, each of which represented a contingent right to receive one share of Class A common stock, par value $0.01 per share, of HMH Holding Inc. (the &quot;Issuer&quot;). The restricted stock units could be earned up to 200% of target depending on the Issuer's EBITDA growth as compared to the EBITDA growth of a set of peer companies over the three-year period from September 1, 2023 through August 31, 2026 and subject to the reporting person's continued service throughout such three-year period. On September 3, 2026, the Compensation Committee of the Board of Directors of the Issuer certified achievement of the performance condition at 50%, resulting in the restricted stock units originally granted becoming earned at 100% of the target amount granted. \n Represents shares of Class A common stock, par value $0.01 per share of the Issuer withheld to satisfy tax withholding obligations upon the vesting of performance-based restricted stock units. This net settlement was approved by the board of directors of the Issuer pursuant to Rule 16b-3 under the Securities Exchange Act of 1934, as amended. \n \n\n \n\n \n /s/ Dwight W. Rettig, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "12b620ea1a270fcce84b7b9f86efdda4b83716c7f26f5f9f709be3abddbf9354",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

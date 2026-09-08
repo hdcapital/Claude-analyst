@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0002117905-26-000030",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1468642/0002117905-26-000030.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:30Z",
+  "company": {
+    "ticker": "AUGO",
+    "exchange_qualified": null,
+    "name": "Aura Minerals Inc.",
+    "cik": "1468642"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Aura Minerals Inc.",
+  "content": {
+    "text": "0002117905-26-000030.txt : 20260904\n 0002117905-26-000030.hdr.sgml : 20260904\n 20260904174620\nACCESSION NUMBER: 0002117905-26-000030\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Sousa Mauad Bruno\n CENTRAL INDEX KEY: 0002117905\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42744\n FILM NUMBER: 261362951\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O AURA TECHNICAL SERVICES INC.\n STREET 2: 3390 MARY ST, SUITE 116\n CITY: COCONUT GROVE\n STATE: FL\n ZIP: 33133\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Aura Minerals Inc.\n CENTRAL INDEX KEY: 0001468642\n STANDARD INDUSTRIAL CLASSIFICATION:\tMETAL MINING [1000]\n ORGANIZATION NAME: 01 Energy & Transportation\n EIN: 000000000\n STATE OF INCORPORATION: D8\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: CRAIGMUIR CHAMBERS\n STREET 2: BOX 71\n CITY: ROAD TOWN TORTOLA\n STATE: D8\n ZIP: 000000\n BUSINESS PHONE: 866-881-9982\n\n\tMAIL ADDRESS:\t\n STREET 1: CRAIGMUIR CHAMBERS\n STREET 2: BOX 71\n CITY: ROAD TOWN TORTOLA\n STATE: D8\n ZIP: 000000\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tAURA MINERALS INC\n DATE OF NAME CHANGE:\t20090717\n \n \n 4\n 1\n primary_doc.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001468642 \n Aura Minerals Inc. \n AUGO \n \n\n \n \n 0002117905 \n Sousa Mauad Bruno \n \n \n false \n C/O AURA TECHNICAL SERVICES INC. \n 3390 MARY ST, SUITE 116 \n COCONUT GROVE \n FL \n 33133 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 0 \n\n \n \n \n Brazilian Depositary Receipts \n \n \n \n \n \n 2026-09-03 \n \n \n 4 \n P \n 0 \n \n \n \n \n \n \n 1000 \n \n \n 29.1982 \n \n \n A \n \n \n \n \n \n \n \n \n \n \n Common shares, no par value \n \n \n 333.33 \n \n \n \n \n 13559160 \n \n \n \n \n I \n \n \n By Kapitalo Investimentos \n \n \n \n \n \n Brazilian Depositary Receipts \n \n \n \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n \n \n 250000 \n \n \n 29.3236 \n \n \n \n D \n \n \n \n \n \n \n \n \n \n \n Common shares, no par value \n \n \n 83333.33 \n \n \n \n \n 13309160 \n \n \n \n \n I \n \n \n By Kapitalo Investimentos \n \n \n \n \n\n \n BDRs are certificates representing Common Shares of the Issuer. Three BDRs represent one Common Share of the Issuer. \n The price reported is a weighted average price. These BDRs were sold in multiple transactions at prices ranging from $29.12 to $29.61, inclusive. The reporting person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of BDRs sold at each separate price within the ranges set forth in footnote (2) to this Form 4. The weighted average price, R$149.44 Brazilian reais (&quot;BRL&quot;) per BDR, has been converted to U.S. dollars (&quot;USD&quot;) using the Banco Central do Brasil's conversion rate as of September 3, 2026. \n \n\n Each Reporting Person disclaims beneficial ownership in the securities reported on this Form 4 except to the extent of its pecuniary interest, if any, therein, and this report shall not be deemed to be an admission that such Reporting Person is the beneficial owner of such securities for purposes of Section 16 or for any other purpose. \n\n \n Bruno Sousa Mauad \n 2026-09-04",
+    "text_sha256": "802ded3d6cebda87a95cfb3e1d1a99b218f58cf3779506fc8346750d7e5449fb",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

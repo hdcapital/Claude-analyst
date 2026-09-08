@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000950103-26-013589",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1853717/0000950103-26-013589.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:29Z",
+  "company": {
+    "ticker": "ATAT",
+    "exchange_qualified": null,
+    "name": "Atour Lifestyle Holdings Ltd",
+    "cik": "1853717"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Atour Lifestyle Holdings Ltd",
+  "content": {
+    "text": "0000950103-26-013589.txt : 20260904\n 0000950103-26-013589.hdr.sgml : 20260904\n 20260904060208\nACCESSION NUMBER: 0000950103-26-013589\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260904\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Wang Shoudong\n CENTRAL INDEX KEY: 0001975910\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-40540\n FILM NUMBER: 261360084\n\n\tMAIL ADDRESS:\t\n STREET 1: ROOM 1704, BUILDING 2, LANE 1098\n STREET 2: XINZHA ROAD, JING'AN DISTRICT\n CITY: SHANGHAI\n STATE: F4\n ZIP: 00000\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Atour Lifestyle Holdings Ltd\n CENTRAL INDEX KEY: 0001853717\n STANDARD INDUSTRIAL CLASSIFICATION:\tHOTELS & MOTELS [7011]\n ORGANIZATION NAME: 05 Real Estate & Construction\n EIN: 000000000\n STATE OF INCORPORATION: E9\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: 1ST FLOOR, WUZHONG BUILDING\n STREET 2: 618 WUZHONG ROAD, MINHANG DISTRICT\n CITY: SHANGHAI\n PROVINCE COUNTRY: F4\n BUSINESS PHONE: (86) 021-64059928\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: 1ST FLOOR, WUZHONG BUILDING\n STREET 2: 618 WUZHONG ROAD, MINHANG DISTRICT\n CITY: SHANGHAI\n PROVINCE COUNTRY: F4\n \n \n 4\n 1\n ownership.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-04 \n\n 0 \n\n \n 0001853717 \n Atour Lifestyle Holdings Ltd \n ATAT \n \n \n\n \n \n 0001975910 \n Wang Shoudong \n \n \n true \n 1ST FLOOR, WUZHONG BUILDING \n 618 WUZHONG ROAD, MINHANG DISTRICT \n SHANGHAI \n \n F4 \n 201103 \n CHINA \n \n \n 0 \n 1 \n 0 \n 0 \n Co-chief financial officer \n \n \n \n\n 0 \n\n \n \n \n Employee Stock Options (Right to buy) \n \n \n 0.01 \n \n \n 2026-09-04 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 50000 \n \n \n 0 \n \n \n A \n \n \n \n 2026-09-04 \n \n \n 2036-09-03 \n \n \n \n Class A Ordinary Shares \n \n \n 50000 \n \n \n \n \n 50000 \n \n \n \n \n D \n \n \n \n \n \n Employee Stock Options (Right to buy) \n \n \n 0.01 \n \n \n 2026-09-04 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 50000 \n \n \n 0 \n \n \n A \n \n \n \n 2027-12-31 \n \n \n 2036-09-03 \n \n \n \n Class A Ordinary Shares \n \n \n 50000 \n \n \n \n \n 50000 \n \n \n \n \n D \n \n \n \n \n \n Employee Stock Options (Right to buy) \n \n \n 0.01 \n \n \n 2026-09-04 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 50000 \n \n \n 0 \n \n \n A \n \n \n \n 2028-12-31 \n \n \n 2036-09-03 \n \n \n \n Class A Ordinary Shares \n \n \n 50000 \n \n \n \n \n 50000 \n \n \n \n \n D \n \n \n \n \n \n Employee Stock Options (Right to buy) \n \n \n 0.01 \n \n \n 2026-09-04 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 50000 \n \n \n 0 \n \n \n A \n \n \n \n 2029-12-31 \n \n \n 2036-09-03 \n \n \n \n Class A Ordinary Shares \n \n \n 50000 \n \n \n \n \n 50000 \n \n \n \n \n D \n \n \n \n \n\n \n /s/ Shoudong Wang \n 2026-09-04",
+    "text_sha256": "b6ec59831f775c284e25909200e30cca9352abbacd729485090c1ed0db73159c",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001225208-26-007676",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1784603/0001225208-26-007676.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:31Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "BANEY KEVIN D",
+    "cik": "1784603"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — BANEY KEVIN D",
+  "content": {
+    "text": "0001225208-26-007676.txt : 20260904\n 0001225208-26-007676.hdr.sgml : 20260904\n 20260904114508\nACCESSION NUMBER: 0001225208-26-007676\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: BANEY KEVIN D\n CENTRAL INDEX KEY: 0001784603\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-14817\n FILM NUMBER: 261360960\n\n\tMAIL ADDRESS:\t\n STREET 1: 777 106TH AVE NE\n CITY: BELLEVUE\n STATE: WA\n ZIP: 98004\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: PACCAR INC\n CENTRAL INDEX KEY: 0000075362\n STANDARD INDUSTRIAL CLASSIFICATION:\tMOTOR VEHICLES & PASSENGER CAR BODIES [3711]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 910351110\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: PACCAR BUILDING\n STREET 2: 777 106TH AVENUE NE\n CITY: BELLEVUE\n STATE: WA\n ZIP: 98004\n BUSINESS PHONE: 425 468 7525\n\n\tMAIL ADDRESS:\t\n STREET 1: PACCAR BUILDING\n STREET 2: 777 106TH AVENUE NE\n CITY: BELLEVUE\n STATE: WA\n ZIP: 98004\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tPACIFIC CAR & FOUNDRY CO\n DATE OF NAME CHANGE:\t19720707\n \n \n 4\n 1\n doc4.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0000075362 \n PACCAR INC \n PCAR \n \n \n\n \n \n 0001784603 \n BANEY KEVIN D \n \n \n false \n 777 - 106TH AVE. N.E. \n \n BELLEVUE \n WA \n 98004 \n \n \n \n 1 \n Executive Vice President \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n J \n 0 \n \n \n \n \n 17.2710 \n \n \n 122.1300 \n \n \n A \n \n \n \n \n 6072.8190 \n \n \n \n \n I \n \n \n By PACCAR Savings Investment Plan (SIP) \n \n \n \n \n \n Common Stock \n \n \n \n 13644.0000 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Stock Option \n \n \n 61.2600 \n \n \n 2024-01-01 \n \n \n 2031-02-02 \n \n \n \n Common Stock \n \n \n 11118.0000 \n \n \n \n \n 11118.0000 \n \n \n \n \n D \n \n \n \n \n \n Stock Option \n \n \n 62.8667 \n \n \n 2025-01-01 \n \n \n 2032-02-07 \n \n \n \n Common Stock \n \n \n 11547.0000 \n \n \n \n \n 11547.0000 \n \n \n \n \n D \n \n \n \n \n \n Stock Option \n \n \n 71.9500 \n \n \n 2026-01-01 \n \n \n 2033-02-08 \n \n \n \n Common Stock \n \n \n 10806.0000 \n \n \n \n \n 10806.0000 \n \n \n \n \n D \n \n \n \n \n \n Stock Option \n \n \n 104.1600 \n \n \n 2027-01-01 \n \n \n 2034-02-05 \n \n \n \n Common Stock \n \n \n 12742.0000 \n \n \n \n \n 12742.0000 \n \n \n \n \n D \n \n \n \n \n \n Stock Option \n \n \n 109.1300 \n \n \n 2028-01-01 \n \n \n 2035-02-03 \n \n \n \n Common Stock \n \n \n 23502.0000 \n \n \n \n \n 23502.0000 \n \n \n \n \n D \n \n \n \n \n \n Stock Option \n \n \n 127.3500 \n \n \n 2029-01-01 \n \n \n 2036-02-06 \n \n \n \n Common Stock \n \n \n 26086.0000 \n \n \n \n \n 26086.0000 \n \n \n \n \n D \n \n \n \n \n \n Stock Units (LTIP) \n \n \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 8507.0000 \n \n \n \n \n 8507.0000 \n \n \n \n \n D \n \n \n \n \n\n \n Dividend on PACCAR Savings Investment Plan (SIP) shares reinvested pursuant to SIP. \n Restricted stock units held in deferred phantom stock account under Long Term Incentive Plan (LTIP) convertible to common stock on a one-for-one basis upon satisfaction of all applicable vesting conditions. \n \n\n \n Michael R. Beers, by Power of Attorney \n 2026-09-03",
+    "text_sha256": "7a4d9ebaa3b79228220214d186075e8a6a86caad271f8704fd8a6bbeb128d3dd",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

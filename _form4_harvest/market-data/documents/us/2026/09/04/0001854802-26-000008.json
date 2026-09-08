@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001854802-26-000008",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1854802/0001854802-26-000008.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:45Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Boyan George",
+    "cik": "1854802"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Boyan George",
+  "content": {
+    "text": "0001854802-26-000008.txt : 20260904\n 0001854802-26-000008.hdr.sgml : 20260904\n 20260904163048\nACCESSION NUMBER: 0001854802-26-000008\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Boyan George\n CENTRAL INDEX KEY: 0001854802\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-12431\n FILM NUMBER: 261362449\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O\n STREET 2: 64 OLD HIGHWAY 22\n CITY: CLINTON\n STATE: NJ\n ZIP: 08809\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: UNITY BANCORP INC /NJ/\n CENTRAL INDEX KEY: 0000920427\n STANDARD INDUSTRIAL CLASSIFICATION:\tSTATE COMMERCIAL BANKS [6022]\n ORGANIZATION NAME: 02 Finance\n EIN: 223282551\n STATE OF INCORPORATION: NJ\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 64 OLD HIGHWAY 22\n CITY: CLINTON\n STATE: NJ\n ZIP: 08809\n BUSINESS PHONE: 8006182265\n\n\tMAIL ADDRESS:\t\n STREET 1: 64 OLD HIGHWAY 22\n CITY: CLINTON\n STATE: NJ\n ZIP: 08809\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tUNITY BANCORP INC /DE/\n DATE OF NAME CHANGE:\t19940316\n \n \n 4\n 1\n primarydocument.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n false \n\n \n 0000920427 \n UNITY BANCORP INC /NJ/ \n UNTY \n \n \n\n \n \n 0001854802 \n Boyan George \n \n \n false \n C/O UNITY BANK \n 64 OLD HIGHWAY 22 \n CLINTON \n NJ \n 08809 \n \n \n \n true \n true \n false \n false \n President \n \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n \n 4 \n S \n false \n \n \n \n \n 845.00 \n \n \n 59.1064 \n \n \n \n D \n \n \n \n \n 31519.00 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n \n 4 \n S \n false \n \n \n \n \n 6504.00 \n \n \n 59.1623 \n \n \n \n D \n \n \n \n \n 25015.00 \n \n \n \n \n D \n \n \n \n \n \n Restricted Stock \n \n \n \n 28060.00 \n \n \n \n \n \n D \n \n \n \n \n\n \n\n \n This transaction was executed in multiple trades at prices ranging from $59.01 USD to $59.21 USD; the price reported above reflects the weighted average sale price. \n This transaction was executed in multiple trades at prices ranging from $59.005 USD to $59.41 USD; the price reported above reflects the weighted average sale price. \n 26,125 restricted shares are held in an account at Computershare, which have upcoming vesting dates, 1,935 shares are dividend reinvested shares for a total of 28,060. \n \n\n \n\n \n George Boyan, POA Amanda Roche, FVP/Controller \n 2026-09-04",
+    "text_sha256": "8fb0b73a3c506297dba5b7b546f1099701ca624a5c52e2a628ff232470ff7ef2",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383722",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1459200/0001193125-26-383722.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:23Z",
+  "company": {
+    "ticker": "ALRM",
+    "exchange_qualified": null,
+    "name": "Alarm.com Holdings, Inc.",
+    "cik": "1459200"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Alarm.com Holdings, Inc.",
+  "content": {
+    "text": "0001193125-26-383722.txt : 20260904\n 0001193125-26-383722.hdr.sgml : 20260904\n 20260904163021\nACCESSION NUMBER: 0001193125-26-383722\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Trundle Stephen\n CENTRAL INDEX KEY: 0001643898\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-37461\n FILM NUMBER: 261362440\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ALARM.COM HOLDINGS, INC.\n STREET 2: 8281 GREENSBORO DRIVE, SUITE 100\n CITY: TYSONS\n STATE: VA\n ZIP: 22102\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Alarm.com Holdings, Inc.\n CENTRAL INDEX KEY: 0001459200\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-PREPACKAGED SOFTWARE [7372]\n ORGANIZATION NAME: 06 Technology\n EIN: 264247032\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 8281 GREENSBORO DRIVE\n STREET 2: SUITE 100\n CITY: TYSONS\n STATE: VA\n ZIP: 22102\n BUSINESS PHONE: 877-389-4033\n\n\tMAIL ADDRESS:\t\n STREET 1: 8281 GREENSBORO DRIVE\n STREET 2: SUITE 100\n CITY: TYSONS\n STATE: VA\n ZIP: 22102\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001459200 \n Alarm.com Holdings, Inc. \n ALRM \n \n \n\n \n \n 0001643898 \n Trundle Stephen \n \n \n false \n C/O ALARM.COM HOLDINGS, INC. \n 8281 GREENSBORO DRIVE SUITE 100 \n TYSONS \n VA \n 22102 \n \n \n \n true \n true \n false \n false \n Chief Executive Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n G \n false \n \n \n \n \n 2000 \n \n \n 0 \n \n \n D \n \n \n \n \n 322842 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n \n 1315343 \n \n \n \n \n I \n \n \n By LLC \n \n \n \n \n \n \n Common Stock \n \n \n \n 259687 \n \n \n \n \n I \n \n \n By Gift Trust \n \n \n \n \n \n \n Common Stock \n \n \n \n 9862 \n \n \n \n \n I \n \n \n By Footings Advancement Trust \n \n \n \n \n \n\n \n Represents a bona fide charitable contribution to a donor advised fund. No shares were sold by the Reporting Person. \n These shares are owned by Backbone Partners, LLC (&quot;Backbone&quot;). The Reporting Person has the sole power to vote and dispose of the shares held by Backbone. The Reporting Person disclaims beneficial ownership of the shares owned by Backbone except to the extent, if any, of his pecuniary interest therein. \n These shares are owned by the Stephen Trundle 2015 Gift Trust (the &quot;Trust&quot;). Certain members of the Reporting Person's immediate family are beneficiaries of the Trust. The Reporting Person disclaims beneficial ownership of the shares owned by the Trust except to the extent, if any, of his pecuniary interest therein. \n These shares are owned by the Footings Advancement Trust (the &quot;Advancement Trust&quot;). The Reporting Person has the sole power to vote and dispose of the shares held by the Advancement Trust and certain members of the Reporting Person's immediate family are beneficiaries. The Reporting Person disclaims beneficial ownership of the shares owned by the Advancement Trust except to the extent, if any, of his pecuniary interest therein. \n \n\n \n /s/ Daniel Ramos, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "6d7326564c827e2bd29013c22fbb07b17c9eb7f1a280bdf7883ab12bdf120648",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

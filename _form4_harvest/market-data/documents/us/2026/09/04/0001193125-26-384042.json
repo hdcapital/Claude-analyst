@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-384042",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1897557/0001193125-26-384042.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:36Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Barrow Robert",
+    "cik": "1897557"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Barrow Robert",
+  "content": {
+    "text": "0001193125-26-384042.txt : 20260904\n 0001193125-26-384042.hdr.sgml : 20260904\n 20260904213003\nACCESSION NUMBER: 0001193125-26-384042\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Barrow Robert\n CENTRAL INDEX KEY: 0001897557\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-40360\n FILM NUMBER: 261363184\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O MIND MEDICINE INC.\n STREET 2: ONE WORLD TRADE CENTER, SUITE 8500\n CITY: NEW YORK\n STATE: NY\n ZIP: 10007\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Definium Therapeutics, Inc.\n CENTRAL INDEX KEY: 0001813814\n STANDARD INDUSTRIAL CLASSIFICATION:\tMEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 000000000\n STATE OF INCORPORATION: A1\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: ONE WORLD TRADE CENTER\n STREET 2: SUITE 8500\n CITY: NEW YORK\n STATE: NY\n ZIP: 10007\n BUSINESS PHONE: 212-220-6633\n\n\tMAIL ADDRESS:\t\n STREET 1: ONE WORLD TRADE CENTER\n STREET 2: SUITE 8500\n CITY: NEW YORK\n STATE: NY\n ZIP: 10007\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tMind Medicine (MindMed) Inc.\n DATE OF NAME CHANGE:\t20200602\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001813814 \n Definium Therapeutics, Inc. \n DFTX \n \n \n\n \n \n 0001897557 \n Barrow Robert \n \n \n false \n C/O DEFINIUM THERAPEUTICS, INC. \n ONE WORLD TRADE CENTER, SUITE 8500 \n NEW YORK \n NY \n 10007 \n \n \n \n true \n true \n false \n false \n Chief Executive Officer \n \n \n\n true \n\n \n \n \n Common Shares \n \n \n 2026-09-02 \n \n \n 4 \n A \n false \n \n \n \n 40000 \n \n \n \n 0.00 \n \n \n A \n \n \n \n \n 1513663 \n \n \n \n \n \n D \n \n \n \n \n \n Common Shares \n \n \n 2026-09-03 \n \n \n 4 \n S \n false \n \n \n \n \n 19023 \n \n \n 37.94 \n \n \n \n D \n \n \n \n \n 1494640 \n \n \n \n \n D \n \n \n \n \n\n \n The common shares represent the first tranche of performance share units granted effective February 3, 2026. Each performance share unit represented a contingent right to receive one common share based on, and subject to, the achievement of certain clinical and regulatory milestones set forth in the Performance Share Unit Award Agreement. \n Amount includes 417 shares acquired under the Definium Therapeutics, Inc. 2024 Employee Share Purchase Plan on August 17, 2026. \n Represents the number of Common Shares sold to satisfy withholding tax obligations in connection with the settlement of vested performance restricted stock units, pursuant to sell-to-cover elections under a Rule 10b5-1 plan adopted on June 15, 2022 \n The reported price is a weighted average sales price. These shares were sold in multiple transactions on September 3, 2026 at prices ranging from $37.46 to $38.94. The Reporting Person undertakes to provide the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n \n\n \n /s/ Mark Sullivan, Attorney-in-Fact for Robert Barrow \n 2026-09-04",
+    "text_sha256": "37e404c5696eb9ccd4c6c4cd5785397342991537d9085da49823133d38b4f847",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

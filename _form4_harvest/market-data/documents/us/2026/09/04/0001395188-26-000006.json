@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001395188-26-000006",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1395188/0001395188-26-000006.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:46Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Brisbin Thomas Donald",
+    "cik": "1395188"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Brisbin Thomas Donald",
+  "content": {
+    "text": "0001395188-26-000006.txt : 20260904\n 0001395188-26-000006.hdr.sgml : 20260904\n 20260904174147\nACCESSION NUMBER: 0001395188-26-000006\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Brisbin Thomas Donald\n CENTRAL INDEX KEY: 0001395188\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-33076\n FILM NUMBER: 261362937\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O WILLDAN GROUP INC.\n STREET 2: 2401 EAST KATELLA AVENUE, SUITE 300\n CITY: ANAHEIM\n STATE: CA\n ZIP: 92806\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Willdan Group, Inc.\n CENTRAL INDEX KEY: 0001370450\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-ENGINEERING SERVICES [8711]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 141951112\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 0101\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 2401 EAST KATELLA AVENUE, SUITE 300\n CITY: ANAHEIM\n STATE: CA\n ZIP: 92806\n BUSINESS PHONE: 800-424-9144\n\n\tMAIL ADDRESS:\t\n STREET 1: 2401 EAST KATELLA AVENUE, SUITE 300\n CITY: ANAHEIM\n STATE: CA\n ZIP: 92806\n \n \n 4\n 1\n form4-09042026_090943.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0001370450 \n Willdan Group, Inc. \n WLDN \n \n \n\n \n \n 0001395188 \n Brisbin Thomas Donald \n \n \n false \n 2401 EAST KATELLA AVENUE \n SUITE 300 \n ANAHEIM \n CA \n 92806 \n \n \n \n true \n false \n false \n false \n \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n M \n 0 \n \n \n \n 58757 \n \n \n 16.27 \n \n \n A \n \n \n \n \n 155444 \n \n \n \n \n \n D \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n 58757 \n \n \n 88.14 \n \n \n \n D \n \n \n \n \n 96687 \n \n \n \n \n \n D \n \n \n \n \n \n \n \n\n \n \n \n Stock Options (Right to Buy) \n \n \n 16.27 \n \n \n 2026-09-03 \n \n \n 4 \n M \n 0 \n \n \n \n 58727 \n \n \n 0 \n \n \n D \n \n \n \n 2017-11-03 \n \n \n \n 2026-11-03 \n \n \n \n Common Stock \n \n \n 58727 \n \n \n \n \n 30979 \n \n \n \n \n D \n \n \n \n \n \n \n \n\n \n Includes 1,241 shares of restricted stock that vest on June 17, 2027. \n The price reported in Column 4 is the weighted average price. These shares were sold in multiple transactions at prices ranging from $88.05 to $88.49, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote (2). \n Stock options granted under the Willdan Group, Inc. Amended and Restated 2008 Performance Incentive Plan, which vested in three equal installments on each of November 3, 2017, November 3, 2018 and November 3, 2019. \n \n\n \n /s/ Creighton K. Early, Attorney-in-Fact for Thomas D. Brisbin \n 2026-09-04",
+    "text_sha256": "2a4fcf5a540a0a56bec9bd8d54cd6091e2b2dc6a8fe01c2d82d31f5ee0095418",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

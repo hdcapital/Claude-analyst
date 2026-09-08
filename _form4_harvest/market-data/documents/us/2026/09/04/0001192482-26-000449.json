@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001192482-26-000449",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1989738/0001192482-26-000449.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:46Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Brown David Lawrence",
+    "cik": "1989738"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Brown David Lawrence",
+  "content": {
+    "text": "0001192482-26-000449.txt : 20260904\n 0001192482-26-000449.hdr.sgml : 20260904\n 20260904160619\nACCESSION NUMBER: 0001192482-26-000449\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260904\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Brown David Lawrence\n CENTRAL INDEX KEY: 0001989738\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-08729\n FILM NUMBER: 261362178\n\n\tMAIL ADDRESS:\t\n STREET 1: 801 LAKEVIEW DRIVE\n STREET 2: SUITE 100\n CITY: BLUE BELL\n STATE: PA\n ZIP: 19422\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: UNISYS CORP\n CENTRAL INDEX KEY: 0000746838\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]\n ORGANIZATION NAME: 06 Technology\n EIN: 380387840\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 801 LAKEVIEW DRIVE, SUITE 100\n CITY: BLUE BELL\n STATE: PA\n ZIP: 19422\n BUSINESS PHONE: 2159864011\n\n\tMAIL ADDRESS:\t\n STREET 1: 801 LAKEVIEW DRIVE, SUITE 100\n CITY: BLUE BELL\n STATE: PA\n ZIP: 19422\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tBURROUGHS CORP /DE/\n DATE OF NAME CHANGE:\t19861204\n \n \n 4\n 1\n form4.xml\n STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-04 \n\n \n 0000746838 \n UNISYS CORP \n UIS \n \n \n\n \n \n 0001989738 \n Brown David Lawrence \n \n \n false \n C/O UNISYS CORPORATION \n 801 LAKEVIEW DRIVE, SUITE 100 \n BLUE BELL \n PA \n 19422 \n \n \n \n 0 \n 1 \n 0 \n 0 \n VP, CAO, Corporate Controller \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n S \n 0 \n \n \n \n 10553 \n \n \n 2.5362 \n \n \n \n D \n \n \n \n \n 103558 \n \n \n \n \n D \n \n \n \n \n\n \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $2.53 to $2.55, inclusive. The reporting person undertakes to provide to Unisys Corp., any security holder of Unisys Corp., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote (1) to this Form 4. \n \n\n \n /s/ Tina V. John, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "4d0ae3a80970164f2ebf90cda019256d963f52132b9c46c53feec8e54f9e66ee",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

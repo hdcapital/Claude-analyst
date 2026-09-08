@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001719998-26-000012",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/726958/0001719998-26-000012.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:52Z",
+  "company": {
+    "ticker": "CASY",
+    "exchange_qualified": null,
+    "name": "CASEYS GENERAL STORES INC",
+    "cik": "726958"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — CASEYS GENERAL STORES INC",
+  "content": {
+    "text": "0001719998-26-000012.txt : 20260904\n 0001719998-26-000012.hdr.sgml : 20260904\n 20260904182647\nACCESSION NUMBER: 0001719998-26-000012\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Spanos Mike\n CENTRAL INDEX KEY: 0001719998\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-34700\n FILM NUMBER: 261363038\n\n\tMAIL ADDRESS:\t\n STREET 1: 1 SE CONVENIENCE BLVD\n CITY: ANKENY\n STATE: IA\n ZIP: 50021\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: CASEYS GENERAL STORES INC\n CENTRAL INDEX KEY: 0000726958\n STANDARD INDUSTRIAL CLASSIFICATION:\tRETAIL-AUTO DEALERS & GASOLINE STATIONS [5500]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 420935283\n STATE OF INCORPORATION: IA\n FISCAL YEAR END: 0430\n\n\tBUSINESS ADDRESS:\t\n STREET 1: PO BOX 3001\n CITY: ANKENY\n STATE: IA\n ZIP: 50021\n BUSINESS PHONE: 515-965-6100\n\n\tMAIL ADDRESS:\t\n STREET 1: PO BOX 3001\n CITY: ANKENY\n STATE: IA\n ZIP: 50021\n \n \n 4\n 1\n wk-form4_1788560805.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000726958 \n CASEYS GENERAL STORES INC \n CASY \n \n \n\n \n \n 0001719998 \n Spanos Mike \n \n \n false \n 180 BEACH DRIVE NE \n UNIT 1902 \n ST. PETERSBURG \n FL \n 33701 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 326 \n \n \n 0 \n \n \n A \n \n \n \n \n 5084 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Restricted stock units \n \n \n \n \n \n 2026-09-02 \n \n \n 4 \n A \n 0 \n \n \n \n 220 \n \n \n 0 \n \n \n A \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 220 \n \n \n \n \n 220 \n \n \n \n \n D \n \n \n \n \n \n Restricted stock units \n \n \n \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 326 \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 326 \n \n \n \n \n 0 \n \n \n \n \n D \n \n \n \n \n\n \n Each restricted stock unit represents the right to receive, following vesting, one share of Common Stock. \n Non-employee director equity compensation pursuant to terms and conditions of 2025 Stock Incentive Plan. This award will vest in full on the date of Casey's 2027 annual shareholder's meeting. \n Non-employee director equity compensation pursuant to terms and conditions of 2025 Stock Incentive Plan. This award vested in full on the date of Casey's 2026 annual shareholder's meeting. \n \n\n \n\n \n Erika Bertrand, under Power of Attorney dated September 3, 2025 \n 2026-09-04",
+    "text_sha256": "a63820fb91b292ac4c87a9166ad83ffb3f2cf0bc6d4278b19ff98df2158da0aa",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001213900-26-097730",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1439124/0001213900-26-097730.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:15Z",
+  "company": {
+    "ticker": "AXIAY",
+    "exchange_qualified": null,
+    "name": "AXIA Energia S.A.",
+    "cik": "1439124"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — AXIA Energia S.A.",
+  "content": {
+    "text": "0001213900-26-097730.txt : 20260904\n 0001213900-26-097730.hdr.sgml : 20260904\n 20260904164951\nACCESSION NUMBER: 0001213900-26-097730\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260904\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Gualda Sampaio Araujo Camila\n CENTRAL INDEX KEY: 0002120268\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-34129\n FILM NUMBER: 261362652\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: AVENIDA GRACA ARANHA, NO. 26\n STREET 2: CENTRO\n CITY: RIO DE JANEIRO\n NON US STATE TERRITORY: RIO DE JANEIRO\n PROVINCE COUNTRY: D5\n ZIP: 20030-000\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: AXIA Energia S.A.\n CENTRAL INDEX KEY: 0001439124\n STANDARD INDUSTRIAL CLASSIFICATION:\tELECTRIC SERVICES [4911]\n ORGANIZATION NAME: 01 Energy & Transportation\n EIN: 000000000\n STATE OF INCORPORATION: D5\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: AVENIDA GRACA ARANHA, 26, 19TH FLOOR\n STREET 2: CENTRO\n CITY: RIO DE JANEIRO\n NON US STATE TERRITORY: RIO DE JANEIRO\n PROVINCE COUNTRY: D5\n ZIP: 20030900\n BUSINESS PHONE: 55 21 2514 6435\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: AVENIDA GRACA ARANHA, 26, 19TH FLOOR\n STREET 2: CENTRO\n CITY: RIO DE JANEIRO\n NON US STATE TERRITORY: RIO DE JANEIRO\n PROVINCE COUNTRY: D5\n ZIP: 20030900\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tBRAZILIAN ELECTRIC POWER CO\n DATE OF NAME CHANGE:\t20080702\n \n \n 4\n 1\n marketforms-73945.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-04 \n\n \n 0001439124 \n AXIA Energia S.A. \n AXIA3 \n AXIA7 \n \n\n \n \n 0002120268 \n Gualda Sampaio Araujo Camila \n \n \n true \n AVENIDA GRACA ARANHA, NO. 26 \n CENTRO \n RIO DE JANEIRO \n \n D5 \n 20030-000 \n BRAZIL \n \n \n false \n true \n false \n false \n See Remarks* \n \n \n \n\n 0 \n\n \n \n \n Common Shares \n \n \n 2026-09-04 \n \n \n \n 4 \n S \n false \n \n \n \n \n 10800 \n \n \n 10.74 \n \n \n \n D \n \n \n \n \n 109382 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n The price reported in column 4 is a weighted average price. The reporting person undertakes to provide to AXIA Energia S.A. (the &quot;Company&quot;), any security holder of the Company, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price. The weighted average price, $55.56 Brazilian reals (&quot;BRL&quot;) per share, has been converted to U.S. dollars (&quot;USD&quot;) using the U.S. Department of the Treasury Bureau of the Fiscal Service Treasury Reporting Rates of Exchange as of June 30, 2026 (the most recently published quarterly rate at the time of filing), at a rate of 5.1740 BRL per USD (fiscaldata.treasury.gov). Brokerage commissions and other costs of execution, if any, are excluded from the reported price. \n \n\n *Executive Vice-President of Governance, Risks, Compliance and Sustainability \n\n \n /s/ Camila Gualda Sampaio Araujo \n 2026-09-04",
+    "text_sha256": "6d2aa82d1098c51b5f2bca8d664715946402a54fd56fe37a1b9fc8a297d32353",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383696",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1018963/0001193125-26-383696.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:14Z",
+  "company": {
+    "ticker": "ATI",
+    "exchange_qualified": null,
+    "name": "ATI INC",
+    "cik": "1018963"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — ATI INC",
+  "content": {
+    "text": "0001193125-26-383696.txt : 20260904\n 0001193125-26-383696.hdr.sgml : 20260904\n 20260904162403\nACCESSION NUMBER: 0001193125-26-383696\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Morehouse David J\n CENTRAL INDEX KEY: 0001635153\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-12001\n FILM NUMBER: 261362349\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ATI INC.\n STREET 2: 2021 MCKINNEY AVENUE\n CITY: DALLAS\n STATE: TX\n ZIP: 75201\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: ATI INC\n CENTRAL INDEX KEY: 0001018963\n STANDARD INDUSTRIAL CLASSIFICATION:\tSTEEL PIPE & TUBES [3317]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 251792394\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1228\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 2021 MCKINNEY AVENUE\n CITY: DALLAS\n STATE: TX\n ZIP: 75201\n BUSINESS PHONE: 4123942800\n\n\tMAIL ADDRESS:\t\n STREET 1: 2021 MCKINNEY AVENUE\n CITY: DALLAS\n STATE: TX\n ZIP: 75201\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tALLEGHENY TECHNOLOGIES INC\n DATE OF NAME CHANGE:\t19991213\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tALLEGHENY TELEDYNE INC\n DATE OF NAME CHANGE:\t19960716\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001018963 \n ATI INC \n ATI \n \n \n\n \n \n 0001635153 \n Morehouse David J \n \n \n false \n C/O ATI INC. \n 2021 MCKINNEY AVENUE, SUITE 1100 \n DALLAS \n TX \n 75201 \n \n \n \n true \n false \n false \n false \n \n \n\n false \n\n \n \n \n Common Stock, par value $0.10 per share \n \n \n 2026-09-02 \n \n \n 4 \n S \n false \n \n \n \n 2485 \n \n \n 201.61 \n \n \n \n D \n \n \n \n \n 35826 \n \n \n \n \n D \n \n \n \n \n\n \n The price reported is a weighted average price. The shares were sold in multiple transactions at prices ranging from $201.56 to to $201.82. The reporting person undertakes to provide to the Issuer, its security holders and the Staff of the U.S. Securities and Exchange Commission (the &quot;SEC&quot;), upon request, full information regarding the number of shares sold at each specific price within the range reported. \n \n\n \n /s/ Amanda J. Skov, Attorney-in-Fact for David J. Morehouse \n 2026-09-04",
+    "text_sha256": "ccba3f5550e72797b556e341c3e3bf3877efa1331800ba58f92346a0faf0085e",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

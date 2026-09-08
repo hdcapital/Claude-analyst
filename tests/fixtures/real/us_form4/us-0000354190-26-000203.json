@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000354190-26-000203",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/354190/0000354190-26-000203.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:27Z",
+  "company": {
+    "ticker": "AJG",
+    "exchange_qualified": null,
+    "name": "Arthur J. Gallagher & Co.",
+    "cik": "354190"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Arthur J. Gallagher & Co.",
+  "content": {
+    "text": "0000354190-26-000203.txt : 20260904\n 0000354190-26-000203.hdr.sgml : 20260904\n 20260904172544\nACCESSION NUMBER: 0000354190-26-000203\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Hudson Scott R\n CENTRAL INDEX KEY: 0001482241\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-09761\n FILM NUMBER: 261362893\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ARTHUR J. GALLAGHER & CO.\n STREET 2: TWO PIERCE PLACE\n CITY: ITASCA\n STATE: IL\n ZIP: 60143\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Arthur J. Gallagher & Co.\n CENTRAL INDEX KEY: 0000354190\n STANDARD INDUSTRIAL CLASSIFICATION:\tINSURANCE AGENTS BROKERS & SERVICES [6411]\n ORGANIZATION NAME: 02 Finance\n EIN: 362151613\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 2850 GOLF ROAD\n CITY: ROLLING MEADOWS\n STATE: IL\n ZIP: 60008-4050\n BUSINESS PHONE: 630-773-3800\n\n\tMAIL ADDRESS:\t\n STREET 1: 2850 GOLF ROAD\n CITY: ROLLING MEADOWS\n STATE: IL\n ZIP: 60008-4050\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tARTHUR J. GALLAGHER & CO.\n DATE OF NAME CHANGE:\t20190819\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tGALLAGHER ARTHUR J & CO\n DATE OF NAME CHANGE:\t19920703\n \n \n 4\n 1\n form4.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0000354190 \n Arthur J. Gallagher & Co. \n AJG \n \n \n\n \n \n 0001482241 \n Hudson Scott R \n \n \n false \n 2850 GOLF ROAD \n \n ROLLING MEADOWS \n IL \n 60008-4002 \n \n \n \n 1 \n Vice President \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n \n 12000 \n \n \n 86.17 \n \n \n A \n \n \n \n \n 102262 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 12000 \n \n \n 264.133 \n \n \n \n D \n \n \n \n \n 90262 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n \n 411.467 \n \n \n \n \n I \n \n \n Gallagher 401(k) plan account \n \n \n \n \n\n \n \n \n Non-qualified Stock Option \n \n \n 86.17 \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n \n 12000 \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n 2027-03-12 \n \n \n \n Common Stock \n \n \n 12000 \n \n \n \n \n 12370 \n \n \n \n \n D \n \n \n \n \n \n Non-qualified Stock Option \n \n \n 127.90 \n \n \n \n \n \n 2028-03-16 \n \n \n \n Common Stock \n \n \n 23025 \n \n \n \n \n 23025 \n \n \n \n \n D \n \n \n \n \n \n Non-qualified Stock Option \n \n \n 228.20 \n \n \n \n \n \n 2033-03-01 \n \n \n \n Common Stock \n \n \n 15800 \n \n \n \n \n 15800 \n \n \n \n \n D \n \n \n \n \n \n Non-qualified Stock Option \n \n \n 158.56 \n \n \n \n \n \n 2029-03-15 \n \n \n \n Common Stock \n \n \n 11480 \n \n \n \n \n 11480 \n \n \n \n \n D \n \n \n \n \n \n Non-qualified Stock Option \n \n \n 337.74 \n \n \n \n \n \n \n 2032-03-01 \n \n \n \n Common Stock \n \n \n 10579 \n \n \n \n \n 10579 \n \n \n \n \n D \n \n \n \n \n \n Non-qualified Stock Option \n \n \n 243.54 \n \n \n \n \n \n 2031-03-01 \n \n \n \n Common Stock \n \n \n 10047 \n \n \n \n \n 10047 \n \n \n \n \n D \n \n \n \n \n \n Phantom Stock \n \n \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 3717.894 \n \n \n \n \n 3717.894 \n \n \n \n \n D \n \n \n \n \n \n Notional Stock Units \n \n \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 4134.7414 \n \n \n \n \n 4134.7414 \n \n \n \n \n D \n \n \n \n \n \n Non-qualified Stock Option \n \n \n 177.09 \n \n \n \n \n \n 2030-03-15 \n \n \n \n Common Stock \n \n \n 9558 \n \n \n \n \n 9558 \n \n \n \n \n D \n \n \n \n \n\n \n The price reported is an average weighted price. The shares were sold in multiple transactions on 9/2/2026 at prices ranging from $263.894 to $264.15. The reporting person will provide to the Securities and Exchange Commission staff, the issuer, or any security holder of the issuer, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in the footnotes to this Form 4. \n One-third of this stock option becomes exerciseable on each of the 3rd, 4th, and 5th anniversaries of the grant date. \n One-third of this stock option becomes exercisable on each of the 3rd, 4th, and 5th anniversaries of the grant date. \n Closing price of Gallagher common stock on February 28, 2025. \n One-third of this stock option becomes exercisable on each of the 3rd, 4th, and 5th anniversaries of the grant date. \n Each share of phantom stock represents a right to receive one share of Gallagher common stock. \n These shares represent awards under the Age 62 Plan, a nonqualified deferred compensation plan of the Company, which have been deemed invested in Company common stock at the election of the reporting person. Participants vest in these awards when they attain age 62, or after a one-year period for participants who have attained age 61. \n Each notional stock unit represents a right to receive one share of Gallagher common stock. \n The notional stock units become payable in July 2026 and following the reporting person's separation from service with Gallagher. \n One-third of this stock option becomes exercisable on each of the 3rd, 4th, and 5th anniversaries of the grant date. \n \n\n \n /s/ Monica Norzagaray, by power of attorney \n 2026-09-04",
+    "text_sha256": "0d881506930e7cee211e2d355d6342cfdd13c728970346af276a0dd5f30f7a96",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

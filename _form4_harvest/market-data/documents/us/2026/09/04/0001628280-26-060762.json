@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001628280-26-060762",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1184251/0001628280-26-060762.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:34Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "BLACHFORD ERIK C",
+    "cik": "1184251"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — BLACHFORD ERIK C",
+  "content": {
+    "text": "0001628280-26-060762.txt : 20260904\n 0001628280-26-060762.hdr.sgml : 20260904\n 20260904171919\nACCESSION NUMBER: 0001628280-26-060762\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: BLACHFORD ERIK C\n CENTRAL INDEX KEY: 0001184251\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-36853\n FILM NUMBER: 261362853\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ZILLOW GROUP, INC.\n STREET 2: 1301 SECOND AVENUE, FLOOR 36\n CITY: SEATTLE\n STATE: WA\n ZIP: 98101\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: ZILLOW GROUP, INC.\n CENTRAL INDEX KEY: 0001617640\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-BUSINESS SERVICES, NEC [7389]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 471645716\n STATE OF INCORPORATION: WA\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1301 SECOND AVENUE, FLOOR 36\n CITY: SEATTLE\n STATE: WA\n ZIP: 98101\n BUSINESS PHONE: (206) 470-7000\n\n\tMAIL ADDRESS:\t\n STREET 1: 1301 SECOND AVENUE, FLOOR 36\n CITY: SEATTLE\n STATE: WA\n ZIP: 98101\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tZebra Holdco Inc.\n DATE OF NAME CHANGE:\t20140822\n \n \n 4\n 1\n wk-form4_1788556757.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001617640 \n ZILLOW GROUP, INC. \n Z AND ZG \n \n \n\n \n \n 0001184251 \n BLACHFORD ERIK C \n \n \n false \n C/O ZILLOW GROUP, INC. \n 1301 SECOND AVENUE, FLOOR 36 \n SEATTLE \n WA \n 98101 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 1 \n\n \n \n \n Class C Capital Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n 792 \n \n \n \n 35.71 \n \n \n D \n \n \n \n \n 34160 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n The sale was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on March 4, 2026. \n \n\n \n\n \n /s/ Shannon Cartales Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "1966888b827683f48e8ae37feb981392231a7adff4afce09f7a53de2a7baa7f6",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

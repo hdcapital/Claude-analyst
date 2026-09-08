@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001709048-26-000230",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2112079/0001709048-26-000230.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:31Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Azar Samak L",
+    "cik": "2112079"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Azar Samak L",
+  "content": {
+    "text": "0001709048-26-000230.txt : 20260904\n 0001709048-26-000230.hdr.sgml : 20260904\n 20260904161654\nACCESSION NUMBER: 0001709048-26-000230\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Azar Samak L\n CENTRAL INDEX KEY: 0002112079\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-40974\n FILM NUMBER: 261362301\n\n\tMAIL ADDRESS:\t\n STREET 1: 400 STONEBREAK RD EXTENSION\n CITY: MALTA\n STATE: NY\n ZIP: 12020\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: GLOBALFOUNDRIES Inc.\n CENTRAL INDEX KEY: 0001709048\n STANDARD INDUSTRIAL CLASSIFICATION:\tSEMICONDUCTORS & RELATED DEVICES [3674]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 980604079\n STATE OF INCORPORATION: E9\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 400 STONEBREAK ROAD EXTENSION\n CITY: MALTA\n STATE: NY\n ZIP: 12020\n BUSINESS PHONE: (518) 305-9013\n\n\tMAIL ADDRESS:\t\n STREET 1: 400 STONEBREAK ROAD EXTENSION\n CITY: MALTA\n STATE: NY\n ZIP: 12020\n \n \n 4\n 1\n wk-form4_1788553011.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001709048 \n GLOBALFOUNDRIES Inc. \n GFS \n \n \n\n \n \n 0002112079 \n Azar Samak L \n \n \n false \n 400 STONE BREAK ROAD EXTENSION \n \n MALTA \n NY \n 12020 \n \n \n \n 0 \n 1 \n 0 \n 0 \n Chief Legal Officer \n \n \n\n 1 \n\n \n \n \n Ordinary Shares \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n 335 \n \n \n \n 43.24 \n \n \n D \n \n \n \n \n 10134 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n The sale reported in this Form 4 was effected pursuant to a Rule 10b5-1 trading plan adopted by the reporting person. \n \n\n \n\n \n /s/ Angela Corsilles, as Attorney-in-fact for Reporting Person \n 2026-09-04",
+    "text_sha256": "300a1c80ec81da0cf72a2c6ad91998acebe76e7e9455a7d6d408dded1d4bb9b2",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

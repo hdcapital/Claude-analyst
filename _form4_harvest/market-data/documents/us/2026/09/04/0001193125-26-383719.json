@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383719",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1978954/0001193125-26-383719.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:32Z",
+  "company": {
+    "ticker": "TBBB",
+    "exchange_qualified": null,
+    "name": "BBB FOODS INC",
+    "cik": "1978954"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — BBB FOODS INC",
+  "content": {
+    "text": "0001193125-26-383719.txt : 20260904\n 0001193125-26-383719.hdr.sgml : 20260904\n 20260904163009\nACCESSION NUMBER: 0001193125-26-383719\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Reich Sapire Rose Nicole Dominique\n CENTRAL INDEX KEY: 0002120515\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-41954\n FILM NUMBER: 261362423\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: AV. PDTE. MASARYK 8, POLANCO V SECC,\n STREET 2: MIGUEL HIDALGO\n CITY: MEXICO CITY\n PROVINCE COUNTRY: O5\n ZIP: 11560\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: BBB FOODS INC\n CENTRAL INDEX KEY: 0001978954\n STANDARD INDUSTRIAL CLASSIFICATION:\tRETAIL-GROCERY STORES [5411]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 000000000\n STATE OF INCORPORATION: D8\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: AV. PDTE. MASARYK 8, POLANCO V SECC,\n STREET 2: MIGUEL HIDALGO\n CITY: MEXICO CITY\n STATE: O5\n ZIP: 11560\n BUSINESS PHONE: 0012848521112\n\n\tMAIL ADDRESS:\t\n STREET 1: COMMERCE HOUSE, WICKHAMS CAY 1\n STREET 2: PO BOX 3140\n CITY: ROAD TOAWN\n STATE: D8\n ZIP: VG1110\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001978954 \n BBB FOODS INC \n TBBB \n \n \n\n \n \n 0002120515 \n Reich Sapire Rose Nicole Dominique \n \n \n true \n AV. PDTE. MASARYK 8 \n POLANCO V SECCION, MIGUEL HIDALGO \n MEXICO CITY \n \n O5 \n 11560 \n MEXICO \n \n \n true \n false \n false \n false \n \n \n\n false \n\n \n \n \n Class A Common Shares \n \n \n 2026-09-02 \n \n \n 4 \n S \n false \n \n \n \n 7623 \n \n \n 50.50 \n \n \n D \n \n \n \n \n 7623 \n \n \n \n \n D \n \n \n \n \n\n Due to the Issuer's status as a foreign private issuer pursuant to Rule 3a12-3(b) under the Securities Exchange Act of 1934 (the &quot;Act&quot;), the Reporting Person's transactions in the Issuer's equity securities are exempt from Sections 16(b) and 16(c) of the Act. \n\n \n /s/ Amparo Martinez Ruiz, as Attorney-In-Fact \n 2026-09-04",
+    "text_sha256": "9927b1426e7d25706154c100597597757385f21ca94129e70e8abb7a3e675ef8",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

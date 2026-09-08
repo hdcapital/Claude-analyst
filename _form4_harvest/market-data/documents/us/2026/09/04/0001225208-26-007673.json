@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001225208-26-007673",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2050054/0001225208-26-007673.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:40Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Bloch Laura J",
+    "cik": "2050054"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Bloch Laura J",
+  "content": {
+    "text": "0001225208-26-007673.txt : 20260904\n 0001225208-26-007673.hdr.sgml : 20260904\n 20260904114502\nACCESSION NUMBER: 0001225208-26-007673\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Bloch Laura J\n CENTRAL INDEX KEY: 0002050054\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-14817\n FILM NUMBER: 261360949\n\n\tMAIL ADDRESS:\t\n STREET 1: 777 106TH AVENUE NORTHEAST\n CITY: BELLEVUE\n STATE: WA\n ZIP: 98004\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: PACCAR INC\n CENTRAL INDEX KEY: 0000075362\n STANDARD INDUSTRIAL CLASSIFICATION:\tMOTOR VEHICLES & PASSENGER CAR BODIES [3711]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 910351110\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: PACCAR BUILDING\n STREET 2: 777 106TH AVENUE NE\n CITY: BELLEVUE\n STATE: WA\n ZIP: 98004\n BUSINESS PHONE: 425 468 7525\n\n\tMAIL ADDRESS:\t\n STREET 1: PACCAR BUILDING\n STREET 2: 777 106TH AVENUE NE\n CITY: BELLEVUE\n STATE: WA\n ZIP: 98004\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tPACIFIC CAR & FOUNDRY CO\n DATE OF NAME CHANGE:\t19720707\n \n \n 4\n 1\n doc4.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0000075362 \n PACCAR INC \n PCAR \n \n \n\n \n \n 0002050054 \n Bloch Laura J \n \n \n false \n 777 - 106TH AVE. N.E. \n \n BELLEVUE \n WA \n 98004 \n \n \n \n 1 \n Senior Vice President \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n J \n 0 \n \n \n \n \n 7.1080 \n \n \n 122.1300 \n \n \n A \n \n \n \n \n 2499.2770 \n \n \n \n \n I \n \n \n By PACCAR Savings Investment Plan (SIP) \n \n \n \n \n \n Common Stock \n \n \n \n 6745.0000 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Stock Option \n \n \n 71.9500 \n \n \n 2026-01-01 \n \n \n 2033-02-08 \n \n \n \n Common Stock \n \n \n 9668.0000 \n \n \n \n \n 9668.0000 \n \n \n \n \n D \n \n \n \n \n \n Stock Option \n \n \n 104.1600 \n \n \n 2027-01-01 \n \n \n 2034-02-05 \n \n \n \n Common Stock \n \n \n 7504.0000 \n \n \n \n \n 7504.0000 \n \n \n \n \n D \n \n \n \n \n \n Stock Option \n \n \n 109.1300 \n \n \n 2028-01-01 \n \n \n 2035-02-03 \n \n \n \n Common Stock \n \n \n 13588.0000 \n \n \n \n \n 13588.0000 \n \n \n \n \n D \n \n \n \n \n \n Stock Option \n \n \n 127.3500 \n \n \n 2029-01-01 \n \n \n 2036-02-06 \n \n \n \n Common Stock \n \n \n 13260.0000 \n \n \n \n \n 13260.0000 \n \n \n \n \n D \n \n \n \n \n \n Stock Units (LTIP) \n \n \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 5389.0000 \n \n \n \n \n 5389.0000 \n \n \n \n \n D \n \n \n \n \n\n \n Dividend on PACCAR Savings Investment Plan (SIP) shares reinvested pursuant to SIP. \n Restricted stock units held in deferred phantom stock account under Long Term Incentive Plan (LTIP) convertible to common stock on a one-for-one basis upon satisfaction of all applicable vesting conditions. \n \n\n \n Michael R. Beers, by Power of Attorney \n 2026-09-03",
+    "text_sha256": "51b8b040ac2255d447fb557e64bf13c6454e841ca0be7b512a61b3834a2a4bcf",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

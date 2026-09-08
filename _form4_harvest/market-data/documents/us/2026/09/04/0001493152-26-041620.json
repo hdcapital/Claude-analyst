@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001493152-26-041620",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2144102/0001493152-26-041620.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:48Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Byun Jeemyung",
+    "cik": "2144102"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Byun Jeemyung",
+  "content": {
+    "text": "0001493152-26-041620.txt : 20260904\n 0001493152-26-041620.hdr.sgml : 20260904\n 20260904183855\nACCESSION NUMBER: 0001493152-26-041620\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Byun Jeemyung\n CENTRAL INDEX KEY: 0002144102\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-34170\n FILM NUMBER: 261363058\n\n\tMAIL ADDRESS:\t\n STREET 1: 18390 NE 68TH STREET\n CITY: REDMOND\n STATE: WA\n ZIP: 98052\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: MICROVISION, INC.\n CENTRAL INDEX KEY: 0000065770\n STANDARD INDUSTRIAL CLASSIFICATION:\tELECTRONIC COMPONENTS, NEC [3679]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 911600822\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 18390 NE 68TH STREET\n CITY: REDMOND\n STATE: WA\n ZIP: 98052\n BUSINESS PHONE: 425-936-6847\n\n\tMAIL ADDRESS:\t\n STREET 1: 18390 NE 68TH STREET\n CITY: REDMOND\n STATE: WA\n ZIP: 98052\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tMICROVISION INC\n DATE OF NAME CHANGE:\t19960724\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000065770 \n MICROVISION, INC. \n MVIS \n \n \n\n \n \n 0002144102 \n Byun Jeemyung \n \n \n false \n 18390 NE 68TH STREET \n \n REDMOND \n WA \n 98052 \n \n \n \n 0 \n 1 \n 0 \n 0 \n Chief Commercial Officer \n \n \n \n\n 0 \n\n \n \n \n Restricted Stock Units \n \n \n 0.00 \n \n \n \n 2026-09-02 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 674536 \n \n \n 0.00 \n \n \n A \n \n \n \n \n \n \n \n \n \n \n Common stock \n \n \n 674536 \n \n \n \n \n 674536 \n \n \n \n \n D \n \n \n \n \n\n \n At vesting, restricted stock units, or RSUs, convert into shares of common stock on a unit-for-share basis, without payment. \n RSUs granted 09/02/2026 are scheduled to vest in four equal annual installments until fully vested on the anniversary of the date of hire, or 07/20/2027, 07/20/2028, 07/20/2029, and 7/20/2030, provided that the reporting person continues to serve through each vesting date. \n \n\n \n /s/ Drew G. Markham, attorney-in-fact for Jeemyung Byun \n 2026-09-04",
+    "text_sha256": "4f8944682757f82d8697c4708b9e10b22233a35fae6cac0cc8e22d46c98a3ac2",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

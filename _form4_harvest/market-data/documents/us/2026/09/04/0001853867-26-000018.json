@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001853867-26-000018",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1058290/0001853867-26-000018.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:53Z",
+  "company": {
+    "ticker": "CTSH",
+    "exchange_qualified": null,
+    "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+    "cik": "1058290"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+  "content": {
+    "text": "0001853867-26-000018.txt : 20260904\n 0001853867-26-000018.hdr.sgml : 20260904\n 20260904160328\nACCESSION NUMBER: 0001853867-26-000018\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Kim John Sunshin\n CENTRAL INDEX KEY: 0001853867\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-24429\n FILM NUMBER: 261362076\n\n\tMAIL ADDRESS:\t\n STREET 1: 300 FRANK W. BURR BLVD., STE. 36, 6FL.\n CITY: TEANECK\n STATE: NJ\n ZIP: 07666\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: COGNIZANT TECHNOLOGY SOLUTIONS CORP\n CENTRAL INDEX KEY: 0001058290\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-COMPUTER PROGRAMMING SERVICES [7371]\n ORGANIZATION NAME: 06 Technology\n EIN: 133728359\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 300 FRANK W. BURR BLVD., STE. 36, 6 FL.\n CITY: TEANECK\n STATE: NJ\n ZIP: 07666\n BUSINESS PHONE: 2018010233\n\n\tMAIL ADDRESS:\t\n STREET 1: 300 FRANK W. BURR BLVD., STE. 36, 6 FL.\n CITY: TEANECK\n STATE: NJ\n ZIP: 07666\n \n \n 4\n 1\n wk-form4_1788552205.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001058290 \n COGNIZANT TECHNOLOGY SOLUTIONS CORP \n CTSH \n \n \n\n \n \n 0001853867 \n Kim John Sunshin \n \n \n false \n C/O COGNIZANT TECHNOLOGY SOLUTIONS CORP. \n 300 FRANK W. BURR BLVD., STE. 36, 6 FL. \n TEANECK \n NJ \n 07666 \n \n \n \n 0 \n 1 \n 0 \n 0 \n CLO, CAO & Corporate Secretary \n \n \n\n 1 \n\n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 2500 \n \n \n 63.3723 \n \n \n \n D \n \n \n \n \n 39909 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n The sales reported on this Form 4 were executed pursuant to a Rule 10b5-1 trading plan adopted by the reporting person on May 4, 2026. \n The price reported is a weighted average price. These shares were sold in multiple transactions at prices ranging from $63.05 to $63.74, inclusive. The reporting person undertakes to provide to Cognizant Technology Solutions Corporation (the &quot;Company&quot;), any security holder of the Company, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote to this Form 4. \n \n\n \n\n \n /s/ Melissa Glass, on behalf of John Kim, by Power of Attorney \n 2026-09-04",
+    "text_sha256": "d141169d07367b20beaf1b80613c1295e12a8001a31a0bb8ff3e38b1f5b30ece",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

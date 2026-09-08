@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001197647-26-000009",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1197647/0001197647-26-000009.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:54Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "COXE TENCH",
+    "cik": "1197647"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — COXE TENCH",
+  "content": {
+    "text": "0001197647-26-000009.txt : 20260904\n 0001197647-26-000009.hdr.sgml : 20260904\n 20260904170035\nACCESSION NUMBER: 0001197647-26-000009\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: COXE TENCH\n CENTRAL INDEX KEY: 0001197647\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-23985\n FILM NUMBER: 261362728\n\n\tMAIL ADDRESS:\t\n STREET 1: 755 PAGE MILL ROAD, SUITE A-200\n CITY: PALO ALTO\n STATE: CA\n ZIP: 94304\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: NVIDIA CORP\n CENTRAL INDEX KEY: 0001045810\n STANDARD INDUSTRIAL CLASSIFICATION:\tSEMICONDUCTORS & RELATED DEVICES [3674]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 943177549\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 0131\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 2788 SAN TOMAS EXPRESSWAY\n CITY: SANTA CLARA\n STATE: CA\n ZIP: 95051\n BUSINESS PHONE: 408-486-2000\n\n\tMAIL ADDRESS:\t\n STREET 1: 2788 SAN TOMAS EXPRESSWAY\n CITY: SANTA CLARA\n STATE: CA\n ZIP: 95051\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tNVIDIA CORP/DE\n DATE OF NAME CHANGE:\t20020612\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tNVIDIA CORP/CA\n DATE OF NAME CHANGE:\t19980303\n \n \n 4\n 1\n wk-form4_1788555631.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001045810 \n NVIDIA CORP \n NVDA \n \n \n\n \n \n 0001197647 \n COXE TENCH \n \n \n false \n 755 PAGE MILL ROAD, SUITE A-200 \n \n PALO ALTO \n CA \n 94304-1005 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 1 \n\n \n \n \n Common \n \n \n 2026-09-02 \n \n \n 4 \n G \n 0 \n \n \n \n \n 500000 \n \n \n 0 \n \n \n \n D \n \n \n \n \n 24171360 \n \n \n \n \n I \n \n \n By Trust \n \n \n \n \n \n \n Common \n \n \n \n 57378 \n \n \n \n \n D \n \n \n \n \n \n Common \n \n \n \n 4852480 \n \n \n \n \n I \n \n \n By Profit Sharing Plan Trust \n \n \n \n \n \n\n \n\n \n The reported transaction was effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. \n Gift without consideration. \n Shares held by a trust of which the reporting person is a trustee. The reporting person disclaims beneficial ownership in these shares except as to the reporting person's pecuniary interest in the trust. \n Shares held by SHV Profit Sharing Plan, a retirement trust, for the benefit of the Reporting Person. \n \n\n \n\n \n /s/ Tina Ashcraft, Attorney-in-Fact for Tench Coxe \n 2026-09-04",
+    "text_sha256": "6a135405990ee185a9a1c8b25b61e616e20100e719051a65ee245d03060ae721",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

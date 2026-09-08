@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001497617-26-000007",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1828972/0001497617-26-000007.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:47Z",
+  "company": {
+    "ticker": "BZFDW",
+    "exchange_qualified": null,
+    "name": "BuzzFeed, Inc.",
+    "cik": "1828972"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — BuzzFeed, Inc.",
+  "content": {
+    "text": "0001497617-26-000007.txt : 20260904\n 0001497617-26-000007.hdr.sgml : 20260904\n 20260904170635\nACCESSION NUMBER: 0001497617-26-000007\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Rolle Janet L\n CENTRAL INDEX KEY: 0001497617\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-39877\n FILM NUMBER: 261362775\n\n\tMAIL ADDRESS:\t\n STREET 1: 75 WEST 125TH STREET\n CITY: NEW YORK\n STATE: NY\n ZIP: 10027\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: BuzzFeed, Inc.\n CENTRAL INDEX KEY: 0001828972\n STANDARD INDUSTRIAL CLASSIFICATION:\tCOMMUNICATION SERVICES, NEC [4899]\n ORGANIZATION NAME: 06 Technology\n EIN: 853022075\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 50 WEST 23RD STREET, 6TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10010\n BUSINESS PHONE: 646-397-2039\n\n\tMAIL ADDRESS:\t\n STREET 1: 50 WEST 23RD STREET, 6TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10010\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\t890 5th Avenue Partners, Inc.\n DATE OF NAME CHANGE:\t20201019\n \n \n 4\n 1\n wk-form4_1788555992.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001828972 \n BuzzFeed, Inc. \n BZFD \n \n \n\n \n \n 0001497617 \n Rolle Janet L \n \n \n false \n C/O BUZZFEED, INC. \n 50 W. 23RD STREET, 6TH FLOOR \n NEW YORK \n NY \n 10010 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 0 \n\n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 21701 \n \n \n \n 0 \n \n \n A \n \n \n \n \n 330073 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Restricted Stock Units \n \n \n \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 21701 \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n \n \n \n \n Class A Common Stock \n \n \n 21701 \n \n \n \n \n 65104 \n \n \n \n \n D \n \n \n \n \n\n \n 21,701 restricted stock units (&quot;RSUs&quot;) fully vested on September 2, 2026 and were settled in shares of the Issuer's Class A common stock. \n Each RSU represents a contingent right to receive one share of the Issuer's Class A common stock, subject to the Reporting Person's continued status as a service provider to the Issuer. \n 1/4 of the award vested on September 2, 2026. The remaining 65,104 RSUs vest ratably as to 1/4 of the total award of 86,805 RSUs on the 2nd of each December, March and June thereafter. \n These RSUs do not expire; they either vest or are cancelled prior to the vesting date. \n \n\n \n\n \n /s/ Fatima Santos as Attorney-in-Fact for Janet Rolle \n 2026-09-04",
+    "text_sha256": "a6899c88880c6c766d99167b05db07813ff465e412764bbe5d2c80b6acec89ec",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

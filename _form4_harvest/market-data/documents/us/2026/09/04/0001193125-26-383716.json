@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383716",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1776661/0001193125-26-383716.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:22Z",
+  "company": {
+    "ticker": "ADV",
+    "exchange_qualified": null,
+    "name": "Advantage Solutions Inc.",
+    "cik": "1776661"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Advantage Solutions Inc.",
+  "content": {
+    "text": "0001193125-26-383716.txt : 20260904\n 0001193125-26-383716.hdr.sgml : 20260904\n 20260904163004\nACCESSION NUMBER: 0001193125-26-383716\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Harsh Jeffrey Stephen\n CENTRAL INDEX KEY: 0002081864\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-38990\n FILM NUMBER: 261362414\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ADVANTAGE SOLUTIONS, INC.\n STREET 2: 7676 FORSYTH BOULEVARD, 5TH FLOOR\n CITY: ST. LOUIS\n STATE: MO\n ZIP: 63105\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Advantage Solutions Inc.\n CENTRAL INDEX KEY: 0001776661\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-BUSINESS SERVICES, NEC [7389]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 834629508\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: C/O ADVANTAGE SOLUTIONS, INC.\n STREET 2: 7676 FORSYTH BOULEVARD, 5TH FLOOR\n CITY: ST. LOUIS\n STATE: MO\n ZIP: 63105\n BUSINESS PHONE: (314) 655-9333\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ADVANTAGE SOLUTIONS, INC.\n STREET 2: 7676 FORSYTH BOULEVARD, 5TH FLOOR\n CITY: ST. LOUIS\n STATE: MO\n ZIP: 63105\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tConyers Park II Acquisition Corp.\n DATE OF NAME CHANGE:\t20190513\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001776661 \n Advantage Solutions Inc. \n ADV \n \n \n\n \n \n 0002081864 \n Harsh Jeffrey Stephen \n \n \n false \n C/O ADVANTAGE SOLUTIONS INC. \n 7676 FORSYTH BOULEVARD, FIFTH FLOOR \n ST. LOUIS \n MO \n 63105 \n \n \n \n false \n true \n false \n false \n COO, Branded Services \n \n \n\n false \n\n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n F \n false \n \n \n \n 530 \n \n \n \n 31.92 \n \n \n D \n \n \n \n \n 18173 \n \n \n \n \n D \n \n \n \n \n\n \n Represents shares withheld by the Company to satisfy tax withholding requirements on vesting of restricted stock units. \n \n\n \n /s/ Bryce Robinson, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "787656be7036c068e62b3c3ce3f9afc40ba47e608124982be9d478092584d964",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

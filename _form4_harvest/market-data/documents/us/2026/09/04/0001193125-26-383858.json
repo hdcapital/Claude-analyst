@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383858",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1653087/0001193125-26-383858.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:24Z",
+  "company": {
+    "ticker": "ALEC",
+    "exchange_qualified": null,
+    "name": "Alector, Inc.",
+    "cik": "1653087"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Alector, Inc.",
+  "content": {
+    "text": "0001193125-26-383858.txt : 20260904\n 0001193125-26-383858.hdr.sgml : 20260904\n 20260904174506\nACCESSION NUMBER: 0001193125-26-383858\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Wong-Sarad Grace\n CENTRAL INDEX KEY: 0002074667\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-38792\n FILM NUMBER: 261362949\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ALECTOR, INC.\n STREET 2: 131 OYSTER POINT BLVD., SUITE 600\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Alector, Inc.\n CENTRAL INDEX KEY: 0001653087\n STANDARD INDUSTRIAL CLASSIFICATION:\tBIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 822933343\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 131 OYSTER POINT BLVD., SUITE 600\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n BUSINESS PHONE: 415-231-5660\n\n\tMAIL ADDRESS:\t\n STREET 1: 131 OYSTER POINT BLVD., SUITE 600\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tAlector LLC\n DATE OF NAME CHANGE:\t20150915\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001653087 \n Alector, Inc. \n ALEC \n \n \n\n \n \n 0002074667 \n Wong-Sarad Grace \n \n \n false \n C/O ALECTOR, INC. \n 131 OYSTER POINT BLVD, SUITE 600 \n SOUTH SAN FRANCISCO \n CA \n 94080 \n \n \n \n false \n true \n false \n false \n Principal Accounting Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n false \n \n \n \n \n 656 \n \n \n 2.75 \n \n \n D \n \n \n \n \n 114805 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n false \n \n \n \n \n 5165 \n \n \n 2.6655 \n \n \n \n D \n \n \n \n \n 109640 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n S \n false \n \n \n \n 3625 \n \n \n \n 2.5088 \n \n \n \n D \n \n \n \n \n 106015 \n \n \n \n \n D \n \n \n \n \n\n \n The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 Trading Plan adopted by the reporting person on September 5, 2025. \n The reported shares were sold to satisfy the reporting person's tax obligations in connection with the vesting of restricted stock units, or RSUs. \n The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $2.49 to $2.75. Full information regarding the number of shares sold at each separate price can be furnished to the SEC staff, the issuer, or any security holder of the issuer upon request. \n The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $2.495 to $2.52. Full information regarding the number of shares sold at each separate price can be furnished to the SEC staff, the issuer, or any security holder of the issuer upon request. \n \n\n \n /s/Grace Wong-Sarad \n 2026-09-04",
+    "text_sha256": "d1070abaa888018bf2f83496d97a33c881d81b7cb0cee49fe790d75136bb990e",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

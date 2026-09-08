@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001336063-26-000006",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1323885/0001336063-26-000006.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:30Z",
+  "company": {
+    "ticker": "ATRC",
+    "exchange_qualified": null,
+    "name": "AtriCure, Inc.",
+    "cik": "1323885"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — AtriCure, Inc.",
+  "content": {
+    "text": "0001336063-26-000006.txt : 20260904\n 0001336063-26-000006.hdr.sgml : 20260904\n 20260904073929\nACCESSION NUMBER: 0001336063-26-000006\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Privitera Salvatore\n CENTRAL INDEX KEY: 0001336063\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-51470\n FILM NUMBER: 261360166\n\n\tMAIL ADDRESS:\t\n STREET 1: 7555 INNOVATION WAY\n CITY: MASON\n STATE: OH\n ZIP: 45040\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: AtriCure, Inc.\n CENTRAL INDEX KEY: 0001323885\n STANDARD INDUSTRIAL CLASSIFICATION:\tSURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 341940305\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 7555 INNOVATION WAY\n CITY: MASON\n STATE: OH\n ZIP: 45040\n BUSINESS PHONE: 513-755-4100\n\n\tMAIL ADDRESS:\t\n STREET 1: 7555 INNOVATION WAY\n CITY: MASON\n STATE: OH\n ZIP: 45040\n \n \n 4\n 1\n wk-form4_1788521967.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001323885 \n AtriCure, Inc. \n ATRC \n \n \n\n \n \n 0001336063 \n Privitera Salvatore \n \n \n false \n 7555 INNOVATION WAY \n \n MASON \n OH \n 45040-9695 \n \n \n \n 0 \n 1 \n 0 \n 0 \n Chief Technical Officer \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n 7763 \n \n \n \n 52.50 \n \n \n D \n \n \n \n \n 150921 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n These shares were sold pursuant to a 10b5-1 trading plan adopted on February 20, 2026. \n \n\n \n\n \n /s/ Salvatore Privitera \n 2026-09-04",
+    "text_sha256": "6e473ea6548b47a265665d6d5cb3841cde821c141154ccb07c25e897f23a3546",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

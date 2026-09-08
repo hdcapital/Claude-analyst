@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001689847-26-000004",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1584509/0001689847-26-000004.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:26Z",
+  "company": {
+    "ticker": "ARMK",
+    "exchange_qualified": null,
+    "name": "Aramark",
+    "cik": "1584509"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Aramark",
+  "content": {
+    "text": "0001689847-26-000004.txt : 20260904\n 0001689847-26-000004.hdr.sgml : 20260904\n 20260904162833\nACCESSION NUMBER: 0001689847-26-000004\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Tarangelo James J.\n CENTRAL INDEX KEY: 0001689847\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-36223\n FILM NUMBER: 261362399\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ARAMARK\n STREET 2: 1101 MARKET STREET\n CITY: PHILADELPHIA\n STATE: PA\n ZIP: 19107\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Aramark\n CENTRAL INDEX KEY: 0001584509\n STANDARD INDUSTRIAL CLASSIFICATION:\tRETAIL-EATING PLACES [5812]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 208236097\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1002\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 2400 MARKET STREET\n CITY: PHILADELPHIA\n STATE: PA\n ZIP: 19103\n BUSINESS PHONE: 215-238-3000\n\n\tMAIL ADDRESS:\t\n STREET 1: 2400 MARKET STREET\n CITY: PHILADELPHIA\n STATE: PA\n ZIP: 19103\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tARAMARK Holdings Corp\n DATE OF NAME CHANGE:\t20130815\n \n \n 4\n 1\n wk-form4_1788553710.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001584509 \n Aramark \n ARMK \n \n \n\n \n \n 0001689847 \n Tarangelo James J. \n \n \n false \n 2400 MARKET STREET \n \n PHILADELPHIA \n PA \n 19103 \n \n \n \n 0 \n 1 \n 0 \n 0 \n EVP and CFO \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n M \n 0 \n \n \n \n 8852 \n \n \n 24.58 \n \n \n A \n \n \n \n \n 69220.536 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n F \n 0 \n \n \n \n 6048 \n \n \n 56.81 \n \n \n \n D \n \n \n \n \n 63172.536 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Stock Option (Right to Buy) \n \n \n 24.58 \n \n \n 2026-09-03 \n \n \n 4 \n M \n 0 \n \n \n \n 8852 \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n 2026-11-18 \n \n \n \n Common Stock \n \n \n 8852 \n \n \n \n \n 0 \n \n \n \n \n D \n \n \n \n \n\n \n Represents a net exercise of a stock option expiring on November 18, 2026, in which shares of Common Stock were disposed to satisfy the payment of the exercise price and tax withholding obligations. \n These options are fully vested and were scheduled to expire on November 18, 2026. \n \n\n \n\n \n /s/ Ryan S. Spengler, as Attorney-in-fact \n 2026-09-04",
+    "text_sha256": "cea047d90fb471697c97e4b80a686be9f13f5598bd328d3ee4c633575ada8206",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

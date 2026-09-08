@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001323134-26-000022",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1323134/0001323134-26-000022.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:27Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Arduini Peter J",
+    "cik": "1323134"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Arduini Peter J",
+  "content": {
+    "text": "0001323134-26-000022.txt : 20260904\n 0001323134-26-000022.hdr.sgml : 20260904\n 20260904163923\nACCESSION NUMBER: 0001323134-26-000022\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Arduini Peter J\n CENTRAL INDEX KEY: 0001323134\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-41528\n FILM NUMBER: 261362566\n\n\tMAIL ADDRESS:\t\n STREET 1: 500 W. MONROE STREET\n CITY: CHICAGO\n STATE: IL\n ZIP: 60661\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: GE HealthCare Technologies Inc.\n CENTRAL INDEX KEY: 0001932393\n STANDARD INDUSTRIAL CLASSIFICATION:\tX-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS [3844]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 882515116\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 500 WEST MONROE STREET\n CITY: CHICAGO\n STATE: IL\n ZIP: 60661\n BUSINESS PHONE: 833-735-1139\n\n\tMAIL ADDRESS:\t\n STREET 1: 500 WEST MONROE STREET\n CITY: CHICAGO\n STATE: IL\n ZIP: 60661\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tGE Healthcare Holding LLC\n DATE OF NAME CHANGE:\t20220603\n \n \n 4\n 1\n wk-form4_1788554361.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001932393 \n GE HealthCare Technologies Inc. \n GEHC \n \n \n\n \n \n 0001323134 \n Arduini Peter J \n \n \n false \n 500 W. MONROE STREET \n \n CHICAGO \n IL \n 60661 \n \n \n \n 1 \n 1 \n 0 \n 0 \n President and CEO \n \n \n\n 0 \n\n \n \n \n Common Stock, par value $0.01 per share \n \n \n 2026-09-03 \n \n \n 4 \n F \n 0 \n \n \n \n 6303 \n \n \n \n 70.56 \n \n \n D \n \n \n \n \n 241606 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n Withholding of shares of GE HealthCare Technologies Inc. common stock to satisfy tax withholding obligations in connection with the vesting of restricted stock units. \n \n\n \n\n \n /s/ Frank R. Jimenez, General Counsel and Corporate Secretary, as attorney-in-fact \n 2026-09-04",
+    "text_sha256": "9bdf82950546c7cc9817b92a23b85f49bc54e86428e7ab2645626c6e2b907161",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

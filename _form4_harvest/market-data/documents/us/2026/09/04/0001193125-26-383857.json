@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383857",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1653087/0001193125-26-383857.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:24Z",
+  "company": {
+    "ticker": "ALEC",
+    "exchange_qualified": null,
+    "name": "Alector, Inc.",
+    "cik": "1653087"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Alector, Inc.",
+  "content": {
+    "text": "0001193125-26-383857.txt : 20260904\n 0001193125-26-383857.hdr.sgml : 20260904\n 20260904174503\nACCESSION NUMBER: 0001193125-26-383857\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Rosenthal Arnon\n CENTRAL INDEX KEY: 0001757770\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-38792\n FILM NUMBER: 261362947\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ALECTOR, INC.\n STREET 2: 151 OYSTER POINT BLVD., #300\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Alector, Inc.\n CENTRAL INDEX KEY: 0001653087\n STANDARD INDUSTRIAL CLASSIFICATION:\tBIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 822933343\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 131 OYSTER POINT BLVD., SUITE 600\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n BUSINESS PHONE: 415-231-5660\n\n\tMAIL ADDRESS:\t\n STREET 1: 131 OYSTER POINT BLVD., SUITE 600\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tAlector LLC\n DATE OF NAME CHANGE:\t20150915\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0001653087 \n Alector, Inc. \n ALEC \n \n \n\n \n \n 0001757770 \n Rosenthal Arnon \n \n \n false \n C/O ALECTOR, INC. \n 131 OYSTER POINT BLVD., SUITE 600 \n SOUTH SAN FRANCISCO \n CA \n 94080 \n \n \n \n true \n true \n false \n false \n Chief Executive Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n false \n \n \n \n \n 72606 \n \n \n 2.6647 \n \n \n \n D \n \n \n \n \n 2294600 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n \n 922875 \n \n \n \n \n I \n \n \n See footnote \n \n \n \n \n \n \n Common Stock \n \n \n \n 1002500 \n \n \n \n \n I \n \n \n See footnote \n \n \n \n \n \n \n Common Stock \n \n \n \n 1002500 \n \n \n \n \n I \n \n \n See footnote \n \n \n \n \n \n \n Common Stock \n \n \n \n 1002500 \n \n \n \n \n I \n \n \n See footnote \n \n \n \n \n \n\n \n The reported shares were sold to satisfy the reporting person's tax obligations in connection with the vesting of restricted stock units, or RSUs. \n The price reported in Column 4 is a weighted average price. The shares were sold in multiple transactions at prices ranging from $2.49 to $2.75. Full information regarding the number of shares sold at each separate price can be furnished to the SEC staff, the issuer, or any security holder of the issuer upon request. \n The reported securities are held directly by The Rosenthal Family Revocable Trust Dated November 4, 1994, as restated on June 9, 1999, for which the Reporting Person serves as trustee. \n The reported securities are held directly by the Adi Rosenthal 2007 Trust dated March 27, 2007, for which the Reporting Person serves as trustee. \n The reported securities are held directly by the Noam Rosenthal 2007 Trust dated March 27, 2007, for which the Reporting Person serves as trustee. \n The reported securities are held directly by the Shani Rosenthal 2007 Trust dated March 27, 2007, for which the Reporting Person serves as trustee. \n \n\n \n /s/ Grace Wong-Sarad, by power of attorney \n 2026-09-04",
+    "text_sha256": "30243edde8900e91c9d3d83eb73b2e257184ce90a64fa146ba17bf0ca18e919c",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

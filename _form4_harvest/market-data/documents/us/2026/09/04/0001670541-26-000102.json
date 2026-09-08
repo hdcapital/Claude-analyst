@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001670541-26-000102",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1670541/0001670541-26-000102.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:21Z",
+  "company": {
+    "ticker": "ADNT",
+    "exchange_qualified": null,
+    "name": "Adient plc",
+    "cik": "1670541"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Adient plc",
+  "content": {
+    "text": "0001670541-26-000102.txt : 20260904\n 0001670541-26-000102.hdr.sgml : 20260904\n 20260904161506\nACCESSION NUMBER: 0001670541-26-000102\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Carlin Peter\n CENTRAL INDEX KEY: 0001702459\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-37757\n FILM NUMBER: 261362259\n\n\tMAIL ADDRESS:\t\n STREET 1: 49200 HALYARD DRIVE\n CITY: PLYMOUTH\n STATE: MI\n ZIP: 48170\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Adient plc\n CENTRAL INDEX KEY: 0001670541\n STANDARD INDUSTRIAL CLASSIFICATION:\tMOTOR VEHICLE PARTS & ACCESSORIES [3714]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 000000000\n STATE OF INCORPORATION: L2\n FISCAL YEAR END: 0930\n\n\tBUSINESS ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: 25 NORTH WALL QUAY\n CITY: DUBLIN\n PROVINCE COUNTRY: L2\n BUSINESS PHONE: 1-734-254-5000\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: 25 NORTH WALL QUAY\n CITY: DUBLIN\n PROVINCE COUNTRY: L2\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tAdient Ltd\n DATE OF NAME CHANGE:\t20160328\n \n \n 4\n 1\n wk-form4_1788552901.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001670541 \n Adient plc \n ADNT \n \n \n\n \n \n 0001702459 \n Carlin Peter \n \n \n false \n 49200 HALYARD DRIVE \n \n PLYMOUTH \n MI \n 48170 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 0 \n\n \n \n \n Ordinary Shares \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n 7843 \n \n \n 19.25 \n \n \n \n D \n \n \n \n \n 38835 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n The price represents the weighted average price of the multiple transactions reported on this line. The shares were sold at prices ranging from $19.24 to $19.29. Upon request by the SEC staff, the issuer or any securityholder of the issuer, the reporting person will provide full information regarding the number of shares sold at each separate price. \n \n\n \n\n \n /s/ Brett L. Eilander, attorney-in-fact for Peter H. Carlin \n 2026-09-04",
+    "text_sha256": "fa12e4cb91ca5189e337a97d62ca0a342f3ceaaa65b0dc79e411652d9da17b96",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0002075251-26-000006",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2075251/0002075251-26-000006.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:43Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Bonanni Mark Emilio",
+    "cik": "2075251"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Bonanni Mark Emilio",
+  "content": {
+    "text": "0002075251-26-000006.txt : 20260904\n 0002075251-26-000006.hdr.sgml : 20260904\n 20260904204604\nACCESSION NUMBER: 0002075251-26-000006\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Bonanni Mark Emilio\n CENTRAL INDEX KEY: 0002075251\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-36367\n FILM NUMBER: 261363166\n\n\tMAIL ADDRESS:\t\n STREET 1: 90 PARK AVENUE\n STREET 2: FLOOR 9\n CITY: NEW YORK\n STATE: NY\n ZIP: 10016\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: OUTFRONT Media Inc.\n CENTRAL INDEX KEY: 0001579877\n STANDARD INDUSTRIAL CLASSIFICATION:\tREAL ESTATE INVESTMENT TRUSTS [6798]\n ORGANIZATION NAME: 05 Real Estate & Construction\n EIN: 000000000\n STATE OF INCORPORATION: MD\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 90 PARK AVENUE\n STREET 2: 9TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10016\n BUSINESS PHONE: 212-297-6400\n\n\tMAIL ADDRESS:\t\n STREET 1: 90 PARK AVENUE\n STREET 2: 9TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10016\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCBS OUTDOOR AMERICAS INC.\n DATE OF NAME CHANGE:\t20130621\n \n \n 4\n 1\n wk-form4_1788569162.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001579877 \n OUTFRONT Media Inc. \n OUT \n \n \n\n \n \n 0002075251 \n Bonanni Mark Emilio \n \n \n false \n C/O OUTFRONT MEDIA INC. \n 90 PARK AVENUE, 9TH FLOOR \n NEW YORK \n NY \n 10016 \n \n \n \n 0 \n 1 \n 0 \n 0 \n EVP, CRO, Commercial \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n 3385 \n \n \n 29.82 \n \n \n D \n \n \n \n \n 10420 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n\n \n\n \n /s/ Louis Capocasale, Attorney-in-fact for Mark E. Bonanni \n 2026-09-04",
+    "text_sha256": "ecfbe44e69b660ab3a048f49cbb3d037e8c3c0294a2259756e2d1ab924cea150",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001628280-26-060750",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1822523/0001628280-26-060750.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:21Z",
+  "company": {
+    "ticker": "AFCG",
+    "exchange_qualified": null,
+    "name": "Advanced Flower Capital Inc.",
+    "cik": "1822523"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Advanced Flower Capital Inc.",
+  "content": {
+    "text": "0001628280-26-060750.txt : 20260904\n 0001628280-26-060750.hdr.sgml : 20260904\n 20260904163727\nACCESSION NUMBER: 0001628280-26-060750\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: TANNENBAUM LEONARD M\n CENTRAL INDEX KEY: 0001200461\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t814-01950\n FILM NUMBER: 261362537\n\n\tMAIL ADDRESS:\t\n STREET 1: 525 OKEECHOBEE BLVD., SUITE 1650\n CITY: WEST PALM BEACH\n STATE: FL\n ZIP: 33401\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Advanced Flower Capital Inc.\n CENTRAL INDEX KEY: 0001822523\n STANDARD INDUSTRIAL CLASSIFICATION:\tUNKNOWN SIC - 0000 [0000]\n ORGANIZATION NAME: \n EIN: 851807125\n STATE OF INCORPORATION: MD\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 477 S. ROSEMARY AVE., SUITE 301\n CITY: WEST PALM BEACH\n STATE: FL\n ZIP: 33401\n BUSINESS PHONE: 561.510.2390\n\n\tMAIL ADDRESS:\t\n STREET 1: 477 S. ROSEMARY AVE., SUITE 301\n CITY: WEST PALM BEACH\n STATE: FL\n ZIP: 33401\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tAFC Gamma, Inc.\n DATE OF NAME CHANGE:\t20200825\n \n \n 4\n 1\n wk-form4_1788554245.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001822523 \n Advanced Flower Capital Inc. \n AFCG \n \n \n\n \n \n 0001200461 \n TANNENBAUM LEONARD M \n \n \n false \n 477 S. ROSEMARY AVE. \n SUITE 301 \n WEST PALM BEACH \n FL \n 33401 \n \n \n \n 1 \n 0 \n 1 \n 0 \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n P \n 0 \n \n \n \n 15223 \n \n \n 3.59 \n \n \n \n A \n \n \n \n \n 6849299 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n \n 226907 \n \n \n \n \n I \n \n \n Held by spouse \n \n \n \n \n \n \n Common Stock \n \n \n \n 180400 \n \n \n \n \n I \n \n \n See footnote \n \n \n \n \n \n\n \n\n \n This transaction was executed in multiple trades ranging from $3.55 to $3.59; the price reported reflects the weighted average price. The Reporting Person hereby undertakes to provide full information regarding the number of shares and prices at which the transactions were effected upon request to the SEC staff, the issuer, or any security holder of the issuer. \n The Reporting Person disclaims beneficial ownership of these securities, and this report shall not be deemed an admission that the Reporting Person is the beneficial owner of the securities for purposes of Section 16 or for any other purpose. \n These shares are held by the Tannenbaum Family Foundation (formerly known as the Leonard M. Tannenbaum Foundation), for which the Reporting Person serves as the President. The Reporting Person disclaims beneficial ownership of the reported securities except to the extent of his pecuniary interest. \n \n\n \n\n \n /s/ Gabriel A. Katz, as Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "b589ac82a342a9d889f545f2b4e7f32809a97ed237aa43f196330fd351293caf",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

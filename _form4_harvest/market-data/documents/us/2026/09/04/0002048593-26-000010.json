@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0002048593-26-000010",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1674632/0002048593-26-000010.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:39Z",
+  "company": {
+    "ticker": "BBNX",
+    "exchange_qualified": null,
+    "name": "Beta Bionics, Inc.",
+    "cik": "1674632"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Beta Bionics, Inc.",
+  "content": {
+    "text": "0002048593-26-000010.txt : 20260904\n 0002048593-26-000010.hdr.sgml : 20260904\n 20260904171925\nACCESSION NUMBER: 0002048593-26-000010\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Saint Sean\n CENTRAL INDEX KEY: 0002048593\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42491\n FILM NUMBER: 261362854\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O BETA BIONICS, INC.\n STREET 2: 11 HUGHES\n CITY: IRVINE\n STATE: CA\n ZIP: 92618\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Beta Bionics, Inc.\n CENTRAL INDEX KEY: 0001674632\n STANDARD INDUSTRIAL CLASSIFICATION:\tSURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 475386878\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 11 HUGHES\n CITY: IRVINE\n STATE: CA\n ZIP: 92618\n BUSINESS PHONE: 949-427-7785\n\n\tMAIL ADDRESS:\t\n STREET 1: 11 HUGHES\n CITY: IRVINE\n STATE: CA\n ZIP: 92618\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tBeta Bionics, Inc\n DATE OF NAME CHANGE:\t20160513\n \n \n 4\n 1\n form4-09042026_090921.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0001674632 \n Beta Bionics, Inc. \n BBNX \n \n \n\n \n \n 0002048593 \n Saint Sean \n \n \n false \n C/O BETA BIONICS, INC. \n 11 HUGHES \n IRVINE \n CA \n 92618 \n \n \n \n true \n true \n false \n false \n President & CEO \n \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 5641 \n \n \n 20.0778 \n \n \n \n D \n \n \n \n \n 398429 \n \n \n \n \n D \n \n \n \n \n \n \n \n\n \n\n \n Represents shares sold pursuant to a Rule 10b5-1 Plan adopted on September 5, 2025. \n The weighted average sale price for the transaction reported was $20.0778 and the range of prices were between $20.00 and $20.1696. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of shares sold at each separate price will be provided. \n \n\n \n /s/ Stephen Feider, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "4b1b7e9729640565e9569aa4786bcf6724fa2e17c9cf8487e8b3ed2a40934ce2",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

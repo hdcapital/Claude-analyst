@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383619",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1817241/0001193125-26-383619.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:28Z",
+  "company": {
+    "ticker": "ARTV",
+    "exchange_qualified": null,
+    "name": "Artiva Biotherapeutics, Inc.",
+    "cik": "1817241"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Artiva Biotherapeutics, Inc.",
+  "content": {
+    "text": "0001193125-26-383619.txt : 20260904\n 0001193125-26-383619.hdr.sgml : 20260904\n 20260904160314\nACCESSION NUMBER: 0001193125-26-383619\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Banerjee Subhashis\n CENTRAL INDEX KEY: 0002065633\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42179\n FILM NUMBER: 261362071\n\n\tMAIL ADDRESS:\t\n STREET 1: 5505 MOREHOUSE DRIVE, SUITE 100\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92121\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Artiva Biotherapeutics, Inc.\n CENTRAL INDEX KEY: 0001817241\n STANDARD INDUSTRIAL CLASSIFICATION:\tBIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 863614316\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 5505 MOREHOUSE DRIVE\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92121\n BUSINESS PHONE: (858) 267-4467\n\n\tMAIL ADDRESS:\t\n STREET 1: 5505 MOREHOUSE DRIVE\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92121\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0001817241 \n Artiva Biotherapeutics, Inc. \n ARTV \n \n \n\n \n \n 0002065633 \n Banerjee Subhashis \n \n \n false \n C/O ARTIVA BIOTHERAPEUTICS, INC. \n 5505 MOREHOUSE DRIVE, SUITE 100 \n SAN DIEGO \n CA \n 92121 \n \n \n \n false \n true \n false \n false \n Chief Medical Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n false \n \n \n \n 1100 \n \n \n \n 11.1556 \n \n \n D \n \n \n \n \n 140947 \n \n \n \n \n D \n \n \n \n \n\n \n The Issuer has adopted a 'sell-to-cover' policy to satisfy the tax withholding obligations of the Reporting Person. The sales reported on this Form 4 represent the number of shares required to be sold by the Reporting Person to cover tax withholding obligations in connection with the vesting and release of restricted stock units. Such sales were automatic and not at the discretion of the Reporting Person. \n \n\n \n /s/ Andrew Cronauer, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "b477e8396f1e13c4dd705d3740fa47caa15c3a280f001498c82d891cc02a4227",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

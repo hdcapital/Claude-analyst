@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001477932-26-005431",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1921865/0001477932-26-005431.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:13Z",
+  "company": {
+    "ticker": "ASPI",
+    "exchange_qualified": null,
+    "name": "ASP Isotopes Inc.",
+    "cik": "1921865"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — ASP Isotopes Inc.",
+  "content": {
+    "text": "0001477932-26-005431.txt : 20260904\n 0001477932-26-005431.hdr.sgml : 20260904\n 20260904213221\nACCESSION NUMBER: 0001477932-26-005431\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Ainscow Robert\n CENTRAL INDEX KEY: 0001951275\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-41555\n FILM NUMBER: 261363188\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ASP ISOTOPES INC.\n STREET 2: 1101 PENNSYLVANIA AVENUE NW, SUITE 300\n CITY: WASHINGTON DC\n STATE: DC\n ZIP: 20004\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: ASP Isotopes Inc.\n CENTRAL INDEX KEY: 0001921865\n STANDARD INDUSTRIAL CLASSIFICATION:\tMISCELLANEOUS CHEMICAL PRODUCTS [2890]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 872618235\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 2200 ROSS AVENUE, SUITE 4575E\n CITY: DALLAS\n STATE: TX\n ZIP: 75201\n BUSINESS PHONE: 202-756-2245\n\n\tMAIL ADDRESS:\t\n STREET 1: 2200 ROSS AVENUE, SUITE 4575E\n CITY: DALLAS\n STATE: TX\n ZIP: 75201\n \n \n 4\n 1\n form4.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02-05:00 \n\n false \n\n \n 0001921865 \n ASP Isotopes Inc. \n ASPI \n \n \n\n \n \n 0001951275 \n Ainscow Robert \n \n \n false \n C/O ASP ISOTOPES INC. \n 2200 ROSS AVENUE, SUITE 4575E \n DALLAS \n TX \n 75201 \n \n \n \n false \n true \n false \n false \n COO \n \n \n\n true \n\n \n \n \n Common Stock \n \n \n 2026-09-02-05:00 \n \n \n \n 4 \n S \n false \n \n \n \n \n 25000 \n \n \n 3.905 \n \n \n \n D \n \n \n \n \n 2256879 \n \n \n \n \n D \n \n \n \n \n\n \n Represents sales effected pursuant to a Rule 10b5-1 trading plan adopted by the filing person on December 13, 2024. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $3.75 to $3.96, inclusive. The reporting person undertakes to provide ASP Isotopes Inc. (the &quot;Company&quot;), any stockholder of the Company, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in Footnote 2. \n \n\n \n /s/ Donald Ainscow, as attorney-in-fact \n 2026-09-04",
+    "text_sha256": "713f3c2f0b5fbb9ae7c65016519e4db35db6ea39b22088b5370d1d02cbe67ff2",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

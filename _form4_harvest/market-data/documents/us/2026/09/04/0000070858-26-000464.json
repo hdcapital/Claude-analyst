@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000070858-26-000464",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/70858/0000070858-26-000464.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:32Z",
+  "company": {
+    "ticker": "BML-PJ",
+    "exchange_qualified": null,
+    "name": "BANK OF AMERICA CORP /DE/",
+    "cik": "70858"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — BANK OF AMERICA CORP /DE/",
+  "content": {
+    "text": "0000070858-26-000464.txt : 20260904\n 0000070858-26-000464.hdr.sgml : 20260904\n 20260904182900\nACCESSION NUMBER: 0000070858-26-000464\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260310\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Okpara Johnbull\n CENTRAL INDEX KEY: 0001833084\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-06523\n FILM NUMBER: 261363039\n\n\tMAIL ADDRESS:\t\n STREET 1: 388 GREENWICH STREET\n CITY: NEW YORK\n STATE: NY\n ZIP: 10013\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: BANK OF AMERICA CORP /DE/\n CENTRAL INDEX KEY: 0000070858\n STANDARD INDUSTRIAL CLASSIFICATION:\tNATIONAL COMMERCIAL BANKS [6021]\n ORGANIZATION NAME: 02 Finance\n EIN: 560906609\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: BANK OF AMERICA CORPORATE CENTER\n STREET 2: 100 N TRYON ST\n CITY: CHARLOTTE\n STATE: NC\n ZIP: 28255\n BUSINESS PHONE: 7043868486\n\n\tMAIL ADDRESS:\t\n STREET 1: BANK OF AMERICA CORPORATE CENTER\n STREET 2: 100 N TRYON ST\n CITY: CHARLOTTE\n STATE: NC\n ZIP: 28255\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tBANKAMERICA CORP/DE/\n DATE OF NAME CHANGE:\t19981022\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tNATIONSBANK CORP\n DATE OF NAME CHANGE:\t19920703\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tNCNB CORP\n DATE OF NAME CHANGE:\t19920107\n \n \n 4\n 1\n form4.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-03-10 \n\n \n 0000070858 \n BANK OF AMERICA CORP /DE/ \n BAC \n \n \n\n \n \n 0001833084 \n Okpara Johnbull \n \n \n false \n 100 NORTH TRYON STREET \n \n CHARLOTTE \n NC \n 28255 \n \n \n \n 1 \n Chief Accounting Officer \n \n \n\n 0 \n\n \n \n \n Preferred Stock, Series DD \n \n \n \n 2026-03-10 \n \n \n 4 \n J \n 0 \n \n \n \n \n \n 50 \n \n \n 1000.00 \n \n \n D \n \n \n \n \n 0 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n \n 27749 \n \n \n \n \n D \n \n \n \n \n\n \n Depositary shares of Preferred Stock, Series DD each representing a 1/25th interest in a share. \n All shares and depositary shares of Preferred Stock, Series DD were redeemed by the issuer, including the reported securities. The reported securities were called for redemption by the issuer at a price of $1,000.00 per depositary share. The redemption price did not include any accrued and unpaid dividends. Dividends on the redeemed depositary shares ceased to accrue on the redemption date. \n \n\n \n Johnbull Okpara / Michael P. Lapp POA \n 2026-09-04",
+    "text_sha256": "523c4f1b13ea33bd8d5c6d2fa35d65180cd1bdc5dc3ae1174f446716115e2506",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

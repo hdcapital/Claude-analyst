@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000922147-26-000022",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/879585/0000922147-26-000022.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:14Z",
+  "company": {
+    "ticker": "ATNI",
+    "exchange_qualified": null,
+    "name": "ATN International, Inc.",
+    "cik": "879585"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — ATN International, Inc.",
+  "content": {
+    "text": "0000922147-26-000022.txt : 20260904\n 0000922147-26-000022.hdr.sgml : 20260904\n 20260904150005\nACCESSION NUMBER: 0000922147-26-000022\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: PRIOR CORNELIUS B JR\n CENTRAL INDEX KEY: 0000922147\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-12593\n FILM NUMBER: 261361789\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O ATN INTERNATIONAL, INC.\n STREET 2: 500 CUMMINGS CENTER\n CITY: BEVERLY\n STATE: MA\n ZIP: 01915\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: ATN International, Inc.\n CENTRAL INDEX KEY: 0000879585\n STANDARD INDUSTRIAL CLASSIFICATION:\tTELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]\n ORGANIZATION NAME: 06 Technology\n EIN: 470728886\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 500 CUMMINGS CENTER\n CITY: BEVERLY\n STATE: MA\n ZIP: 01915\n BUSINESS PHONE: 9786191300\n\n\tMAIL ADDRESS:\t\n STREET 1: 500 CUMMINGS CENTER\n CITY: BEVERLY\n STATE: MA\n ZIP: 01915\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tATLANTIC TELE NETWORK INC /DE\n DATE OF NAME CHANGE:\t19930328\n \n \n 4\n 1\n form4-09042026_030901.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0000879585 \n ATN International, Inc. \n ATNI \n \n \n\n \n \n 0000922147 \n PRIOR CORNELIUS B JR \n \n \n false \n C/O ATN INTERNATIONAL, INC. \n 500 CUMMINGS CENTER \n BEVERLY \n MA \n 01915 \n \n \n \n false \n false \n true \n false \n \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n 2582 \n \n \n 31.1192 \n \n \n D \n \n \n \n \n 34583 \n \n \n \n \n I \n \n \n By VI E-Cell Tropical Telecom Ltd \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n 4542 \n \n \n 31.0177 \n \n \n D \n \n \n \n \n 30041 \n \n \n \n \n I \n \n \n By VI E-Cell Tropical Telecom Ltd \n \n \n \n \n \n Common Stock \n \n \n \n 3982303 \n \n \n \n \n D \n \n \n \n \n \n \n \n \n Common Stock \n \n \n \n 500 \n \n \n \n \n I \n \n \n By: Wife \n \n \n \n \n \n Common Stock \n \n \n \n 8227 \n \n \n \n \n I \n \n \n By Tropical Aircraft Co. \n \n \n \n \n\n \n\n \n\n \n /s/ Andy Fienberg , Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "3ab83d309b9d27a2b317c120297ca962e90e394d45fa3247ea9f1b3d6089c358",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

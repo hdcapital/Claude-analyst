@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000932781-26-000047",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1427814/0000932781-26-000047.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:37Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Been Jonathan W",
+    "cik": "1427814"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Been Jonathan W",
+  "content": {
+    "text": "0000932781-26-000047.txt : 20260904\n 0000932781-26-000047.hdr.sgml : 20260904\n 20260904181541\nACCESSION NUMBER: 0000932781-26-000047\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Been Jonathan W\n CENTRAL INDEX KEY: 0001427814\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-28344\n FILM NUMBER: 261363026\n\n\tMAIL ADDRESS:\t\n STREET 1: 3137 CHESTNUT DRIVE\n CITY: CHAMBLEE\n STATE: GA\n ZIP: 30340\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: FIRST COMMUNITY CORP /SC/\n CENTRAL INDEX KEY: 0000932781\n STANDARD INDUSTRIAL CLASSIFICATION:\tSTATE COMMERCIAL BANKS [6022]\n ORGANIZATION NAME: 02 Finance\n EIN: 571010751\n STATE OF INCORPORATION: SC\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 5455 SUNSET BLVD\n CITY: LEXINGTON\n STATE: SC\n ZIP: 29072\n BUSINESS PHONE: 8039512265\n\n\tMAIL ADDRESS:\t\n STREET 1: 5455 SUNSET BLVD\n CITY: LEXINGTON\n STATE: SC\n ZIP: 29072\n \n \n 4\n 1\n primary_doc.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0000932781 \n FIRST COMMUNITY CORP /SC/ \n FCCO \n \n\n \n \n 0001427814 \n Been Jonathan W \n \n \n false \n C/O FIRST COMMUNITY CORPORATION \n 5455 SUNSET BLVD \n LEXINGTON \n SC \n 29072 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n \n \n 14800 \n \n \n 34.05 \n \n \n \n D \n \n \n \n \n 120655 \n \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n \n 154018 \n \n \n \n \n I \n \n \n By the Shiver Higbee Legacy Trust \n \n \n \n \n \n Common Stock \n \n \n \n 30401 \n \n \n \n \n I \n \n \n By the Katherine Smith Been Trust \n \n \n \n \n \n Common Stock \n \n \n \n 30401 \n \n \n \n \n I \n \n \n By the Jonathan W. Been, Jr. Trust \n \n \n \n \n \n Common Stock \n \n \n \n 10174 \n \n \n \n \n I \n \n \n By Mr. Been's Spouse \n \n \n \n \n \n Common Stock \n \n \n \n 1144 \n \n \n \n \n I \n \n \n By the Katherine Smith Been Trust, Susan B. Been Trustee \n \n \n \n \n\n \n Price range of $33.77 to $34.19 with a weighted average price of $34.05. \n Includes 1,067 deferred stock units under the First Community Corporation Amended and Restated Non-Employee Director Deferred Compensation Plan (the &quot;Plan&quot;). Deferred stock units under the Plan receive dividend equivalents in the form of additional deferred stock units, and shares of First Community Corporation common stock will be issued on a one-for-one basis in respect of deferred stock units upon a distribution from the Plan \n \n\n \n /s/ D. SHAWN JORDAN BY POA FROM JON WILSON BEEN \n 2026-09-04",
+    "text_sha256": "2dc998ade34046497a8e4366c4a7d9b6dc19608fb1178378f3b870de514c2be7",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001708636-26-000004",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1708636/0001708636-26-000004.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:37Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Bement Kenneth B",
+    "cik": "1708636"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Bement Kenneth B",
+  "content": {
+    "text": "0001708636-26-000004.txt : 20260904\n 0001708636-26-000004.hdr.sgml : 20260904\n 20260904165029\nACCESSION NUMBER: 0001708636-26-000004\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Bement Kenneth B\n CENTRAL INDEX KEY: 0001708636\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-14845\n FILM NUMBER: 261362654\n\n\tMAIL ADDRESS:\t\n STREET 1: 262 N. UNIVERSITY DR.\n CITY: FARMINGTON\n STATE: UT\n ZIP: 84025\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: TRIMBLE INC.\n CENTRAL INDEX KEY: 0000864749\n STANDARD INDUSTRIAL CLASSIFICATION:\tMEASURING & CONTROLLING DEVICES, NEC [3829]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 942802192\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 0102\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 10368 WESTMOOR DR\n CITY: WESTMINSTER\n STATE: CO\n ZIP: 80021\n BUSINESS PHONE: (720) 887-6100\n\n\tMAIL ADDRESS:\t\n STREET 1: 10368 WESTMOOR DR\n CITY: WESTMINSTER\n STATE: CO\n ZIP: 80021\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tTRIMBLE NAVIGATION LTD /CA/\n DATE OF NAME CHANGE:\t19930328\n \n \n 4\n 1\n wk-form4_1788555026.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000864749 \n TRIMBLE INC. \n TRMB \n \n \n\n \n \n 0001708636 \n Bement Kenneth B \n \n \n false \n 10368 WESTMOOR DRIVE \n \n WESTMINSTER \n CO \n 80021 \n \n \n \n 0 \n 1 \n 0 \n 0 \n Chief Accounting Officer \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 4056 \n \n \n 58.94 \n \n \n A \n \n \n \n \n 4397.816 \n \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n F \n 0 \n \n \n \n 1167 \n \n \n 58.94 \n \n \n D \n \n \n \n \n 3230.816 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Restricted Stock Unit \n \n \n 0 \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 4056 \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n 2028-09-02 \n \n \n \n Common Stock \n \n \n 4056 \n \n \n \n \n 8114 \n \n \n \n \n D \n \n \n \n \n\n \n Includes 182.722 shares acquired on August 31, 2026 under the Amended and Restated Employee Stock Purchase Plan. \n 33.3% of these restricted stock units will vest annually over a 3 year period from vest commencement date of September 2, 2025. \n \n\n \n\n \n /s/ Paul Rimas, as Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "84175dcd4b122ccb763204cf500dd8651ee73f5412a11c82aa8be734a8d61d2a",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

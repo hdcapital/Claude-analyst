@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383702",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2147797/0001193125-26-383702.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:18Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Adams Robert Potter",
+    "cik": "2147797"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Adams Robert Potter",
+  "content": {
+    "text": "0001193125-26-383702.txt : 20260904\n 0001193125-26-383702.hdr.sgml : 20260904\n 20260904162700\nACCESSION NUMBER: 0001193125-26-383702\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Adams Robert Potter\n CENTRAL INDEX KEY: 0002147797\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-32936\n FILM NUMBER: 261362377\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O HORNBECK OFFSHORE SERVICES INC.\n STREET 2: 103 NORTHPARK BOULEVARD, SUITE 300\n CITY: COVINGTON\n STATE: LA\n ZIP: 70433\n\n\tFORMER NAME:\t\n FORMER CONFORMED NAME:\tAdams Potter\n DATE OF NAME CHANGE:\t20260728\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: HORNBECK OFFSHORE SERVICES, INC.\n CENTRAL INDEX KEY: 0000866829\n STANDARD INDUSTRIAL CLASSIFICATION:\tOIL, GAS FIELD SERVICES, NBC [1389]\n ORGANIZATION NAME: 01 Energy & Transportation\n EIN: 953409686\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 103 NORTHPARK BOULEVARD\n STREET 2: SUITE 300\n CITY: COVINGTON\n STATE: LA\n ZIP: 70433\n BUSINESS PHONE: 985-727-2000\n\n\tMAIL ADDRESS:\t\n STREET 1: 103 NORTHPARK BOULEVARD\n STREET 2: SUITE 300\n CITY: COVINGTON\n STATE: LA\n ZIP: 70433\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tHELIX ENERGY SOLUTIONS GROUP INC\n DATE OF NAME CHANGE:\t20060309\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCAL DIVE INTERNATIONAL INC\n DATE OF NAME CHANGE:\t19960821\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0000866829 \n HORNBECK OFFSHORE SERVICES, INC. \n HOS \n \n \n\n \n \n 0002147797 \n Adams Robert Potter \n \n \n false \n 103 NORTHPARK BOULEVARD, SUITE 300 \n \n COVINGTON \n LA \n 70433 \n \n \n \n false \n true \n false \n false \n See Remarks \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n A \n false \n \n \n \n 40000 \n \n \n \n 0 \n \n \n A \n \n \n \n \n 180834 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Stock Option (right to buy) \n \n \n 10.60 \n \n \n 2026-09-02 \n \n \n 4 \n A \n false \n \n \n \n 120000 \n \n \n 0 \n \n \n A \n \n \n \n 2029-09-01 \n \n \n 2036-09-02 \n \n \n \n Common Stock \n \n \n 120000 \n \n \n \n \n 120000 \n \n \n \n \n D \n \n \n \n \n\n \n Represents a grant of 40,000 restricted stock units (&quot;RSUs&quot;), each of which represents a contingent right to receive, upon vesting, one share of common stock, par value $0.00001 per share, of the Issuer. The RSUs vest on September 1, 2029. \n \n\n Executive Vice President and Chief Financial Officer \n\n \n /s/ Beth A. LaBrosse, as Attorney-in-Fact for Robert Potter Adams \n 2026-09-04",
+    "text_sha256": "06e2fae5c8fcb342c5a7609bd4e846a8137c068c24d25b254535c2a9b5f2b42c",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

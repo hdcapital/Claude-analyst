@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383655",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1272842/0001193125-26-383655.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:10Z",
+  "company": {
+    "ticker": "AIRG",
+    "exchange_qualified": null,
+    "name": "AIRGAIN INC",
+    "cik": "1272842"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — AIRGAIN INC",
+  "content": {
+    "text": "0001193125-26-383655.txt : 20260904\n 0001193125-26-383655.hdr.sgml : 20260904\n 20260904160952\nACCESSION NUMBER: 0001193125-26-383655\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: SUEN JACOB\n CENTRAL INDEX KEY: 0001705078\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-37851\n FILM NUMBER: 261362223\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O AIRGAIN, INC.\n STREET 2: 3611 VALLEY CENTRE DRIVE, SUITE 150\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92130\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: AIRGAIN INC\n CENTRAL INDEX KEY: 0001272842\n STANDARD INDUSTRIAL CLASSIFICATION:\tRADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 954523882\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 3611 VALLEY CENTRE DRIVE\n STREET 2: SUITE 150\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92130\n BUSINESS PHONE: (760) 579-0200\n\n\tMAIL ADDRESS:\t\n STREET 1: 3611 VALLEY CENTRE DRIVE\n STREET 2: SUITE 150\n CITY: SAN DIEGO\n STATE: CA\n ZIP: 92130\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0001272842 \n AIRGAIN INC \n AIRG \n \n \n\n \n \n 0001705078 \n SUEN JACOB \n \n \n false \n C/O AIRGAIN, INC. \n 3611 VALLEY CENTRE DRIVE, SUITE 150 \n SAN DIEGO \n CA \n 92130 \n \n \n \n true \n true \n false \n false \n President and CEO \n \n \n\n true \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n false \n \n \n \n 1000 \n \n \n \n 5.20 \n \n \n D \n \n \n \n \n 279431 \n \n \n \n \n \n D \n \n \n \n \n\n \n The sales reported in this column were effected pursuant to a Rule 10b5-1 trading plan established by the reporting person on June 4, 2026. \n Includes restricted stock units. \n \n\n \n /s/ Michael Elbaz, as attorney-in-fact \n 2026-09-04",
+    "text_sha256": "8eace3ec927e2a76c64d4aa12130ea86d1c1a27cf7d24c25ad3c81e45befa1b8",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

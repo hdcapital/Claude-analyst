@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383697",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1880438/0001193125-26-383697.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:11Z",
+  "company": {
+    "ticker": "ANTX",
+    "exchange_qualified": null,
+    "name": "AN2 Therapeutics, Inc.",
+    "cik": "1880438"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — AN2 Therapeutics, Inc.",
+  "content": {
+    "text": "0001193125-26-383697.txt : 20260904\n 0001193125-26-383697.hdr.sgml : 20260904\n 20260904162533\nACCESSION NUMBER: 0001193125-26-383697\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260901\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Williams Sarah Joanne\n CENTRAL INDEX KEY: 0002108922\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-41331\n FILM NUMBER: 261362358\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O AN2 THERAPEUTICS, INC.\n STREET 2: 1300 EL CAMINO REAL, SUITE 100\n CITY: MENLO PARK\n STATE: CA\n ZIP: 94025\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: AN2 Therapeutics, Inc.\n CENTRAL INDEX KEY: 0001880438\n STANDARD INDUSTRIAL CLASSIFICATION:\tPHARMACEUTICAL PREPARATIONS [2834]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 820606654\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1300 EL CAMINO REAL, SUITE 100\n CITY: MENLO PARK\n STATE: CA\n ZIP: 94025\n BUSINESS PHONE: (650) 331-9090\n\n\tMAIL ADDRESS:\t\n STREET 1: 1300 EL CAMINO REAL, SUITE 100\n CITY: MENLO PARK\n STATE: CA\n ZIP: 94025\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-01 \n\n \n 0001880438 \n AN2 Therapeutics, Inc. \n ANTX \n \n \n\n \n \n 0002108922 \n Williams Sarah Joanne \n \n \n false \n C/O AN2 THERAPEUTICS, INC. \n 1300 EL CAMINO REAL, SUITE 100 \n MENLO PARK \n CA \n 94025 \n \n \n \n false \n true \n false \n false \n Principal Accounting Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-01 \n \n \n 4 \n S \n false \n \n \n \n 272 \n \n \n \n 5.53 \n \n \n D \n \n \n \n \n 66311 \n \n \n \n \n \n D \n \n \n \n \n\n \n Represents shares sold pursuant to the terms of the grant to satisfy tax withholding obligations arising from the vesting of Restricted Stock Units (&quot;RSUs&quot;) on August 28, 2026. \n Includes (a) 48,375 RSUs which vest as follows: 1/4th of the shares vests in substantially equal installments annually (rounded down to the nearest whole number of shares) over four years from January 1, 2026, and the balance of (b) 10,938 RSUs which vest as follows: 1/4th of the RSUs vests in substantially equal installments annually (rounded down to the nearest whole number of shares) over four years from January 1, 2025, and (c) 11,850 RSUs which vest as follows: 1/16th of the RSUs vests in substantially equal installments quarterly (rounded down to the nearest whole number of shares) over four years from May 28, 2024, in each case subject to the Reporting Person's continuous service through each applicable vesting date. A total of 4,038 shares from the aggregate number of the RSUs issued under (b) and (c) above were sold to cover taxes and a total of 814 shares were sold on the open market. \n \n\n \n /s/ Sarah Joanne Williams \n 2026-09-04",
+    "text_sha256": "f049eb7e10ac0d0b55e85663170c2d0a8ead571fb86913c3ff31ed181f9e3492",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

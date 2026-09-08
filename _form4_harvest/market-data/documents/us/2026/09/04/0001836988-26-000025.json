@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001836988-26-000025",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1555279/0001836988-26-000025.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:09Z",
+  "company": {
+    "ticker": "MASS",
+    "exchange_qualified": null,
+    "name": "908 Devices Inc.",
+    "cik": "1555279"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — 908 Devices Inc.",
+  "content": {
+    "text": "0001836988-26-000025.txt : 20260904\n 0001836988-26-000025.hdr.sgml : 20260904\n 20260904161545\nACCESSION NUMBER: 0001836988-26-000025\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Brown Christopher D.\n CENTRAL INDEX KEY: 0001836988\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-39815\n FILM NUMBER: 261362288\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O 908 DEVICES INC.\n STREET 2: 44 THIRD AVENUE\n CITY: BURLINGTON\n STATE: MA\n ZIP: 01803\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: 908 Devices Inc.\n CENTRAL INDEX KEY: 0001555279\n STANDARD INDUSTRIAL CLASSIFICATION:\tLABORATORY ANALYTICAL INSTRUMENTS [3826]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 454524096\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 44 THIRD AVENUE\n CITY: BURLINGTON\n STATE: MA\n ZIP: 01803\n BUSINESS PHONE: 978-729-4478\n\n\tMAIL ADDRESS:\t\n STREET 1: 44 THIRD AVENUE\n CITY: BURLINGTON\n STATE: MA\n ZIP: 01803\n \n \n 4\n 1\n form4-09042026_080942.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001555279 \n 908 Devices Inc. \n MASS \n \n \n\n \n \n 0001836988 \n Brown Christopher D. \n \n \n false \n C/O 908 DEVICES INC. \n 44 3RD AVENUE \n BURLINGTON \n MA \n 01803 \n \n \n \n true \n false \n false \n false \n \n \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 30000 \n \n \n 10.58 \n \n \n \n D \n \n \n \n \n 775559 \n \n \n \n \n D \n \n \n \n \n \n \n \n\n \n\n \n This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on November 24, 2025. \n The price reported is a weighted average price. These shares were sold in multiple transactions at prices ranging from $10.33 to $10.97 inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n \n\n \n /s/ Mark S. Levine, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "054b80b50f41ddd7756985a7a156df9315af00c6bcdf9cdf959320a692073088",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000905148-26-004085",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1604464/0000905148-26-004085.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:29Z",
+  "company": {
+    "ticker": "ATRA",
+    "exchange_qualified": null,
+    "name": "Atara Biotherapeutics, Inc.",
+    "cik": "1604464"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Atara Biotherapeutics, Inc.",
+  "content": {
+    "text": "0000905148-26-004085.txt : 20260904\n 0000905148-26-004085.hdr.sgml : 20260904\n 20260904182004\nACCESSION NUMBER: 0000905148-26-004085\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 2\nCONFORMED PERIOD OF REPORT:\t20260904\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Cherry Brian N\n CENTRAL INDEX KEY: 0001290922\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-36548\n FILM NUMBER: 261363028\n\n\tMAIL ADDRESS:\t\n STREET 1: 177 BROAD STREET, 15TH FLOOR\n CITY: STAMFORD\n STATE: CT\n ZIP: 06901\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Atara Biotherapeutics, Inc.\n CENTRAL INDEX KEY: 0001604464\n STANDARD INDUSTRIAL CLASSIFICATION:\tBIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 460920988\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1280 RANCHO CONEJO BLVD\n CITY: THOUSAND OAKS\n STATE: CA\n ZIP: 91320\n BUSINESS PHONE: 805-623-4211\n\n\tMAIL ADDRESS:\t\n STREET 1: 1280 RANCHO CONEJO BLVD\n CITY: THOUSAND OAKS\n STATE: CA\n ZIP: 91320\n \n \n 4\n 1\n form4.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-04 \n\n \n 0001604464 \n Atara Biotherapeutics, Inc. \n ATRA \n \n \n\n \n \n 0001290922 \n Cherry Brian N \n \n \n false \n C/O ATARA BIOTHERAPEUTICS, INC. \n 1280 RANCHO CONEJO BOULEVARD \n THOUSAND OAKS \n CA \n 91320 \n \n \n \n true \n false \n false \n false \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n P \n false \n \n \n \n 104166 \n \n \n \n 9.60 \n \n \n A \n \n \n \n \n 166486 \n \n \n \n \n D \n \n \n \n \n\n \n Represents shares purchased by the Reporting Person from the Issuer, through its sales agent, pursuant to that certain Sales Agreement, dated November 1, 2023, by and between the Issuer and TD Securities (USA) LLC. \n \n\n Exhibit List: Exhibit 24 - Power of Attorney \n\n \n /s/ Brian Cherry \n 2026-09-04 \n \n \n \n \n \n \n EX-24\n 2\n cherry_poa.htm\n POWER OF ATTORNEY\n \n \n \n \n \n \n \n POWER OF ATTORNEY \n \n &#xa0;\n \n \n Know all by these present, that the undersigned, as a Section 16 reporting person of Atara Biotherapeutics, Inc. (the \"Company\"), hereby constitutes and appoints each of Kevin G. Sarney and Matthew A. Ebert , or either of them acting individually, and with full power of substitution, the undersigned's true and lawful attorneys-in-fact to: \n \n &#xa0;\n \n \n \n 1. \n \n \n Complete and execute Forms 3, 4 and 5, Forms 144, and other forms and all amendments thereto, as such attorneys-in-fact shall in their discretion determine to be required or advisable pursuant to Section 16 of the Securities Exchange Act of 1934 (as amended) and the rules and regulations promulgated thereunder, Rule 144 under the Securities Act of 1933 (\"Rule 144\"), or any successor laws and regulations, as a consequence of the undersigned's ownership, acquisition or disposition of securities of the Company; and \n \n \n &#xa0;\n \n \n \n 2. \n \n \n Do and perform any and all acts on behalf of the undersigned which may be necessary or desirable to complete and execute any such Form 3, 4, or 5, or Form 144 with the Securities and Exchange Commission (the \"SEC\"), any securities exchange or national association, the Company and such other person or agency as the attorneys-in-fact shall deem appropriate. \n \n \n &#xa0;\n \n \n The undersigned hereby ratifies and confirms all that said attorneys-in-fact and agents shall do or cause to be done by virtue hereof. The undersigned acknowledges that the foregoing attorneys-in-fact, in serving in such capacity at the request of the undersigned, are not assuming, nor is the Company assuming, any of the undersigned's responsibilities to comply with Section 16 of the Securities Exchange Act of 1934 (as amended) or Rule 144. \n \n &#xa0;\n \n \n This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4 and 5, and Forms 144 with the SEC with respect to the undersigned's holdings of and transactions in securities issued by the Company, unless earlier revoked by the undersigned in a signed writing delivered to the Company and the foregoing attorneys-in-fact. \n \n &#xa0;\n \n \n IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of September 4, 2026 . \n \n &#xa0;\n \n &#xa0;\n \n &#xa0;\n \n \n \n \n \n &#xa0; \n \n \n \n \n Signature: \n \n \n \n \n /s/ Brian Cherry \n \n \n \n \n \n \n &#xa0; \n \n \n \n \n &#xa0; \n \n \n \n \n Brian Cherry \n \n \n \n \n \n \n &#xa0; \n \n \n \n &#xa0;\n \n \n \n \n &#xa0;",
+    "text_sha256": "b8ca942e3fc66544e2b3abb5902020a50f0393e24c6b6777a5a34d780b02284c",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001628280-26-060768",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1866673/0001628280-26-060768.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:45Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Bowron Kimberly T",
+    "cik": "1866673"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Bowron Kimberly T",
+  "content": {
+    "text": "0001628280-26-060768.txt : 20260904\n 0001628280-26-060768.hdr.sgml : 20260904\n 20260904172436\nACCESSION NUMBER: 0001628280-26-060768\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Bowron Kimberly T\n CENTRAL INDEX KEY: 0001866673\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-35073\n FILM NUMBER: 261362883\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O GEVO, INC. 345 INVERNESS DRIVE SOUTH\n STREET 2: BUILDING C, SUITE 310\n CITY: ENGLEWOOD\n STATE: CO\n ZIP: 80112\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Gevo, Inc.\n CENTRAL INDEX KEY: 0001392380\n STANDARD INDUSTRIAL CLASSIFICATION:\tINDUSTRIAL ORGANIC CHEMICALS [2860]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 870747704\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 345 INVERNESS DRIVE SOUTH, BUILDING C\n STREET 2: Suite 310\n CITY: ENGLEWOOD\n STATE: CO\n ZIP: 80112\n BUSINESS PHONE: 303-858-8358\n\n\tMAIL ADDRESS:\t\n STREET 1: 345 INVERNESS DRIVE SOUTH, BUILDING C\n STREET 2: Suite 310\n CITY: ENGLEWOOD\n STATE: CO\n ZIP: 80112\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tGevo Inc\n DATE OF NAME CHANGE:\t20070307\n \n \n 4\n 1\n wk-form4_1788557073.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0001392380 \n Gevo, Inc. \n GEVO \n \n \n\n \n \n 0001866673 \n Bowron Kimberly T \n \n \n false \n C/O GEVO, INC. 345 INVERNESS DRIVE SOUTH \n BUILDING C, SUITE 310 \n ENGLEWOOD \n CO \n 80112 \n \n \n \n 0 \n 1 \n 0 \n 0 \n Chief of Staff \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 1221 \n \n \n 1.7099 \n \n \n \n D \n \n \n \n \n 684817 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n \n 14957.39 \n \n \n \n \n \n I \n \n \n By 401(k) Plan \n \n \n \n \n\n \n\n \n Represents shares sold by the Reporting Person to cover withholding obligations upon vesting of a restricted stock award. The reported sales were effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on November 20, 2025. \n The reported price in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $1.70 to $1.71 per share, exclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or to the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n Between August 6, 2026 and September 3, 2026, the reporting person disposed of 5.14 shares of the issuer's common stock under the issuer's 401(k) plan to cover administrative fees. The information in this report is based on a plan statement dated August 25, 2026. \n \n\n \n\n \n /s/ E. Cabell Massey, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "684c0a8ef44192e62b82b7aa8982f90c5220542831890c3028c151c4b8486695",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

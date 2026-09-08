@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0002071953-26-000007",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/2019410/0002071953-26-000007.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:56Z",
+  "company": {
+    "ticker": "CAI",
+    "exchange_qualified": null,
+    "name": "Caris Life Sciences, Inc.",
+    "cik": "2019410"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Caris Life Sciences, Inc.",
+  "content": {
+    "text": "0002071953-26-000007.txt : 20260904\n 0002071953-26-000007.hdr.sgml : 20260904\n 20260904165959\nACCESSION NUMBER: 0002071953-26-000007\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Spetzler David Baxley\n CENTRAL INDEX KEY: 0002071953\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42706\n FILM NUMBER: 261362702\n\n\tMAIL ADDRESS:\t\n STREET 1: 750 W. JOHN CARPENTER FREEWAY\n STREET 2: SUITE 800\n CITY: IRVING\n STATE: TX\n ZIP: 75039\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Caris Life Sciences, Inc.\n CENTRAL INDEX KEY: 0002019410\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-MEDICAL LABORATORIES [8071]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 852077369\n STATE OF INCORPORATION: TX\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 750 W JOHN CARPENTER FREEWAY\n STREET 2: SUITE 800\n CITY: IRVING\n STATE: TX\n ZIP: 75039\n BUSINESS PHONE: (866) 771-8946\n\n\tMAIL ADDRESS:\t\n STREET 1: 750 W JOHN CARPENTER FREEWAY\n STREET 2: SUITE 800\n CITY: IRVING\n STATE: TX\n ZIP: 75039\n \n \n 4\n 1\n wk-form4_1788555596.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n 0 \n\n \n 0002019410 \n Caris Life Sciences, Inc. \n CAI \n \n \n\n \n \n 0002071953 \n Spetzler David Baxley \n \n \n false \n C/O CARIS LIFE SCIENCES, INC. \n 750 W. JOHN CARPENTER FREEWAY, SUITE 800 \n IRVING \n TX \n 75039 \n \n \n \n 0 \n 1 \n 0 \n 0 \n President \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n M \n 0 \n \n \n \n 1000000 \n \n \n 2.44 \n \n \n A \n \n \n \n \n 1530083 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n 393100 \n \n \n \n 24.7604 \n \n \n \n D \n \n \n \n \n 1136983 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n 84900 \n \n \n \n 25.3201 \n \n \n \n D \n \n \n \n \n 1052083 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n M \n 0 \n \n \n \n 250000 \n \n \n 2.44 \n \n \n A \n \n \n \n \n 1302083 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n S \n 0 \n \n \n \n 119212 \n \n \n \n 24.7552 \n \n \n \n D \n \n \n \n \n 1182871 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Stock Option \n \n \n 2.44 \n \n \n 2026-09-03 \n \n \n 4 \n M \n 0 \n \n \n \n 1000000 \n \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n 2026-09-12 \n \n \n \n Common Stock \n \n \n 1000000 \n \n \n \n \n 250000 \n \n \n \n \n D \n \n \n \n \n \n Stock Option \n \n \n 2.44 \n \n \n 2026-09-04 \n \n \n 4 \n M \n 0 \n \n \n \n 250000 \n \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n 2026-09-12 \n \n \n \n Common Stock \n \n \n 250000 \n \n \n \n \n 0 \n \n \n \n \n D \n \n \n \n \n\n \n The sales reported on this Form 4 were effected pursuant to a broker-assisted sell-to-cover exercise of fully vested stock options scheduled to expire on September 12, 2026. The shares were sold solely to cover the aggregate exercise price and applicable tax withholding obligations. The Reporting Person retained all remaining shares acquired upon exercise. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $24.3200 to $25.3100, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $25.3200 to $25.3300, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $24.5550 to $25.1200, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n Exercise of stock options before their expiration date. \n The stock option is fully vested and exercisable. \n \n\n President \n\n \n /s/ J. Russel Denton, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "2f9ca949896416dc0654a7b795c8bdc829f9348d315e3c054b9bd48b65a360e2",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

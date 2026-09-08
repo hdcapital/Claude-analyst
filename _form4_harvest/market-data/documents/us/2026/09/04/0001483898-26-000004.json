@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001483898-26-000004",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/897077/0001483898-26-000004.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:11Z",
+  "company": {
+    "ticker": "ALG",
+    "exchange_qualified": null,
+    "name": "ALAMO GROUP INC",
+    "cik": "897077"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — ALAMO GROUP INC",
+  "content": {
+    "text": "0001483898-26-000004.txt : 20260904\n 0001483898-26-000004.hdr.sgml : 20260904\n 20260904163447\nACCESSION NUMBER: 0001483898-26-000004\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Hureau Robert Paul\n CENTRAL INDEX KEY: 0001483898\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-13854\n FILM NUMBER: 261362507\n\n\tMAIL ADDRESS:\t\n STREET 1: 529 PLEASANT STREET, MS B-7\n CITY: ATTLEBORO\n STATE: MA\n ZIP: 02703\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: ALAMO GROUP INC\n CENTRAL INDEX KEY: 0000897077\n STANDARD INDUSTRIAL CLASSIFICATION:\tFARM MACHINERY & EQUIPMENT [3523]\n ORGANIZATION NAME: 06 Technology\n EIN: 741621248\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1627 E WALNUT\n CITY: SEGUIN\n STATE: TX\n ZIP: 78155\n BUSINESS PHONE: 8303791480\n\n\tMAIL ADDRESS:\t\n STREET 1: P.O. BOX 549\n STREET 2: 1627 EAST WALNUT\n CITY: SEGUIN\n STATE: TX\n ZIP: 78155\n \n \n 4\n 1\n wk-form4_1788554085.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000897077 \n ALAMO GROUP INC \n ALG \n \n \n\n \n \n 0001483898 \n Hureau Robert Paul \n \n \n false \n 1627 E WALNUT ST \n \n SEGUIN \n TX \n 78155 \n \n \n \n 1 \n 1 \n 0 \n 0 \n President & CEO \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n F \n 0 \n \n \n \n 942 \n \n \n 164.10 \n \n \n D \n \n \n \n \n 21094 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n\n Ex. 24 - Power of Attorney (incorporated by reference to the Power of Attorney filed as Exhibit 24 to the Form 4 filed by the reporting person on September 3, 2025) \n\n \n /s/ Carol Worthy, attorney-in-fact \n 2026-09-04",
+    "text_sha256": "5e9b69300c63b0ffb451541f872090011f3d206bf465ea0485490b2c265529da",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

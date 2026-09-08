@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-382783",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1821468/0001193125-26-382783.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:08Z",
+  "company": {
+    "ticker": "YQ",
+    "exchange_qualified": null,
+    "name": "17 Education & Technology Group Inc.",
+    "cik": "1821468"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — 17 Education & Technology Group Inc.",
+  "content": {
+    "text": "0001193125-26-382783.txt : 20260904\n 0001193125-26-382783.hdr.sgml : 20260904\n 20260904073949\nACCESSION NUMBER: 0001193125-26-382783\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Liu Chang\n CENTRAL INDEX KEY: 0001843196\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-39742\n FILM NUMBER: 261360167\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: 16/F, BLOCK B, WANGJING GREENLAND CENTER\n STREET 2: CHAOYANG DISTRICT\n CITY: BEIJING\n PROVINCE COUNTRY: F4\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: 17 Education & Technology Group Inc.\n CENTRAL INDEX KEY: 0001821468\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-EDUCATIONAL SERVICES [8200]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 000000000\n STATE OF INCORPORATION: F4\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: 16/F, BLOCK B, WANGJING GREENLAND CENTER\n STREET 2: CHAOYANG DISTRICT\n CITY: BEIJING\n PROVINCE COUNTRY: F4\n BUSINESS PHONE: 86 10 59451082\n\n\tMAIL ADDRESS:\t\n ADDRESS IS A NON US LOCATION: YES\n STREET 1: 16/F, BLOCK B, WANGJING GREENLAND CENTER\n STREET 2: CHAOYANG DISTRICT\n CITY: BEIJING\n PROVINCE COUNTRY: F4\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0001821468 \n 17 Education & Technology Group Inc. \n YQ \n \n \n\n \n \n 0001843196 \n Liu Chang \n \n \n true \n 16/F, BLOCK B, \n WANGJING GREENLAND CENTER, CHAOYANG \n BEIJING \n \n F4 \n 100102 \n CHINA \n \n \n true \n true \n true \n false \n Chief Executive Officer \n \n \n\n false \n\n \n \n \n American depositary shares \n \n \n \n 2026-09-03 \n \n \n 4 \n P \n false \n \n \n \n 10000 \n \n \n 2.3788 \n \n \n A \n \n \n \n \n 112848 \n \n \n \n \n I \n \n \n By Future Glory Technology Holdings Limited \n \n \n \n \n \n \n American depositary shares \n \n \n \n 222 \n \n \n \n \n D \n \n \n \n \n\n \n Each American depositary share (&quot;ADS&quot;) represents fifty (50) Class A ordinary shares, with a par value of US$0.0001 per share, of 17 Education & Technology Group Inc. \n Future Glory Technology Holdings Limited is a British Virgin Islands limited liability company, of which 99% of the equity interest is held by Glory Venture Technology Limited, and the remaining 1% is held by Future Adventures Investment Holdings Limited. Glory Venture Technology Limited, a company incorporated under the laws of British Virgin Islands, is wholly owned by Trident Trust Company (HK) Limited, the trustee of the Sunny Trust. Mr. Andy Chang Liu is the settlor of the Sunny Trust, and he and his family members are its beneficiaries. Future Adventures Investment Holdings Limited is a company incorporated under the laws of British Virgin Islands and wholly owned by Mr. Andy Chang Liu. \n \n\n \n /s/ Andy Chang Liu \n 2026-09-04",
+    "text_sha256": "9d93fd04c0c28fcab0f9bd1b0bff7a13107ed429a1fa757415e011a87a8b84b5",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

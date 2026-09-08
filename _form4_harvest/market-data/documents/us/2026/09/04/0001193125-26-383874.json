@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383874",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1636994/0001193125-26-383874.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:18Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Adams Brian",
+    "cik": "1636994"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Adams Brian",
+  "content": {
+    "text": "0001193125-26-383874.txt : 20260904\n 0001193125-26-383874.hdr.sgml : 20260904\n 20260904180003\nACCESSION NUMBER: 0001193125-26-383874\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260904\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Adams Brian\n CENTRAL INDEX KEY: 0001636994\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-39460\n FILM NUMBER: 261362991\n\n\tMAIL ADDRESS:\t\n STREET 1: 750 LEXINGTON AVENUE\n CITY: NEW YORK\n STATE: NY\n ZIP: 10022\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Kymera Therapeutics, Inc.\n CENTRAL INDEX KEY: 0001815442\n STANDARD INDUSTRIAL CLASSIFICATION:\tBIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]\n ORGANIZATION NAME: 03 Life Sciences\n EIN: 812992166\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 500 NORTH BEACON STREET, 4TH FLOOR\n CITY: WATERTOWN\n STATE: MA\n ZIP: 02472\n BUSINESS PHONE: 857-285-5314\n\n\tMAIL ADDRESS:\t\n STREET 1: 500 NORTH BEACON STREET, 4TH FLOOR\n CITY: WATERTOWN\n STATE: MA\n ZIP: 02472\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-04 \n\n \n 0001815442 \n Kymera Therapeutics, Inc. \n KYMR \n \n \n\n \n \n 0001636994 \n Adams Brian \n \n \n false \n 500 NORTH BEACON STREET \n 4TH FLOOR \n WATERTOWN \n MA \n 02472 \n \n \n \n false \n true \n false \n false \n Chief Legal Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n S \n false \n \n \n \n \n 1209 \n \n \n 115.55 \n \n \n \n D \n \n \n \n \n 55416 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n S \n false \n \n \n \n \n 3025 \n \n \n 116.81 \n \n \n \n D \n \n \n \n \n 52391 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n S \n false \n \n \n \n \n 2137 \n \n \n 117.57 \n \n \n \n D \n \n \n \n \n 50254 \n \n \n \n \n D \n \n \n \n \n\n \n Represents shares required to be sold by the reporting person to cover tax withholding obligations in connection with the vesting of restricted stock units. Such sales were automatic and not in the discretion of the Reporting Person. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $115.09 to $116.08, inclusive. The reporting person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $116.09 to $117.08, inclusive. The reporting person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $117.38 to $117.85, inclusive. The reporting person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. \n \n\n \n /s/ Bruce Jacobs, as Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "a69ec3cfbba43fae25818e24345ade3aaa7ca77ca5ae7e0935f7dd457b14f5ad",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

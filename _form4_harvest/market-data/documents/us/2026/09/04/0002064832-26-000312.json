@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0002064832-26-000312",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1804176/0002064832-26-000312.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:47Z",
+  "company": {
+    "ticker": "BFLY",
+    "exchange_qualified": null,
+    "name": "Butterfly Network, Inc.",
+    "cik": "1804176"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Butterfly Network, Inc.",
+  "content": {
+    "text": "0002064832-26-000312.txt : 20260904\n 0002064832-26-000312.hdr.sgml : 20260904\n 20260904162006\nACCESSION NUMBER: 0002064832-26-000312\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Caezza Nicholas\n CENTRAL INDEX KEY: 0002080056\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-39292\n FILM NUMBER: 261362321\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O BUTTERFLY NETWORK, INC.\n STREET 2: 1600 DISTRICT AVENUE\n CITY: BURLINGTON\n STATE: MA\n ZIP: 01803\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Butterfly Network, Inc.\n CENTRAL INDEX KEY: 0001804176\n STANDARD INDUSTRIAL CLASSIFICATION:\tX-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS [3844]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 000000000\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1600 DISTRICT AVENUE\n CITY: BURLINGTON\n STATE: MA\n ZIP: 01803\n BUSINESS PHONE: 781-557-4800\n\n\tMAIL ADDRESS:\t\n STREET 1: 1600 DISTRICT AVENUE\n CITY: BURLINGTON\n STATE: MA\n ZIP: 01803\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tLongview Acquisition Corp.\n DATE OF NAME CHANGE:\t20200220\n \n \n 4\n 1\n form4.xml\n STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP OF SECURITIES\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001804176 \n Butterfly Network, Inc. \n BFLY \n \n \n\n \n \n 0002080056 \n Caezza Nicholas \n \n \n false \n C/O BUTTERFLY NETWORK, INC. \n 1600 DISTRICT AVENUE \n BURLINGTON \n MA \n 01803 \n \n \n \n 0 \n 1 \n 0 \n 0 \n Deputy General Counsel \n \n \n\n 0 \n\n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 1709 \n \n \n 8.149 \n \n \n \n D \n \n \n \n \n 305166 \n \n \n \n \n \n D \n \n \n \n \n\n \n The Issuer has adopted a &quot;sell-to-cover&quot; policy to satisfy the tax withholding obligations of the Reporting Person. The sales reported on this Form 4 represent the number of shares required to be sold by the Reporting Person to cover tax withholding obligations in connection with the vesting of restricted stock units. Such sales were automatic and not at the discretion of the Reporting Person. \n Represents the weighted average sales price per share. The shares sold at prices ranging from $8.10 to $8.28 per share. Full information regarding the number of shares sold at each price shall be provided upon request to the staff of the U.S. Securities and Exchange Commission, the Issuer, or a security holder of the Issuer. \n Includes 6,568 shares acquired under the Issuer's employee stock purchase plan on June 30, 2026. \n \n\n \n /s/ Nick Caezza \n 2026-09-04",
+    "text_sha256": "825d6a0ecf39047c151d8892b8b9f04bf08b421c89b0eb2b097f6f406f1a9a9e",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

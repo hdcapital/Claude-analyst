@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383903",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1789029/0001193125-26-383903.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:22Z",
+  "company": {
+    "ticker": "AEVA",
+    "exchange_qualified": null,
+    "name": "Aeva Technologies, Inc.",
+    "cik": "1789029"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Aeva Technologies, Inc.",
+  "content": {
+    "text": "0001193125-26-383903.txt : 20260904\n 0001193125-26-383903.hdr.sgml : 20260904\n 20260904182204\nACCESSION NUMBER: 0001193125-26-383903\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Sinha Saurabh\n CENTRAL INDEX KEY: 0001849806\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-39204\n FILM NUMBER: 261363032\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O AEVA TECHNOLOGIES, INC.\n STREET 2: 555 ELLIS STREET\n CITY: MOUNTAIN VIEW\n STATE: CA\n ZIP: 94043\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Aeva Technologies, Inc.\n CENTRAL INDEX KEY: 0001789029\n STANDARD INDUSTRIAL CLASSIFICATION:\tMOTOR VEHICLE PARTS & ACCESSORIES [3714]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 843080757\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 555 ELLIS STREET\n CITY: MOUNTAIN VIEW\n STATE: CA\n ZIP: 94043\n BUSINESS PHONE: 6504817070\n\n\tMAIL ADDRESS:\t\n STREET 1: 555 ELLIS STREET\n CITY: MOUNTAIN VIEW\n STATE: CA\n ZIP: 94043\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tInterPrivate Acquisition Corp.\n DATE OF NAME CHANGE:\t20190920\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001789029 \n Aeva Technologies, Inc. \n AEVA \n \n \n\n \n \n 0001849806 \n Sinha Saurabh \n \n \n false \n C/O AEVA TECHNOLOGIES, INC. \n 555 ELLIS STREET \n MOUNTAIN VIEW \n CA \n 94043 \n \n \n \n false \n true \n false \n false \n Chief Financial Officer \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n false \n \n \n \n 34146 \n \n \n \n 14.8307 \n \n \n D \n \n \n \n \n 547226 \n \n \n \n \n D \n \n \n \n \n\n \n This transaction is upon vesting of certain time-based restricted stock unit awards to cover tax withholding obligations. These shares of common stock were automatically sold in a non-discretionary transaction to cover tax withholding obligations upon the settlement of certain time-based restricted stock unit awards. \n \n\n \n /s/ Saurabh Sinha \n 2026-09-04",
+    "text_sha256": "e97e253ccec9ff96ff405d8ed5d20b75de16cf39414866b2aaf01d8b12e86ace",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000899140-26-001054",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/820318/0000899140-26-001054.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:54Z",
+  "company": {
+    "ticker": "COHR",
+    "exchange_qualified": null,
+    "name": "COHERENT CORP.",
+    "cik": "820318"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — COHERENT CORP.",
+  "content": {
+    "text": "0000899140-26-001054.txt : 20260904\n 0000899140-26-001054.hdr.sgml : 20260904\n 20260904161254\nACCESSION NUMBER: 0000899140-26-001054\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Neal-Graves Lisa\n CENTRAL INDEX KEY: 0001896118\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-39375\n FILM NUMBER: 261362246\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O COHERENT CORP.\n STREET 2: 375 SAXONBURG BOULEVARD\n CITY: SAXONBURG\n STATE: PA\n ZIP: 16056\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: COHERENT CORP.\n CENTRAL INDEX KEY: 0000820318\n STANDARD INDUSTRIAL CLASSIFICATION:\tOPTICAL INSTRUMENTS & LENSES [3827]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 251214948\n STATE OF INCORPORATION: PA\n FISCAL YEAR END: 0630\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 375 SAXONBURG BLVD\n CITY: SAXONBURG\n STATE: PA\n ZIP: 16056\n BUSINESS PHONE: 724-352-4455\n\n\tMAIL ADDRESS:\t\n STREET 1: 375 SAXONBURG BLVD\n CITY: SAXONBURG\n STATE: PA\n ZIP: 16056\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tII-VI INC\n DATE OF NAME CHANGE:\t19920703\n \n \n 4\n 1\n form4.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0000820318 \n COHERENT CORP. \n COHR \n \n \n\n \n \n 0001896118 \n Neal-Graves Lisa \n \n \n false \n C/O COHERENT CORP. \n 375 SAXONBURG BLVD \n SAXONBURG \n PA \n 16056 \n \n \n \n true \n false \n false \n false \n \n \n\n false \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n false \n \n \n \n 2200 \n \n \n 268.42 \n \n \n \n D \n \n \n \n \n 13033 \n \n \n \n \n D \n \n \n \n \n\n \n Represents the weighted average of multiple sale transactions ranging in price from $268.27 to $268.53. The reporting person agrees to provide full information regarding the number of shares sold at each separate price upon request by the SEC staff, the Company or a security holder of the Company. \n \n\n \n s/ Christopher M. Forrester, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "3982aa2fcd27706ab3c742d9e7734b65b5ed96c054afc1d50509ae8e03cfaf75",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

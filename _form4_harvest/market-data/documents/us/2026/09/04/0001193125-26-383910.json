@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001193125-26-383910",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1889438/0001193125-26-383910.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:37Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Beilman Kyle",
+    "cik": "1889438"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Beilman Kyle",
+  "content": {
+    "text": "0001193125-26-383910.txt : 20260904\n 0001193125-26-383910.hdr.sgml : 20260904\n 20260904183004\nACCESSION NUMBER: 0001193125-26-383910\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Beilman Kyle\n CENTRAL INDEX KEY: 0001889438\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-40161\n FILM NUMBER: 261363043\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O DAVE INC.\n STREET 2: 1265 SOUTH COCHRAN AVENUE\n CITY: LOS ANGELES\n STATE: CA\n ZIP: 90019\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Dave Inc./DE\n CENTRAL INDEX KEY: 0001841408\n STANDARD INDUSTRIAL CLASSIFICATION:\tFINANCE SERVICES [6199]\n ORGANIZATION NAME: 02 Finance\n EIN: 000000000\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1265 SOUTH COCHRAN AVENUE\n CITY: LOS ANGELES\n STATE: CA\n ZIP: 90019\n BUSINESS PHONE: 8448573283\n\n\tMAIL ADDRESS:\t\n STREET 1: 1265 SOUTH COCHRAN AVENUE\n CITY: LOS ANGELES\n STATE: CA\n ZIP: 90019\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tVPC Impact Acquisition Holdings III, Inc.\n DATE OF NAME CHANGE:\t20210120\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001841408 \n Dave Inc./DE \n DAVE \n \n \n\n \n \n 0001889438 \n Beilman Kyle \n \n \n false \n 1265 SOUTH COCHRAN AVE \n \n LOS ANGELES \n CA \n 90019 \n \n \n \n false \n true \n false \n false \n CFO and COO and Secretary \n \n \n\n false \n\n \n \n \n Class A Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n F \n false \n \n \n \n 3748 \n \n \n \n 372.85 \n \n \n D \n \n \n \n \n 192407 \n \n \n \n \n D \n \n \n \n \n\n \n Represents shares of Class A Common Stock withheld by the Issuer to satisfy tax withholding upon the vesting of restricted stock units. \n \n\n \n /s/ Joan Aristei as Attorney-in-Fact for Kyle Beilman \n 2026-09-04",
+    "text_sha256": "31d789f25efce91287b068a767130b58814ab03a8a3dd94fba683136233daf32",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

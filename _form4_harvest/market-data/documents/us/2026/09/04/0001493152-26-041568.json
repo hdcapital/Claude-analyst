@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001493152-26-041568",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1576873/0001493152-26-041568.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:11Z",
+  "company": {
+    "ticker": "ABAT",
+    "exchange_qualified": null,
+    "name": "AMERICAN BATTERY TECHNOLOGY Co",
+    "cik": "1576873"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — AMERICAN BATTERY TECHNOLOGY Co",
+  "content": {
+    "text": "0001493152-26-041568.txt : 20260904\n 0001493152-26-041568.hdr.sgml : 20260904\n 20260904164506\nACCESSION NUMBER: 0001493152-26-041568\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Melsert Ryan Mitchell\n CENTRAL INDEX KEY: 0001823522\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-41811\n FILM NUMBER: 261362616\n\n\tMAIL ADDRESS:\t\n STREET 1: 255 N SIERRA ST\n STREET 2: UNIT 1512\n CITY: RENO\n STATE: NV\n ZIP: 89501\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: AMERICAN BATTERY TECHNOLOGY Co\n CENTRAL INDEX KEY: 0001576873\n STANDARD INDUSTRIAL CLASSIFICATION:\tMINING, QUARRYING OF NONMETALLIC MINERALS (NO FUELS) [1400]\n ORGANIZATION NAME: 01 Energy & Transportation\n EIN: 331227980\n STATE OF INCORPORATION: NV\n FISCAL YEAR END: 0630\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 100 WASHINGTON STREET\n STREET 2: SUITE 100\n CITY: RENO\n STATE: NV\n ZIP: 89503\n BUSINESS PHONE: 775-473-4744\n\n\tMAIL ADDRESS:\t\n STREET 1: 100 WASHINGTON STREET\n STREET 2: SUITE 100\n CITY: RENO\n STATE: NV\n ZIP: 89503\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tAMERICAN BATTERY METALS CORP\n DATE OF NAME CHANGE:\t20190515\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tOroplata Resources, Inc.\n DATE OF NAME CHANGE:\t20130514\n \n \n 4\n 1\n ownership.xml\n 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001576873 \n AMERICAN BATTERY TECHNOLOGY Co \n ABAT \n \n \n\n \n \n 0001823522 \n Melsert Ryan Mitchell \n \n \n false \n C/O AMERICAN BATTERY TECHNOLOGY COMPANY \n 100 WASHINGTON STREET, SUITE 100 \n RENO \n NV \n 89503 \n \n \n \n 1 \n 1 \n 0 \n 0 \n Chief Executive Officer \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n \n 4 \n A \n 0 \n \n \n \n \n 33383 \n \n \n \n 0.00 \n \n \n A \n \n \n \n \n 3410335 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n \n 4 \n F \n 0 \n \n \n \n \n 866 \n \n \n \n 2.70 \n \n \n D \n \n \n \n \n 3409469 \n \n \n \n \n D \n \n \n \n \n\n \n Represents the vesting of Common Stock previously awarded pursuant to the Company's employee equity compensation plan. \n Represents the sale of Common Stock to cover a portion of the tax liability associated with the vesting of the aforementioned Common Stock. \n \n\n \n /s/ Ryan Mitchell Melsert \n 2026-09-04",
+    "text_sha256": "3d586c83d4cceb75afbb2c5afd9fe320c7941a5b0ef51a4fa67d0c240189e220",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

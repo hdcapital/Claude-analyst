@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001823563-26-000016",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1823563/0001823563-26-000016.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:58Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "Chambers Rebecca",
+    "cik": "1823563"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — Chambers Rebecca",
+  "content": {
+    "text": "0001823563-26-000016.txt : 20260904\n 0001823563-26-000016.hdr.sgml : 20260904\n 20260904195408\nACCESSION NUMBER: 0001823563-26-000016\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Chambers Rebecca\n CENTRAL INDEX KEY: 0001823563\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-36156\n FILM NUMBER: 261363138\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O VERACYTE, INC.\n STREET 2: 6000 SHORELINE COURT, SUITE 300\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: VERACYTE, INC.\n CENTRAL INDEX KEY: 0001384101\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-MEDICAL LABORATORIES [8071]\n ORGANIZATION NAME: 08 Industrial Applications and Services\n EIN: 205455398\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 6000 SHORELINE COURT, SUITE 300\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n BUSINESS PHONE: (650) 243-6300\n\n\tMAIL ADDRESS:\t\n STREET 1: 6000 SHORELINE COURT, SUITE 300\n CITY: SOUTH SAN FRANCISCO\n STATE: CA\n ZIP: 94080\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCALDEROME INC\n DATE OF NAME CHANGE:\t20061219\n \n \n 4\n 1\n wk-form4_1788566045.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0001384101 \n VERACYTE, INC. \n VCYT \n \n \n\n \n \n 0001823563 \n Chambers Rebecca \n \n \n false \n 6000 SHORELINE COURT \n SUITE 300 \n SOUTH SAN FRANCISCO \n CA \n 94080 \n \n \n \n 0 \n 1 \n 0 \n 0 \n Chief Financial Officer \n \n \n\n 1 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n F \n 0 \n \n \n \n \n 3603 \n \n \n 44.88 \n \n \n D \n \n \n \n \n 169677 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n S \n 0 \n \n \n \n \n 2477 \n \n \n 42.8059 \n \n \n \n D \n \n \n \n \n 167200 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n 2026-09-04 \n \n \n 4 \n S \n 0 \n \n \n \n \n 1175 \n \n \n 43.714 \n \n \n \n D \n \n \n \n \n 166025 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n Represents shares of common stock withheld to satisfy the Reporting Person's tax withholding obligations in connection with the vesting of certain restricted stock units on September 2, 2026 and\ndoes not represent a sale. \n The transactions on this Form 4 were made pursuant to a Rule 10b5-1 plan adopted by the reporting person on August 21, 2025. \n Represents weighted average sales price. Sale prices for the transactions range from $42.49 to $43.47. Detailed information regarding the number of shares sold at each separate price will be provided to the SEC, the issuer or a shareholder upon request. \n Represents weighted average sales price. Sale prices for the transactions range from $43.51 to $44.16. Detailed information regarding the number of shares sold at each separate price will be provided to the SEC, the issuer or a shareholder upon request. \n \n\n \n\n \n /s/ Jonathan Wygant as attorney-in-fact \n 2026-09-04",
+    "text_sha256": "2b3d4590176b7308e10166ee63cf05399cdeb46b73cf345f7b466b0daa60e348",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

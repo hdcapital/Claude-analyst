@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001111318-26-000012",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/934549/0001111318-26-000012.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:09Z",
+  "company": {
+    "ticker": "ACTG",
+    "exchange_qualified": null,
+    "name": "ACACIA RESEARCH CORP",
+    "cik": "934549"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — ACACIA RESEARCH CORP",
+  "content": {
+    "text": "0001111318-26-000012.txt : 20260904\n 0001111318-26-000012.hdr.sgml : 20260904\n 20260904160057\nACCESSION NUMBER: 0001111318-26-000012\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: OCONNELL MAUREEN\n CENTRAL INDEX KEY: 0001111318\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-37721\n FILM NUMBER: 261362020\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: ACACIA RESEARCH CORP\n CENTRAL INDEX KEY: 0000934549\n STANDARD INDUSTRIAL CLASSIFICATION:\tPATENT OWNERS & LESSORS [6794]\n ORGANIZATION NAME: 05 Real Estate & Construction\n EIN: 954405754\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 777 3RD AVENUE\n STREET 2: SUITE 2602\n CITY: NEW YORK\n STATE: NY\n ZIP: 10017\n BUSINESS PHONE: 332-236-8500\n\n\tMAIL ADDRESS:\t\n STREET 1: 777 3RD AVENUE\n STREET 2: SUITE 2602\n CITY: NEW YORK\n STATE: NY\n ZIP: 10017\n \n \n 4\n 1\n wk-form4_1788552055.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000934549 \n ACACIA RESEARCH CORP \n ACTG \n \n \n\n \n \n 0001111318 \n OCONNELL MAUREEN \n \n \n false \n 777 THIRD AVENUE \n SUITE 2602 \n NEW YORK \n NY \n 10017 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 0 \n\n \n \n \n ACTG Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n 20534 \n \n \n 4.63 \n \n \n \n D \n \n \n \n \n 267121 \n \n \n \n \n D \n \n \n \n \n \n ACTG Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n 12466 \n \n \n 4.57 \n \n \n \n D \n \n \n \n \n 254655 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $4.615 to $4.645, inclusive. The Reporting Person undertakes to provide to Acacia Research Corporation (&quot;Issuer&quot;), any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in footnote (1) to this Form. \n The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $4.51 to $4.66, inclusive. The Reporting Person undertakes to provide to Acacia Research Corporation (&quot;Issuer&quot;), any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in footnote (2) to this Form. \n \n\n \n\n \n Jennifer Graff, Attorney-in-fact \n 2026-09-04",
+    "text_sha256": "429199ce9a67a37b970cf9da9594f47ce3ece50931919ab13aa3c8e854c3f547",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

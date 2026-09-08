@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000726958-26-000072",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/726958/0000726958-26-000072.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:50Z",
+  "company": {
+    "ticker": "CASY",
+    "exchange_qualified": null,
+    "name": "CASEYS GENERAL STORES INC",
+    "cik": "726958"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — CASEYS GENERAL STORES INC",
+  "content": {
+    "text": "0000726958-26-000072.txt : 20260904\n 0000726958-26-000072.hdr.sgml : 20260904\n 20260904180017\nACCESSION NUMBER: 0000726958-26-000072\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 6\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: LENHARDT DAVID K\n CENTRAL INDEX KEY: 0001222633\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-34700\n FILM NUMBER: 261362995\n\n\tMAIL ADDRESS:\t\n STREET 1: 5320 EAST PALO VERDE DRIVE\n CITY: PARADISE VALLEY\n STATE: AZ\n ZIP: 85253\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: CASEYS GENERAL STORES INC\n CENTRAL INDEX KEY: 0000726958\n STANDARD INDUSTRIAL CLASSIFICATION:\tRETAIL-AUTO DEALERS & GASOLINE STATIONS [5500]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 420935283\n STATE OF INCORPORATION: IA\n FISCAL YEAR END: 0430\n\n\tBUSINESS ADDRESS:\t\n STREET 1: PO BOX 3001\n CITY: ANKENY\n STATE: IA\n ZIP: 50021\n BUSINESS PHONE: 515-965-6100\n\n\tMAIL ADDRESS:\t\n STREET 1: PO BOX 3001\n CITY: ANKENY\n STATE: IA\n ZIP: 50021\n \n \n 4\n 1\n wk-form4_1788559214.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000726958 \n CASEYS GENERAL STORES INC \n CASY \n \n \n\n \n \n 0001222633 \n LENHARDT DAVID K \n \n \n false \n 5320 EAST PALO VERDE DRIVE \n \n PARADISE VALLEY \n AZ \n 85253 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 326 \n \n \n 0 \n \n \n A \n \n \n \n \n 5380 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Restricted stock units \n \n \n \n \n \n 2026-09-02 \n \n \n 4 \n A \n 0 \n \n \n \n 220 \n \n \n 0 \n \n \n A \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 220 \n \n \n \n \n 220 \n \n \n \n \n D \n \n \n \n \n \n Restricted stock units \n \n \n \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n 326 \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n \n \n \n \n Common Stock \n \n \n 326 \n \n \n \n \n 0 \n \n \n \n \n D \n \n \n \n \n\n \n Each restricted stock unit represents the right to receive, following vesting, one share of Common Stock. \n Non-employee director equity compensation pursuant to terms and conditions of 2025 Stock Incentive Plan. This award will vest in full on the date of Casey's 2027 annual shareholder's meeting. \n Non-employee director equity compensation pursuant to terms and conditions of 2025 Stock Incentive Plan. This award vested in full on the date of Casey's 2026 annual shareholder's meeting. \n \n\n Ex. 24 - Power of Attorney \n\n \n Erika Bertrand, under Power of Attorney dated September 3, 2025 \n 2026-09-04 \n \n \n \n \n \n \n EX-24\n 2\n a2025-09x03lenhardtpoaha.htm\n EX-24\n \n \n \n a2025-09x03lenhardtpoaha",
+    "text_sha256": "10a332498dfabeb857450da9ad34afd734aefdf92814d5c4464b69de18cce526",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

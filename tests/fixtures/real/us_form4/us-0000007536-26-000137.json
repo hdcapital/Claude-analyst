@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000007536-26-000137",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/7536/0000007536-26-000137.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:12Z",
+  "company": {
+    "ticker": "ARW",
+    "exchange_qualified": null,
+    "name": "ARROW ELECTRONICS, INC.",
+    "cik": "7536"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — ARROW ELECTRONICS, INC.",
+  "content": {
+    "text": "0000007536-26-000137.txt : 20260904\n 0000007536-26-000137.hdr.sgml : 20260904\n 20260904161704\nACCESSION NUMBER: 0000007536-26-000137\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260903\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Jean-Claude Carine Lamercie\n CENTRAL INDEX KEY: 0001870985\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-04482\n FILM NUMBER: 261362304\n\n\tMAIL ADDRESS:\t\n STREET 1: 9151 E PANORAMA CIR\n CITY: CENTENNIAL\n STATE: CO\n ZIP: 80112\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: ARROW ELECTRONICS, INC.\n CENTRAL INDEX KEY: 0000007536\n STANDARD INDUSTRIAL CLASSIFICATION:\tWHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC [5065]\n ORGANIZATION NAME: 07 Trade & Services\n EIN: 111806155\n STATE OF INCORPORATION: NY\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 9151 EAST PANORAMA CIRCLE\n CITY: CENTENNIAL\n STATE: CO\n ZIP: 80112\n BUSINESS PHONE: 303-824-4000\n\n\tMAIL ADDRESS:\t\n STREET 1: 9151 EAST PANORAMA CIRCLE\n CITY: CENTENNIAL\n STATE: CO\n ZIP: 80112\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tARROW ELECTRONICS, INC\n DATE OF NAME CHANGE:\t20221117\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tARROW ELECTRONICS INC\n DATE OF NAME CHANGE:\t19920703\n \n \n 4\n 1\n form4.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-03 \n\n \n 0000007536 \n ARROW ELECTRONICS, INC. \n ARW \n \n \n\n \n \n 0001870985 \n Jean-Claude Carine Lamercie \n \n \n false \n C/O ARROW ELECTRONICS, INC. \n 9151 EAST PANORAMA CIRCLE \n CENTENNIAL \n CO \n 80112 \n \n \n \n 1 \n SVP, CLCO and Secretary \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-03 \n \n \n 4 \n S \n 0 \n \n \n \n \n 1000 \n \n \n 209.85 \n \n \n D \n \n \n \n \n 11626 \n \n \n \n \n D \n \n \n \n \n\n \n\n \n /s/ Stacey Metcalfe, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "b5d6c582b8d26c0b8947f8810c2d4bdbd3a73202e39979e164f6ab241c15c108",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

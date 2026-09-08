@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0002060030-26-000015",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1927958/0002060030-26-000015.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:10Z",
+  "company": {
+    "ticker": "AIRO",
+    "exchange_qualified": null,
+    "name": "AIRO Group Holdings, Inc.",
+    "cik": "1927958"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — AIRO Group Holdings, Inc.",
+  "content": {
+    "text": "0002060030-26-000015.txt : 20260904\n 0002060030-26-000015.hdr.sgml : 20260904\n 20260904163012\nACCESSION NUMBER: 0002060030-26-000015\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Uczekaj John\n CENTRAL INDEX KEY: 0002060030\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-42600\n FILM NUMBER: 261362427\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O AIRO GROUP HOLDINGS, INC.\n STREET 2: 5001 INDIAN SCHOOL ROAD NE, SUITE 100\n CITY: ALBUQUERQUE\n STATE: NM\n ZIP: 87110\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: AIRO Group Holdings, Inc.\n CENTRAL INDEX KEY: 0001927958\n STANDARD INDUSTRIAL CLASSIFICATION:\tAIRCRAFT [3721]\n ORGANIZATION NAME: 04 Manufacturing\n EIN: 880812695\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 8444 WESTPARK DRIVE\n STREET 2: SUITE 840\n CITY: MCLEAN\n STATE: VA\n ZIP: 22102\n BUSINESS PHONE: (505) 338-2434\n\n\tMAIL ADDRESS:\t\n STREET 1: 8444 WESTPARK DRIVE\n STREET 2: SUITE 840\n CITY: MCLEAN\n STATE: VA\n ZIP: 22102\n \n \n 4\n 1\n form4-09042026_040901.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001927958 \n AIRO Group Holdings, Inc. \n AIRO \n \n \n\n \n \n 0002060030 \n Uczekaj John \n \n \n false \n C/O AIRO GROUP HOLDINGS, INC. \n 8444 WESTPARK DRIVE SUITE 840 \n MCLEAN \n VA \n 22102 \n \n \n \n true \n true \n false \n false \n President and COO \n \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n S \n 0 \n \n \n \n \n 7230 \n \n \n 7.1015 \n \n \n \n D \n \n \n \n \n 214342 \n \n \n \n \n D \n \n \n \n \n \n \n \n \n Common Stock \n \n \n \n 323106 \n \n \n \n \n I \n \n \n By JS DM Uczekaj Family Trust \n \n \n \n \n \n\n \n\n \n The shares were sold to cover tax withholding obligations associated with the vesting of restricted stock units. \n The weighted average sales price for the transaction reported was $7.1015 and the range of prices was between $6.89 and $7.30. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of shares sold at each separate price will be provided. \n The Reporting Person is co-trustee of the JS DM Uczekaj Family Trust (the &quot;Trust&quot;) and has voting and dispositive power with respect to the shares of the Company's common stock held by the Trust. \n \n\n \n /s/ Joseph D. Burns, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "0bc8f557ef112eb59d16a7ad2f542fbbbf2313c23b0d4c28a52c4d360b13b687",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

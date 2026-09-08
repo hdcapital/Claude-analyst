@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001666134-26-000103",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1666134/0001666134-26-000103.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:34Z",
+  "company": {
+    "ticker": "BL",
+    "exchange_qualified": null,
+    "name": "BLACKLINE, INC.",
+    "cik": "1666134"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — BLACKLINE, INC.",
+  "content": {
+    "text": "0001666134-26-000103.txt : 20260904\n 0001666134-26-000103.hdr.sgml : 20260904\n 20260904165827\nACCESSION NUMBER: 0001666134-26-000103\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: Villanova Patrick\n CENTRAL INDEX KEY: 0001688119\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t001-37924\n FILM NUMBER: 261362693\n\n\tMAIL ADDRESS:\t\n STREET 1: 21300 VICTORY BLVD.\n STREET 2: 12TH FLOOR\n CITY: WOODLAND HILLS\n STATE: CA\n ZIP: 91367\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: BLACKLINE, INC.\n CENTRAL INDEX KEY: 0001666134\n STANDARD INDUSTRIAL CLASSIFICATION:\tSERVICES-PREPACKAGED SOFTWARE [7372]\n ORGANIZATION NAME: 06 Technology\n EIN: 463354276\n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 21300 VICTORY BOULEVARD\n STREET 2: 12TH FLOOR\n CITY: WOODLAND HILLS\n STATE: CA\n ZIP: 91367\n BUSINESS PHONE: 818-223-9008\n\n\tMAIL ADDRESS:\t\n STREET 1: 21300 VICTORY BOULEVARD\n STREET 2: 12TH FLOOR\n CITY: WOODLAND HILLS\n STATE: CA\n ZIP: 91367\n \n \n 4\n 1\n form4.xml\n PRIMARY DOCUMENT\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n \n 0001666134 \n BLACKLINE, INC. \n BL \n \n \n\n \n \n 0001688119 \n Villanova Patrick \n \n \n false \n 21300 VICTORY BLVD., 12TH FLOOR \n \n WOODLAND HILLS \n CA \n 91367 \n \n \n \n 1 \n Chief Financial Officer \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n \n 750 \n \n \n 14.00 \n \n \n A \n \n \n \n \n 131812 \n \n \n \n \n D \n \n \n \n \n\n \n \n \n Stock Option (Right to Buy) \n \n \n 14.00 \n \n \n 2026-09-02 \n \n \n 4 \n M \n 0 \n \n \n \n \n 750 \n \n \n 0 \n \n \n D \n \n \n \n \n \n \n 2026-10-16 \n \n \n \n Common Stock \n \n \n 750 \n \n \n \n \n 0 \n \n \n \n \n D \n \n \n \n \n\n \n The options became exercisable based on the following vesting schedule: The shares subject to the option vested in 4 equal, annual installments beginning on the one-year anniversary of the grant date, subject to the reporting person's continued service through each applicable vesting date. \n \n\n \n /s/ Karole Morgan-Prager, Attorney-in-Fact \n 2026-09-04",
+    "text_sha256": "b89f5ef066e6d05ee85ede4edb979c5826944534b80b37005cd25a0a9066b2ba",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

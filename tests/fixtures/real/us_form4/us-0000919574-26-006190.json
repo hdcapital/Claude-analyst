@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0000919574-26-006190",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/1972890/0000919574-26-006190.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:23Z",
+  "company": {
+    "ticker": null,
+    "exchange_qualified": null,
+    "name": "AlTi Wealth & Capital Solutions Holdings, LLC",
+    "cik": "1972890"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — AlTi Wealth & Capital Solutions Holdings, LLC",
+  "content": {
+    "text": "0000919574-26-006190.txt : 20260904\n 0000919574-26-006190.hdr.sgml : 20260904\n 20260904133351\nACCESSION NUMBER: 0000919574-26-006190\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 1\nCONFORMED PERIOD OF REPORT:\t20260901\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: TTC MULTI-STRATEGY FUND QP, LP\n CENTRAL INDEX KEY: 0001452337\n ORGANIZATION NAME: \n STATE OF INCORPORATION: NY\n FISCAL YEAR END: 1231\n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-56632\n FILM NUMBER: 261361480\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 200 BELLEVUE PARKWAY\n STREET 2: SUITE 525\n CITY: WILMINGTON\n STATE: DE\n ZIP: 19809\n BUSINESS PHONE: 2123965910\n\n\tMAIL ADDRESS:\t\n STREET 1: 200 BELLEVUE PARKWAY\n STREET 2: SUITE 525\n CITY: WILMINGTON\n STATE: DE\n ZIP: 19809\n\n\tFORMER NAME:\t\n FORMER CONFORMED NAME:\tTTC Multi-Strategy Fund QP, LP\n DATE OF NAME CHANGE:\t20120801\n\n\tFORMER NAME:\t\n FORMER CONFORMED NAME:\tTTC CREDIT OPPORTUNITIES FUND I, LP\n DATE OF NAME CHANGE:\t20100303\n\n\tFORMER NAME:\t\n FORMER CONFORMED NAME:\tTTC CREDIT OPPORTUNITIES FUND LP\n DATE OF NAME CHANGE:\t20081216\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: AlTi Wealth & Capital Solutions Holdings, LLC\n CENTRAL INDEX KEY: 0001972890\n ORGANIZATION NAME: \n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-56632\n FILM NUMBER: 261361479\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 22 VANDERBILT AVE, 27TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10017\n BUSINESS PHONE: 212-759-0340\n\n\tMAIL ADDRESS:\t\n STREET 1: 22 VANDERBILT AVE, 27TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10017\n\n\tFORMER NAME:\t\n FORMER CONFORMED NAME:\tAlTi Wealth Management Holdings, LLC\n DATE OF NAME CHANGE:\t20230707\n\n\tFORMER NAME:\t\n FORMER CONFORMED NAME:\tAlvarium Wealth Management Holdings, LLC\n DATE OF NAME CHANGE:\t20230407\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: TIEDEMANN ADVISORS, LLC\n CENTRAL INDEX KEY: 0001483232\n ORGANIZATION NAME: \n STATE OF INCORPORATION: DE\n FISCAL YEAR END: 1231\n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-56632\n FILM NUMBER: 261361481\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 22 VANDERBILT\n STREET 2: 27TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10017\n BUSINESS PHONE: 212-396-5900\n\n\tMAIL ADDRESS:\t\n STREET 1: 22 VANDERBILT\n STREET 2: 27TH FLOOR\n CITY: NEW YORK\n STATE: NY\n ZIP: 10017\n\n\tFORMER NAME:\t\n FORMER CONFORMED NAME:\tTIEDEMANN WEALTH MANAGEMENT, LLC\n DATE OF NAME CHANGE:\t20100203\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: Fortress Net Lease REIT\n CENTRAL INDEX KEY: 0001966394\n STANDARD INDUSTRIAL CLASSIFICATION:\tREAL ESTATE INVESTMENT TRUSTS [6798]\n ORGANIZATION NAME: 05 Real Estate & Construction\n EIN: 921937121\n STATE OF INCORPORATION: MD\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1345 AVENUE OF THE AMERICAS\n CITY: NEW YORK\n STATE: NY\n ZIP: 10105\n BUSINESS PHONE: 212-798-6100\n\n\tMAIL ADDRESS:\t\n STREET 1: 1345 AVENUE OF THE AMERICAS\n CITY: NEW YORK\n STATE: NY\n ZIP: 10105\n \n \n 4\n 1\n ownership.xml\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-01 \n\n 0 \n\n \n 0001966394 \n Fortress Net Lease REIT \n N/A \n \n \n\n \n \n 0001483232 \n TIEDEMANN ADVISORS, LLC \n \n \n false \n C/O ALTI GLOBAL, INC. \n 22 VANDERBILT AVENUE, 27TH FLOOR \n NEW YORK \n NY \n 10017 \n \n \n \n 0 \n 0 \n 1 \n 0 \n \n \n \n \n\n \n \n 0001452337 \n TTC MULTI-STRATEGY FUND QP, LP \n \n \n false \n C/O ALTI GLOBAL, INC. \n 22 VANDERBILT AVENUE, 27TH FLOOR \n NEW YORK \n NY \n 10017 \n \n \n \n 0 \n 0 \n 1 \n 0 \n \n \n \n \n\n \n \n 0001972890 \n AlTi Wealth & Capital Solutions Holdings, LLC \n \n \n false \n C/O ALTI GLOBAL, INC. \n 22 VANDERBILT AVE, 27TH FLOOR \n NEW YORK \n NY \n 10017 \n \n \n \n 0 \n 0 \n 1 \n 0 \n \n \n \n \n\n 0 \n\n \n \n \n Class F-I Common Shares of Beneficial Interest \n \n \n 2026-09-01 \n \n \n \n 4 \n P \n 0 \n \n \n \n \n 465142.2405 \n \n \n 10.7494 \n \n \n A \n \n \n \n \n 465142.2405 \n \n \n \n \n D \n \n \n \n \n \n \n Class F-I Common Shares of Beneficial Interest \n \n \n 2026-09-01 \n \n \n \n 4 \n P \n 0 \n \n \n \n \n 0 \n \n \n 0 \n \n \n A \n \n \n \n \n 465142.2405 \n \n \n \n \n I \n \n \n See Footnote \n \n \n \n \n \n \n Class D Common Shares of Beneficial Interest \n \n \n \n 6498032 \n \n \n \n \n D \n \n \n \n \n \n \n Class D Common Shares of Beneficial Interest \n \n \n \n 6498032 \n \n \n \n \n I \n \n \n See Footnote \n \n \n \n \n \n\n \n These securities are directly owned by TTC Multi-Strategy Fund QP, LP (the &quot;TTC Fund&quot;), a private investment fund, and may be deemed to be beneficially owned by each of: (i) Tiedemann Advisors, LLC (&quot;Tiedemann&quot;), as investment manager of the TTC Fund; (ii) Tiedemann Advisors GP, LLC, as general partner of the TTC Fund; and (iii) each of the following parent companies of Tiedemann, (A) AlTi Wealth & Capital Solutions Holdings, LLC; (B) AlTi Global Holdings, LLC; (C) AlTi Global Topco Limited; (D) AlTi Global Capital, LLC; and (E) AlTi Global, Inc. (collectively, the &quot;Reporting Persons&quot;). Each Reporting Person disclaims beneficial ownership of the reported securities except to the extent of his or its pecuniary interest therein, and this report shall not be deemed an admission that such Reporting Person is the beneficial owner of the securities for purposes of Section 16 of the Securities Exchange Act of 1934, as amended, or for any other purpose. \n \n\n \n Tiedemann Advisors, LLC, By: /s/ Whitney Fogle Lewis, Whitney Fogle Lewis, Authorized Signatory \n 2026-09-04 \n \n\n \n TTC Multi-Strategy Fund QP, LP, By: /s/ Whitney Fogle Lewis, Whitney Fogle Lewis, Authorized Signatory \n 2026-09-04 \n \n\n \n AlTi Wealth & Capital Solutions Holdings, LLC, By: /s/ Colleen Graham, Colleen Graham, Authorized Signatory \n 2026-09-04",
+    "text_sha256": "e75ba2e8261899b329628a4726920a4503422d75a8b24f7d5bca67e19f94ea47",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "us:0001084960-26-000007",
+  "market": "us",
+  "source": "sec-edgar-daily-index",
+  "url": "https://www.sec.gov/Archives/edgar/data/887343/0001084960-26-000007.txt",
+  "published_at": "2026-09-04",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-08T09:20:54Z",
+  "company": {
+    "ticker": "COLB",
+    "exchange_qualified": null,
+    "name": "COLUMBIA BANKING SYSTEM, INC.",
+    "cik": "887343"
+  },
+  "doc_type": "filing",
+  "form": "4",
+  "title": "4 — COLUMBIA BANKING SYSTEM, INC.",
+  "content": {
+    "text": "0001084960-26-000007.txt : 20260904\n 0001084960-26-000007.hdr.sgml : 20260904\n 20260904164152\nACCESSION NUMBER: 0001084960-26-000007\nCONFORMED SUBMISSION TYPE:\t4\nPUBLIC DOCUMENT COUNT: 3\nCONFORMED PERIOD OF REPORT:\t20260902\nFILED AS OF DATE: 20260904\nDATE AS OF CHANGE: 20260904\n\nREPORTING-OWNER:\t\n\n\tOWNER DATA:\t\n COMPANY CONFORMED NAME: LAGOMARSINO SIMONE\n CENTRAL INDEX KEY: 0001084960\n ORGANIZATION NAME: \n\n\tFILING VALUES:\n FORM TYPE: 4\n SEC ACT: 1934 Act\n SEC FILE NUMBER:\t000-20288\n FILM NUMBER: 261362597\n\n\tMAIL ADDRESS:\t\n STREET 1: C/O COLUMBIA BANKING SYSTEM, INC.\n STREET 2: 1301 A STREET\n CITY: TACOMA\n STATE: WA\n ZIP: 98402\n\nISSUER: \n\n\tCOMPANY DATA:\t\n COMPANY CONFORMED NAME: COLUMBIA BANKING SYSTEM, INC.\n CENTRAL INDEX KEY: 0000887343\n STANDARD INDUSTRIAL CLASSIFICATION:\tSTATE COMMERCIAL BANKS [6022]\n ORGANIZATION NAME: 02 Finance\n EIN: 911422237\n STATE OF INCORPORATION: WA\n FISCAL YEAR END: 1231\n\n\tBUSINESS ADDRESS:\t\n STREET 1: 1301 A STREET\n CITY: TACOMA\n STATE: WA\n ZIP: 98402\n BUSINESS PHONE: 2533051900\n\n\tMAIL ADDRESS:\t\n STREET 1: 1301 A STREET\n CITY: TACOMA\n STATE: WA\n ZIP: 98402\n\n\tFORMER COMPANY:\t\n FORMER CONFORMED NAME:\tCOLUMBIA BANKING SYSTEM INC\n DATE OF NAME CHANGE:\t19930328\n \n \n 4\n 1\n wk-form4_1788554509.xml\n FORM 4\n \n \n \n \n\n X0609 \n\n 4 \n\n 2026-09-02 \n\n 0 \n\n \n 0000887343 \n COLUMBIA BANKING SYSTEM, INC. \n COLB \n \n \n\n \n \n 0001084960 \n LAGOMARSINO SIMONE \n \n \n false \n C/O COLUMBIA BANKING SYSTEM, INC. \n 1301 A STREET \n TACOMA \n WA \n 98402 \n \n \n \n 1 \n 0 \n 0 \n 0 \n \n \n\n 0 \n\n \n \n \n Common Stock \n \n \n 2026-09-02 \n \n \n 4 \n A \n 0 \n \n \n \n 2670 \n \n \n 0 \n \n \n A \n \n \n \n \n 2670 \n \n \n \n \n D \n \n \n \n \n \n Common Stock \n \n \n \n 32931 \n \n \n \n \n I \n \n \n by family trust \n \n \n \n \n \n Common Stock \n \n \n \n 7 \n \n \n \n \n I \n \n \n by IRA \n \n \n \n \n\n \n\n \n\n \n\n \n /s/ Kumi Yamamoto Baruffi, Attorney-in-fact \n 2026-09-04 \n \n \n \n \n \n \n EX-24\n 2\n poaforsection16filingsfo.htm\n EX-24\n \n \n \n poaforsection16filingsfo",
+    "text_sha256": "79fb7d154b10ea089934996626dc9cef869d34d30c3f48f675722db0943bae2c",
+    "extraction": "sgml-strip",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": false,
+    "noise_rule": null
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "8d6b26fa7b5d",
+    "run_id": "34209221096"
+  }
+}
