@@ -1,6 +1,0 @@
-run --since 2026-09-04 --until 2026-09-08 --realtime --plain-logs
-audit --date 2026-09-07
-brief --date 2026-09-07
-brief --date 2026-09-08
-spend
-eval
