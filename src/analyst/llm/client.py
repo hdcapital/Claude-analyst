@@ -14,6 +14,7 @@ There is deliberately no bypass flag.
 from __future__ import annotations
 
 import logging
+import re
 import time
 from dataclasses import dataclass, field
 from datetime import UTC, datetime
@@ -251,10 +252,20 @@ class LLMClient:
         )
         self._gate(estimate)
 
-        api_requests = [
-            {"custom_id": r["custom_id"], "params": {"model": model, **r["params"]}}
-            for r in requests
-        ]
+        # Batch custom_ids must match ^[a-zA-Z0-9_-]{1,64}$; lake doc_ids
+        # carry a "market:native" colon, so sanitize and map back on results.
+        def sanitize(raw: str) -> str:
+            return re.sub(r"[^a-zA-Z0-9_-]", "_", raw)[:64]
+
+        id_map: dict[str, str] = {}
+        api_requests = []
+        for r in requests:
+            original = str(r["custom_id"])
+            safe = sanitize(original)
+            if safe in id_map and id_map[safe] != original:
+                raise ValueError(f"batch custom_id collision after sanitizing: {safe}")
+            id_map[safe] = original
+            api_requests.append({"custom_id": safe, "params": {"model": model, **r["params"]}})
         batch = self.sdk.messages.batches.create(requests=api_requests)  # type: ignore[arg-type]
         log.info("batch %s submitted: %d requests (est ceiling $%.4f)", batch.id, len(requests), estimate)
 
@@ -267,16 +278,17 @@ class LLMClient:
 
         out: dict[str, LLMResponse] = {}
         for item in self.sdk.messages.batches.results(batch.id):
+            original_id = id_map.get(item.custom_id, item.custom_id)
             if item.result.type != "succeeded":
-                log.warning("batch item %s: %s", item.custom_id, item.result.type)
+                log.warning("batch item %s: %s", original_id, item.result.type)
                 continue
             message = item.result.message
             usage = Usage.from_api(message.usage)
             cost = self._settle(
-                model=model, purpose=purpose, usage=usage, batch=True, doc_id=item.custom_id
+                model=model, purpose=purpose, usage=usage, batch=True, doc_id=original_id
             )
             text = "".join(block.text for block in message.content if block.type == "text")
-            out[item.custom_id] = LLMResponse(
+            out[original_id] = LLMResponse(
                 text=text,
                 model=model,
                 usage=usage,
