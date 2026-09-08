@@ -1,0 +1,79 @@
+name: CI
+
+on:
+  push:
+    branches: [claude/claude-analyst-build-vl01y0]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install
+        run: pip install -e ".[dev,s3]"
+
+      - name: Lint
+        run: python -m ruff check src tests
+
+      - name: Typecheck
+        run: python -m mypy
+
+      - name: Tests
+        run: python -m pytest
+
+      - name: Secret availability probe (never prints values)
+        env:
+          PROBE: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "$PROBE" ]; then
+            echo "ANTHROPIC_API_KEY secret: configured"
+          else
+            echo "ANTHROPIC_API_KEY secret: NOT configured"
+          fi
+
+      - name: Live E2E run (only when .e2e-run marker is present)
+        if: ${{ hashFiles('.e2e-run') != '' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANALYST_DATA_DIR: ./data
+          ANALYST_BUDGET_USD_TOTAL: "10"
+          ANALYST_BUDGET_USD_DAILY: "2"
+        run: |
+          set -euo pipefail
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "No ANTHROPIC_API_KEY secret — cannot run live E2E"; exit 1
+          fi
+          # .e2e-run holds the analyst arguments, one run per line
+          while IFS= read -r line; do
+            [ -z "$line" ] && continue
+            echo "== analyst $line"
+            # shellcheck disable=SC2086
+            analyst $line
+          done < .e2e-run
+
+      - name: Push E2E outputs back to the branch
+        if: ${{ hashFiles('.e2e-run') != '' }}
+        run: |
+          set -euo pipefail
+          git config user.name "analyst-ci-bot"
+          git config user.email "actions@users.noreply.github.com"
+          mkdir -p e2e_output
+          cp -r data/. e2e_output/ 2>/dev/null || true
+          git add -f e2e_output
+          git rm -q .e2e-run
+          git commit -m "E2E run outputs (see e2e_output/)"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push
