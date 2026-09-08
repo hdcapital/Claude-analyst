@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/AUE",
+ "identity": {
+  "ticker": "AUE",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing Notice",
+   "data": {
+    "title": "Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136808",
+    "is_admin_noise": true
+   },
+   "source": "asx:1d740007c1a3ebfcd44753a8d06d854a",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

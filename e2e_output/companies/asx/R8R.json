@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/R8R",
+ "identity": {
+  "ticker": "R8R",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

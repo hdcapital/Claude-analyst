@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/MMS",
+ "identity": {
+  "ticker": "MMS",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Initial Director's Interest Notice",
+   "data": {
+    "title": "Initial Director's Interest Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136307",
+    "is_admin_noise": true
+   },
+   "source": "asx:1a898a2dd9ecf7e858f7c55667af291b",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

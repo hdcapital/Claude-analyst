@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/BTI",
+ "identity": {
+  "ticker": "BTI",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=1223340.0, issue_price=0.9862, implied_raise=1206457.91",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 1223340.0,
+    "issue_price": 0.9862,
+    "implied_raise": 1206457.91
+   },
+   "source": "asx:23c3a96896b8ecc0f81455b0047e38e7",
+   "locator": "chars 308+",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

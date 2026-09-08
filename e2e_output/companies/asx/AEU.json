@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/AEU",
+ "identity": {
+  "ticker": "AEU",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=117164.0, issue_price=0.31, implied_raise=36320.84",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 117164.0,
+    "issue_price": 0.31,
+    "implied_raise": 36320.84
+   },
+   "source": "asx:1bfd07d3f0d179877ae0a3953b8a19af",
+   "locator": "chars 285+",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

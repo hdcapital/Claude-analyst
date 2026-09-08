@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/DNL",
+ "identity": {
+  "ticker": "DNL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Northern Trust, present_voting_power_pct=6.15",
+   "data": {
+    "form": "604_change",
+    "holder": "Northern Trust",
+    "became_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 6.15
+   },
+   "source": "asx:047721c2de4c5a47797abf0d7b1e0860",
+   "locator": "chars 3438+ (voting power table)",
+   "recorded_at": "2026-09-08T12:45:17Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

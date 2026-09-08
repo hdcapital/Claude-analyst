@@ -1,0 +1,49 @@
+{
+ "issuer_key": "asx/NWS",
+ "identity": {
+  "ticker": "NWS",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "buyback filing: first_of_type (0/302 lines changed)",
+   "data": {
+    "diff_group": "buyback",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 302,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:0e18297e957395cedf871b85639dcac8",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "repeat_filing_diff",
+   "summary": "buyback filing: non_trivial (24/302 lines changed)",
+   "data": {
+    "diff_group": "buyback",
+    "previous_doc_id": "asx:0e18297e957395cedf871b85639dcac8",
+    "changed_lines": 24,
+    "total_lines": 302,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-ASX Security Code: NWSAA\n+ASX Security Code: NWSAB\n-STOCK CLASS A\n+STOCK CLASS B\n-359,946,996\n+141,367,365\n-11,614,809\n-54,641\n+5,424,319\n+23,784\n-US$301,262,219.93\n-US$1,673,571.87\n+US$159,563,617.29\n+US$812,026.19\n-US$31.58\n+US$35.69\n-US$30.85\n+US$34.50\n-US$22.20\n+US$25.49\n-paid: 09/02/2026\n-US$30.455\n+paid: 13/02/2026\n+US$33.95"
+   },
+   "source": "asx:329329e92245201a7adab1132231ac9b",
+   "locator": "diff vs asx:0e18297e957395cedf871b85639dcac8",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

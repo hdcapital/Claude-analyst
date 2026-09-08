@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/WHK",
+ "identity": {
+  "ticker": "WHK",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=100000000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 100000000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:11e510e92a81e8531faf9b2c75502072",
+   "locator": "chars 242+",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

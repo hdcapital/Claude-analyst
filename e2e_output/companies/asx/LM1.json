@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/LM1",
+ "identity": {
+  "ticker": "LM1",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

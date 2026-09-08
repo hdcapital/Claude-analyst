@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/LGI",
+ "identity": {
+  "ticker": "LGI",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Initial Director's Interest Notice - Rod Duke",
+   "data": {
+    "title": "Initial Director's Interest Notice - Rod Duke",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136599",
+    "is_admin_noise": true
+   },
+   "source": "asx:36707b9a9904a7bb755533bdb9981716",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

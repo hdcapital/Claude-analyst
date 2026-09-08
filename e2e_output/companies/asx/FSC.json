@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/FSC",
+ "identity": {
+  "ticker": "FSC",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

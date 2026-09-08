@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/AQZ",
+ "identity": {
+  "ticker": "AQZ",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Section 708A Cleansing Notice",
+   "data": {
+    "title": "Section 708A Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136304",
+    "is_admin_noise": true
+   },
+   "source": "asx:3beafa7d54532d9a885f33aad24dc0d6",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/PLA",
+ "identity": {
+  "ticker": "PLA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=225000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 225000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:29bdb56c7e9bd8f2c4c911cbb0009074",
+   "locator": "chars 300+",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

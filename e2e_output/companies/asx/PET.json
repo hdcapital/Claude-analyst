@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/PET",
+ "identity": {
+  "ticker": "PET",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

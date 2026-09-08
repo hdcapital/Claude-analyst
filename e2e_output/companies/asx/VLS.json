@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/VLS",
+ "identity": {
+  "ticker": "VLS",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - VLS",
+   "data": {
+    "title": "Notification of cessation of securities - VLS",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136294",
+    "is_admin_noise": true
+   },
+   "source": "asx:0fc3efc9b2969ce46f34ab19f285ff7c",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/BUB",
+ "identity": {
+  "ticker": "BUB",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

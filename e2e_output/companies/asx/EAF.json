@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/EAF",
+ "identity": {
+  "ticker": "EAF",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

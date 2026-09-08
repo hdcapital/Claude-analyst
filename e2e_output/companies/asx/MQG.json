@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/MQG",
+ "identity": {
+  "ticker": "MQG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=Macquarie Group Limited ('MQG'); and",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "Macquarie Group Limited ('MQG'); and",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:2559b5d1d6fc0054ed9373240cd6628d",
+   "locator": "chars 56+ (form 605)",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

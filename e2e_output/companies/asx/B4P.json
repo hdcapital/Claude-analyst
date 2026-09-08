@@ -1,0 +1,34 @@
+{
+ "issuer_key": "asx/B4P",
+ "identity": {
+  "ticker": "B4P",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=DIRECTIONS, voting_power_pcts_seen_unordered[2]",
+   "data": {
+    "form": "604_change",
+    "holder": "DIRECTIONS",
+    "became_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null,
+    "voting_power_pcts_seen_unordered": [
+     9.15,
+     10.26
+    ]
+   },
+   "source": "asx:21bbc255f0bab43c8ff7789d3a329d09",
+   "locator": "chars 2923+ (voting power table)",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

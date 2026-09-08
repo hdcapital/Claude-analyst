@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/CDT",
+ "identity": {
+  "ticker": "CDT",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=38200000.0, issue_price=0.075, implied_raise=2865000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 38200000.0,
+    "issue_price": 0.075,
+    "implied_raise": 2865000.0
+   },
+   "source": "asx:14aa8cc3b5d28c73e525df78a235ea15",
+   "locator": "chars 292+",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

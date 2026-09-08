@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/VIT",
+ "identity": {
+  "ticker": "VIT",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

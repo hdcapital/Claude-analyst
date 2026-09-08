@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/G1C",
+ "identity": {
+  "ticker": "G1C",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

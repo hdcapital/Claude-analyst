@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/QBE",
+ "identity": {
+  "ticker": "QBE",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - QBE",
+   "data": {
+    "title": "Notification regarding unquoted securities - QBE",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136432",
+    "is_admin_noise": true
+   },
+   "source": "asx:020b0dbd405d1b288f8f3f4f1f44b0f8",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T12:45:17Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

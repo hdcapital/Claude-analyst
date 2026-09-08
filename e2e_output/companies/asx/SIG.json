@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/SIG",
+ "identity": {
+  "ticker": "SIG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Vikesh Ramsunder, date_of_change=2026-08-31, number_acquired=564896.0, value_consideration=0.0, held_after_change=3132984.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Vikesh Ramsunder",
+    "date_of_change": "2026-08-31",
+    "number_acquired": 564896.0,
+    "number_disposed": null,
+    "value_consideration": 0.0,
+    "held_after_change": 3132984.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:173dad983d9172cedc8c39471ca28ab5",
+   "locator": "chars 784+ (form fields)",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/I88",
+ "identity": {
+  "ticker": "I88",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

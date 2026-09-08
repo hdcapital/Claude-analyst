@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/BTR",
+ "identity": {
+  "ticker": "BTR",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=59555.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 59555.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:1f3c8a493fe19395fb6533d1426b1ee6",
+   "locator": "chars 297+",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing notice under s708A",
+   "data": {
+    "title": "Cleansing notice under s708A",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136587",
+    "is_admin_noise": true
+   },
+   "source": "asx:366306ec3dd30b871964aafa24877062",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

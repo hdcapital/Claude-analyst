@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/ACW",
+ "identity": {
+  "ticker": "ACW",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=17202872.0, issue_price=0.0375, implied_raise=645107.7",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 17202872.0,
+    "issue_price": 0.0375,
+    "implied_raise": 645107.7
+   },
+   "source": "asx:26a9a7510b55884d4bc4cf3a64b2e7c2",
+   "locator": "chars 294+",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/EVN",
+ "identity": {
+  "ticker": "EVN",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=AustralianSuper Pty Ltd, previous_voting_power_pct=17.3, present_voting_power_pct=16.08",
+   "data": {
+    "form": "604_change",
+    "holder": "AustralianSuper Pty Ltd",
+    "became_on": null,
+    "previous_voting_power_pct": 17.3,
+    "present_voting_power_pct": 16.08
+   },
+   "source": "asx:32537c9cffb8648d0e3354db65ae9883",
+   "locator": "chars 227+ (voting power table)",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

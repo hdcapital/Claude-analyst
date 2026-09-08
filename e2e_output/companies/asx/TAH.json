@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/TAH",
+ "identity": {
+  "ticker": "TAH",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/NAE",
+ "identity": {
+  "ticker": "NAE",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

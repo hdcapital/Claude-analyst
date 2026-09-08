@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CY5",
+ "identity": {
+  "ticker": "CY5",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/INA",
+ "identity": {
+  "ticker": "INA",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

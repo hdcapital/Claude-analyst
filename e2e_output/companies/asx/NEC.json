@@ -1,0 +1,46 @@
+{
+ "issuer_key": "asx/NEC",
+ "identity": {
+  "ticker": "NEC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=MATTHEW STANTON, date_of_change=2026-09-07, number_acquired=421834.0, number_disposed=0.0, value_consideration=0.981, held_after_change=834737.0, direct_or_indirect=Direct",
+   "data": {
+    "director": "MATTHEW STANTON",
+    "date_of_change": "2026-09-07",
+    "number_acquired": 421834.0,
+    "number_disposed": 0.0,
+    "value_consideration": 0.981,
+    "held_after_change": 834737.0,
+    "direct_or_indirect": "Direct"
+   },
+   "source": "asx:1c1805113d6602b964531987c30d848d",
+   "locator": "chars 661+ (form fields)",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - NEC",
+   "data": {
+    "title": "Notification regarding unquoted securities - NEC",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136664",
+    "is_admin_noise": true
+   },
+   "source": "asx:33107969407ca1204c12abd25026ff0b",
+   "locator": "metadata",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

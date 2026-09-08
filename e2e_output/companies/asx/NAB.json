@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/NAB",
+ "identity": {
+  "ticker": "NAB",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

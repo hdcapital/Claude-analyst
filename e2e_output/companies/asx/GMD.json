@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/GMD",
+ "identity": {
+  "ticker": "GMD",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=Level 5, Tower Three International Towers Sydney, 300 Barangaroo Avenue, Barangaroo NSW 2000,",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "Level 5, Tower Three International Towers Sydney, 300 Barangaroo Avenue, Barangaroo NSW 2000,",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:316c41dcc092ea318b4c82279491e338",
+   "locator": "chars 1555+ (form 605)",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "issuer_key": "asx/RMS",
+ "identity": {
+  "ticker": "RMS",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=Level 5, Tower Three International Towers Sydney, 300 Barangaroo Avenue, Barangaroo NSW 2000,",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "Level 5, Tower Three International Towers Sydney, 300 Barangaroo Avenue, Barangaroo NSW 2000,",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:13c4595debf9bf092f05bcda590ab70d",
+   "locator": "chars 1524+ (form 605)",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=340164.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 340164.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:1b303b22d0551fec3b19bd12b36cf7ff",
+   "locator": "chars 295+",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,3 +1,0 @@
-run --since 2026-09-07 --until 2026-09-07 --limit 150 --realtime --plain-logs
-brief --date 2026-09-07
-spend

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/XEN",
+ "identity": {
+  "ticker": "XEN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

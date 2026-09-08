@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/HRN",
+ "identity": {
+  "ticker": "HRN",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-07",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=400000.0, issue_price=0.33, implied_raise=132000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 400000.0,
+    "issue_price": 0.33,
+    "implied_raise": 132000.0
+   },
+   "source": "asx:2c7596d033eb51c2dcc49c19cae6cff1",
+   "locator": "chars 289+",
+   "recorded_at": "2026-09-08T12:45:18Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

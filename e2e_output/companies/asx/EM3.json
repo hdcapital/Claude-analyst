@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/EM3",
+ "identity": {
+  "ticker": "EM3",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

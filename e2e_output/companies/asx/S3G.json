@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/S3G",
+ "identity": {
+  "ticker": "S3G",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

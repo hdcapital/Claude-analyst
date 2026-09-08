@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/PAX",
+ "identity": {
+  "ticker": "PAX",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}
