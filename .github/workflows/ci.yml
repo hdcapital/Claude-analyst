@@ -51,7 +51,10 @@ jobs:
           MARKET_INGESTER_PATH: ./_lake_mirror
           ANALYST_DATA_DIR: ./data
           ANALYST_BUDGET_USD_TOTAL: "10"
-          ANALYST_BUDGET_USD_DAILY: "2"
+          # Build runs replay several real lake days in one calendar day; the
+          # production default ($2/day) would stop that replay by design.
+          # The $10 total cap is unchanged and remains the hard limit.
+          ANALYST_BUDGET_USD_DAILY: "6"
         run: |
           set -euo pipefail
           if [ -z "$ANTHROPIC_API_KEY" ]; then
