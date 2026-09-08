@@ -16,7 +16,7 @@ from __future__ import annotations
 import logging
 import time
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from typing import Any
 
 import anthropic
@@ -51,7 +51,7 @@ class LLMResponse:
 
 
 def _utc_day() -> str:
-    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    return datetime.now(UTC).strftime("%Y-%m-%d")
 
 
 class LLMClient:
@@ -209,13 +209,11 @@ class LLMClient:
         if temperature is not None:
             kwargs["temperature"] = temperature
         response = self.sdk.messages.create(
-            model=model, max_tokens=max_tokens, messages=messages, **kwargs
+            model=model, max_tokens=max_tokens, messages=messages, **kwargs  # type: ignore[arg-type]
         )
         usage = Usage.from_api(response.usage)
         cost = self._settle(model=model, purpose=purpose, usage=usage, batch=False, doc_id=doc_id)
-        text = "".join(
-            block.text for block in response.content if getattr(block, "type", "") == "text"
-        )
+        text = "".join(block.text for block in response.content if block.type == "text")
         return LLMResponse(
             text=text,
             model=model,
@@ -277,9 +275,7 @@ class LLMClient:
             cost = self._settle(
                 model=model, purpose=purpose, usage=usage, batch=True, doc_id=item.custom_id
             )
-            text = "".join(
-                block.text for block in message.content if getattr(block, "type", "") == "text"
-            )
+            text = "".join(block.text for block in message.content if block.type == "text")
             out[item.custom_id] = LLMResponse(
                 text=text,
                 model=model,

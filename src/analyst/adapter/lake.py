@@ -228,29 +228,42 @@ class LakeAdapter:
             return "missing_marker"
 
     def _manifest_keys(self, market: str, day: str) -> list[str]:
-        """Document keys for a day: manifest first, directory listing fallback."""
-        raw = self.store.get_bytes(f"manifests/{market}/{day}.jsonl")
-        if raw is not None:
-            keys = []
-            for line in raw.decode("utf-8", "replace").splitlines():
-                line = line.strip()
-                if not line:
-                    continue
-                try:
-                    entry = json.loads(line)
-                except ValueError:
-                    continue
-                key = entry.get("key")
-                if key:
-                    # manifest keys carry the lake prefix ("market-data/...");
-                    # our store roots at the prefix, so strip it if present.
-                    keys.append(key.split("market-data/", 1)[-1])
-            return keys
+        """Document keys for a published-date partition.
+
+        The partition directory is authoritative: manifests are keyed by
+        *ingest run date*, and (verified on the real lake) a run frequently
+        writes documents whose published date differs — e.g. the US ingest of
+        Friday's EDGAR index runs on Saturday. The day's manifest is only a
+        fallback for stores where directory listing is unavailable, filtered
+        to keys actually in this partition.
+        """
         y, m, d = day.split("-")
         prefix = f"documents/{market}/{y}/{m}/{d}"
-        return [
+        keys = [
             f"{prefix}/{name}" for name in self.store.list_dir(prefix) if name.endswith(".json")
         ]
+        if keys:
+            return keys
+        raw = self.store.get_bytes(f"manifests/{market}/{day}.jsonl")
+        if raw is None:
+            return []
+        out = []
+        for line in raw.decode("utf-8", "replace").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                entry = json.loads(line)
+            except ValueError:
+                continue
+            key = entry.get("key")
+            if key:
+                # manifest keys carry the lake prefix ("market-data/...");
+                # our store roots at the prefix, so strip it if present.
+                key = key.split("market-data/", 1)[-1]
+                if key.startswith(prefix):
+                    out.append(key)
+        return out
 
     def iter_day(self, market: str, day: str) -> Iterator[Announcement]:
         status = self._read_done_marker(market, day)

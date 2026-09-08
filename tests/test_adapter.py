@@ -2,7 +2,7 @@
 by the parser fixture suite)."""
 
 import json
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 from analyst.adapter import LakeAdapter
@@ -45,8 +45,8 @@ def build_synthetic_lake(root: Path) -> None:
 def test_iter_new_announcements(tmp_path: Path) -> None:
     build_synthetic_lake(tmp_path)
     adapter = LakeAdapter(_LocalStore(tmp_path), markets=("asx",))
-    since = datetime(2026, 1, 5, tzinfo=timezone.utc)
-    until = datetime(2026, 1, 5, tzinfo=timezone.utc)
+    since = datetime(2026, 1, 5, tzinfo=UTC)
+    until = datetime(2026, 1, 5, tzinfo=UTC)
     anns = list(adapter.iter_new_announcements(since, until))
     assert len(anns) == 1
     ann = anns[0]

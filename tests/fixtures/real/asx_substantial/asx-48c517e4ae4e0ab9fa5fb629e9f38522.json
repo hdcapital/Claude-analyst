@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:48c517e4ae4e0ab9fa5fb629e9f38522",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120087",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:01:03Z",
+  "company": {
+    "ticker": "ADR",
+    "exchange_qualified": "ASX:ADR",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Ceasing to be a substantial holder",
+  "content": {
+    "text": " \n \nForm 605 \n \nCorporations Law \nSection 671B \n \nNotice of ceasing to be a substantial holder \n \n \n \nTo:  Company Name/Scheme \nADHERIUM LIMITED \n \n \nACN/ARSN \n605 352 510 \n \n \n1. Details of substantial holder (1) \n \nName \nUBS Group AG and its related bodies corporate \n \n \nACN/ARSN (if applicable): \n \n \n \nThe holder ceased to be a substantial shareholder on \n  28 July 2026 \n \nThe previous notice was given to the company on \n  26 February 2026 \n \nThe previous notice was dated  \n  24 February 2026 \n \n \n2. Changes in relevant interests \n \nParticulars of each change in, or change in the nature of, a relevant interest (2) of the substantial holder or an associate (3) in \nvoting securities of the company or scheme, since the substantial holder was last required to give a substantial holding notice \nto the company or scheme are as follows: \n \nDate of \nchange \nPerson whose \nrelevant interest \nchanged \nNature of Change \n(4) \nConsideration \ngiven in \nrelation to \nchange (5) \nClass (6) and \nNumber of \nsecurities affected \nPerson’s \nvotes \naffected \nPlease see Appendix A. \n \n \n3. Changes in association \n \nThe persons who have become associates (3) of, ceased to be associates of, or have changed the nature of their \nassociation (7) with, the substantial holder in relation to voting interests in the company or scheme are as follows: \n \nName and ACN/ARSN (if applicable) \n Nature of association \nN/A \nN/A \n \n \n4. Addresses \n \nThe addresses of persons named in this form are as follows: \n \nName  \n Address \nN/A \nN/A \n \n \n \n \n \n \n \n \nFor personal use only\n\n \nSIGNATURE \n \n \nPrint Name: \n \n \nDominic Eichrodt \n \nCapacity: \n \nAuthorised signatory \n \nSign Here: \n \n \n \nDate: \n \n30 July 2026 \n \n \n \nPrint Name: \n \n \nRuby Ko \n \nCapacity: \n \nAuthorised signatory \n \nSign Here: \n \n \n \nDate: \n \n30 July 2026 \n \n \n \n \nContact details for this notice:  \n--------------------------------------------------------------- \nRuby Ko \nGroup Compliance & Operational Risk Control. \n(T) +852 3712 2802 \n--------------------------------------------------------------- \nFor personal use only\n\nADR - Appendix A\nDate of change\nPerson whose relevant interest changed\nNature of Change \n Consideration given in relation to change   Number of securities \nClass\n25-Feb-26\nUBS Securities Australia Ltd\nBuy\n1,600\n                                                           \n800,000\n                     \nOrdinary\n06-Mar-26\nUBS Securities Australia Ltd\nBuy\n2,089\n                                                           \n1,044,500\n                  \nOrdinary\n09-Mar-26\nUBS Securities Australia Ltd\nSell\n2,000\n                                                           \n(1,000,000)\n                 \nOrdinary\n10-Mar-26\nUBS Securities Australia Ltd\nBuy\n2,507\n                                                           \n1,253,686\n                  \nOrdinary\n13-Apr-26\nUBS Securities Australia Ltd\nSell\n1,285\n                                                           \n(642,309)\n                    \nOrdinary\n29-Jun-26\nUBS AG Singapore Branch\nCorporate action\nN/A\n(262,488,888)\n            \nOrdinary\n01-Jul-26\nUBS Securities Australia Ltd\nSell\n116,405\n                                                       \n(15,316,511)\n               \nOrdinary\n07-Jul-26\nUBS AG Singapore Branch\nRight to borrow \nN/A\n2,624,888\n                  \nOrdinary\n08-Jul-26\nUBS Securities Australia Ltd\nBuy\n117,018\n                                                       \n153,165\n                     \nOrdinary\n28-Jul-26\nUBS Securities Australia Ltd\nSell\n5,279\n                                                           \n(50,280)\n                      \nOrdinary\nFor personal use only\n",
+    "text_sha256": "02aeab6fe54ea39c0aa5745a3b95e81d5d7254189f28d5b6c0299fd17f74a51c",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/48c517e4ae4e0ab9fa5fb629e9f38522.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

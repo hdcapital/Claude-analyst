@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:5ae06f5b8b3d12bbc2045313cb4638d3",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03119990",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:06:42Z",
+  "company": {
+    "ticker": "SBZ",
+    "exchange_qualified": "ASX:SBZ",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change of Director's Interest Notice - Kevin Eley",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity  \nSchoolblazer Limited  \nABN \n \n25 006 657 961 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nKevin Eley \nDate of last notice \n1 May 2025  \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDirect and indirect interest \nDirect and Indirect Interest \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to the relevant \ninterest. \n \nKJE \nSuperannuation \nLtd \n<KJE \nSuperannuation S/F A/C – Mr Eley is a \nbeneficiary of the fund \nDate of change \n30 July 2026  \nNo. of securities held prior to change \nKJE \nSuperannuation \nLtd \n<KJE \nSuperannuation S/F A/C> – 4,133,645 \n \nKevin John Eley  – 978,180 \n \nTotal – 5,111,825 \n \nClass \nFully Paid Ordinary Shares \nNumber acquired \n100,000 Ordinary shares  \nNumber disposed \nNil \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated \nvaluation \n \n$16,750  \n \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \nNo. of securities held after change \nKJE \nSuperannuation \nLtd \n<KJE \nSuperannuation S/F A/C> – 4,133,645 \n \nKevin John Eley  – 1,078,180 \n \nTotal – 5,211,825 \nNature of change \nExample: on-market trade, off-market trade, exercise of options, \nissue of securities under dividend reinvestment plan, participation in \nbuy-back \nOn market purchase  \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDetail of contract \nN/A \nNature of interest \n \n \nN/A \nName of registered holder \n(if issued securities) \n \nN/A \nDate of change \nN/A \nNo. and class of securities to which interest related prior to change \nNote: Details are only required for a contract in relation to which the interest has changed \n \nN/A \nInterest acquired \nN/A \nInterest disposed \nN/A \nValue/Consideration \nNote: If consideration is non-cash, provide details and an estimated valuation  \n \nN/A \nInterest after change \nN/A \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed above traded during a \n+closed period where prior written clearance was required? \nNo \nIf so, was prior written clearance provided to allow the trade to proceed during \nthis period? \nN/A \nIf prior written clearance was provided, on what date was this provided? \nN/A \n \n \nFor personal use only\n",
+    "text_sha256": "d883763d33a32dee7e68ab8b98e64204b73df7649557cebbbb3d9f196f4a081e",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/5ae06f5b8b3d12bbc2045313cb4638d3.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

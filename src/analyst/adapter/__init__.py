@@ -8,6 +8,7 @@ and nowhere else. The rest of the codebase sees one interface:
         ...
 """
 
-from .lake import Announcement, LakeAdapter, LakeNotFound
+from ..models import Announcement
+from .lake import LakeAdapter, LakeNotFound
 
 __all__ = ["Announcement", "LakeAdapter", "LakeNotFound"]

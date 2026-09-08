@@ -9,7 +9,7 @@ from __future__ import annotations
 import logging
 from collections.abc import Iterator
 from contextlib import contextmanager
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
@@ -207,7 +207,7 @@ class Store:
         with self.session() as s:
             s.add(
                 SpendLogRow(
-                    day=datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                    day=datetime.now(UTC).strftime("%Y-%m-%d"),
                     model=model,
                     purpose=purpose,
                     input_tokens=input_tokens,

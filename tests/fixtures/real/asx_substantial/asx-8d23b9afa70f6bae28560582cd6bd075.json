@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:8d23b9afa70f6bae28560582cd6bd075",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03119980",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:07:07Z",
+  "company": {
+    "ticker": "SKT",
+    "exchange_qualified": "ASX:SKT",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change in substantial holding",
+  "content": {
+    "text": " \nDisclosure of movement of 1% or more in substantial holding or change in \nnature of relevant interest or both \nSections 277 and 278, Financial Markets Conduct Act 2013 \nTo New Zealand Stock Exchange \nand \nTo SKY Network Television Ltd \nRelevant event being disclosed: Movement of 1% or more \nDate of relevant event:   \n \n29 July 2026 \nDate this disclosure made:  \n \n30 July 2026 \nDate last disclosure made:  \n \n3 December 2024 \nSubstantial product holder(s) giving disclosure \nFull Name(s): Accident Compensation Corporation (ACC) \nSummary of substantial holding \nClass of quoted voting products: Ordinary shares (SKT NZ, SKT AU) \nSummary for:   Accident Compensation Corporation (ACC) \nFor this disclosure,— \n(a) \nTotal number held in class:  \n13,152,520  \n(b) \nTotal in class:  \n \n \n137,675,010  \n(c) \nTotal percentage held in class:  9.553% \nFor last disclosure,— \n(a) \nTotal number held in class:  \n14,543,637  \n(b) \nTotal in class:  \n \n \n137,675,010  \n \n \n(c) \nTotal percentage held in class:  10.564%  \nDetails of transactions and events giving rise to relevant event \nDetails of the transactions or other events requiring disclosure: \nFrom 3 December 2024 to 29 July 2026, ACC had the following aggregated on-market \ntransactions in SKY Network Television Ltd: \n• \nSales of 4,202,083 shares for consideration of NZD $12,749,881.21 \n• \nPurchases of 2,810,966 shares for consideration of NZD $7,790,910.71 \n \nDetails after relevant event \nDetails for ACC \nNature of relevant interest(s):  \nBeneficial owner of securities under §235(1)(b)  of the Financial Markets Conduct Act  \nNo relevant agreement document needs to be attached under regulation 139. \nFor that relevant interest,— \n(a) \nNumber held in class:  \n \n13,152,520 \n(b) \nPercentage held in class:  \n9.553% \n(c) \nCurrent registered holder(s): ACC via New Zealand Central Securities Depository Limited \n(NZCSD) \nFor personal use only\n\n \n(d) \nRegistered holder(s) once transfers are registered: unknown \n \nFor a derivative relevant interest, also— \n(a) \ntype of derivative: n/a \n(b) \ndetails of derivative: n/a \n(c) \nparties to the derivative: n/a \n(d) \nif the substantial product holder is not a party to the derivative, the nature of the relevant \ninterest in the derivative: n/a \nAdditional information \nAddress of substantial product holder(s):  \nACC: Justice Centre, 19 Aitken Street, PO Box 242, Wellington, NZ \nContact details: Matthew Cunliffe        +64 4 816 5743 \ninvestmentscompliance@acc.co.nz \nIn accordance with the Financial Markets Authority’s Guidance Note: Guidance on Substantial \nProduct Holder Disclosures issued on 27 September 2017, ACC has not made disclosures for \nemployees who manage the financial products of which ACC is the beneficial owner. \nName of any other person believed to have given, or believed to be required to give, a \ndisclosure under the Financial Markets Conduct Act 2013 in relation to the financial products to \nwhich this disclosure relates: n/a \nCertification \nI, Matthew Cunliffe, certify that, to the best of my knowledge and belief, the information \ncontained in this disclosure is correct and that I am duly authorised to make this disclosure by \nall persons for whom it is made.\n \nFor personal use only\n",
+    "text_sha256": "70cc974a683dd09cec3d70f883bb43a7088eee475bea6e6e3bce74ac11ede50b",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/8d23b9afa70f6bae28560582cd6bd075.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

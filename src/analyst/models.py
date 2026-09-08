@@ -13,7 +13,7 @@ from dataclasses import dataclass, field
 from typing import Any
 
 
-class Lane(str, enum.Enum):
+class Lane(enum.StrEnum):
     DETERMINISTIC = "DETERMINISTIC"
     DIFF = "DIFF"
     AI = "AI"
@@ -84,7 +84,7 @@ class Fact:
             raise ValueError("Fact without provenance (doc_id/date) is a bug")
 
 
-class ParseOutcome(str, enum.Enum):
+class ParseOutcome(enum.StrEnum):
     PARSED = "parsed"
     UNPARSED = "unparsed"  # parser ran but failed validation -> AI lane
 

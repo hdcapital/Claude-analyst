@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:fd3938015a665e021c1b3fd209255f77",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136391",
+  "published_at": "2026-09-07",
+  "published_date": "2026-09-07",
+  "scraped_at": "2026-09-07T00:43:26Z",
+  "company": {
+    "ticker": "WEB",
+    "exchange_qualified": "ASX:WEB",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Appendix 3Y - John Guscic",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity       WEBBEDS GROUP LIMITED \nABN                68 002 013 612 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nJOHN GUSCIC \nDate of last notice \n29 May 2026 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDirect or indirect interest \nDIRECT AND INDIRECT \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to \nthe relevant interest. \n \nTorcida Pty Ltd ATF A & J Guscic Superannuation Fund \nDate of change \n1 & 3 September 2026 \nNo. of securities held prior to change \n \nDirect \n371,158 \nIndirect \n179,170 \nOTC capped call \noptions \n6,037,328 \nPerformance rights \n1,108,865 \nUnvested \n1,108,865 \n \nClass \nOptions and fully paid ordinary shares \n \nNumber acquired \n3,478,261 options on 1 September 2026 \n102,166 fully paid ordinary shares on 3 September 2026 \n \n \nNumber disposed \nNil \n \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \nValue/Consideration \nNote: If consideration is non-cash, provide details and \nestimated valuation \n \nThe securities were issued for nil consideration as part \nof the Company's long-term and short-term employee \nincentive arrangements respectively. The options have \nan exercise price of $2.94. \nNo. of securities held after change \n \nDirect \n473,324* \nIndirect \n179,170 \nOTC capped call \noptions \n6,037,328 \nPerformance rights \n1,108,865 \nUnvested \n1,108,865 \nOptions \n3,478,261 \nUnvested \n3,478,261 \n \n* Of which 102,166 are subject to a holding lock until  \n1 June 2027. \nNature of change \nExample: on-market trade, off-market trade, exercise of \noptions, issue of securities under dividend reinvestment \nplan, participation in buy-back \nIssue of options and fully paid ordinary shares under \nthe Company’s long-term and short-term employee \nincentive arrangements respectively, in each case, as \napproved by shareholders at the Company’s 2026 \nAnnual General Meeting. \n \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDetail of contract \nN/A  \nNature of interest \nN/A \nName of registered holder \n(if issued securities) \nN/A \nDate of change \nN/A \nNo. and class of securities to which \ninterest related prior to change \nNote: Details are only required for a contract in \nrelation to which the interest has changed \n \nN/A \nInterest acquired \nN/A \nInterest disposed \nN/A \nValue/Consideration \nNote: If consideration is non-cash, provide details \nand an estimated valuation  \nN/A \nInterest after change \nN/A \n \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 3 \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed above \ntraded during a +closed period where prior written clearance \nwas required? \nNo \nIf so, was prior written clearance provided to allow the trade to \nproceed during this period? \nN/A \nIf prior written clearance was provided, on what date was this \nprovided? \nN/A \n \nFor personal use only\n",
+    "text_sha256": "c8c03b9988188ba1db17aed77d8245d3fa77b9d43892b62eb3520b7acf87fad4",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/09/07/fd3938015a665e021c1b3fd209255f77.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "34070295085"
+  }
+}

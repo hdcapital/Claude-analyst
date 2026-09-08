@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:aaf2ce685d872b8e1d8afe2961c4d9dc",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136387",
+  "published_at": "2026-09-07",
+  "published_date": "2026-09-07",
+  "scraped_at": "2026-09-07T00:43:38Z",
+  "company": {
+    "ticker": "VBC",
+    "exchange_qualified": "ASX:VBC",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change of Director's Interest Notice (Phillip Campbell)",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 \nAppendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity VERBREC LIMITED \nABN  90 127 897 689 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nPhillip Campbell \nDate of last notice \n10-November-2025 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDirect or indirect interest \nIndirect \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to \nthe relevant interest. \n \nTrustee & Beneficiary – Mr Phillip Ashley \nCampbell & Ms Jeanette Raikos ATF The P&J Super \nFund. \nDate of change \n03-September-2026 \nNo. of securities held prior to change \n1,709,559 \nClass \nOrdinary shares \nNumber acquired \n250,000 \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \nNumber disposed \n0 \nValue/Consideration \nNote: If consideration is non-cash, provide details and \nestimated valuation \n \n$0.200 per Share \nNo. of securities held after change \n1,959,559 \nNature of change \nExample: on-market trade, off-market trade, exercise of \noptions, issue of securities under dividend reinvestment \nplan, participation in buy-back \nOn market purchase of securities by entities \nbeneficially held by Mr Phillip Campbell. \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDetail of contract \n- \nNature of interest \n \n \n- \nName of registered holder \n(if issued securities) \n \n- \nDate of change \n- \nNo. and class of securities to which \ninterest related prior to change \nNote: Details are only required for a contract in \nrelation to which the interest has changed \n \n- \nInterest acquired \n- \nInterest disposed \n- \nValue/Consideration \nNote: If consideration is non-cash, provide details \nand an estimated valuation  \n \n- \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 \nAppendix 3Y  Page 3 \n \nInterest after change \n- \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed \nabove traded during a +closed period where prior written \nclearance was required? \nNo \nIf so, was prior written clearance provided to allow the \ntrade to proceed during this period? \n \nIf prior written clearance was provided, on what date was \nthis provided? \n \n \nFor personal use only\n",
+    "text_sha256": "924f39938c15d96a42c456d0a4cede97e0b3ac361a6a2514090711daec0a4d9b",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/09/07/aaf2ce685d872b8e1d8afe2961c4d9dc.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "34070295085"
+  }
+}

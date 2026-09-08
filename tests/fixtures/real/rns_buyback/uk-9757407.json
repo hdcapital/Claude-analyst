@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9757407",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/transaction-in-own-shares/9757407",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:45:49Z",
+  "company": {
+    "ticker": "LLOY",
+    "exchange_qualified": "LSE:LLOY",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Transaction in Own Shares",
+  "content": {
+    "text": "04 September 2026\n\nTRANSACTIONS IN OWN SECURITIES\n\nLloyds Banking Group plc (the \"Company\" ) announces today that it has purchased the following number of its ordinary shares, from Goldman Sachs International (the \" Broker\" ).\n\nSuch purchases form part of the Company's existing share buyback programmes and were effected pursuant to the instructions issued by the Company to the Broker, as announced on 30 January 2026 and 31 July 2026.\n\nPurchases pursuant to the share buyback programme announced 30 January 2026\n\n\n\nDate of purchase\nAggregate number of ordinary shares purchased (pence)\nHighest price paid per share (pence)\nLowest price paid per share (pence)\nVolume weighted average price paid per share (pence)\n01/09/2026\n14,041,764\n110.8500\n108.2000\n109.7944\n02/09/2026\n6,586,713\n111.3000\n109.9000\n110.6424\n03/09/2026\n9,000,000\n112.5000\n110.7500\n112.0203\n04/09/2026\n8,000,000\n112.7000\n111.8000\n112.3555\n\n\n\n\nPurchases pursuant to the share buyback programme announced 31 July 2026\n\n\n\nDate of purchase\nAggregate number of ordinary shares purchased (pence)\nHighest price paid per share (pence)\nLowest price paid per share (pence)\nVolume weighted average price paid per share (pence)\n01/09/2026\n0\n0.0000\n0.0000\n0.0000\n02/09/2026\n0\n0.0000\n0.0000\n0.0000\n03/09/2026\n0\n0.0000\n0.0000\n0.0000\n04/09/2026\n0\n0.0000\n0.0000\n0.0000\n\n\n\n\nThe Company intends to cancel these shares.\n\nIn accordance with Article 5(1)(b) of Regulation (EU) No 596/2014 (the Market Abuse Regulation) (as such legislation forms part of assimilated law as defined in the EU (Withdrawal) Act 2018), a full breakdown of the individual trades made by the Broker on behalf of the Company as part of the buyback programme is set out in the Schedule to this announcement available through the link below:\n\nhttp://www.rns-pdf.londonstockexchange.com/rns/5559T_1-2026-9-4.pdf\n\n\n\n- END -\n\nFor further information:\n\nInvestor Relations\nDouglas Radcliffe                                                                                                           +44 (0)20 7356 1571\nGroup Investor Relations Director\ndouglas.radcliffe@lloydsbanking.com\n\nCorporate Affairs\nMatt Smith                                                                                                                      +44 (0)20 7356 3522\nHead of Media Relations\nmatt.smith@lloydsbanking.com\n\n\n\n\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "21046f4815c9e27566a4bbe2d63ec037e22393d00eb650614fe306fb70227d81",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:aa2014fc7e399f71011b8f8197c770fa",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136524",
+  "published_at": "2026-09-07",
+  "published_date": "2026-09-07",
+  "scraped_at": "2026-09-07T00:37:00Z",
+  "company": {
+    "ticker": "CVC",
+    "exchange_qualified": "ASX:CVC",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change of Director's Interest Notice - A Ashwood",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 1 \n \nLegal/82578696_2 \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity \nCVC Limited (“CVC”) \nABN \n \n34 002 700 361 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nAndrew Joaquim Ashwood \n \nDate of last notice \n1 July 2026 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDirect or indirect interest \nIndirect \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to the relevant \ninterest. \n \nShares held by Marche Capital Pty Ltd as \ntrustee for the Marche Capital Trust  \n \nDr Ashwood is a director and shareholder of \nMarche Capital Pty Ltd and a beneficiary of \nthe Marche Capital Trust. \n  \nDate of change \n2 September 2026 \nNo. of securities held prior to change \nNil \nClass \nOrdinary Shares  \n \nNumber acquired \n31,250 \nNumber disposed \nNil \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated \nvaluation \n \n$50,055 \n \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \nNo. of securities held after change \n31,250 Ordinary shares held by Marche \nCapital Pty Ltd as trustee for the Marche \nCapital Trust \nNature of change \nExample: on-market trade, off-market trade, exercise of options, issue \nof securities under dividend reinvestment plan, participation in buy-\nback \nOn-market trade \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDetail of contract \nN/A \nNature of interest \n \nN/A \nName of registered holder \n(if issued securities) \n \nN/A \nDate of change \nN/A \nNo. and class of securities to which \ninterest related prior to change \nNote: Details are only required for a contract in \nrelation to which the interest has changed \nN/A \nInterest acquired \nN/A \nInterest disposed \nN/A \nValue/Consideration \nNote: If consideration is non-cash, provide details \nand an estimated valuation  \n \nN/A \nInterest after change \nN/A \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed above \ntraded during a +closed period where prior written clearance \nwas required? \nN/A \nIf so, was prior written clearance provided to allow the trade to \nproceed during this period? \nN/A \nIf prior written clearance was provided, on what date was this \nprovided? \nN/A \n \nFor personal use only\n",
+    "text_sha256": "0184abace24b4e6356d93a9290afc5f64aeb0cdb81a495f2ee91d9a14886afde",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/09/07/aa2014fc7e399f71011b8f8197c770fa.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "34070295085"
+  }
+}

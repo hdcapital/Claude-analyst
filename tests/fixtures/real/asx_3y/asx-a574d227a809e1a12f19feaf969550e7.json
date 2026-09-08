@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:a574d227a809e1a12f19feaf969550e7",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136501",
+  "published_at": "2026-09-07",
+  "published_date": "2026-09-07",
+  "scraped_at": "2026-09-07T00:38:21Z",
+  "company": {
+    "ticker": "CNI",
+    "exchange_qualified": "ASX:CNI",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Appendix 3Y - John Slater",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 1 \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity \nCenturia Capital Group (CNI), consisting of Centuria Capital Limited ABN 22 095 454 336 and \nCenturia Funds Management Limited ACN 607 153 588 as responsible entity of the Centuria \nCapital Fund ARSN 613 856 358 \nABN \nCenturia Capital Limited - ABN 22 095 545 336 \nCenturia Funds Management Limited - ACN 607 153 588 \nCenturia Capital Fund - ARSN 613 856 358 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nJohn Richard Slater \nDate of last notice \n10 July 2026 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDirect or indirect interest \nIndirect \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to the relevant \ninterest. \n \nJRSWJH Pty Ltd ATF The Slater Family Super \nFund \n \nJohn Richard Slater has the power to exercise, \nor control the exercise, of a right to vote \nattached to the stapled securities and/or the \npower to dispose of, or control the exercise of a \npower to dispose of, the stapled securities \n(s608(1)(b) and (c)). \n \nDate of change \n2 September 2026 \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \nNo. of securities held prior to change \n1. 2,048,215 fully paid stapled securities \nheld by JRSWJH Pty Ltd ATF The Slater \nFamily Super Fund \n2. 173,949 fully paid stapled securities held \nby John Slater & Wendy Huggard ATF The \nSlater Family Trust \n3. 10,677 fully paid stapled securities held \nby Jessica Slater \nClass \nFully paid stapled securities \nNumber acquired \n250,000 fully paid stapled securities by JRSWJH \nPty Ltd ATF The Slater Family Super Fund \nNumber disposed \nNil \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated \nvaluation \n \n$1.22 per fully paid ordinary stapled security  \nNo. of securities held after change \n1. 2,298,215 fully paid stapled securities \nheld by JRSWJH Pty Ltd ATF The Slater \nFamily Super Fund \n2. 173,949 fully paid stapled securities held \nby John Slater & Wendy Huggard ATF The \nSlater Family Trust \n3. 10,677 fully paid stapled securities held \nby Jessica Slater  \nNature of change \nExample: on-market trade, off-market trade, exercise of options, issue \nof securities under dividend reinvestment plan, participation in buy-\nback \nOn-market purchase of fully paid ordinary \nstapled securities.   \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDetail of contract \nN/A \nNature of interest \nN/A \nName of registered holder \n(if issued securities) \nN/A \nDate of change \nN/A \nNo. and class of securities to which \ninterest related prior to change \nNote: Details are only required for a contract in \nrelation to which the interest has changed \nN/A \nInterest acquired \nN/A \nInterest disposed \nN/A \nValue/Consideration \nNote: If consideration is non-cash, provide details \nand an estimated valuation  \nN/A \nInterest after change \nN/A \n \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 3 \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed above \ntraded during a +closed period where prior written clearance was \nrequired? \nNo \nIf so, was prior written clearance provided to allow the trade to \nproceed during this period? \nN/A \nIf prior written clearance was provided, on what date was this \nprovided? \nN/A \n \n \n \nFor personal use only\n",
+    "text_sha256": "ab1a059360f92ac93eca61f2ede4293ef7140c1cac0ab9a01cfa82ad7490cc19",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/09/07/a574d227a809e1a12f19feaf969550e7.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "34070295085"
+  }
+}

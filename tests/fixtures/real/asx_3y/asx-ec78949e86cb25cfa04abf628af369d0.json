@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:ec78949e86cb25cfa04abf628af369d0",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136472",
+  "published_at": "2026-09-07",
+  "published_date": "2026-09-07",
+  "scraped_at": "2026-09-07T00:39:43Z",
+  "company": {
+    "ticker": "TAH",
+    "exchange_qualified": "ASX:TAH",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Appendix 3Y - Change of interest - Brett Chenoweth",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity            Tabcorp Holdings Limited (Tabcorp) \nABN                              66 063 780 709 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nBrett Chenoweth \nDate of last notice \n9 December 2024 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDirect or indirect interest \nIndirect \n \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to the relevant \ninterest. \n \nMr Chenoweth has an indirect interest in \nOrdinary Shares held through  \nCiticorp Nominees Pty Ltd on behalf of \nBCRC Pty Ltd as trustee for the \nChenoweth Super Fund.  Mr Chenoweth \nis a beneficiary of the super fund \nDate of change \n3 September 2026 \nNo. of securities held prior to change \n609,878 Ordinary Shares \nClass \nOrdinary Shares \nNumber acquired \n112,994 Ordinary Shares \nNumber disposed \nNot applicable \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated \nvaluation \n \n$99,984.38 consideration \n \n \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \nNo. of securities held after change \n722,872 Ordinary Shares held indirectly \nby Citicorp Nominees Pty Ltd on behalf of \nBCRC Pty Ltd as trustee for the \nChenoweth Super Fund \nNature of change \nExample: on-market trade, off-market trade, exercise of options, issue \nof securities under dividend reinvestment plan, participation in buy-\nback \nOn-market purchase \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDetail of contract \nNot applicable \nNature of interest \n \nName of registered holder \n(if issued securities) \n \n \nDate of change \n \nNo. and class of securities to which \ninterest related prior to change \nNote: Details are only required for a contract in \nrelation to which the interest has changed \n \n \nInterest acquired \n \nInterest disposed \n \nValue/Consideration \nNote: If consideration is non-cash, provide details \nand an estimated valuation  \n \n \nInterest after change \n \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed above \ntraded during a +closed period where prior written clearance \nwas required? \nNo \nIf so, was prior written clearance provided to allow the trade to \nproceed during this period? \n \nIf prior written clearance was provided, on what date was this \nprovided? \n \n \nFor personal use only\n",
+    "text_sha256": "167f5ae5673dc20e33b7eb98da1538342978101ae5e5df02906e9950dc948986",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/09/07/ec78949e86cb25cfa04abf628af369d0.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "34070295085"
+  }
+}

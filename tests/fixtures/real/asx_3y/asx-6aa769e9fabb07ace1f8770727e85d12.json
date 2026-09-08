@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:6aa769e9fabb07ace1f8770727e85d12",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120090",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:00:52Z",
+  "company": {
+    "ticker": "BUS",
+    "exchange_qualified": "ASX:BUS",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change of Director's Interest Notice BB",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity \nBubalus Resources Limited \nABN \n \n17 654 970 751 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nBrendan Borg \nDate of last notice \n9 February 2026 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDirect or indirect interest \nIndirect \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to the relevant \ninterest. \n \n1. \nMr Brendan James Borg & Mrs Erin Belinda \nBorg <Borg Family Super Fund A/C> (trustee \n/ beneficiary) \n2. \nBorg Geoscience Pty Ltd (director / \nshareholder) \n \nDate of change \n30 July 2026 \nNo. of securities held prior to change \n1. \n2,300,000 Fully Paid Ordinary Shares \n2. \n3,000,000 Performance Rights, expiring 30 \nMay 2028 \n \nClass \nFully Paid Ordinary Shares \n \nNumber acquired \n264,068 \nNumber disposed \nNil \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated \nvaluation \n \n$18,484.76 \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \nNo. of securities held after change \n1. \n2,564,068 Fully Paid Ordinary Shares \n2. \n3,000,000 Performance Rights, expiring 30 \nMay 2028 \nNature of change \nExample: on-market trade, off-market trade, exercise of options, \nissue of securities under dividend reinvestment plan, participation in \nbuy-back \nOn-market purchase. \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDetail of contract \nN/A \nNature of interest \n \n \nN/A \nName of registered holder \n(if issued securities) \n \nN/A \nDate of change \nN/A \nNo. and class of securities to which \ninterest related prior to change \nNote: Details are only required for a contract in \nrelation to which the interest has changed \n \nN/A \nInterest acquired \nN/A \nInterest disposed \nN/A \nValue/Consideration \nNote: If consideration is non-cash, provide details \nand an estimated valuation  \n \nN/A \nInterest after change \nN/A \n \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed above \ntraded during a +closed period where prior written clearance was \nrequired? \nNo \nIf so, was prior written clearance provided to allow the trade to \nproceed during this period? \n- \nIf prior written clearance was provided, on what date was this \nprovided? \n- \n \n \nFor personal use only\n",
+    "text_sha256": "a159710ace0fb75d2606c2e34a61d5a0a2d3ad80fc257b7a941463c83bbc8047",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/6aa769e9fabb07ace1f8770727e85d12.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

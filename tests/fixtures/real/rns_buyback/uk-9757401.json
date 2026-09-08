@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9757401",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/the-european-smaller-companies-trust--esct/transaction-in-own-shares/9757401",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:45:58Z",
+  "company": {
+    "ticker": "ESCT",
+    "exchange_qualified": "LSE:ESCT",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Transaction in Own Shares",
+  "content": {
+    "text": "JANUS HENDERSON FUND MANAGEMENT UK LIMITED\n\nTHE EUROPEAN SMALLER COMPANIES TRUST PLC\nLEGAL ENTITY IDENTIFIER: 213800N1B1HCQG2W4V90\n4 September 2026\n\nTHE EUROPEAN SMALLER COMPANIES TRUST PLC\n(the 'Company')\n\nMarket purchase by the Company of its own shares\nNotification is given that, pursuant to the authority granted at the Annual General Meeting of the Company held on 24 November 2025 to make market purchases of the Company's own ordinary shares up to a maximum of 14.99%, a market purchase of 275,000 ordinary shares in the capital of the Company was made today at a price of 238.2727 pence per share. These shares will be held in treasury.\nFollowing the above purchase, the Company's issued ordinary share capital will continue to be 410,375,045 ordinary shares of 1.5625p each, of which 70,566,109 (17.2% of issued share capital) are held in treasury and have no voting rights.\nHolders of the Company's ordinary shares are entitled to one vote for every share held. As treasury shares have no voting rights, the total number of voting rights in the Company is now 339,808,936. Shareholders should use this figure for notifications in keeping with the provisions of DTR 5.\nFor further information, please call:\nJanus Henderson Secretarial Services UK Limited\nCorporate Secretary\nTelephone: 020 7818 1818\n\n\n\n\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "5ac058014777c79f1ddcbb4a27273980dca77265f8b9a7975bd1e03e7edb57d8",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:8b10e7202c00a78cf931ad2443f23648",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03119952",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:08:31Z",
+  "company": {
+    "ticker": "FHE",
+    "exchange_qualified": "ASX:FHE",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Application for quotation of securities - FHE",
+  "content": {
+    "text": "Appendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n1 / 6\nAnnouncement Summary\nEntity name\nFRONTIER ENERGY LIMITED\nAnnouncement Type\nNew announcement\nDate of this announcement\nThursday July 30, 2026\nThe +securities to be quoted are:\nTotal number of +securities to be quoted\nASX +security\ncode\nSecurity description\nNumber of +securities to\nbe quoted\nIssue date\nFHE\nORDINARY FULLY PAID\n850,000\n30/07/2026\nRefer to next page for full details of the announcement\n+Securities issued as part of a transaction or transactions previously announced to the market in an Appendix 3B\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n2 / 6\nPart 1 - Entity and announcement details\n1.1 Name of entity\nFRONTIER ENERGY LIMITED\nWe (the entity named above) apply for +quotation of the following +securities and agree to the matters set out in Appendix\n2A of the ASX Listing Rules.\n1.2 Registered number type\nACN\nRegistration number\n139522553\n1.3 ASX issuer code\nFHE\n1.4 The announcement is\n1.5 Date of this announcement\n30/7/2026\nNew announcement\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n3 / 6\nPart 2 - Type of Issue\n2.1 The +securities to be quoted are:\nPrevious Appendix 3B details:\nAnnouncement Date and\nTime\n04-Jun-2026 09:25\nAnnouncement Title\nNew - Proposed issue of securities -\nFHE\nSelected Appendix 3B to submit quotation\nrequest\nA placement or other type of issue\n2.3a.2 Are there any further issues of +securities yet to take place to complete the transaction(s) referred to in the\nAppendix 3B?\nNo\n+Securities issued as part of a transaction or transactions previously announced to the market in an Appendix 3B\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n4 / 6\nPart 3A - number and type of +securities to be quoted where issue has previously been notified to ASX in an Appendix 3B\nPlacement Details\nASX +security code and description\nFHE : ORDINARY FULLY PAID\nIssue date\n30/7/2026\nDistribution Schedule\nProvide a distribution schedule for the new +securities according to the categories set out in the left hand column -\nincluding the number of recipients and the total percentage of the new +securities held by the recipients in each\ncategory.\nNumber of +securities held\nNumber of holders\nTotal percentage of +securities held\nFor example, to enter a value of 50%\nplease input as 50.00\n1 - 1,000\n \n%\n1,001 - 5,000\n \n%\n5,001 - 10,000\n \n%\n10,001 - 100,000\n \n%\n100,001 and over\n \n%\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n5 / 6\nIssue details\nNumber of +securities to be quoted\n850,000\nAre the +securities being issued for a cash consideration?\nIn what currency is the cash consideration being paid?\nAUD - Australian Dollar\nWhat is the issue price per +security?\nAUD 0.20000000\nAny other information the entity wishes to provide about the +securities to be quoted\nYes\nYes\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n6 / 6\nPart 4 - Issued capital following quotation\nFollowing the quotation of the +securities the subject of this application, the issued capital of the entity will\ncomprise:\nThe figures in parts 4.1 and 4.2 below are automatically generated and may not reflect the entity's current issued capital if\nother Appendix 2A, Appendix 3G or Appendix 3H forms are currently with ASX for processing.\n4.1 Quoted +securities (total number of each +class of +securities quoted on ASX following the +quotation of the\n+securities subject of this application)\nASX +security code and description\nTotal number of\n+securities on issue\nFHE : ORDINARY FULLY PAID\n1,112,572,215\n4.2 Unquoted +securities (total number of each +class of +securities issued but not quoted on ASX)\nASX +security code and description\nTotal number of\n+securities on issue\nFHEAAH : OPTION EXPIRING 31-DEC-2030 EX NIL\n11,943,000\nFHEAAA : OPTION EXPIRING 31-DEC-2026 EX NIL\n523,250\nFHEAAB : OPTION EXPIRING 31-DEC-2028 EX NIL\n12,904,000\nFHEAB : OPTION EXPIRING 31-DEC-2027 EX NIL\n2,608,800\nFHEAC : OPTION EXPIRING 31-DEC-2029 EX NIL\n15,554,000\nFHEAAE : OPTION EXPIRING 18-FEB-2028 EX $0.25\n3,000,000\nFHEAX : OPTION EXPIRING 19-JAN-2028 EX $0.40\n8,000,000\nFHEAG : OPTION EXPIRING 23-DEC-2027 EX $0.40\n15,000,004\nFHEAAF : OPTION EXPIRING 02-MAR-2029 EX NIL\n9,000,000\nFHEAAG : OPTION EXPIRING 02-MAR-2030 EX NIL\n11,000,000\nFHEAO : PERFORMANCE SHARES RESTRICTED\n25,500,000\nFHEAT : OPTION EXPIRING VARIOUS DATES EX VARIOUS PRICES\n1,320,275\nFor personal use only\n",
+    "text_sha256": "d25b248a4a0423867b1431e1d0b15705b5e9c162f3e65c9a570747d5baf8d99e",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/8b10e7202c00a78cf931ad2443f23648.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

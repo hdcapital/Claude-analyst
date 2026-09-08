@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:9223e12b791f84ab1ff922f8ac419ad2",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120545",
+  "published_at": "2026-07-31",
+  "published_date": "2026-07-31",
+  "scraped_at": "2026-08-03T03:48:25Z",
+  "company": {
+    "ticker": "KAT",
+    "exchange_qualified": "ASX:KAT",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change of Director's Interest Notice D Gooding",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n11/3/2002  \nAppendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/9/2001. \n \nName of entity \n \n \nKatana Capital Limited \nABN \n \n \n \n56 116 054 301 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for the \ndirector for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nMr Dalton Gooding  \nDate of last notice \n30 April 2026 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDirect or indirect interest \nIndirect \nNature of indirect interest (including registered \nholder) Note: Provide details of the circumstances giving rise to the \nrelevant interest. \n \nDalton Gooding as a director and shareholder \nof Moulyinning Nominees Pty Ltd \n \nDate of change \n31 July 2026 \nNo. of securities held prior to change \nShareholding \n101,861 Fully paid ordinary shares  \nClass \nOrdinary Shares \nNumber acquired \n364 \nNumber disposed \n- \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated valuation \nDRP participation in dividend \nNo. of securities held after change \nIndirect Shareholding \n102,225 Fully paid ordinary shares  \n \n \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n11/3/2002 \n \nNature of change \nExample: on-market trade, off-market trade, exercise of options, issue of \nsecurities under dividend reinvestment plan, participation in buy-back \nOff-market via DRP participation in dividend \n \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDetail of contract \nN/A \nNature of interest \n \n \n \nName of registered holder \n(if issued securities) \n \n \nDate of change \n \nNo. and class of securities to \nwhich interest related prior to \nchange \nNote: Details are only required for a contract in relation \nto which the interest has changed \n \nInterest acquired \n \nInterest disposed \n \nValue/Consideration \nNote: If consideration is non-cash, provide details and an \nestimated valuation  \n \nInterest after change \n \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed above \ntraded during a +closed period where prior written clearance was \nrequired?\nNo \nIf so, was prior written clearance provided to allow the trade to \nproceed during this period? \nNot applicable \nIf prior written clearance was provided, on what date was this \nprovided? \nNot applicable \n \n \nFor personal use only\n",
+    "text_sha256": "7b6359dea682c1f14e3d0979224bbd153b767d4dcddbe16885a478b8cee7d1c0",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/31/9223e12b791f84ab1ff922f8ac419ad2.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "de8b7cd86dab",
+    "run_id": "30781292318"
+  }
+}

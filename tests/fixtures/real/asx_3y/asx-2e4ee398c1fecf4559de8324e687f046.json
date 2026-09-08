@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:2e4ee398c1fecf4559de8324e687f046",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120754",
+  "published_at": "2026-07-31",
+  "published_date": "2026-07-31",
+  "scraped_at": "2026-08-03T03:40:25Z",
+  "company": {
+    "ticker": "MAP",
+    "exchange_qualified": "ASX:MAP",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change of Director's Interest Notice - Pasquale Rombola",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 \nAppendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity: Microba Life Sciences Ltd  \nABN: 82 617 096 652 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nPasquale Rombola \nDate of last notice \n15 August 2025 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDirect or indirect interest \n1. Indirect \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to the relevant \ninterest. \n \n1. Rombola Family Pty Ltd <Rombola \nFamily A/C>. Pasquale Rombola is \nthe sole director and sole \nshareholder of Rombola Family Pty \nLtd and a beneficiary of the \nRombola Family Trust \n \n2. Rombola Superannuation Pty Ltd \n<Rombola Super Fund A/C>. \nPasquale Rombola is a director and \na shareholder of Rombola \nSuperannuation Pty Ltd and a \nbeneficiary of the Rombola Super \nFund. \nDate of change \n29 July 2026 \nNo. of securities held prior to change \n1. 6,200,000 Ordinary Shares & \n250,000 Options exercisable at \n$0.14, expiring 13 August 2027. \n2. 370,000 Ordinary Shares & 50,000 \nOptions exercisable at $0.14, \nexpiring 13 August 2027. \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \nClass \nOrdinary Shares & Options \nNumber acquired \n1. 1,000,000 Ordinary Shares and \n1,000,000 Options exercisable at \n$0.0625, expiring 29 July 2029. \n2. 250,000 Ordinary Shares and \n250,000 Options exercisable at \n$0.0625, expiring 29 July 2029. \nNumber disposed \nNil \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated \nvaluation \n \n$62,500 in aggregate, being $0.05 per \nOrdinary Share, comprising $50,000 (1) \nand $12,500 (2). \nThe Options were issued for nil cash \nconsideration on the basis of one free \nattaching Option for every one Ordinary \nShare subscribed for. \nNo. of securities held after change \n1. 7,200,000 Ordinary Shares, \n250,000 Options exercisable at \n$0.14, expiring 13 August 2027, \nand 1,000,000 Options exercisable \nat $0.0625, expiring 29 July 2029. \n2. 620,000 Ordinary Shares, 50,000 \nOptions exercisable at $0.14, \nexpiring 13 August 2027, and \n250,000 Options exercisable at \n$0.0625, expiring 29 July 2029. \nNature of change \nExample: on-market trade, off-market trade, exercise of options, issue \nof securities under dividend reinvestment plan, participation in buy-\nback \nParticipation in Tranche 2 of the \nPlacement announced to the ASX on 12 \nJune 2026, approved by Shareholders \nunder ASX Listing Rule 10.11 at the \nGeneral Meeting held on 24 July 2026 \n(Resolutions 4(a) and 4(b)). \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDetail of contract \nN/A \nNature of interest \nN/A \nName of registered holder \n(if issued securities) \nN/A \nDate of change \nN/A \nNo. and class of securities to \nwhich interest related prior to \nchange \nNote: Details are only required for a contract in \nrelation to which the interest has changed \n \nN/A \nInterest acquired \nN/A \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 \nAppendix 3Y  Page 3 \n \nInterest disposed \nN/A \nValue/Consideration \nNote: If consideration is non-cash, provide details and \nan estimated valuation  \n \nN/A \nInterest after change \nN/A \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts \ndetailed above traded during a +closed period \nwhere prior written clearance was required? \nNo \nIf so, was prior written clearance provided to allow \nthe trade to proceed during this period? \nN/A \nIf prior written clearance was provided, on what \ndate was this provided? \nN/A \n \n \nFor personal use only\n",
+    "text_sha256": "396861064b05ec3faa320cbf9fc249d0a34f5abbdfe997521d3aa2129fe87af0",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/31/2e4ee398c1fecf4559de8324e687f046.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "de8b7cd86dab",
+    "run_id": "30781292318"
+  }
+}

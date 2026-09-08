@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9756856",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/latham-james---lthm/pdmr-dealings-/9756856",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:48:49Z",
+  "company": {
+    "ticker": "LTHM",
+    "exchange_qualified": "LSE:LTHM",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "PDMR Dealings",
+  "content": {
+    "text": "James Latham plc\n\n(\"James Latham\" or \"the Company\")\n\nPDMR Dealings\n\n\nThe Company announces that, on 3 September 2026, the Trustees of the Company's SIPS scheme allocated a total of 3,307 ordinary shares of 25 pence each in the Company at a price of 1065p per share to certain PDMRs as detailed below:\n\nPDMR\nSIPS scheme allocation\nResultant Total Shareholding\nResultant Total Shareholding %\nNick Latham - Chairman\n1,125\n654,919\n3.25%\nDavid Dunmow - Finance Director\n1,002\n150,622\n0.75%\nPiers Latham - Executive Director\n998\n651,113\n3.22%\nAndrew Wright - Managing Director\n182\n34,947\n0.17%\n\n\nFor further information please visit www.lathamtimber.co.uk or contact:\n\nJames Latham plc\nTel: 01442 849 100\nNick Latham, Chairman\n\nDavid Dunmow, Finance Director\n\n\n\nSP Angel Corporate Finance LLP\n\nMatthew Johnson / Caroline Rowe (Corporate Finance)\nTel: 0203 470 0470\nAbigail Wayne / Rob Rees (Corporate Broking)\n\n\nNOTIFICATION AND PUBLIC DISCLOSURE OF TRANSACTIONS BY PERSONS DISCHARGING MANAGERIAL RESPONSIBILITIES AND PERSONS CLOSELY ASSOCIATED WITH THEM\n\n1\n\nDetails of the person discharging managerial responsibilities / person closely associated\n\na)\n\nName\n\n1.\nNick Latham\n2.\nDavid Dunmow\n3.\nPiers Latham\n4.\nAndrew Wright\n\n2\n\nReason for the notification\n\na)\n\nPosition/status\n\n\n1.\nChairman\n2.\nFinance Director\n3.\nExecutive Director\n4.\nManaging Director\n\nb)\n\nInitial notification /Amendment\n\nInitial   Notification\n3\n\nDetails of the issuer, emission allowance market participant, auction platform, auctioneer or auction monitor\n\na)\n\nName\n\nJames Latham plc\nb)\n\nLEI\n\n2138008M4LVEDHBPBU41\n4\n\nDetails of the transaction(s): section to be repeated for (i) each type of instrument; (ii) each type of transaction; (iii) each date; and (iv) each place where transactions have been conducted\n\na)\n\nDescription of the financial instrument, type of instrument\nOrdinary shares of 25p each\n\n\n\n\nIdentification code\nGB00B04NP100\n\n\nb)\n\nNature of the transaction\n\nIssue of Ordinary Shares under the Company SIPS scheme\nc)\n\nPrice(s) and volume(s)\n\n\n\n\n\n\nPrice(s)\nVolume(s)\n\n\n\n1.\n1065.0 p\n2.\n1065.0 p\n3.\n4.\n1065.0 p\n1065.0 p\n\n1.\n1,125\n2.\n1,002\n3.\n4.\n998\n182\n\n\n\n\n\n\n\nd)\n\nAggregated information\n\n\n\n- Aggregated volume\n3,307 shares\n\n\n- Price\n1065.0p\n\n\ne)\n\nDate of the transaction\n\n3 September 2026\nf)\n\nPlace of the transaction\n\n\nOutside a trading venue\n\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "ff923543ad68aa7a249b31ae3654501f2c3da63b4d08b88b9510d71cbce99614",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

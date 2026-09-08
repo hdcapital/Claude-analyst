@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9755128",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/venture-life-group--vlg/transaction-in-own-shares/9755128",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:52:10Z",
+  "company": {
+    "ticker": "VLG",
+    "exchange_qualified": "LSE:VLG",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Transaction in Own Shares",
+  "content": {
+    "text": "04 September 2026\n\nVENTURE LIFE GROUP PLC\n\n(\"Venture Life\", \"VLG\" or the \"Group\")\n\nTransaction in Own Shares\n\nVenture Life Group plc (AIM: VLG), a leader in product innovation, development and commercialisation within the global consumer healthcare sector, announces that, in accordance with the terms of its share buyback programme announced on 20 August 2026, the Company has purchased 77,710 ordinary shares of 0.3 pence each in the capital of the Company (\" Ordinary Shares \") in the market at a volume weighted average price of 65.98 pence per Ordinary Share through Cavendish Capital Markets Limited (\" Cavendish \").\n\nThe Ordinary Shares acquired will be held as treasury shares.\n\n\nAggregated Information\n\nDate of Purchase:\n03/09/2026\nAggregate Number of O rdinary Shares Purchased:\n77,710\nLowest Price Paid per Ordinary Share (pence):\n65.98\nHighest Price Paid per Ordinary Share (pence):\n65.98\nVolume-Weighted Average Price Paid per Ordinary Share (pence):\n65.98\n\n\nFollowing the repurchase of the Ordinary Shares, Venture Life will have 128,860,145 Ordinary Shares in issue, including 8,889,824 Ordinary Shares held in treasury.\nThe total number of voting rights in the Company is therefore 119,970,321. This figure may be used by shareholders as the denominator for the calculations by which they will determine if they are required to notify their interest in, or a change to their interest in, the Company under the FCA's Disclosure Guidance and Transparency Rules.\n\n\nIndividual Transactions\nNumber of Ordinary Shares purchased\nTransaction price (pence per Ordinary Share)\nTime of transaction\nVenue\n77,710\n65.98\n16:24\nAIMX\n\n\nFor further information, please contact:\nVenture Life Group PLC +44 (0) 1344 578004\nJerry Randall, Chief Executive Officer\nDaniel Wells, Chief Financial Officer\nCavendish Capital Markets Limited (Nomad and Broker) +44 (0) 20 7720 0500\nStephen Keys/George Lawson (Corporate Finance)\nMichael Johnson (Sales)\n\nAbout Venture Life ( www.venture-life.com )\nVenture Life is an international consumer self-care company focused on commercialising products for the global self-care market. Headquartered in the UK, the Group's product portfolio includes Balance Activ in the area of women's intimate healthcare, Earol® supporting ENT care, Lift and Glucogel product ranges for energy and glucose management and hypoglycaemia, plus the Health & Her product range supporting the hormonal lifecycle.\nThe products, which are typically recommended by pharmacists or healthcare practitioners, are available primarily through health & beauty stores, pharmacies, grocery multiples and e-commerce channels and are sold globally. In the UK,  Ireland and the USA these are supplied direct by the company to retailers, elsewhere they are supplied by the Group's international distribution partners.\n\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "1a63dc1502f6d51fdfc80919be4dd69980a15a0def35198c8eca99773920cce2",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

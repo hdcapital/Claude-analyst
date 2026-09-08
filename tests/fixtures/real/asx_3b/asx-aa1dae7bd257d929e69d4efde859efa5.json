@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:aa1dae7bd257d929e69d4efde859efa5",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120122",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T00:59:22Z",
+  "company": {
+    "ticker": "PRM",
+    "exchange_qualified": "ASX:PRM",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Proposed issue of securities - PRM",
+  "content": {
+    "text": "Appendix 3B - Proposed issue of securities\nAppendix 3B - Proposed issue of securities\n1 / 4\nAnnouncement Summary\nEntity name\nPROMINENCE ENERGY LIMITED\nAnnouncement Type\nNew announcement\nDate of this announcement\n30/7/2026\nThe Proposed issue is:\nTotal number of +securities proposed to be issued for a placement or other type of issue\nASX +security code\n+Security description\nMaximum Number of\n+securities to be issued\nPRMAH\nOPTION EXPIRING 24-JUN-2029 EX $0.004\n20,000,000\nProposed +issue date\n13/10/2026\nRefer to next page for full details of the announcement\nA placement or other type of issue\nFor personal use only\n\nAppendix 3B - Proposed issue of securities\nAppendix 3B - Proposed issue of securities\n2 / 4\nPart 1 - Entity and announcement details\n1.1 Name of +Entity\nPROMINENCE ENERGY LIMITED\nWe (the entity named above) give ASX the following information about a proposed issue of +securities and, if ASX agrees\nto +quote any of the +securities (including any rights) on a +deferred settlement basis, we agree to the matters set out in\nAppendix 3B of the ASX Listing Rules.\nIf the +securities are being offered under a +disclosure document or +PDS and are intended to be quoted on ASX, we also\napply for quotation of all of the +securities that may be issued under the +disclosure document or +PDS on the terms set\nout in Appendix 2A of the ASX Listing Rules (on the understanding that once the final number of +securities issued under\nthe +disclosure document or +PDS is known, in accordance with Listing Rule 3.10.3C, we will complete and lodge with ASX\nan Appendix 2A online form notifying ASX of their issue and applying for their quotation).\n1.2 Registered Number Type\nACN\nRegistration Number\n009196810\n1.3 ASX issuer code\nPRM\n1.4 The announcement is\n1.5 Date of this announcement\n30/7/2026\n1.6 The Proposed issue is:\nA placement or other type of issue\nNew announcement\nFor personal use only\n\nAppendix 3B - Proposed issue of securities\nAppendix 3B - Proposed issue of securities\n3 / 4\nPart 7 - Details of proposed placement or other issue\nPart 7A - Conditions\n7A.1 Do any external approvals need to be obtained or other conditions satisfied before the placement or other\ntype of issue can proceed on an unconditional basis?\nPart 7B - Issue details\nIs the proposed security a 'New\nclass' (+securities in a class that is\nnot yet quoted or recorded by ASX)\nor an 'Existing class' (additional\nsecurities in a class that is already\nquoted or recorded by ASX)?\nWill the proposed issue of this\n+security include an offer of\nattaching +securities?\nDetails of +securities proposed to be issued\nASX +security code and description\nPRMAH : OPTION EXPIRING 24-JUN-2029 EX $0.004\nNumber of +securities proposed to be issued\n20,000,000\nOffer price details\nAre the +securities proposed to be issued being issued for a cash\nconsideration?\nPlease describe the consideration being provided for the +securities\nThe proposed Options are to be issued as part of the employee's remuneration, pursuant to the Company's Employee\nIncentive Securities Plan.\nPlease provide an estimate of the AUD equivalent of the consideration being provided for the +securities\n \nWill these +securities rank equally in all respects from their issue date with\nthe existing issued +securities in that class?\nYes\nNo\nNo\nExisting class\nNo\nFor personal use only\n\nAppendix 3B - Proposed issue of securities\nAppendix 3B - Proposed issue of securities\n4 / 4\nPart 7C - Timetable\n7C.1 Proposed +issue date\n13/10/2026\nPart 7D - Listing Rule requirements\n7D.1 Has the entity obtained, or is it obtaining, +security holder approval for the entire issue under listing rule 7.1?\n7D.1b Are any of the +securities proposed to be issued without +security holder approval using the entity's 15%\nplacement capacity under listing rule 7.1?\n7D.1c Are any of the +securities proposed to be issued without +security holder approval using the entity's\nadditional 10% placement capacity under listing rule 7.1A (if applicable)?\n7D.2 Is a party referred to in listing rule 10.11 participating in the proposed issue?\n7D.3 Will any of the +securities to be issued be +restricted securities for the purposes of the listing rules?\n7D.4 Will any of the +securities to be issued be subject to +voluntary escrow?\nPart 7E - Fees and expenses\n7E.1 Will there be a lead manager or broker to the proposed issue?\n7E.2 Is the proposed issue to be underwritten?\n7E.4 Details of any other material fees or costs to be incurred by the entity in connection with the proposed issue\nNil\nPart 7F - Further Information\n7F.01 The purpose(s) for which the entity is issuing the securities\nAs part of remuneration to employees.\n7F.1 Will the entity be changing its dividend/distribution policy if the proposed issue proceeds?\n7F.2 Any other information the entity wishes to provide about the proposed issue\nThe options will be issued subject to the employee successfully completing a probationary period, refer to ASX\nannouncement released on 30 July 2026.\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nFor personal use only\n",
+    "text_sha256": "a2948bb9b84bba547e44f7a99be224fede76364e8cbf4e1cc5d0d24a7841050e",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/aa1dae7bd257d929e69d4efde859efa5.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:2526b6ad8b6b5cecfdd4ff3876ed11ee",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120084",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:01:15Z",
+  "company": {
+    "ticker": "SHO",
+    "exchange_qualified": "ASX:SHO",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Application for quotation of securities - SHO",
+  "content": {
+    "text": "Appendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n1 / 6\nAnnouncement Summary\nEntity name\nSPORTSHERO LIMITED\nAnnouncement Type\nNew announcement\nDate of this announcement\nThursday July 30, 2026\nThe +securities to be quoted are:\nTotal number of +securities to be quoted\nASX +security\ncode\nSecurity description\nNumber of +securities to\nbe quoted\nIssue date\nSHO\nORDINARY FULLY PAID\n10,130,435\n30/07/2026\nRefer to next page for full details of the announcement\n+Securities issued, transferred or re-classified as a result of options being exercised or other +convertible securities being\nconverted\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n2 / 6\nPart 1 - Entity and announcement details\n1.1 Name of entity\nSPORTSHERO LIMITED\nWe (the entity named above) apply for +quotation of the following +securities and agree to the matters set out in Appendix\n2A of the ASX Listing Rules.\n1.2 Registered number type\nABN\nRegistration number\n98123423987\n1.3 ASX issuer code\nSHO\n1.4 The announcement is\n1.5 Date of this announcement\n30/7/2026\nNew announcement\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n3 / 6\nPart 2 - Type of Issue\n2.1 The +securities to be quoted are:\n2.2 The +class of +securities to be quoted is:\nAdditional +securities in a class that is already quoted on ASX (\"existing class\")\n+Securities issued, transferred or re-classified as a result of options being exercised or other +convertible securities being\nconverted\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n4 / 6\nPart 3B - number and type of +securities to be quoted (existing class) where issue has not previously been notified to ASX in an\nAppendix 3B\nExisting +securities converting into additional +securities in an existing class\nFROM (Existing Class)\nASX +security code and description\nSHOAW : OPTION EXPIRING 31-JUL-2026 EX $0.03\nTO (Existing Class)\nASX +security code and description\nSHO : ORDINARY FULLY PAID\nPlease state the number of options\nthat were exercised or other\n+convertible securities that were\nconverted\n10,130,435\nThe first date the options were\nexercised or other +convertible\nsecurities were converted\n30/7/2026\nThe last date the options were\nexercised or other +convertible\nsecurities were converted\n30/7/2026\nIs this all of the options or other +convertible securities on issue of that type (ie have all of those options now been\nexercised or have all of those convertible securities now been converted)?\nThe right of the holder of the options or other +convertible securities to receive the +underlying securities is being\nsatisfied by:\nThe underlying +securities being received by the holder are:\nWere the options being exercised or other +convertible securities being converted issued under an +employee\nincentive scheme?\nIssue date\n30/7/2026\nWill the +securities to be quoted rank equally in all respects from their issue date with the existing issued\n+securities in that class?\nYes\nNo\nIntended to be, but are not yet, quoted by ASX\nAn issue of new +securities\nNo\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n5 / 6\nIssue details\nNumber of +securities to be quoted\n10,130,435\nAre the +securities being issued for a cash consideration?\nIn what currency is the cash consideration being paid?\nAUD - Australian Dollar\nWhat is the issue price per +security?\nAUD 0.03000000\nAny other information the entity wishes to provide about the +securities to be quoted\nYes\nYes\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n6 / 6\nPart 4 - Issued capital following quotation\nFollowing the quotation of the +securities the subject of this application, the issued capital of the entity will\ncomprise:\nThe figures in parts 4.1 and 4.2 below are automatically generated and may not reflect the entity's current issued capital if\nother Appendix 2A, Appendix 3G or Appendix 3H forms are currently with ASX for processing.\n4.1 Quoted +securities (total number of each +class of +securities quoted on ASX following the +quotation of the\n+securities subject of this application)\nASX +security code and description\nTotal number of\n+securities on issue\nSHO : ORDINARY FULLY PAID\n908,116,678\n4.2 Unquoted +securities (total number of each +class of +securities issued but not quoted on ASX)\nASX +security code and description\nTotal number of\n+securities on issue\nSHOAAA : OPTION EXPIRING 24-FEB-2029 EX $0.10\n15,000,000\nSHOAJ : OPTION EXPIRING VARIOUS DATES EX VARIOUS PRICES\n28,000,000\nSHOAV : PERFORMANCE RIGHTS EXPIRING 11-FEB-2027\n7,000,000\nSHOAZ : OPTION EXPIRING 31-JUL-2028 EX $0.03\n12,666,667\nSHOAY : OPTION EXPIRING 31-OCT-2027 EX $0.04\n3,500,000\nSHOAX : OPTION EXPIRING 31-OCT-2027 EX $0.02\n7,500,000\nSHOAW : OPTION EXPIRING 31-JUL-2026 EX $0.03\n2,282,652\nFor personal use only\n",
+    "text_sha256": "dfa4af4f0a74fdbf12e4e0623f665b149e2eecccb6fee1bcab7ccaad85014dc2",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/2526b6ad8b6b5cecfdd4ff3876ed11ee.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

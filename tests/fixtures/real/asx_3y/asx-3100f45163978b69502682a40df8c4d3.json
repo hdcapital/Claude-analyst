@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:3100f45163978b69502682a40df8c4d3",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120106",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:00:03Z",
+  "company": {
+    "ticker": "RIO",
+    "exchange_qualified": "ASX:RIO",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Appendix 3Y - Ben Wyatt",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 \nAppendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity           Rio Tinto Limited \nABN                               96 004 458 404 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nBen Wyatt \nDate of last notice \n10 June 2026 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDirect or indirect interest \nDirect \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to the relevant \ninterest. \n \nN/A \nDate of change \n30 July 2026 \nNo. of securities held prior to change \n1,300 Rio Tinto Limited ordinary shares \n(Shares) \nClass \nOrdinary shares \nNumber acquired \n300 Shares \nNumber disposed \nNil \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated \nvaluation \n$166.7950 per Share \nNo. of securities held after change \n1,600 Shares \nNature of change \nExample: on-market trade, off-market trade, exercise of options, issue \nof securities under dividend reinvestment plan, participation in buy-\nback \nAcquisition of Shares by way of on-market \ntrade.  \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDetail of contract \nN/A \nNature of interest \n \n \nN/A \nName of registered holder \n(if issued securities) \n \nN/A \nDate of change \nN/A \nNo. and class of securities to which \ninterest related prior to change \nNote: Details are only required for a contract in \nrelation to which the interest has changed \n \nN/A \nInterest acquired \nN/A \nInterest disposed \nN/A \nValue/Consideration \nNote: If consideration is non-cash, provide details \nand an estimated valuation  \n \nN/A \nInterest after change \nN/A \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed \nabove traded during a +closed period where prior written \nclearance was required? \nNo \nIf so, was prior written clearance provided to allow the \ntrade to proceed during this period? \nN/A \nIf prior written clearance was provided, on what date was \nthis provided? \nN/A \n \n \n \nFor personal use only\n",
+    "text_sha256": "a6c47f0fa795f847a3a23e102f50549af7061f2f9510bf16cf42f6312393aa69",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/3100f45163978b69502682a40df8c4d3.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

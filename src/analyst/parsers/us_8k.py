@@ -15,6 +15,54 @@ from .base import parsed, provenance, register, unparsed
 
 _ITEM = re.compile(r"\bItem\s+(\d{1,2}\.\d{2})\b", re.IGNORECASE)
 
+# The SGML header lists items by NAME ("ITEM INFORMATION: Departure of
+# Directors..."), and on real fixtures the stripped body often carries only
+# XBRL noise — the header lines are the reliable source. Names below are the
+# SEC's own item titles (matched on distinctive prefixes).
+_ITEM_INFO = re.compile(r"ITEM INFORMATION:\s*([^\n]+)")
+_NAME_TO_CODE = [
+    ("entry into a material definitive agreement", "1.01"),
+    ("termination of a material definitive agreement", "1.02"),
+    ("bankruptcy or receivership", "1.03"),
+    ("mine safety", "1.04"),
+    ("material cybersecurity incidents", "1.05"),
+    ("completion of acquisition or disposition", "2.01"),
+    ("results of operations and financial condition", "2.02"),
+    ("creation of a direct financial obligation", "2.03"),
+    ("triggering events that accelerate", "2.04"),
+    ("costs associated with exit or disposal", "2.05"),
+    ("material impairments", "2.06"),
+    ("notice of delisting", "3.01"),
+    ("unregistered sales of equity securities", "3.02"),
+    ("material modification to rights", "3.03"),
+    ("changes in registrant's certifying accountant", "4.01"),
+    ("changes in registrant", "4.01"),
+    ("non-reliance on previously issued financial statements", "4.02"),
+    ("changes in control of registrant", "5.01"),
+    ("departure of directors or certain officers", "5.02"),
+    ("election of directors", "5.02"),
+    ("amendments to articles of incorporation", "5.03"),
+    ("temporary suspension of trading", "5.04"),
+    ("amendment to registrant's code of ethics", "5.05"),
+    ("change in shell company status", "5.06"),
+    ("submission of matters to a vote", "5.07"),
+    ("shareholder director nominations", "5.08"),
+    ("regulation fd disclosure", "7.01"),
+    ("other events", "8.01"),
+    ("financial statements and exhibits", "9.01"),
+]
+
+
+def _codes_from_header(text_head: str) -> list[str]:
+    codes = []
+    for m in _ITEM_INFO.finditer(text_head):
+        name = m.group(1).strip().lower()
+        for prefix, code in _NAME_TO_CODE:
+            if name.startswith(prefix):
+                codes.append(code)
+                break
+    return codes
+
 # Items that warrant analyst eyes regardless of what else the filing says.
 ESCALATE_ITEMS = {
     "1.01",  # material definitive agreement
@@ -59,10 +107,12 @@ def parse_us_8k(ann: Announcement) -> ParseResult:
     if not text:
         return unparsed("no text")
     head = text[:40000]
-    items = sorted(set(_ITEM.findall(head)))
+    header_items = _codes_from_header(head)
+    body_items = _ITEM.findall(head)
+    items = sorted(set(header_items) | set(body_items))
     if not items:
         return unparsed("no 8-K item codes found")
-    first = _ITEM.search(head)
+    first = _ITEM_INFO.search(head) or _ITEM.search(head)
     assert first is not None
     escalate = any(item in ESCALATE_ITEMS for item in items)
     data = {

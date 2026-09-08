@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:55a23d4237f828b9a249315460e9ef0a",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03136397",
+  "published_at": "2026-09-07",
+  "published_date": "2026-09-07",
+  "scraped_at": "2026-09-07T00:43:09Z",
+  "company": {
+    "ticker": "REG",
+    "exchange_qualified": "ASX:REG",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change of Director's Interest Notice",
+  "content": {
+    "text": " \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity \nRegis Healthcare Ltd \nABN \n \n11 125 203 054 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nGraham Kennedy Hodges \nDate of last notice \n1 September 2025 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDirect or indirect interest \nIndirect \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to the relevant \ninterest. \n \nMr Graham Kennedy Hodges + Anne \nLorraine Hodges (G & A Hodges Super \nFund A/C) of which Graham Hodges is a \ntrustee and beneficiary. \nDate of change \n4 September 2026 \nNo. of securities held prior to change \n132,000 Ordinary Shares \nClass \nOrdinary Shares \nNumber acquired \n20,000 \nNumber disposed \nNil \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated \nvaluation \n \n$89,963.16 \nNo. of securities held after change \n152,000 Ordinary Shares \nNature of change \nExample: on-market trade, off-market trade, exercise of options, issue \nof securities under dividend reinvestment plan, participation in buy-\nback \n20,000 Ordinary Shares acquired on-\nmarket \n \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDetail of contract \nN/A \nNature of interest \n \n \n \nName of registered holder \n(if issued securities) \n \n \nDate of change \n \nNo. and class of securities to which \ninterest related prior to change \nNote: Details are only required for a contract in \nrelation to which the interest has changed \n \n \nInterest acquired \n \nInterest disposed \n \nValue/Consideration \nNote: If consideration is non-cash, provide details \nand an estimated valuation  \n \n \nInterest after change \n \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed \nabove traded during a +closed period where prior written \nclearance was required? \nNo \nIf so, was prior written clearance provided to allow the \ntrade to proceed during this period? \nN/A \nIf prior written clearance was provided, on what date was \nthis provided? \nN/A \n \n \n \nFor personal use only\n",
+    "text_sha256": "265ec8904833cf999ee599a26e4683fbb3f194b479014e3f790597ca280fc790",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/09/07/55a23d4237f828b9a249315460e9ef0a.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "34070295085"
+  }
+}

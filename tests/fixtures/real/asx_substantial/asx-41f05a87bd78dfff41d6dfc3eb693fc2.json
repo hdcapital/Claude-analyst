@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:41f05a87bd78dfff41d6dfc3eb693fc2",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120225",
+  "published_at": "2026-07-31",
+  "published_date": "2026-07-31",
+  "scraped_at": "2026-07-31T00:53:51Z",
+  "company": {
+    "ticker": "H2G",
+    "exchange_qualified": "ASX:H2G",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change in substantial holding",
+  "content": {
+    "text": "Form 604 \nCorporations Act 2001 \nSection 671B \nNotice of Change of interests of substantial holder \nTo Company Name/Scheme \nH2G LIMITED \nACN/ARSN \n000 689 725 \n1. Details of substantial holder (1)\nName \n \nANTHONY BARTON & ASSOCIATES \nACN/ARSN (if applicable) \nThere was a change of interests of the \nsubstantial holder on \n29 / 07 / 2026 \nThe previous notice was given to the company on \n03 / 12 / 2025 \nThe previous notice was dated \n03 / 12 / 2025 \n2. Previous and present voting power\nThe total number of votes attached to all the voting shares in the company or voting interests in the scheme that the substantial holder or \nan associate (2) had a relevant interest (3) in when last required, and when now required, to give a substantial holding notice to the \ncompany or scheme, are as follows: \nClass of Securities (4) \nPrevious Notice \nPresent Notice \nPerson’s votes \nVoting power (5) \nPerson’s Votes \nVoting Power \nORDINARY \n138,043,750 \n19.87% \n174,568,001 \n22.03% \n3. Changes in relevant interests\nParticulars or each change in, or change in the nature of, a relevant interest of the substantial holder or an associate in voting securities \nof the company or scheme, since the substantial holder was last required to give a substantial holding notice to the company or scheme \nas follows: \nDate of change \nPerson \nwhose \nrelevant interest \nchanged \nNature of change (6) \nConsideration given \nin \nrelation \nto \nchange (7) \nClass and number \nof \nsecurities \naffected \nPerson’s \nvotes \naffected \n29 July 2026 \nSelwood Barton \nPty Ltd \nOn-market \npurchases \n$110,541 \n10,500,000 Ord \nshares \n10,500,000 \nVarious \nAustralian \nHeritage Group \nPty Ltd \nPlacement \n$47,305 \n5,256,063 Ord \nshares \n5,256,063 \nVarious \nBarton & \nBarton Pty Ltd \nOn-market \npurchases & \nplacement \n$179,922 \n20,768,188 Ord \nshares \n20,768,188 \n4. Present relevant interests\nParticulars of each relevant interest of the substantial holder in voting securities after the change are as follows: \nHolder of relevant \ninterest \nRegistered holder \nof securities  \nPerson entitled to \nbe \nregistered \nas \nholder (8) \nNature of relevant \ninterest (6) \nClass and number of \nsecurities \nPerson’s votes \nSelwood Barton Pty \nLtd \nDirector & \nBeneficiary \n55,000,000 Ord \nshares \n55,000,000 \nBarton \nSuperannuation \nDirector & \n64,543,750 Ord \n64,543,750 \nFor personal use only\n\nFunds \nBeneficiary \nshares \nAustralian Heritage \nGroup Pty Ltd \nDirector & \nBeneficiary \n34,256,063 Ord \nshares \n34,256,063 \nBarton & Barton \nPty Ltd \nDirector & \nShareholder \n20,768,188 Ord \nshares \n20,768,188 \n5. Changes in association\nThe persons who have become associates (2) of, ceased to be associates of, or have changed the nature of their association (9) with, the\nsubstantial holder in relation to voting interests in the company or scheme are as follows:\nName and ACN/ARSN (if applicable) \nNature of association \nN/A \n6. Addresses\nThe addresses of persons named in this form are as follows:\nName \nAddress \nANTHONY BARTON \nPO BOX Z5152, PERTH WA 6831 \nSignature \nprint name \nANTHONY BARTON \ncapacity DIRECTOR\nsign here  \ndate \n30 / 07 / 2026 \nFor personal use only\n",
+    "text_sha256": "98935d2a1b39a796cdc7ba06102f8bfc19b2ef545a7d2627a7eb46388dcb0588",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/31/41f05a87bd78dfff41d6dfc3eb693fc2.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

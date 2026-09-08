@@ -13,10 +13,17 @@ import re
 from ..models import Announcement, Fact, ParseResult
 from .base import parsed, provenance, register, unparsed
 
+# Real Investegate TR-1 layout: section 3 is a small table —
+#   "3. Details of person subject to the notification obligation
+#    Name
+#    <holder>"
+# Section 4 ("Full name of shareholder(s)") is usually blank unless the
+# shareholder differs from the notifier, so try 4 first, then 3.
 _HOLDER_LABELS = [
+    r"Full name of shareholder\(?s?\)?[^\n]*\n\s*Name\s*\n\s*([^\n]{3,120})",
+    r"(?:person|entity) subject to the\s*\n?notification obligation[^\n]*\n\s*Name\s*\n\s*([^\n]{3,120})",
+    r"notification obligation[^\n]*\n\s*Name[^\n]*\n\s*([^\n]{3,120})",
     r"Full name of shareholder\(?s?\)?[^\n:]*:?\s*\n?\s*([^\n]{3,120})",
-    r"Name of the person\(?s?\)? subject to the\s*notification obligation[^\n:]*:?\s*\n?\s*([^\n]{3,120})",
-    r"Full name of person\(s\) subject to the[^\n]*\n\s*([^\n]{3,120})",
 ]
 _PCT = re.compile(r"(\d{1,3}(?:[.,]\d+)?)\s*%")
 _RESULTING = re.compile(
@@ -35,6 +42,35 @@ def _pct(raw: str) -> float | None:
     except ValueError:
         return None
     return value if 0 < value <= 100 else None
+
+
+_NUM_LINE = re.compile(r"^\d{1,3}(?:[.,]\d+)?$")
+
+
+def _numeric_block_after(text: str, label: str, max_lines: int = 8) -> list[float]:
+    """Consecutive bare-number lines following a label — the TR-1 template
+    renders the 8.A/8.B/total percentages as a values block with no % signs."""
+    m = re.search(label, text, re.IGNORECASE)
+    if not m:
+        return []
+    numbers: list[float] = []
+    seen_any = False
+    for line in text[m.end() : m.end() + 400].splitlines():
+        line = line.strip()
+        if not line:
+            if seen_any:
+                break
+            continue
+        if _NUM_LINE.match(line.replace(" ", "")):
+            numbers.append(float(line.replace(",", ".")))
+            seen_any = True
+            if len(numbers) >= max_lines:
+                break
+        elif seen_any:
+            break
+        elif len(line) > 60:
+            continue  # wrapped label text
+    return numbers
 
 
 @register("rns_tr1")
@@ -56,23 +92,34 @@ def parse_rns_tr1(ann: Announcement) -> ParseResult:
     if holder is None:
         return unparsed("holder name not readable")
 
+    # values block: [%8.A, %8.B, total%, total voting rights count]
     resulting = None
-    m = _RESULTING.search(text)
-    if m:
-        resulting = _pct(m.group(1))
+    block = _numeric_block_after(
+        text, r"Resulting situation on the date on which(?: the)? threshold was crossed"
+    )
+    pct_block = [v for v in block if 0 < v <= 100]
+    if len(pct_block) >= 3:
+        resulting = pct_block[2]  # "Total of both in %"
+    elif pct_block:
+        resulting = pct_block[0]
     if resulting is None:
-        # fall back: last percentage in the "resulting situation" half of the doc
-        half = text[len(text) // 3 :]
-        pcts = [_pct(p.group(1)) for p in _PCT.finditer(half)]
-        pcts = [p for p in pcts if p is not None]
-        resulting = pcts[0] if pcts else None
+        m = _RESULTING.search(text)
+        if m:
+            resulting = _pct(m.group(1))
     if resulting is None:
         return unparsed("resulting voting-rights % not readable")
 
     previous = None
-    pm = _PREVIOUS.search(text)
-    if pm:
-        previous = _pct(pm.group(1))
+    prev_block = _numeric_block_after(text, r"Position of previous notification")
+    prev_pcts = [v for v in prev_block if 0 < v <= 100]
+    if len(prev_pcts) >= 3:
+        previous = prev_pcts[2]
+    elif prev_pcts:
+        previous = prev_pcts[0]
+    if previous is None:
+        pm = _PREVIOUS.search(text)
+        if pm:
+            previous = _pct(pm.group(1))
 
     data = {
         "holder": holder,

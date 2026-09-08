@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:9a00d893ed05aab57b7b2548ddfb0e5b",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03119954",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:08:27Z",
+  "company": {
+    "ticker": "KFM",
+    "exchange_qualified": "ASX:KFM",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Becoming a substantial holder",
+  "content": {
+    "text": "603 \nGUIDE page 1/2 \n7th August 2025 \n \n \nForm 603 \nCorporations Act 2001 \nSection 671B \n \nNotice of initial substantial holder \n \n \nTo: Company Name/Scheme \nKINGFISHER MINING LTD \n \n \nACN/ARSN \n629 675 216 \n \n \n \n \n1. Details of substantial holder (1) \n \nName \nMRS PAMELA CHRISTINE NEESHAM & MR DAVID CHARLES NEESHAM \nACN/ARSN (if applicable) \nN/A \n \n \nThe holder became a substantial holder on \n29 \n/ \n07 \n/ \n2026 \n \n \n \n2. Details of voting power \n \nThe total number of votes attached to all the voting shares in the company or voting interests in the scheme that the substantial holder or an associate (2) had a                               \nrelevant interest (3) in on the date the substantial holder became a substantial holder are as follows: \n \n \n \nClass of securities (4) \nNumber of securities \nPerson’s votes (5) \nVoting power (6) \n \n \nOrdinary fully paid (O.F.P.) \n10,053,914 \n10,053,914 \n9.66% \n \n \n \n \n \n3. Details of relevant interests \n \nThe nature of the relevant interest the substantial holder or an associate had in the following voting securities on the date the substantial holder became a substantial holder are as \nfollows: \n \n \n \nHolder of relevant interest \nNature of relevant interest (7) \nClass and number of \nsecurities \n \n \nDC & PC HOLDINGS PTY LTD <DC & PC NEESHAM SUPER \nA/C> \nDC & PC HOLDINGS PTY LTD <DC & PC NEESHAM \nSUPER A/C> \n9,500,000 ordinary shares \n \n \nMRS PAMELA CHRISTINE NEESHAM \nMRS PAMELA CHRISTINE NEESHAM \n553,914 ordinary shares \n \n \n \n4. Details of present registered holders \n \nThe persons registered as holders of the securities referred to in paragraph 3 above are as follows: \n \n \n \nHolders of relevant \ninterest \nRegistered holder of \nSecurities \nPerson entitled to be \nregistered as a holder (8) \nClass and number \nof securities \n \n \nDC & PC HOLDINGS PTY LTD <DC & PC \nNEESHAM SUPER A/C> \nDC & PC HOLDINGS PTY LTD \n<DC & PC NEESHAM SUPER \nA/C> \nMRS PAMELA CHRISTINE NEESHAM &  \nMR DAVID CHARLES NEESHAM \n9,500,000 ordinary shares \n \n \nMRS PAMELA CHRISTINE NEESHAM \nMRS PAMELA CHRISTINE \nNEESHAM \nMRS PAMELA CHRISTINE NEESHAM \nMR DAVID CHARLES NEESHAM \n553,914 ordinary shares \n \n \n \n5. Consideration \n \nThe consideration paid for each relevant interest referred to in paragraph 3 above, and acquired in the four month s prior to the day that the substantial holder became                                 \na substantial holder is as follows: \n \nHolder of relevant interest \nDate of acquisition \nConsideration (9) \nClass and number of securities \n \n \n \n \nCash \nNon-cash \n \n \n \nDC & PC HOLDINGS PTY LTD <DC & PC NEESHAM \nSUPER A/C> \nVarious \n$619,597.49 \n \n9,500,000 ordinary shares \n \n \nMRS PAMELA CHRISTINE NEESHAM \nVarious \n$40,960.10 \n \n553,914 ordinary shares \n \n \n \n \n  \n \n \n \n \n \n \n \nFor personal use only\n\n \n \n603 \nGUIDE page 2/2 \n7th August 2025 \n6. Associates \n \nThe reasons the person named in paragraph 3 above and associates of the substantial holder are as follows: \n \n \n \nName and ACN/ARSN (if applicable) \nNature of association  \n \n \nDC & PC HOLDINGS PTY LTD <DC & PC NEESHAM SUPER A/C> \nDIRECTOR \n \n \nMRS PAMELA CHRISTINE NEESHAM \nN/A \n \n \n \n \n \n7. Addresses \n \nThe addresses of persons named in this form are as follows: \n \n \n \nName \nAddress \n \n \nDC & PC HOLDINGS PTY LTD <DC & PC NEESHAM SUPER A/C> \n137 STONEHAM ROAD, ATTADALE WA 6156 \n \n \nMRS PAMELA CHRISTINE NEESHAM \n137 STONEHAM ROAD, ATTADALE WA 6156 \n \n \nMR DAVID CHARLES NEESHAM \n137 STONEHAM ROAD, ATTADALE WA 6156 \n \n \n \n \n \nSignature \n \n \n \n \n \nprint name \nMRS PAMELA CHRISTINE NEESHAM & \nMR DAVID CHARLES NEESHAM \ncapacity \n Director  \n \n \nsign here \n \ndate \n29 \n/ \n07 \n/ \n2026 \n \n \n \nFor personal use only\n",
+    "text_sha256": "27ce41f4fe09619ac0ce7ae014185ba48d40de4fccfd12551071f22963c42956",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/9a00d893ed05aab57b7b2548ddfb0e5b.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

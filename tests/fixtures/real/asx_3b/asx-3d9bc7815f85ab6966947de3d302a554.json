@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:3d9bc7815f85ab6966947de3d302a554",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120495",
+  "published_at": "2026-07-31",
+  "published_date": "2026-07-31",
+  "scraped_at": "2026-07-31T00:38:29Z",
+  "company": {
+    "ticker": "CBE",
+    "exchange_qualified": "ASX:CBE",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Application for quotation of securities - CBE",
+  "content": {
+    "text": "Appendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n1 / 6\nAnnouncement Summary\nEntity name\nCOBRE LIMITED\nAnnouncement Type\nNew announcement\nDate of this announcement\nFriday July 31, 2026\nThe +securities to be quoted are:\nTotal number of +securities to be quoted\nASX +security\ncode\nSecurity description\nNumber of +securities to\nbe quoted\nIssue date\nCBE\nORDINARY FULLY PAID\n141,672\n31/07/2026\nRefer to next page for full details of the announcement\n+Securities issued, transferred or re-classified as a result of options being exercised or other +convertible securities being\nconverted\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n2 / 6\nPart 1 - Entity and announcement details\n1.1 Name of entity\nCOBRE LIMITED\nWe (the entity named above) apply for +quotation of the following +securities and agree to the matters set out in Appendix\n2A of the ASX Listing Rules.\n1.2 Registered number type\nABN\nRegistration number\n75626241067\n1.3 ASX issuer code\nCBE\n1.4 The announcement is\n1.5 Date of this announcement\n31/7/2026\nNew announcement\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n3 / 6\nPart 2 - Type of Issue\n2.1 The +securities to be quoted are:\n2.2 The +class of +securities to be quoted is:\nAdditional +securities in a class that is already quoted on ASX (\"existing class\")\n+Securities issued, transferred or re-classified as a result of options being exercised or other +convertible securities being\nconverted\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n4 / 6\nPart 3B - number and type of +securities to be quoted (existing class) where issue has not previously been notified to ASX in an\nAppendix 3B\nExisting +securities converting into additional +securities in an existing class\nFROM (Existing Class)\nASX +security code and description\nCBEAR : OPTION EXPIRING 02-OCT-2026 EX $0.098\nTO (Existing Class)\nASX +security code and description\nCBE : ORDINARY FULLY PAID\nPlease state the number of options\nthat were exercised or other\n+convertible securities that were\nconverted\n141,672\nThe first date the options were\nexercised or other +convertible\nsecurities were converted\n20/7/2026\nThe last date the options were\nexercised or other +convertible\nsecurities were converted\n29/7/2026\nIs this all of the options or other +convertible securities on issue of that type (ie have all of those options now been\nexercised or have all of those convertible securities now been converted)?\nThe right of the holder of the options or other +convertible securities to receive the +underlying securities is being\nsatisfied by:\nThe underlying +securities being received by the holder are:\nWere the options being exercised or other +convertible securities being converted issued under an +employee\nincentive scheme?\nIssue date\n31/7/2026\nWill the +securities to be quoted rank equally in all respects from their issue date with the existing issued\n+securities in that class?\nYes\nNo\nIntended to be, but are not yet, quoted by ASX\nAn issue of new +securities\nNo\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n5 / 6\nIssue details\nNumber of +securities to be quoted\n141,672\nAre the +securities being issued for a cash consideration?\nIn what currency is the cash consideration being paid?\nAUD - Australian Dollar\nWhat is the issue price per +security?\nAUD 0.09800000\nAny other information the entity wishes to provide about the +securities to be quoted\nYes\nYes\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n6 / 6\nPart 4 - Issued capital following quotation\nFollowing the quotation of the +securities the subject of this application, the issued capital of the entity will\ncomprise:\nThe figures in parts 4.1 and 4.2 below are automatically generated and may not reflect the entity's current issued capital if\nother Appendix 2A, Appendix 3G or Appendix 3H forms are currently with ASX for processing.\n4.1 Quoted +securities (total number of each +class of +securities quoted on ASX following the +quotation of the\n+securities subject of this application)\nASX +security code and description\nTotal number of\n+securities on issue\nCBEO : OPTION EXPIRING 21-NOV-2028\n165,125,648\nCBE : ORDINARY FULLY PAID\n1,208,165,409\n4.2 Unquoted +securities (total number of each +class of +securities issued but not quoted on ASX)\nASX +security code and description\nTotal number of\n+securities on issue\nCBEAU : OPTION EXPIRING 28-NOV-2029 EX $0.1575\n18,500,000\nCBEAQ : OPTION EXPIRING 13-AUG-2027 EX $0.078\n33,677,934\nCBEAW : PERFORMANCE RIGHTS\n56,000,000\nCBEAV : OPTION EXPIRING 15-JAN-2029 EX $0.13\n40,000,000\nCBEAR : OPTION EXPIRING 02-OCT-2026 EX $0.098\n25,273,366\nFor personal use only\n",
+    "text_sha256": "042c9be0eb245d0c6304206a2ffa36701a2b1e3cc56d8207b1b2c33519598563",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/31/3d9bc7815f85ab6966947de3d302a554.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

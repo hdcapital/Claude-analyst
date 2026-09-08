@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9755109",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/sthree--stem/transaction-in-own-shares/9755109",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:52:32Z",
+  "company": {
+    "ticker": "STEM",
+    "exchange_qualified": "LSE:STEM",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Transaction in Own Shares",
+  "content": {
+    "text": "4 th September 2026\nSThree plc\n(\"SThree\" or the \"Company\")\nTransaction in Own Shares\n\nThe Company announces today it has purchased the following number of its ordinary shares of 1 pence each (\"Ordinary Shares\") through Investec Bank plc in the period from 27th August 2026 to 3rd September 2026.\nDate\nVenue\nVolume-weighted average price (p)\nAggregated volume\nLowest price per share (p)\nHighest price per share (p)\n27 August 2026\nXLON\n287.4757\n15,325\n285.5000\n292.5000\n28 August 2026\nXLON\n298.6811\n16,709\n293.0000\n301.0000\n01 September 2026\nXLON\n296.5799\n15,955\n293.5000\n299.0000\n02 September 2026\nXLON\n286.5511\n16,949\n282.5000\n292.5000\n03 September 2026\nXLON\n286.4160\n10,151\n283.5000\n288.5000\n\nThe Company intends to cancel the purchased shares.\n\n\nSchedule of Purchases - Individual Transactions\nIn accordance with Article 5(1)(b) of the Market Abuse Regulation (EU) No 596/2014 as it forms part of UK law, a full breakdown of the individual trades made by the Investec Bank on behalf of the Company as part of the buyback programme is attached to this announcement.\nhttp://www.rns-pdf.londonstockexchange.com/rns/3569T_1-2026-9-3.pdf\n\n\n\nFor further information please contact:\n\nSThree plc\n\nTimo Lehne, CEO\nDamian Fehrenberg, Interim CFO\nCharlie Hildesley, Investor Relations Manager\n\n\nvia Alma\nAlma Strategic Communications\n+44 20 3405 0205\n\nRebecca Sanders-Hewett\nHilary Buchanan\nSam Modlin\nRose Docherty\nSThree@almastrategic.com\n\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "fc28b4c94fab8cf9206d74237e5e568609567379259e23a972b12442cb91c3c3",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

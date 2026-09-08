@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:163673f12c555b25297bd49ca81457d8",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120107",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:00:01Z",
+  "company": {
+    "ticker": "EG1",
+    "exchange_qualified": "ASX:EG1",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change of Director's Interest Notice - SL",
+  "content": {
+    "text": "Rule 3.19A.2\nAppendix 3Y\n \nChange of Director's Interest Notice\n \nInformation or documents not available now must be given to ASX as soon as available. Information and documents given to ASX\nbecomes ASX's property and may be made public.\n \nIntroduced 30/09/01    Amended 01/01/11\nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for the director for\nthe purposes of section 205G of the Corporations Act.\nPart 1 - Change of director's relevant interests in securities\nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust\nNote: In the case of a company, interests which come within paragraph (i) of the definition of \"notifiable interest of a director\" should be\ndisclosed in this part.\nAppendix 3Y\nChange of Director's Interest Notice\nName of entity\nEvergold Minerals Limited\nABN\n17 656 722 397\nName of director\nSimon Lill\nDate of last notice\n22 June 2026\nDirect or indirect interest\n(1) Indirect\n(2) Direct\nNature of indirect interest\n(including registered holder)\n(1) ROYAL FLUX PTY LTD <FLUX FAMILY A/C>,\nRelated entity to Mr Lill.\n(2) N/A\nDate of change\n(1.1) N/A\n(1.2) N/A\n(2) 28 - 29 July 2026\nNo. of securities held prior to change\n(1.1) 14,714,286 - ORDINARY FULLY PAID\nSHARES\n(1.2) 5,000,000 - UNLISTED OPTIONS @ $0.30\nEXP 24.01.27\n(2) 9,000,000 - ORDINARY FULLY PAID SHARES\nClass\n(1.1) ORDINARY FULLY PAID SHARES\n(1.2) UNLISTED OPTIONS @ $0.30 EXP 24.01.27\n(2) ORDINARY FULLY PAID SHARES\nNumber acquired\n(1.1) NIL\n(1.2) NIL\n(2) 4,000,000 - ORDINARY FULLY PAID SHARES\nNumber disposed\nN/A\n+ See chapter 19 for defined terms.\n01/01/2011  Appendix 3Y Page 1\nFor personal use only\n\nPart 2 - Change of director's relevant interests in contracts\nNote: In the case of a company, interests which come within paragraph (ii) of the definition of \"notifiable interest of a director\" should be\ndisclosed in this part.\nPart 3 - +Closed period\nAppendix 3Y\nChange of Director's Interest Notice\nValue/Consideration\n(1.1) NIL\n(1.2) NIL\n(2)  AVERAGE OF 2.6006 CENTS PER ORDINARY\nFULLY PAID SHARE, RANGING FROM 2.60\nCENTS TO 2.61 CENTS PER ORDINARY FULLY\nPAID SHARE (OR TOTAL CONSIDERATION OF\n$104,024.60)\nNo. of securities held after change\n(1.1) 14,714,286 - ORDINARY FULLY PAID\nSHARES\n(1.2) 5,000,000 - UNLISTED OPTIONS @ $0.30\nEXP 24.01.27\n(2) 13,000,000 - ORDINARY FULLY PAID SHARES\nNature of change\n(1.1) N/A\n(1.2) N/A\n(2) ON- MARKET ACQUISITION\nDetail of contract\nN/A\nNature of interest\nN/A\nName of registered holder\n(if issued securities)\nN/A\nDate of change\nN/A\nNo. and class of securities\nto which interest related\nprior to change\nN/A\nInterest acquired\nN/A\nInterest disposed\nN/A\nValue/Consideration\nN/A\nInterest after change\nN/A\nWere the interests in the securities or\ncontracts detailed above traded during a\n+closed period where prior written clearance\nwas required?\nNO\nIf so, was prior written clearance provided to\nallow the trade to proceed during this period?\nN/A\nIf prior written clearance was provided, on\nwhat date was this provided?\nN/A\n+ See chapter 19 for defined terms.\n01/01/2011  Appendix 3Y Page 2\nFor personal use only\n",
+    "text_sha256": "7a15f1c62875b05541fc27f29f5efff8c36056cc43554168c3211e85e091571f",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/163673f12c555b25297bd49ca81457d8.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9757329",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/savannah-energy--save/director-pdmr-shareholding/9757329",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:47:13Z",
+  "company": {
+    "ticker": "SAVE",
+    "exchange_qualified": "LSE:SAVE",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Director/PDMR Shareholding",
+  "content": {
+    "text": "4 September 2026\n\nSavannah Energy PLC\n(\"Savannah\" or \"the Company\")\n\nDirector/PDMR Dealings\n\nSavannah Energy PLC, the British independent energy company focused around the delivery of Projects that Matter , announces that it has been notified of a transfer of 128,550,000 Ordinary Shares in the Company (the \"Ordinary Shares\"), between companies beneficially owned by Andrew Knott, Chief Executive Officer and a Director of the Company. Accordingly, there has been no change in Andrew Knott's beneficial ownership of the Ordinary Shares of the Company, which remains at 20.2%. The transfer has been undertaken to consolidate Andrew Knott's shareholdings in the Company into his personal name and a single company beneficially owned by him.\nThe information contained in this notification is disclosed in accordance with the requirements of Article 19 of the Market Abuse Regulation.\nNotification of Transactions of Directors, Persons Discharging Managerial Responsibilities (\"PDMRs\") and persons closely associated with them\n1\nDetails of the person discharging board responsibilities\na)\nName\nAndrew Knott\n2\nReason for the notification\na)\nPosition/status\nChief Executive Officer and Director\nb)\nInitial notification/Amendment\nInitial Notification\n3\nDetails of the issuer, emission allowance market participant, auction platform, auctioneer or auction monitor\na)\nName\nSavannah Energy PLC\nb)\nLEI\n2138002YCJORSFH5YR43\n4\nDetails of the transaction(s): section to be repeated for (i) each type of instrument; (ii) each type of transaction; (iii) each date; and (iv) each place where transactions have been conducted\na)\nDescription of the financial instrument, type of instrument\nIdentification code\nOrdinary shares of £0.001 each\n\nGB00BP41S218\nb)\nNature of transaction\nTransfer of existing Ordinary Shares from Lothian Capital Partners 6 Limited to Lothian Capital Partners 2 Limited, both companies being 100% beneficially owned by Andrew Knott, pursuant to a share purchase agreement executed between such companies dated 30 May 2026.\nc)\nPrice(s) and volume(s)\nPrice(s)\nVolume(s)\n\n\n6.8p\n\n\n128,550,000\n\nd)\nAggregated information\n-      Aggregated volume\n-      Price\n\n128,550,000\n6.8p\ne)\nDate of the transaction\n3 September 2026\n\nf)\nPlace of the transaction\nLondon Stock Exchange, AIM\n\n\n\n\n\nFor further information, please refer to the Company's website www.savannah-energy.com or contact:\n\nSavannah Energy +44 (0) 20 3817 9844\nAndrew Knott, CEO\nNick Beattie, CFO\nSally Marshak, Head of IR & Communications\n\nStrand Hanson Limited (Nominated Adviser) +44 (0) 20 7409 3494\nJames Spinney\nRitchie Balmer\nRob Patrick\n\nCavendish Capital Markets Ltd (Joint Broker) +44 (0) 20 7220 0500\nDerrick Lee\n\nTennyson Securities (Joint Broker) +44 (0) 20 4530 9239\nPeter Krens\n\nCamarco +44 (0) 20 3757 4983\nBilly Clegg\nOwen Roberts\nViolet Wilson\n\nAbout Savannah:\nSavannah Energy PLC is a British independent energy company focused around the delivery of Projects that Matter in Africa.\n\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "403f5d6c346724e78eb495927fbad3fa48badf5d757d483cb0aabada6770cd3f",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

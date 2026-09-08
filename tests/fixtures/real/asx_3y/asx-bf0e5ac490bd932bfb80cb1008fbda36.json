@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:bf0e5ac490bd932bfb80cb1008fbda36",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120130",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T00:58:59Z",
+  "company": {
+    "ticker": "TGN",
+    "exchange_qualified": "ASX:TGN",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change of Director's Interest Notice - Law",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity          Tungsten Mining NL \nABN                            67 152 084 403 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \n \nDate of last notice \n13 January 2026 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDirect or indirect interest \nDirect and Indirect \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to the relevant \ninterest. \nShares held indirectly are registered in the name of \nCiticorp Nominees Pty Ltd (“Citicorp”) and HSBC \nCustody Nominees (Australia) Limited (“HSBC”) as \ncustodians, holding on behalf of entities controlled \nby the Director and/or his spouse, Saw Geok Ngor.  \nEntities being Antelle Holding Limited (“Antelle”) \nand Amardale Offshore Inc (“Amardale”)  \nDate of change \n24 July 2026 \nNo. of securities held prior to changes \nFully Paid Ordinary Shares \nTotal 77,415,000 \n• \nIndirect:  71,415,000 \no 52,077,500 - Citicorp (Antelle) \no 12,837,500 - Citicorp (Saw Geok Ngor) \no 6,500,000 - HSBC (Amardale) \n• \nDirect: 6,000,000 \n \nUnlisted Performance Rights \n• \nDirect:  4,000,000 \nClass \nFully Paid Ordinary Shares \nTan Sri Dato Tien Seng Law\nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \nNumber acquired \n55,000,000 \nNumber disposed \nNil \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated \nvaluation \nAUD 11,550,000 \nNo. of securities held after change \nFully Paid Ordinary Shares \nTotal 132,415,000 \n• Indirect: 126,415,000 \no 107,077,500 - Citicorp (Antelle) \no 12,837,500 - Citicorp (Saw Geok Ngor) \no 6,500,000 - HSBC (Amardale) \n• \nDirect: 6,000,000 \n \nUnlisted Performance Rights: \n• \nDirect:  4,000,000 \nNature of change \nExample: on-market trade, off-market trade, exercise of options, issue \nof securities under dividend reinvestment plan, participation in buy-\nback \nOff market trade \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should \nbe disclosed in this part. \n \nDetail of contract \nN/A \nNature of interest \nN/A \nName of registered holder \n(if issued securities) \n \nN/A \nDate of change \nN/A \nNo. and class of securities to which \ninterest related prior to change \nNote: Details are only required for a contract in \nrelation to which the interest has changed \n \nN/A \nInterest acquired \nN/A \nInterest disposed \nN/A \nValue/Consideration \nNote: If consideration is non-cash, provide details \nand an estimated valuation  \nN/A \nInterest after change \nN/A \n \n \n \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 3 \n \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed above \ntraded during a +closed period where prior written clearance \nwas required? \nNo \nIf so, was prior written clearance provided to allow the trade to \nproceed during this period? \nN/A \nIf prior written clearance was provided, on what date was this \nprovided? \nN/A \n \n \nFor personal use only\n",
+    "text_sha256": "4c478d8c28a712f110c4b7c68e2ac5d4246e7effe0b47b79f629699d8f03a91a",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/bf0e5ac490bd932bfb80cb1008fbda36.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

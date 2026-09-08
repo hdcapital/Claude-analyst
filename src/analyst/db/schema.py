@@ -12,7 +12,7 @@ global identity), so re-running a day upserts instead of duplicating.
 
 from __future__ import annotations
 
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from typing import Any
 
 from sqlalchemy import JSON, Float, ForeignKey, Index, Integer, String, Text
@@ -22,7 +22,7 @@ SCHEMA_VERSION = 1
 
 
 def utcnow() -> str:
-    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    return datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 class Base(DeclarativeBase):

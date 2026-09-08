@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9757409",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/kier-group--kie/transaction-in-own-shares/9757409",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:45:46Z",
+  "company": {
+    "ticker": "KIE",
+    "exchange_qualified": "LSE:KIE",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Transaction in Own Shares",
+  "content": {
+    "text": "4 September 2026\n\nKier Group plc\n\nTransaction in Own Shares\n\nKier Group plc (\"Kier\", the \"Company\", or the \"Group\") announces that, during the period Tuesday 1 September 2026 to Friday 4 September 2026, it purchased the following number of its Ordinary shares of 1p each in the Company (\"Ordinary Shares\") from Deutsche Bank AG, London Branch (\"Deutsche Numis\") as part of the buyback programme announced on 3 March 2026 (the \"Buyback Programme\").\n\nDate of Purchase\nAggregate number of Ordinary 1p shares purchased\nVolume weighted average price per share paid (GBp)\nLowest price per share paid (GBp)\nHighest price per share paid (GBp)\nBroker\n01/09/2026\n65,000\n253.3787\n251.20\n257.20\nDeutsche Numis\n02/09/2026\n65,000\n249.0488\n246.40\n253.00\n03/03/2026\n50,000\n250.8138\n248.80\n252.40\n04/03/2026\n55,000\n251.5151\n250.20\n254.00\n\nKier intends to hold the Ordinary Shares purchased pursuant to the Buyback Programme in Treasury. Following the settlement of the above purchases, Kier has purchased a total of 6,398,654 Ordinary Shares since the commencement of the Buyback Programme and will have 452,875,390 Ordinary Shares of 1 pence each in issue. 17,377,122 Ordinary Shares are held in treasury. The figure 435,498,268 represents the total number of voting rights in Kier and can be used by shareholders as the denominator for the calculations by which they can determine if they are required to notify their interest in, or change to their interest in, the Company under the Financial Conduct Authority's Disclosure and Transparency Rules.\nIn accordance with Article 5(1)(b) of Regulation (EU) No 596/2014 (as such Regulation has become part of domestic law by virtue of and for the purposes of the European Union (Withdrawal) Act 2018 (as amended by the European Union (Withdrawal Agreement) Act 2020) and as such Regulation has been amended in such form by any regulations made under that Act), a schedule of the individual trades made by Deutsche Numis as part of the Buyback Programme is attached to this announcement.\n\nhttp://www.rns-pdf.londonstockexchange.com/rns/5561T_1-2026-9-4.pdf\n\nThis announcement is made in accordance with the requirements of UK Listing Rule 9.6.6.\n\nFor further information, please contact:\n\nKier Group plc\nInvestor Relations +44 (0)7933 388 746\nKier Press Office +44 (0)1767 355 096\n\nFTI Consulting\nRichard Mountain +44 (0)7909 684 466\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "e61b2aea86d198fcb6dbb07b776204c9f5ce1cc5a19b1a31d06dbd76c8531e85",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

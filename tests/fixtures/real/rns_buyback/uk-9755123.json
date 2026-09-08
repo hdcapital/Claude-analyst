@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9755123",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/gaming-realms--gmr/transaction-in-own-shares/9755123",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:52:24Z",
+  "company": {
+    "ticker": "GMR",
+    "exchange_qualified": "LSE:GMR",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Transaction in Own Shares",
+  "content": {
+    "text": "04 September 2026\nGAMING REALMS PLC\nTransaction in Own Shares\nGAMING REALMS PLC (the \"Company\") announces that it has purchased the following number of its Ordinary Shares of 0.1p each on the London Stock Exchange through Peel Hunt LLP (\"Peel Hunt\"), as part of the share buyback programme.\nDate of purchase:\n03 September 2026\nNumber of Ordinary 0.1p Shares purchased:\n41,710\nHighest price paid per share:\n30.20 pence\nLowest price paid per share:\n30.00 pence\nVolume weighted average price paid per share:\n30.12 pence\nThe Company intends to hold the purchased shares in treasury.\nFollowing the purchase of these shares, the Company holds 26,927,003 of its Ordinary Shares in treasury and has 269,339,011 Ordinary Shares in issue (excluding treasury shares). The figure of 269,339,011 Ordinary Shares represents the total voting rights in the Company and may be used by shareholders as the denominator for the calculations by which they can determine if they are required to notify their interest in, or a change to their interest in, the Company under the Financial Conduct Authority's Disclosure Guidance and Transparency Rules.\nIn accordance with Article 5(1)(b) of Regulation (EU) No 596/2014 (as incorporated into UK domestic law by the European Union (Withdrawal) Act 2018) the schedule below contains detailed information about the purchases made by Peel Hunt on behalf of the Company as part of the buyback programme.\nGAMING REALMS PLC Michael Buckley, Executive Chairman Mark Segal, CEO Geoff Green, CFO\n0845 123 3773\nPeel Hunt - NOMAD and Joint Corporate Broker George Sellar Andrew Clark\n020 7418 8900\nInvestec - Joint Corporate Broker James Hopton Lydia Zychowska\n020 7597 4000\nYellow Jersey Charles Goodwin Annabelle Wills\n07747 788 221\nSchedule of Purchases - Individual Transactions\nNumber of shares purchased\nTransaction price (Gbp)\nVenue\nTime of transaction\nTrade ID\n7,942\n30.20\nAIMX\n08:32:19\n00198920645TRLO1\n8,321\n30.20\nAIMX\n08:32:22\n00198920647TRLO1\n8,302\n30.20\nAIMX\n08:32:30\n00198920653TRLO1\n8,371\n30.00\nAIMX\n15:58:31\n00198957087TRLO1\n8,774\n30.00\nAIMX\n16:11:32\n00198958733TRLO1\n\nAbout Gaming Realms\nGaming Realms creates and licenses innovative games for mobile, with operations in the U.K., U.S., Canada and Malta. Through its unique IP and brands, Gaming Realms is bringing together media, entertainment and gaming assets in new game formats. As the creator of a variety of SlingoTM, bingo, slots and other games, we use our proprietary data platform to build and engage global audiences. In 2026, Gaming Realms launched Lucky Lunar, a new studio focused on creating innovative slot titles that combine familiar casino mechanics with unique SlingoTM features. The Gaming Realms management team includes accomplished entrepreneurs and experienced executives from a wide range of leading gaming and media companies.\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "adff20304f930ee62c5db5ffcf71ac79af6a8ba9aa4e98002ec14541a7e953fd",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

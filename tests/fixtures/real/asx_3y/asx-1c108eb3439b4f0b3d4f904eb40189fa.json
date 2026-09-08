@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:1c108eb3439b4f0b3d4f904eb40189fa",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120937",
+  "published_at": "2026-07-31",
+  "published_date": "2026-07-31",
+  "scraped_at": "2026-08-03T03:32:59Z",
+  "company": {
+    "ticker": "NOU",
+    "exchange_qualified": "ASX:NOU",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Appendix 3Y - Stuart Black",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity            Noumi Limited \nABN                             41 002 814 235 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for the \ndirector for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nStuart Alexander Black \nDate of last notice \n6 December 2023 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDirect or indirect interest \nIndirect \nNature of indirect interest \n(including registered holder) \nNote: Provide details of the circumstances giving rise to the relevant \ninterest. \n \nCE4 Super Pty Limited (ACN 659 302 520) \nas trustee of Chapman and Eastway No.4 \nSuperannuation Fund \nDate of change \n29 July 2026 \nNo. of securities held prior to change \n• \n25,000 Convertible Notes – CE4 \nSuper Pty Limited (ACN 659 302 \n520) as trustee of the Chapman \nEastway No. 4 Superannuation Fund \n• \n629,642 unlisted Options – CE4 \nSuper Pty Limited (ACN 659 302 \n520) as trustee of Chapman and \nEastway No. 4 Superannuation Fund \nClass \nConvertible Notes \nNumber acquired \nNil \nNumber disposed \n25,000 Convertible Notes  \nValue/Consideration \nNote: If consideration is non-cash, provide details and estimated valuation \n \n$33,702.34 \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \nAppendix 3Y Page 2 \n01/01/2011 \n \nNo. of securities held after change \n629,642 unlisted Options – CE4 Super Pty \nLimited (ACN 659 302 520) as trustee of \nChapman and Eastway No. 4 Superannuation \nFund \nNature of change \nExample: on-market trade, off-market trade, exercise of options, issue of \nsecurities under dividend reinvestment plan, participation in buy-back \n25,000 Convertible Notes were sold to \nArrovest Pty Ltd pursuant to the Note \nAcquisition Transaction, details of which are \nset out in the Company’s announcement to \nASX dated 21 July 2026. \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDetail of contract \nN/A \nNature of interest \n \n \nN/A \nName of registered holder \n(if issued securities) \n \nN/A \nDate of change \nN/A \nNo. and class of securities to which \ninterest related prior to change \nNote: Details are only required for a contract in relation \nto which the interest has changed \n \nN/A \nInterest acquired \nN/A \nInterest disposed \nN/A \nValue/Consideration \nNote: If consideration is non-cash, provide details and an \nestimated valuation  \n \nN/A \nInterest after change \nN/A \n \nPart 3 – +Closed period \n \nWere the interests in the securities or contracts detailed \nabove traded during a +closed period where prior written \nclearance was required? \nNo \nIf so, was prior written clearance provided to allow the trade \nto proceed during this period? \nN/A \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n+ See chapter 19 for defined terms. \n \n01/01/2011 Appendix 3Y  Page 3 \n \nIf prior written clearance was provided, on what date was this \nprovided? \nN/A \n \n \n \nFor personal use only\n",
+    "text_sha256": "5949499a757d46f292a6ab1a6190eb56c6c4216d2c09f9f70b792fe6082f1c62",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/31/1c108eb3439b4f0b3d4f904eb40189fa.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "de8b7cd86dab",
+    "run_id": "30781292318"
+  }
+}

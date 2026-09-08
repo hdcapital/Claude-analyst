@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:fbaf308df7087a00661ec10d69bde709",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03119884",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-30T00:37:42Z",
+  "company": {
+    "ticker": "EQR",
+    "exchange_qualified": "ASX:EQR",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Application for quotation of securities - EQR",
+  "content": {
+    "text": "Appendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n1 / 6\nAnnouncement Summary\nEntity name\nEQ RESOURCES LIMITED\nAnnouncement Type\nNew announcement\nDate of this announcement\nThursday July 30, 2026\nThe +securities to be quoted are:\nTotal number of +securities to be quoted\nASX +security\ncode\nSecurity description\nNumber of +securities to\nbe quoted\nIssue date\nEQR\nORDINARY FULLY PAID\n1,258,410\n29/07/2026\nRefer to next page for full details of the announcement\n+Securities issued, transferred or re-classified as a result of options being exercised or other +convertible securities being\nconverted\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n2 / 6\nPart 1 - Entity and announcement details\n1.1 Name of entity\nEQ RESOURCES LIMITED\nWe (the entity named above) apply for +quotation of the following +securities and agree to the matters set out in Appendix\n2A of the ASX Listing Rules.\n1.2 Registered number type\nACN\nRegistration number\n115009106\n1.3 ASX issuer code\nEQR\n1.4 The announcement is\n1.5 Date of this announcement\n30/7/2026\nNew announcement\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n3 / 6\nPart 2 - Type of Issue\n2.1 The +securities to be quoted are:\n2.2 The +class of +securities to be quoted is:\nAdditional +securities in a class that is already quoted on ASX (\"existing class\")\n+Securities issued, transferred or re-classified as a result of options being exercised or other +convertible securities being\nconverted\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n4 / 6\nPart 3B - number and type of +securities to be quoted (existing class) where issue has not previously been notified to ASX in an\nAppendix 3B\nExisting +securities converting into additional +securities in an existing class\nFROM (Existing Class)\nASX +security code and description\nEQRAQ : OPTION EXPIRING 29-MAY-2027 EX $0.0675\nTO (Existing Class)\nASX +security code and description\nEQR : ORDINARY FULLY PAID\nPlease state the number of options\nthat were exercised or other\n+convertible securities that were\nconverted\n1,258,410\nThe first date the options were\nexercised or other +convertible\nsecurities were converted\n29/7/2026\nThe last date the options were\nexercised or other +convertible\nsecurities were converted\n29/7/2026\nIs this all of the options or other +convertible securities on issue of that type (ie have all of those options now been\nexercised or have all of those convertible securities now been converted)?\nThe right of the holder of the options or other +convertible securities to receive the +underlying securities is being\nsatisfied by:\nThe underlying +securities being received by the holder are:\nWere the options being exercised or other +convertible securities being converted issued under an +employee\nincentive scheme?\nIssue date\n29/7/2026\nWill the +securities to be quoted rank equally in all respects from their issue date with the existing issued\n+securities in that class?\nYes\nNo\nIntended to be, but are not yet, quoted by ASX\nAn issue of new +securities\nNo\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n5 / 6\nIssue details\nNumber of +securities to be quoted\n1,258,410\nAre the +securities being issued for a cash consideration?\nIn what currency is the cash consideration being paid?\nAUD - Australian Dollar\nWhat is the issue price per +security?\nAUD 0.06750000\nAny other information the entity wishes to provide about the +securities to be quoted\nYes\nYes\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n6 / 6\nPart 4 - Issued capital following quotation\nFollowing the quotation of the +securities the subject of this application, the issued capital of the entity will\ncomprise:\nThe figures in parts 4.1 and 4.2 below are automatically generated and may not reflect the entity's current issued capital if\nother Appendix 2A, Appendix 3G or Appendix 3H forms are currently with ASX for processing.\n4.1 Quoted +securities (total number of each +class of +securities quoted on ASX following the +quotation of the\n+securities subject of this application)\nASX +security code and description\nTotal number of\n+securities on issue\nEQR : ORDINARY FULLY PAID\n5,150,395,097\n4.2 Unquoted +securities (total number of each +class of +securities issued but not quoted on ASX)\nASX +security code and description\nTotal number of\n+securities on issue\nEQRAX : OPTION EXPIRING 22-MAR-2029 EX $0.15\n38,752,020\nEQRAZ : OPTION EXPIRING 03-MAR-2029 EX $0.35\n8,000,000\nEQRAY : PERFORMANCE RIGHTS\n23,290,000\nEQRAV : OPTION EXPIRING 27-NOV-2028 EX $0.05\n5,000,000\nEQRAB : OPTION EXPIRING 09-JAN-2029 EX $0.15\n65,672,980\nEQRAS : OPTION EXPIRING 29-NOV-2027 EX $0.07\n39,895,625\nEQRAQ : OPTION EXPIRING 29-MAY-2027 EX $0.0675\n135,971,091\nFor personal use only\n",
+    "text_sha256": "4d5b2e61eb053ad1c58409855224b8c79918a616267e989393f35eb68d154a1e",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/fbaf308df7087a00661ec10d69bde709.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30503152863"
+  }
+}

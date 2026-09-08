@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:d1a968ce364505d309dc5eb77e036109",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03119737",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-30T00:43:40Z",
+  "company": {
+    "ticker": "BTM",
+    "exchange_qualified": "ASX:BTM",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Application for quotation of securities - BTM",
+  "content": {
+    "text": "Appendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n1 / 6\nAnnouncement Summary\nEntity name\nBREAKTHROUGH MINERALS LIMITED\nAnnouncement Type\nNew announcement\nDate of this announcement\nThursday July 30, 2026\nThe +securities to be quoted are:\nTotal number of +securities to be quoted\nASX +security\ncode\nSecurity description\nNumber of +securities to\nbe quoted\nIssue date\nBTM\nORDINARY FULLY PAID\n882,352\n30/07/2026\nRefer to next page for full details of the announcement\n+Securities issued as part of a transaction or transactions previously announced to the market in an Appendix 3B\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n2 / 6\nPart 1 - Entity and announcement details\n1.1 Name of entity\nBREAKTHROUGH MINERALS LIMITED\nWe (the entity named above) apply for +quotation of the following +securities and agree to the matters set out in Appendix\n2A of the ASX Listing Rules.\n1.2 Registered number type\nABN\nRegistration number\n65124408751\n1.3 ASX issuer code\nBTM\n1.4 The announcement is\n1.5 Date of this announcement\n30/7/2026\nNew announcement\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n3 / 6\nPart 2 - Type of Issue\n2.1 The +securities to be quoted are:\nPrevious Appendix 3B details:\nAnnouncement Date and\nTime\n04-May-2026 09:33\nAnnouncement Title\nNew - Proposed issue of securities -\nBTM\nSelected Appendix 3B to submit quotation\nrequest\nA placement or other type of issue\n2.3a.2 Are there any further issues of +securities yet to take place to complete the transaction(s) referred to in the\nAppendix 3B?\nNo\n+Securities issued as part of a transaction or transactions previously announced to the market in an Appendix 3B\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n4 / 6\nPart 3A - number and type of +securities to be quoted where issue has previously been notified to ASX in an Appendix 3B\nPlacement Details\nASX +security code and description\nBTM : ORDINARY FULLY PAID\nIssue date\n30/7/2026\nDistribution Schedule\nProvide a distribution schedule for the new +securities according to the categories set out in the left hand column -\nincluding the number of recipients and the total percentage of the new +securities held by the recipients in each\ncategory.\nNumber of +securities held\nNumber of holders\nTotal percentage of +securities held\nFor example, to enter a value of 50%\nplease input as 50.00\n1 - 1,000\n \n%\n1,001 - 5,000\n \n%\n5,001 - 10,000\n \n%\n10,001 - 100,000\n \n%\n100,001 and over\n \n%\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n5 / 6\nIssue details\nNumber of +securities to be quoted\n882,352\nAre the +securities being issued for a cash consideration?\nIn what currency is the cash consideration being paid?\nAUD - Australian Dollar\nWhat is the issue price per +security?\nAUD 0.17000000\nAny other information the entity wishes to provide about the +securities to be quoted\nDirector participation in a Share Placement, which was approved by Shareholders on 28 July 2026.\nYes\nYes\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n6 / 6\nPart 4 - Issued capital following quotation\nFollowing the quotation of the +securities the subject of this application, the issued capital of the entity will\ncomprise:\nThe figures in parts 4.1 and 4.2 below are automatically generated and may not reflect the entity's current issued capital if\nother Appendix 2A, Appendix 3G or Appendix 3H forms are currently with ASX for processing.\n4.1 Quoted +securities (total number of each +class of +securities quoted on ASX following the +quotation of the\n+securities subject of this application)\nASX +security code and description\nTotal number of\n+securities on issue\nBTM : ORDINARY FULLY PAID\n194,898,144\n4.2 Unquoted +securities (total number of each +class of +securities issued but not quoted on ASX)\nASX +security code and description\nTotal number of\n+securities on issue\nBTMAC : PERFORMANCE RIGHTS\n22,807,230\nBTMAE : OPTION EXPIRING 12-MAY-2028 EX $0.35\n2,000,000\nBTMAD : OPTION EXPIRING 10-MAR-2029 EX $0.225\n5,000,000\nBTMAX : OPTION EXPIRING 19-DEC-2027 EX $0.10\n4,275,000\nBTMAA : OPTION EXPIRING 11-JUN-2028 EX $0.10\n1,000,000\nFor personal use only\n",
+    "text_sha256": "3a4de11fcd2f1e3f69373cd6503280c3b04af7cab7489eb29afdf13a237babdc",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/d1a968ce364505d309dc5eb77e036109.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30503152863"
+  }
+}

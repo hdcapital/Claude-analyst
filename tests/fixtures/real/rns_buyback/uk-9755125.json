@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9755125",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/river-uk-micro-cap-limited--rmmc/transaction-in-own-shares/9755125",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:52:20Z",
+  "company": {
+    "ticker": "RMMC",
+    "exchange_qualified": "LSE:RMMC",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Transaction in Own Shares",
+  "content": {
+    "text": "4 September 2026\n\nRiver UK Micro Cap Limited\n\nTransaction in Own Shares\n\nFurther to the confirmation of its intention to continue the share buyback programme, as set out in its announcement on 11 March 2026, the Company announces that on 3 September 2026 it purchased a total of 15,000 of its ordinary shares of no-par value each (\" Ordinary Shares \") at a price of 245.6 pence per Ordinary Share through Singer Capital Markets. The Ordinary Shares purchased will be held in treasury.\n\n\nAggregated information\n\nDate of purchase\n3 September 2026\nNumber of Ordinary Shares purchased\n15,000\nHighest price paid per Ordinary Share\n245.6 p\nLowest price paid per Ordinary Share\n245.6 p\nVolume weighted average price paid per Ordinary Share\n245.6 p\n\n\n\nTransaction details\n\nIn accordance with Article 5(1)(b) of Regulation (EU) No 596/2014 (the Market Abuse Regulation) (which forms part of domestic UK law pursuant to the European Union (Withdrawal) Act 2018) , a detailed breakdown of individual trades is available below:\n\nNumber of Ordinary Shares purchased\nTransaction price (GBP)\nTime of transaction\nTrading venue\n15,000\n2.456\n15:19:49\nXLON\n\n\nTotal voting rights\n\nFollowing the purchase, the Company's total issued share capital will consist of 33,897,954 Ordinary Shares each carrying one voting right , of which 1,670,613 Ordinary Shares are held in treasury. Therefore, the total number of Ordinary Shares carrying voting rights is 32,227,341. This figure may be used by shareholders as the denominator for the calculations by which they will determine if they are required to notify their interest in, or a change to their interest in, the Company under the FCA's Disclosure Guidance and Transparency Rules.\n\n- ENDS -\n\nFor further information please contact:\n\nRiver Global\n\nLucy Draper\nLucy.Draper@liontrust.com\nTel: +44 7702 799 117\n\n\n\n\n\n\nSinger Capital Markets\n\nJames Moat, Investment Banking\nTel: +44 20 7496 3000\n\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "439e4eb48706f214b5356a68c69ed3d197aaf9a5c8b6b1827ddf086938f9240c",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

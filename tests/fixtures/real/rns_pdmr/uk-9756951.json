@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9756951",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/natwest-group--nwg/director-pdmr-shareholding/9756951",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:48:19Z",
+  "company": {
+    "ticker": "NWG",
+    "exchange_qualified": "LSE:NWG",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Director/PDMR Shareholding",
+  "content": {
+    "text": "4 September 2026\nNatWest Group plc\n\n\nINITIAL NOTIFICATION OF TRANSACTIONS OF PERSONS DISCHARGING MANAGERIAL RESPONSIBILITY (PDMRs) IN ACCORDANCE WITH ARTICLE 19 OF THE UK MARKET ABUSE REGULATION\n\nNatWest Group plc (the Company) announces the PDMRs set out below have sold ordinary shares of £1.0769* each in the Company (Shares) (ISIN: GB00BM8PJY71 ) on the date and at the price indicated under, and in accordance with the terms of, the irrevocable trading plans entered into by the PDMRs, as announced on 5 August 2026:\n\nName of PDMR\nPosition of PDMR\nNo. of Shares sold\nSale price\nDate of transaction\nSolange Chamberlain\nCEO, Retail\n20,000\n£6.9023\n2 September 2026\nKatie Murray\nGroup Chief Financial Officer\n111,000\n£6.9023\n2 September 2026\nPaul Thwaite\nGroup Chief Executive Officer\n260,000\n£6.9023\n2 September 2026\n\nAll of the above transactions took place on the London Stock Exchange (XLON).\n\n* Note: the nominal value of ordinary shares without rounding is £1.076923076923077 per share\n\nLegal Entity Identifier: 2138005O9XJIJN4JPN90\n\nFor further information contact:\nNatWest Group Investor Relations Claire Kane Director of Investor Relations +44 20 7672 1758\n\nNatWest Group Media Relations\n+44(0)131 523 4205\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "34de4d21f8278c4fd7bde2a5002c20ef6330becf19c2f64080b44f1bf682eee1",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

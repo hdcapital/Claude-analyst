@@ -9,8 +9,8 @@ from . import (  # noqa: F401  (import for side-effect: registration)
     rns_buyback,
     rns_pdmr,
     rns_tr1,
-    us_13dg,
     us_8k,
+    us_13dg,
     us_form4,
 )
 from .base import get_parser, parser_names

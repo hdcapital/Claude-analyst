@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9752722",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/transaction-in-own-shares/9752722",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-03T21:54:03Z",
+  "company": {
+    "ticker": "BRGE",
+    "exchange_qualified": "LSE:BRGE",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Transaction in Own Shares",
+  "content": {
+    "text": "BlackRock Greater Europe Investment Trust plc (‘the Company’) LEI – 5493003R8FJ6I76ZUW55 Transaction in own shares: purchase of own shares to be held in treasury The Company announces that it has today purchased 13,791 of its Ordinary Shares at an average price of 593.91 pence per share to be held in treasury. Following settlement of this purchase on 04 September 2026 the issued share capital of the Company will be 89,681,668 Ordinary Shares, excluding 28,247,270 shares which are held in treasury. Shares held in treasury do not carry any voting rights; 23.95% of the Company’s total issued share capital (117,928,938 Ordinary Shares, including treasury shares) will be held in treasury following settlement. For reporting purposes under the FCA's Disclosure Guidance and Transparency Rules the market should exclude any shares held in treasury and should use the figure of 89,681,668 following settlement when determining if they are required to notify their interest in, or a change to their interest in the Company. All enquiries:\nWilliam Rowledge\nCompany Secretary BlackRock Investment Management (UK) Limited Tel: 0207 743 2284\n\n02 September 2026\n\n\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n6 hours ago Metro Bank Holdings PLC\n6 hours ago Ocado Group\n6 hours ago Derwent London\n6 hours ago Ninety One\n7 hours ago Aseana Properties Ltd.\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "4780da7e8fe1c881b5c0127ea292c5c9847393d49b6022e403d9584c57fa88b5",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33809647313"
+  }
+}

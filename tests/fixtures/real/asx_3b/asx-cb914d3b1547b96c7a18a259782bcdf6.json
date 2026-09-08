@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:cb914d3b1547b96c7a18a259782bcdf6",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03119880",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-30T00:37:50Z",
+  "company": {
+    "ticker": "LML",
+    "exchange_qualified": "ASX:LML",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Proposed issue of securities - LML",
+  "content": {
+    "text": "Appendix 3B - Proposed issue of securities\nAppendix 3B - Proposed issue of securities\n1 / 5\nAnnouncement Summary\nEntity name\nLINCOLN MINERALS LIMITED\nAnnouncement Type\nNew announcement\nDate of this announcement\n30/7/2026\nThe Proposed issue is:\nTotal number of +securities proposed to be issued for a placement or other type of issue\nASX +security code\n+Security description\nMaximum Number of\n+securities to be issued\nLML\nORDINARY FULLY PAID\n25,833,333\nProposed +issue date\n19/8/2026\nRefer to next page for full details of the announcement\nA placement or other type of issue\nFor personal use only\n\nAppendix 3B - Proposed issue of securities\nAppendix 3B - Proposed issue of securities\n2 / 5\nPart 1 - Entity and announcement details\n1.1 Name of +Entity\nLINCOLN MINERALS LIMITED\nWe (the entity named above) give ASX the following information about a proposed issue of +securities and, if ASX agrees\nto +quote any of the +securities (including any rights) on a +deferred settlement basis, we agree to the matters set out in\nAppendix 3B of the ASX Listing Rules.\nIf the +securities are being offered under a +disclosure document or +PDS and are intended to be quoted on ASX, we also\napply for quotation of all of the +securities that may be issued under the +disclosure document or +PDS on the terms set\nout in Appendix 2A of the ASX Listing Rules (on the understanding that once the final number of +securities issued under\nthe +disclosure document or +PDS is known, in accordance with Listing Rule 3.10.3C, we will complete and lodge with ASX\nan Appendix 2A online form notifying ASX of their issue and applying for their quotation).\n1.2 Registered Number Type\nABN\nRegistration Number\n50050117023\n1.3 ASX issuer code\nLML\n1.4 The announcement is\n1.5 Date of this announcement\n30/7/2026\n1.6 The Proposed issue is:\nA placement or other type of issue\nNew announcement\nFor personal use only\n\nAppendix 3B - Proposed issue of securities\nAppendix 3B - Proposed issue of securities\n3 / 5\nPart 7 - Details of proposed placement or other issue\nPart 7A - Conditions\n7A.1 Do any external approvals need to be obtained or other conditions satisfied before the placement or other\ntype of issue can proceed on an unconditional basis?\nPart 7B - Issue details\nIs the proposed security a 'New\nclass' (+securities in a class that is\nnot yet quoted or recorded by ASX)\nor an 'Existing class' (additional\nsecurities in a class that is already\nquoted or recorded by ASX)?\nWill the proposed issue of this\n+security include an offer of\nattaching +securities?\nDetails of +securities proposed to be issued\nASX +security code and description\nLML : ORDINARY FULLY PAID\nNumber of +securities proposed to be issued\n25,833,333\nOffer price details\nAre the +securities proposed to be issued being issued for a cash\nconsideration?\nPlease describe the consideration being provided for the +securities\nThe securities are being issued pursuant to an Introduction Agreement in connection with the Company's recent\nPlacement announced on 25 May 2026.\nPlease provide an estimate of the AUD equivalent of the consideration being provided for the +securities\n310,000.000000\nWill these +securities rank equally in all respects from their issue date with\nthe existing issued +securities in that class?\nYes\nNo\nNo\nExisting class\nNo\nFor personal use only\n\nAppendix 3B - Proposed issue of securities\nAppendix 3B - Proposed issue of securities\n4 / 5\nPart 7C - Timetable\n7C.1 Proposed +issue date\n19/8/2026\nPart 7D - Listing Rule requirements\n7D.1 Has the entity obtained, or is it obtaining, +security holder approval for the entire issue under listing rule 7.1?\n7D.1b Are any of the +securities proposed to be issued without +security holder approval using the entity's 15%\nplacement capacity under listing rule 7.1?\n7D.1b ( i ) How many +securities are proposed to be issued without security holder approval using the entity's 15%\nplacement capacity under listing rule 7.1?\n25,833,333\n7D.1c Are any of the +securities proposed to be issued without +security holder approval using the entity's\nadditional 10% placement capacity under listing rule 7.1A (if applicable)?\n7D.2 Is a party referred to in listing rule 10.11 participating in the proposed issue?\n7D.3 Will any of the +securities to be issued be +restricted securities for the purposes of the listing rules?\n7D.4 Will any of the +securities to be issued be subject to +voluntary escrow?\nPart 7E - Fees and expenses\n7E.1 Will there be a lead manager or broker to the proposed issue?\n7E.2 Is the proposed issue to be underwritten?\n7E.4 Details of any other material fees or costs to be incurred by the entity in connection with the proposed issue\nPart 7F - Further Information\n7F.01 The purpose(s) for which the entity is issuing the securities\nThe securities are being issued pursuant to an Introduction Agreement in connection with the Company's recent\nPlacement announced on 25 May 2026.\n7F.1 Will the entity be changing its dividend/distribution policy if the proposed issue proceeds?\n7F.2 Any other information the entity wishes to provide about the proposed issue\n7F.3 Any on-sale of the +securities proposed to be issued within 12 months of their date of issue will comply with\nthe secondary sale provisions in sections 707(3) and 1012C(6) of the Corporations Act by virtue of:\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nFor personal use only\n\nAppendix 3B - Proposed issue of securities\nAppendix 3B - Proposed issue of securities\n5 / 5\nThe publication of a cleansing notice under section 708A(5), 708AA(2)(f), 1012DA(5) or 1012DAA(2)(f)\nFor personal use only\n",
+    "text_sha256": "3741c811fce7b1296857dcf2b37224e9be47feae1064b17e49f9abb6b30f428b",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/cb914d3b1547b96c7a18a259782bcdf6.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30503152863"
+  }
+}

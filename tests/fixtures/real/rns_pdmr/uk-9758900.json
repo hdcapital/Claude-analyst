@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9758900",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/sirius-real-estate-ltd---sre/director-pdmr-shareholding/9758900",
+  "published_at": "2026-09-07T00:00:00",
+  "published_date": "2026-09-07",
+  "scraped_at": "2026-09-07T21:50:35Z",
+  "company": {
+    "ticker": "SRE",
+    "exchange_qualified": "LSE:SRE",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Director/PDMR Shareholding",
+  "content": {
+    "text": "SIRIUS REAL ESTATE LIMITED\n(Incorporated in Guernsey)\nCompany Number: 46442\nJSE Share Code: SRE\nLSE (GBP) Share Code: SRE\nLEI: 213800NURUF5W8QSK566\nISIN Code: GG00B1W3VF54\n​\n7 September 2026\nSirius Real Estate Limited\n\n(\" Sirius Real Estate \", \" Sirius \" or the \" Company \")\n\nNotification of a transaction by a Person Discharging Managerial Responsibilities (\"PDMR\")\nNotification and public disclosure of a transaction by a PDMR.\nNotification of dealing form\n1.\n1.\nDetails of PDMR\na)\nName\nJoanne Kenrick\n2.\nReason for the notification\n\n\n\na)\nPosition / status\nNon-Executive Director\nb)\nInitial notification / amendment\nInitial notification\n3.\nDetails of the issuer\na)\nName\nSirius Real Estate Limited\n\nb)\nLEI\n213800NURUF5W8QSK566\n4.\nDetails of the transaction(s): section to be repeated for (i) each type of\ninstrument; (ii) each type of transaction; (iii) each date; and (iv) each place where transactions have been conducted\na)\nDescription of the financial instrument, type of instrument\nOrdinary shares of no par value.\nb)\nIdentification code\nGG00B1W3VF54\nc)\nNature of the transaction\nPurchase of shares\n\nFollowing this transaction, Mrs Kenrick owns 31,699 shares, representing 0.0020% of the Company's issued share capital.\nd)\nPrice(s) and\nvolume(s)\nPrice(s)\n(p/GBP)\n\nVolume(s)\nTotal(s)\n(p/GBP)\n£0.9463\n31,699\n£30,000.00\n\ne)\nHighest price, lowest price and volume weighted average price\nHigh\n\nLow\nVWAP\n£0.9480\n£0.9460\n£0.9463\n\nf)\nDate of the transaction\n4 September 2026\ng)\nPlace of the transaction\nLondon Stock Exchange (XLON)\n\nh)\nNature and extent of interest in the transaction\nDirect, beneficial\ni)\nClearance to deal in these securities was obtained in accordance with the JSE Listings Requirements.\n\n\nFor further information:\n\nSirius Real Estate\nA J Gallagher\nGroup Company Secretary\n\n\n\n+44 (0) 20 3059 0821\n\n\nFTI Consulting (financial PR)\nRichard Sunderland\nEllie Smith\nSiriusRealEstate@fticonsulting.com\n\n+44 (0) 20 3727 1000\n\n\n\nJSE Sponsor\nPSG Capital\n\n\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Bunzl\n5 hours ago Diageo\n5 hours ago Diageo\n6 hours ago Alliance Witan\n6 hours ago Mitie Group\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "8d2b0823ef38914c6fa7293db49115c1955e15733ea09f366bb32083a0b2a5ce",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "34164278213"
+  }
+}

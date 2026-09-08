@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:d05075ba6d2dc85eefcf1ee51d664cdb",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03119897",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-30T00:37:09Z",
+  "company": {
+    "ticker": "FRS",
+    "exchange_qualified": "ASX:FRS",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change in substantial holding for ZNC",
+  "content": {
+    "text": " \n604 \n \n15 July 2001 \nForm 604   \nCorporations Act 2001 \nSection 671B \n \nNotice of change of interests of substantial holder \n \nTo Company Name/Scheme \nZenith Minerals Limited (Zenith) \n \nACN/ARSN \nACN 119 397 938 \n \n1. Details of substantial holder (1) \nName \nForrestania Resources Limited (Forrestania) \nACN/ARSN (if applicable) \nACN 647 899 698 \n \nThere was a change in the interests of the \n \nsubstantial holder on \n29 July 2026 \n  \nThe previous notice was given to the company on \n29 July 2026 \n \nThe previous notice was dated \n29 July 2026 \n \n \n2. Previous and present voting power \n \nThe total number of votes attached to all the voting shares in the company or voting interests in the scheme that the substantial holder or an associate (2) had a \nrelevant interest (3) in when last required, and when now required, to give a substantial holding notice to the company or scheme, are as follows: \n \nClass of securities (4) \nPrevious notice \nPresent notice \n \n \nPerson’s votes \nVoting power (5) \nPerson’s votes \nVoting power (5) \n \n \nFully paid ordinary shares in \nZenith (Shares) \n302,295,959 \n47.23% \n314,543,481 \n49.15% \n \n \n3. Changes in relevant interests \n \nParticulars of each change in, or change in the nature of, a relevant interest of the substantial holder or an associate in voting securities of the company or  \nscheme, since the substantial holder was last required to give a substantial holding notice to the company or scheme are as follows: \n \nDate of \nchange \nPerson \nwhose \nrelevant \ninterest \nchanged \nNature of \nchange (6) \nConsideration \ngiven in relation \nto change (7) \nClass and number of \nsecurities affected \nPerson’s votes \naffected \n \n \n29/7/26  \nForrestania \nAcquisition of relevant \ninterests in ordinary \nshares in Zenith as a \nresult of acceptances of \nthe takeover offers \nmade pursuant to the \nbidder’s statement \ndated 9 June 2026 and \nany replacements or \nsupplements to it \n(Offer). \n \n \nIn accordance \nwith the Offer \n12,247,522 Shares \n12,247,522 \n \n \nFor personal use only\n\n2 \n \n4. \nPresent relevant interests \nParticulars of each relevant interest of the substantial holder in voting securities after the change are as follows: \n \nHolder \nof \nrelevant \ninterest \nRegistered \nholder of \nsecurities \nPerson entitled \nto be registered \nas holder (8) \nNature of \nrelevant \ninterest (6) \nClass and \nnumber of \nsecurities \nPerson’s votes \n \n \nForrestania \nZenith \nshareholders to \nwhom the Offer \nwas made and \nwho have \naccepted the Offer \nSubject to the terms of the \nOffer, Forrestania \nForrestania has a \nrelevant interest under \nsection 608(1)(a) or \nsection 608(8) of the \nCorporations Act 2001 \n(Cth) (Corporations \nAct) pursuant to the \nacceptances of the \nOffer. \n \nThe shares which are \nthe subject of the \nacceptances have not \nyet been transferred \ninto the name \nForrestania. \n. \n256,229,476 Shares \n256,229,476 \n \n \nForrestania \nForrestania \nForrestania \nDirect holding \n58,314,005 shares \n58,314,005 \n \n5. Changes in association \nThe persons who have become associates (2) of, ceased to be associates of, or have changed the nature of their association (9) with, the substantial holder in \nrelation to voting interests in the company or scheme are as follows: \n \n \nName and ACN/ARSN (if applicable) \nNature of association \n \n \nNA \nNA \n \n \n \n \n \n \n \n \n \n \n6. Addresses \nThe addresses of persons named in this form are as follows: \n \n \nName \nAddress \n \n \nForrestania \nSuite 1, 295 Rokeby Road, Subiaco WA 6008 \n \n \nZenith \nSuite 3, 5 Ord Street, West Perth WA 6005 \n \n \nSignature \n \n \nprint name David Geraghty \ncapacity \nDirector \nsign here  \n \nDate    30 July 2026 \n \n \n \n \n \n \n \n \n \n \n \nFor personal use only\n",
+    "text_sha256": "93e4e30dde0a51bd321fbcea0ad1b5f27c18313a6a1cbe5ac8622459fed1cac5",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/d05075ba6d2dc85eefcf1ee51d664cdb.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30503152863"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:c685f0730ad863cc9336624ee4e1d4a7",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120065",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:02:46Z",
+  "company": {
+    "ticker": "SBR",
+    "exchange_qualified": "ASX:SBR",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Application for quotation of securities - SBR",
+  "content": {
+    "text": "Appendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n1 / 6\nAnnouncement Summary\nEntity name\nSABRE RESOURCES LIMITED\nAnnouncement Type\nNew announcement\nDate of this announcement\nThursday July 30, 2026\nThe +securities to be quoted are:\nTotal number of +securities to be quoted\nASX +security\ncode\nSecurity description\nNumber of +securities to\nbe quoted\nIssue date\nSBR\nORDINARY FULLY PAID\n240,000,000\n30/07/2026\nRefer to next page for full details of the announcement\n+Securities issued as part of a transaction or transactions previously announced to the market in an Appendix 3B\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n2 / 6\nPart 1 - Entity and announcement details\n1.1 Name of entity\nSABRE RESOURCES LIMITED\nWe (the entity named above) apply for +quotation of the following +securities and agree to the matters set out in Appendix\n2A of the ASX Listing Rules.\n1.2 Registered number type\nABN\nRegistration number\n68003043570\n1.3 ASX issuer code\nSBR\n1.4 The announcement is\n1.5 Date of this announcement\n30/7/2026\nNew announcement\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n3 / 6\nPart 2 - Type of Issue\n2.1 The +securities to be quoted are:\nPrevious Appendix 3B details:\nAnnouncement Date and\nTime\n27-Apr-2026 10:38\nAnnouncement Title\nNew - Proposed issue of securities -\nSBR\nSelected Appendix 3B to submit quotation\nrequest\nA placement or other type of issue\n2.3a.2 Are there any further issues of +securities yet to take place to complete the transaction(s) referred to in the\nAppendix 3B?\nNo\n+Securities issued as part of a transaction or transactions previously announced to the market in an Appendix 3B\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n4 / 6\nPart 3A - number and type of +securities to be quoted where issue has previously been notified to ASX in an Appendix 3B\nPlacement Details\nASX +security code and description\nSBR : ORDINARY FULLY PAID\nIssue date\n30/7/2026\nDistribution Schedule\nProvide a distribution schedule for the new +securities according to the categories set out in the left hand column -\nincluding the number of recipients and the total percentage of the new +securities held by the recipients in each\ncategory.\nNumber of +securities held\nNumber of holders\nTotal percentage of +securities held\nFor example, to enter a value of 50%\nplease input as 50.00\n1 - 1,000\n \n%\n1,001 - 5,000\n \n%\n5,001 - 10,000\n \n%\n10,001 - 100,000\n \n%\n100,001 and over\n \n%\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n5 / 6\nIssue details\nNumber of +securities to be quoted\n240,000,000\nAre the +securities being issued for a cash consideration?\nPlease describe the consideration being provided for the +securities\n100,000,000 in consideration for 80% of the issued capital in Brema Resources Pty Ltd \n140,000,000 in consideration for 80% of the issued capital in North Tennant Minerals Pty Ltd \nPlease provide an estimate (in AUD) of the value of the consideration being provided per +security for the\n+securities to be quoted\n1,440,000.000000\nAny other information the entity wishes to provide about the +securities to be quoted\nThe shares issued will be escrowed for a period of 12 months from the date of issue\nNo\nNo\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n6 / 6\nPart 4 - Issued capital following quotation\nFollowing the quotation of the +securities the subject of this application, the issued capital of the entity will\ncomprise:\nThe figures in parts 4.1 and 4.2 below are automatically generated and may not reflect the entity's current issued capital if\nother Appendix 2A, Appendix 3G or Appendix 3H forms are currently with ASX for processing.\n4.1 Quoted +securities (total number of each +class of +securities quoted on ASX following the +quotation of the\n+securities subject of this application)\nASX +security code and description\nTotal number of\n+securities on issue\nSBR : ORDINARY FULLY PAID\n914,461,933\nSBRO : OPTION EXPIRING 30-JUN-2030\n353,200,000\n4.2 Unquoted +securities (total number of each +class of +securities issued but not quoted on ASX)\nASX +security code and description\nTotal number of\n+securities on issue\nSBRAC : OPTION EXPIRING 24-OCT-2028 EX $0.05\n300,000\nFor personal use only\n",
+    "text_sha256": "f5516f5967a46b113a9469e45c7363754a2aaef8a5870e86c362c6194c8dafe4",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/c685f0730ad863cc9336624ee4e1d4a7.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

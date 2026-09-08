@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:6bd22eeefab5d302c17e1dd6f73d0df2",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120129",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T00:59:02Z",
+  "company": {
+    "ticker": "TGN",
+    "exchange_qualified": "ASX:TGN",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Becoming a substantial holder - Antelle",
+  "content": {
+    "text": "603    Page 1 of 2   15 July 2001 \n \n \n \nForm 603 \nCorporations Act 2001 \nSection 671B \nNotice of initial substantial holder \n \n \nTo  Company Name/Scheme \nTungsten Mining NL \nACN/ARSN \n152 084 403 \n \n \n1. Details of substantial holder (1) \nName \nAntelle Holding Limited \nACN/ARSN (if applicable) \n      \n \n \nThe holder became a substantial holder on \n24/07/2026 \n \n \n2. Details of voting power \nThe total number of votes attached to all the voting shares in the company or voting interests in the scheme that the substantial holder or \nan associate (2) had a relevant interest (3) in on the date the substantial holder became a substantial holder are as follows:  \nClass of securities (4)  \nNumber of securities  \nPerson's votes (5)  \nVoting power (6)  \nOrdinary Fully Paid \nShares \n107,077,500 \n107,077,500 \n7.67% \n      \n      \n      \n      \n \n \n3. Details of relevant interests  \nThe nature of the relevant interest the substantial holder or an associate had in the following voting securities on the date the substantial \nholder became a substantial holder are as follows:  \nHolder of relevant interest  \nNature of relevant interest (7)  \nClass and number of securities  \nAntelle Holding Limited \nBeneficial owner of shares \nregistered in the name of \nCiticorp Nominees Pty Ltd as \ncustodian \n107,077,500 Ordinary \n      \n      \n      \n \n \n4. Details of present registered holders  \nThe persons registered as holders of the securities referred to in paragraph 3 above are as follows:  \nHolder of relevant \ninterest \nRegistered holder of  \nsecurities \nPerson entitled to be  \nregistered as holder (8) \nClass and number of securities \nAntelle Holding \nLimited \nCiticorp Nominees \nPty Ltd \nCiticorp Nominees \nPty Ltd \n107,077,500 Ordinary \n      \n      \n      \n      \n \n \n5. Consideration  \nThe consideration paid for each relevant interest referred to in paragraph 3 above, and acquired in the four months prior to the day that the \nsubstantial holder became a substantial holder is as follows:  \nHolder of relevant  \ninterest \nDate of acquisition  \nConsideration (9)  \nClass and number of securities \n \n \nCash  \nNon-cash \n \nAntelle Holding \nLimited \n24/07/2026 \nAUD11,550,000 \n      55,000,000 Ordinary \n      \n      \n      \n            \nFor personal use only\n\n603    Page 2 of 2   15 July 2001 \n \n \n \n \n \n6. Associates \nThe reasons the persons named in paragraph 3 above are associates of the substantial holder are as follows: \nName and ACN/ARSN (if applicable)  \nNature of association  \n      \n      \n      \n      \n \n7. Addresses  \nThe addresses of persons named in this form are as follows: \nName  \nAddress  \nAntelle Holding Limited  \nNerine Chambers, Box 905, Road Town, Tortola, British Virgin \nIslands \n      \n      \n \n \nSignature \n \n \nprint name \nPeggy Tan \ncapacity \nManager/Contact Person \n \nsign here \n \ndate \n     /     /      \n \n \n \nDIRECTIONS  \n \n(1)  If there are a number of substantial holders with similar or related relevant interests (eg. a corporation and its related corporations, or the \nmanager and trustee of an equity trust), the names could be included in an annexure to the form. If the relevant interests of a group of \npersons are essentially similar, they may be referred to throughout the form as a specifically named group if the membership of each \ngroup, with the names and addresses of members is clearly set out in paragraph 7 of the form. \n(2)  See the definition of \"associate\" in section 9 of the Corporations Act 2001. \n(3)  See the definition of \"relevant interest\" in sections 608 and 671B(7) of the Corporations Act 2001. \n(4)  The voting shares of a company constitute one class unless divided into separate classes.  \n(5)  The total number of votes attached to all the voting shares in the company or voting interests in the scheme (if any) that the person or an \nassociate has a relevant interest in. \n(6)  The person's votes divided by the total votes in the body corporate or scheme multiplied by 100. \n(7)  Include details of:  \n \n(a)  \nany relevant agreement or other circumstances by which the relevant interest was acquired. If subsection 671B(4) applies, a copy of \nany document setting out the terms of any relevant agreement, and a statement by the person giving full and accurate details of any \ncontract, scheme or arrangement, must accompany this form, together with a written statement certifying this contract, scheme or \narrangement; and \n \n(b)  \nany qualification of the power of a person to exercise, control the exercise of, or influence the exercise of, the voting powers or \ndisposal of the securities to which the relevant interest relates (indicating clearly the particular securities to which the qualification \napplies). \n \nSee the definition of \"relevant agreement\" in section 9 of the Corporations Act 2001.  \n(8)  If the substantial holder is unable to determine the identity of the person ( eg. if the relevant interest arises because of an option) write \n\"unknown\".  \n(9)  Details of the consideration must include any and all benefits, money and other, that any person from whom a relevant interest was \nacquired has, or may, become entitled to receive in relation to that acquisition. Details must be included even if the benefit is conditional on \nthe happening or not of a contingency. Details must be included of any benefit paid on behalf of the substantial holder or its associate in \nrelation to the acquisitions, even if they are not paid directly to the person from whom the relevant interest was acquired. \n \n30         07         2026\nFor personal use only\n",
+    "text_sha256": "b5c9bdc67df50cc711b0e7249542363f78ae35ba8dedd666532cff0a66106b9f",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/6bd22eeefab5d302c17e1dd6f73d0df2.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

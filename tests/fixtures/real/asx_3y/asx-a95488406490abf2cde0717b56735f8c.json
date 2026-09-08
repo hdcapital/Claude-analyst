@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:a95488406490abf2cde0717b56735f8c",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03119596",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-30T00:49:19Z",
+  "company": {
+    "ticker": "FRS",
+    "exchange_qualified": "ASX:FRS",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Change of Director's Interest Notice - DG",
+  "content": {
+    "text": "Appendix 3Y \nChange of Director’s Interest Notice \n \n \n \n1 Refer to Part 2 – Change in Director’s Interest in Contracts  \n \n \nAppendix 3Y  Page 1 \n \nRule 3.19A.2 \nAppendix 3Y \n \nChange of Director’s Interest Notice \n \nInformation or documents not available now must be given to ASX as soon as available.  Information and \ndocuments given to ASX become ASX’s property and may be made public. \nIntroduced 30/09/01  Amended 01/01/11 \n \nName of entity Forrestania Resources Ltd \nABN 41 647 899 698 \n \nWe (the entity) give ASX the following information under listing rule 3.19A.2 and as agent for \nthe director for the purposes of section 205G of the Corporations Act.   \n \nName of Director \nDavid Geraghty \nDate of last notice \n13 July 2026 \n \nPart 1 - Change of director’s relevant interests in securities \nIn the case of a trust, this includes interests in the trust made available by the responsible entity of the trust \n \nNote: In the case of a company, interests which come within paragraph (i) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDirect or indirect interest \n(1)        Indirect \n(2)        Indirect \n(3)        Direct \n \nNature of indirect interest \n(including \nregistered \nholder) \nNote: Provide details of the circumstances \ngiving rise to the relevant interest. \n \n(1)        Mandarin Rock Pty Ltd (director and shareholder) \n(2)        Roologic Pty Ltd is a company controlled by the director’s \nspouse.  \n(3)        NA \nDate of change \n29 July 2026 \nNo. of securities held prior \nto change \n(1.1) \n41,125,000 Fully Paid Ordinary (FPO)1 \n(1.2) \n7,625,000 Performance Rights (PR) \n(1.3)       5,000,000 Unlisted options $0.50, exp.5/11/28 (FRSAT) \n \n(2.1)      23,918,458 FPO \n(2.2)        4,800,000 FRSAT \n  \n(3.1)           489,742 FPO \n \nClass \n(2.1)        FPO \nNumber acquired \n(2.1)        890,000 FPO \nNumber disposed \nNil \nFor personal use only\n\nAppendix 3Y \nChange of Director’s Interest Notice \n \n \n \n2 Refer to Part 2 – Change in Director’s Interest in Contracts  \n \n \nAppendix 3Y Page 2 \n \n \nValue/Consideration \nNote: If consideration is non-cash, provide \ndetails and estimated valuation \n \n$297,354 \nNo. of securities held after \nchange \n \n \n(1.1) \n41,125,000 Fully Paid Ordinary (FPO)1 \n(1.2) \n7,625,000 Performance Rights (PR) \n(1.4)       5,000,000 Unlisted options $0.50, exp.5/11/28 (FRSAT) \n \n(2.1)      24,808,458 FPO \n(2.3)         4,800,000 FRSAT \n \n(3.1)           489,742 FPO \n \nNature of change \nExample: \non-market \ntrade, \noff-market \ntrade, \nexercise \nof \noptions, \nissue \nof \nsecurities under dividend reinvestment \nplan, participation in buy-back \nOn market share purchases \n \nPart 2 – Change of director’s interests in contracts \n \nNote: In the case of a company, interests which come within paragraph (ii) of the definition of “notifiable interest of a director” should be \ndisclosed in this part. \n \nDetail of contract \n \nNature of interest \n \nName of registered holder \n(if issued securities) \n \nDate of change \n \nNo. and class of securities to \nwhich interest related prior to \nchange \nNote: Details are only required for a contract in \nrelation to which the interest has changed \n \n \nInterest acquired \n \nInterest disposed \n \nValue/Consideration \nNote: If consideration is non-cash, provide details \nand an estimated valuation  \n \n \nInterest after change \n \n \nPart 3 – +Closed period \nWere the interests in the securities or contracts detailed \nabove traded during a +closed period where prior written \nclearance was required? \nNo \nIf so, was prior written clearance provided to allow the \ntrade to proceed during this period? \nNA \nIf prior written clearance was provided, on what date was \nthis provided? \nNA \n \nFor personal use only\n",
+    "text_sha256": "bda82f6ed4173cdff33dad3a99c662a75c85d56c9b383ebfa1b7f7ba712cab67",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/a95488406490abf2cde0717b56735f8c.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30503152863"
+  }
+}

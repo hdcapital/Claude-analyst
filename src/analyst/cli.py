@@ -6,10 +6,15 @@ import logging
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
+from typing import TYPE_CHECKING
 
 import typer
 
 from .config import ConfigError, Settings, load_settings, load_settings_no_llm
+
+if TYPE_CHECKING:
+    from .company import CompanyFiles
+    from .db import Store
 from .logging_setup import setup_logging
 
 app = typer.Typer(help="Claude-analyst: investment research over the announcement lake")
@@ -27,7 +32,7 @@ def _settings(need_llm: bool) -> Settings:
         raise typer.Exit(2) from exc
 
 
-def _open_all(settings: Settings, need_llm: bool):
+def _open_all(settings: Settings, need_llm: bool) -> tuple:  # type: ignore[type-arg]
     from .adapter import LakeAdapter, LakeNotFound
     from .company import CompanyFiles
     from .db import Store
@@ -49,7 +54,7 @@ def _open_all(settings: Settings, need_llm: bool):
     return store, lake, router, companies, llm
 
 
-def _print_spend(store, settings: Settings) -> None:
+def _print_spend(store: Store, settings: Settings) -> None:
     total = store.total_spend_usd()
     today = store.spend_usd_on_day(datetime.utcnow().strftime("%Y-%m-%d"))
     typer.echo(
@@ -232,7 +237,7 @@ def company_diff(
     typer.echo(companies.diff_since(issuer_key, since))
 
 
-def _find_company(companies, ticker: str) -> Path | None:
+def _find_company(companies: CompanyFiles, ticker: str) -> Path | None:
     from .company import CompanyFiles
 
     assert isinstance(companies, CompanyFiles)

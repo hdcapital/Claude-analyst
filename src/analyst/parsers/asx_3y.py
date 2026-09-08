@@ -1,9 +1,22 @@
 """ASX Appendix 3Y — Change of Director's Interest Notice (PDF text).
 
-The form is a fixed template; PyMuPDF extraction preserves the label lines.
-We read director, date of change, securities acquired/disposed, consideration
-and the closing balance. Validation: a director name plus a date of change
-plus at least one quantitative field, else ``unparsed``.
+Real-fixture layout (PyMuPDF text): labels and values sit on separate lines,
+sometimes with template "Note:" lines between them, e.g.
+
+    Name of Director
+    GEOFFREY WILSON
+    ...
+    Date of change
+    4 September 2026
+    Number acquired
+    23,183 Ordinary Shares
+    Value/Consideration
+    Note: If consideration is non-cash, ...
+    $30,000.00
+
+So each field is read as "the first plausible value line within a short
+window after the label", skipping template noise. Validation: director name
+plus date of change plus at least one quantitative field.
 """
 
 from __future__ import annotations
@@ -11,18 +24,35 @@ from __future__ import annotations
 import re
 
 from ..models import Announcement, Fact, ParseResult
-from .base import find_after, parse_number, parsed, provenance, register, unparsed
+from .base import parse_number, parsed, provenance, register, unparsed
 
-_DIRECTOR = r"Name of Director\s*:?\s*\n?([^\n]{3,80})"
-_DATE_OF_CHANGE = r"Date of change\s*:?\s*\n?([^\n]{3,40})"
-_ACQUIRED = r"Number acquired\s*:?\s*\n?([^\n]{0,60})"
-_DISPOSED = r"Number disposed\s*:?\s*\n?([^\n]{0,60})"
-_VALUE = r"Value/Consideration[^\n]*\s*:?\s*\n?([^\n]{0,80})"
-_AFTER = r"No\.? of securities held after change\s*:?\s*\n?([^\n]{0,60})"
-_NATURE = r"Nature of change\s*:?\s*\n?([^\n]{0,160})"
+_NOISE_LINE = re.compile(
+    r"^(note:|\+ see chapter|rule \d|introduced |amended |in the case of|"
+    r"for personal use only|appendix 3y|change of director|part \d|contract|"
+    r"nature of |direct or indirect|interest acquired|were the|detail of|no\.? of securities$)",
+    re.IGNORECASE,
+)
+
+
+def _value_lines_after(text: str, label: str, max_lines: int = 6) -> tuple[list[str], int]:
+    m = re.search(label, text, re.IGNORECASE)
+    if not m:
+        return [], -1
+    lines = []
+    for line in text[m.end() : m.end() + 400].splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        if _NOISE_LINE.search(line):
+            continue
+        lines.append(line)
+        if len(lines) >= max_lines:
+            break
+    return lines, m.start()
+
 
 _DATE_PATTERNS = (
-    (re.compile(r"(\d{1,2})[/\-](\d{1,2})[/\-](\d{4})"), "dmy"),
+    (re.compile(r"(\d{1,2})[/.](\d{1,2})[/.](\d{4})"), "dmy"),
     (re.compile(r"(\d{4})-(\d{2})-(\d{2})"), "iso"),
     (
         re.compile(
@@ -60,50 +90,71 @@ def normalise_date(raw: str) -> str | None:
     return None
 
 
+def _first_number(lines: list[str]) -> float | None:
+    for line in lines:
+        if re.search(r"^nil\b", line, re.IGNORECASE):
+            return 0.0
+        if re.search(r"\d", line):
+            value = parse_number(line)
+            if value is not None:
+                return value
+    return None
+
+
+def _first_date(lines: list[str]) -> str | None:
+    for line in lines:
+        date = normalise_date(line)
+        if date:
+            return date
+    return None
+
+
+def _name_from(lines: list[str]) -> str | None:
+    for line in lines:
+        if re.search(r"[A-Za-z]{2}", line) and not re.match(r"^(date|nil|n/?a)\b", line, re.I):
+            return line.strip(" :").strip()
+    return None
+
+
 @register("asx_3y")
 def parse_asx_3y(ann: Announcement) -> ParseResult:
     text = ann.text
     if not text or len(text.strip()) < 100:
         return unparsed("no extractable text (image PDF?)")
 
-    director = find_after(text, _DIRECTOR)
-    date_of_change = find_after(text, _DATE_OF_CHANGE)
-    if director is None or date_of_change is None:
-        return unparsed("missing director name or date-of-change label")
-    director_name = director[0].strip().strip(":").strip()
-    change_date = normalise_date(date_of_change[0])
-    if not director_name or change_date is None:
-        return unparsed("director name or change date unreadable")
+    director_lines, director_offset = _value_lines_after(text, r"Name of Director", 3)
+    date_lines, _ = _value_lines_after(text, r"Date of change", 4)
+    director = _name_from(director_lines)
+    change_date = _first_date(date_lines)
+    if not director or not change_date:
+        return unparsed("director name or date-of-change not readable")
 
-    acquired = find_after(text, _ACQUIRED)
-    disposed = find_after(text, _DISPOSED)
-    value = find_after(text, _VALUE)
-    after = find_after(text, _AFTER)
-    nature = find_after(text, _NATURE)
+    acquired = _first_number(_value_lines_after(text, r"Number acquired", 4)[0])
+    disposed = _first_number(_value_lines_after(text, r"Number disposed", 4)[0])
+    value = _first_number(_value_lines_after(text, r"Value/?\s*Consideration", 5)[0])
+    after = _first_number(
+        _value_lines_after(text, r"No\.? of securities held after change", 4)[0]
+    )
+    interest_nature = _name_from(_value_lines_after(text, r"Direct or indirect interest", 2)[0])
 
-    n_acquired = parse_number(acquired[0]) if acquired else None
-    n_disposed = parse_number(disposed[0]) if disposed else None
-    n_value = parse_number(value[0]) if value else None
-    n_after = parse_number(after[0]) if after else None
-
-    if n_acquired is None and n_disposed is None and n_after is None:
+    if acquired is None and disposed is None and after is None:
         return unparsed("no quantitative fields readable")
 
     data = {
-        "director": director_name,
+        "director": director,
         "date_of_change": change_date,
-        "number_acquired": n_acquired,
-        "number_disposed": n_disposed,
-        "value_consideration": n_value,
-        "held_after_change": n_after,
-        "nature_of_change": nature[0].strip()[:160] if nature else None,
+        "number_acquired": acquired,
+        "number_disposed": disposed,
+        "value_consideration": value,
+        "held_after_change": after,
+        "direct_or_indirect": interest_nature,
     }
     return parsed(
         Fact(
             fact_type="director_interest_change",
             issuer_key=ann.issuer_key,
             data=data,
-            provenance=provenance(ann, f"chars {director[1]}-{(after or director)[1]}"),
+            provenance=provenance(ann, f"chars {director_offset}+ (form fields)"),
             parser="asx_3y",
             confidence="parsed",
         )

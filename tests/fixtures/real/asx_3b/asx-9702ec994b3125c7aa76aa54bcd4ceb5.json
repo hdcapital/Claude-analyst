@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:9702ec994b3125c7aa76aa54bcd4ceb5",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120476",
+  "published_at": "2026-07-31",
+  "published_date": "2026-07-31",
+  "scraped_at": "2026-07-31T00:39:44Z",
+  "company": {
+    "ticker": "BUR",
+    "exchange_qualified": "ASX:BUR",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Application for quotation of securities - BUR",
+  "content": {
+    "text": "Appendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n1 / 6\nAnnouncement Summary\nEntity name\nBURLEY MINERALS LTD\nAnnouncement Type\nNew announcement\nDate of this announcement\nFriday July 31, 2026\nThe +securities to be quoted are:\nTotal number of +securities to be quoted\nASX +security\ncode\nSecurity description\nNumber of +securities to\nbe quoted\nIssue date\nBUR\nORDINARY FULLY PAID\n3,478,261\n31/07/2026\nRefer to next page for full details of the announcement\n+Securities issued as part of a transaction or transactions previously announced to the market in an Appendix 3B\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n2 / 6\nPart 1 - Entity and announcement details\n1.1 Name of entity\nBURLEY MINERALS LTD\nWe (the entity named above) apply for +quotation of the following +securities and agree to the matters set out in Appendix\n2A of the ASX Listing Rules.\n1.2 Registered number type\nABN\nRegistration number\n44645324992\n1.3 ASX issuer code\nBUR\n1.4 The announcement is\n1.5 Date of this announcement\n31/7/2026\nNew announcement\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n3 / 6\nPart 2 - Type of Issue\n2.1 The +securities to be quoted are:\nPrevious Appendix 3B details:\nAnnouncement Date and\nTime\n15-May-2026 17:02\nAnnouncement Title\nUpdate - Update - Proposed issue of\nsecurities - BUR\nSelected Appendix 3B to submit quotation\nrequest\nA placement or other type of issue\n2.3a.2 Are there any further issues of +securities yet to take place to complete the transaction(s) referred to in the\nAppendix 3B?\nNo\n+Securities issued as part of a transaction or transactions previously announced to the market in an Appendix 3B\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n4 / 6\nPart 3A - number and type of +securities to be quoted where issue has previously been notified to ASX in an Appendix 3B\nPlacement Details\nASX +security code and description\nBUR : ORDINARY FULLY PAID\nIssue date\n31/7/2026\nDistribution Schedule\nProvide a distribution schedule for the new +securities according to the categories set out in the left hand column -\nincluding the number of recipients and the total percentage of the new +securities held by the recipients in each\ncategory.\nNumber of +securities held\nNumber of holders\nTotal percentage of +securities held\nFor example, to enter a value of 50%\nplease input as 50.00\n1 - 1,000\n \n%\n1,001 - 5,000\n \n%\n5,001 - 10,000\n \n%\n10,001 - 100,000\n \n%\n100,001 and over\n \n%\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n5 / 6\nIssue details\nNumber of +securities to be quoted\n3,478,261\nAre the +securities being issued for a cash consideration?\nIn what currency is the cash consideration being paid?\nAUD - Australian Dollar\nWhat is the issue price per +security?\nAUD 0.02300000\nAny other information the entity wishes to provide about the +securities to be quoted\nYes\nYes\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n6 / 6\nPart 4 - Issued capital following quotation\nFollowing the quotation of the +securities the subject of this application, the issued capital of the entity will\ncomprise:\nThe figures in parts 4.1 and 4.2 below are automatically generated and may not reflect the entity's current issued capital if\nother Appendix 2A, Appendix 3G or Appendix 3H forms are currently with ASX for processing.\n4.1 Quoted +securities (total number of each +class of +securities quoted on ASX following the +quotation of the\n+securities subject of this application)\nASX +security code and description\nTotal number of\n+securities on issue\nBUR : ORDINARY FULLY PAID\n228,250,867\n4.2 Unquoted +securities (total number of each +class of +securities issued but not quoted on ASX)\nASX +security code and description\nTotal number of\n+securities on issue\nBURAI : OPTION EXPIRING 30-AUG-2027 EX $0.1927\n7,166,667\nBURAH : OPTION EXPIRING 30-AUG-2027 EX $0.10\n2,500,000\nBURAF : PERFORMANCE RIGHTS\n3,500,000\nFor personal use only\n",
+    "text_sha256": "accb3bc9c81605138671d9cb08ad6bb3a013fb28b988e4c627aa705bb7b12c85",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/31/9702ec994b3125c7aa76aa54bcd4ceb5.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

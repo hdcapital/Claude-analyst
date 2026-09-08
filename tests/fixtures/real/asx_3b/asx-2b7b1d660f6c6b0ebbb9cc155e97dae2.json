@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:2b7b1d660f6c6b0ebbb9cc155e97dae2",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03120430",
+  "published_at": "2026-07-31",
+  "published_date": "2026-07-31",
+  "scraped_at": "2026-07-31T00:42:24Z",
+  "company": {
+    "ticker": "SNC",
+    "exchange_qualified": "ASX:SNC",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Application for quotation of securities - SNC",
+  "content": {
+    "text": "Appendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n1 / 6\nAnnouncement Summary\nEntity name\nSANDON CAPITAL INVESTMENTS LIMITED\nAnnouncement Type\nNew announcement\nDate of this announcement\nFriday July 31, 2026\nThe +securities to be quoted are:\nTotal number of +securities to be quoted\nASX +security\ncode\nSecurity description\nNumber of +securities to\nbe quoted\nIssue date\nSNC\nORDINARY FULLY PAID\n226,555\n31/07/2026\nRefer to next page for full details of the announcement\n+Securities issued under a +dividend or distribution plan\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n2 / 6\nPart 1 - Entity and announcement details\n1.1 Name of entity\nSANDON CAPITAL INVESTMENTS LIMITED\nWe (the entity named above) apply for +quotation of the following +securities and agree to the matters set out in Appendix\n2A of the ASX Listing Rules.\n1.2 Registered number type\nACN\nRegistration number\n107772467\n1.3 ASX issuer code\nSNC\n1.4 The announcement is\n1.5 Date of this announcement\n31/7/2026\nNew announcement\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n3 / 6\nPart 2 - Type of Issue\n2.1 The +securities to be quoted are:\n2.2 The +class of +securities to be quoted is:\n2.3b.1 Date of Appendix 3A.1 lodged with ASX in relation to the underlying +dividend or distribution\n3/7/2026\nAdditional +securities in a class that is already quoted on ASX (\"existing class\")\n+Securities issued under a +dividend or distribution plan\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n4 / 6\nPart 3B - number and type of +securities to be quoted (existing class) where issue has not previously been notified to ASX in an\nAppendix 3B\nAdditional +securities to be quoted in an existing class issued under a +dividend or distribution plan\nASX +security code and description\nSNC : ORDINARY FULLY PAID\nIssue date\n31/7/2026\nWill the +securities to be quoted rank equally in all respects from their issue date with the\nexisting issued +securities in that class?\nIssue details\nNumber of +securities to be quoted\n226,555\nAre the +securities being issued for a cash consideration?\nIn what currency is the cash consideration being paid?\nAUD - Australian Dollar\nWhat is the issue price per +security?\nAUD 0.69860000\nAny other information the entity wishes to provide about the +securities to be quoted\nYes\nYes\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n5 / 6\nPart 4 - Issued capital following quotation\nFollowing the quotation of the +securities the subject of this application, the issued capital of the entity will\ncomprise:\nThe figures in parts 4.1 and 4.2 below are automatically generated and may not reflect the entity's current issued capital if\nother Appendix 2A, Appendix 3G or Appendix 3H forms are currently with ASX for processing.\n4.1 Quoted +securities (total number of each +class of +securities quoted on ASX following the +quotation of the\n+securities subject of this application)\nASX +security code and description\nTotal number of\n+securities on issue\nSNCHA : BOND 8.50% 10-07-30 MTH SUB RED\n328,539\nSNC : ORDINARY FULLY PAID\n155,127,799\n4.2 Unquoted +securities (total number of each +class of +securities issued but not quoted on ASX)\nASX +security code and description\nTotal number of\n+securities on issue\nFor personal use only\n\nAppendix 2A - Application for quotation of securities\nAppendix 2A - Application for quotation of securities\n6 / 6\nPart 5 - Other Listing Rule requirements\n5.1 Are the +securities being issued under an exception in Listing Rule 7.2 and therefore the\nissue does not need any security holder approval under Listing Rule 7.1?\n5.1a Select the number of the applicable exception in Listing Rule 7.2\n4\n5.1a.1 Does the +dividend or distribution plan meet the requirement of listing rule 7.2 exception\n4 that it does not impose a limit on participation?\nYes\nYes\nFor personal use only\n",
+    "text_sha256": "da0bb3811d79595a6d3140383969475f6b54bd7f3fa299c4fc16ee3a65f2d828",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/31/2b7b1d660f6c6b0ebbb9cc155e97dae2.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "asx:2bb1764a1d62b787e418e4df4c918a39",
+  "market": "asx",
+  "source": "asx-announcements",
+  "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03119929",
+  "published_at": "2026-07-30",
+  "published_date": "2026-07-30",
+  "scraped_at": "2026-07-31T01:09:36Z",
+  "company": {
+    "ticker": "DCC",
+    "exchange_qualified": "ASX:DCC",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Ceasing to be a substantial holder",
+  "content": {
+    "text": "605 \nForm 605 \nNotice of ceasing to be a substantial holder \nCorporations Act 2001  Section 671B \n1.  Details of substantial holder (1) \nName \n210K Capital, LP \nUTXO Management GP, LLC \n(named jointly as substantial holders) \nACN/ARSN (if applicable) \n210K Capital, LP — N/A (Delaware limited partnership) \nUTXO Management GP, LLC — N/A (Tennessee LLC) \nCompany / scheme: DigitalX Limited (ACN 009 575 035) — Ordinary fully paid shares  (ASX: DCC   ISIN: \nAU000000DCC9) \nThe holders ceased to be substantial holders on 15 July 2026 \nThe previous notice was given to the company and dated on July 29, 2026 \n2.  Changes in relevant interests \nParticulars of each change in, or change in the nature of, a relevant interest of the substantial holder or an associate \nin voting securities of the company, since the substantial holder was last required to give a substantial holding \nnotice, are as follows: \nDate of \nchange \nPerson whose \nrelevant interest \nchanged \nNature of change \n(6) \nConsideration given in \nrelation to change (7) \nClass and number \nof securities \naffected \nPerson's votes \naffected \n13 Jul 2026 210K Capital, LP \nOn-market disposal \n(sale) \nAUD 500,000.00 (AUD \n0.0250/sh) \n20,000,000 ordinary \nshares \n20,000,000 \n14 Jul 2026 210K Capital, LP \nOn-market disposal \n(sale) \nAUD 38,261.28 (AUD \n0.0250/sh) \n1,530,451 ordinary \nshares \n1,530,451 \n15 Jul 2026 210K Capital, LP \nOn-market disposal \n(sale) \nAUD 500,000.00 (AUD \n0.0250/sh) \n20,000,000 ordinary \nshares \n20,000,000 \n3.  Changes in association \nThere has been no change in the association of the substantial holders during the relevant period. The substantial \nholders were 210K Capital, LP and its general partner UTXO Management GP, LLC throughout. \n4.  Addresses \nName \nAddress \n210K Capital, LP \n501 Union St, Ste 545, PMB 871954, Nashville, Tennessee 37219, USA \nUTXO Management GP, LLC \n(Tennessee LLC) \n501 Union St, Ste 545, PMB 871954, Nashville, Tennessee 37219, USA \nSignature ________________________________     date: July 29, 2026 \nprint name: Daniel Hinton      \ncapacity: Authorized Manager of UTXO Management GP, LLC (general partner and investment adviser of 210K \nCapital, LP) \nFor personal use only\n",
+    "text_sha256": "1433c8d30f7738d2cd38d3f818a0af9cff523bb3dea718618b725bd52a92fd86",
+    "extraction": "pdf-pymupdf",
+    "raw_key": "market-data/documents/asx/2026/07/30/2bb1764a1d62b787e418e4df4c918a39.pdf",
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "asx_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "2190ef33845e",
+    "run_id": "30593989116"
+  }
+}

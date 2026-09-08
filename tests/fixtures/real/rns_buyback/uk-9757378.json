@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "doc_id": "uk:9757378",
+  "market": "uk",
+  "source": "investegate-rns",
+  "url": "https://www.investegate.co.uk/announcement/rns/the-global-smaller-companies-trust--gsct/transaction-in-own-shares/9757378",
+  "published_at": "2026-09-04T00:00:00",
+  "published_date": "2026-09-04",
+  "scraped_at": "2026-09-04T21:46:20Z",
+  "company": {
+    "ticker": "GSCT",
+    "exchange_qualified": "LSE:GSCT",
+    "name": null,
+    "cik": null
+  },
+  "doc_type": "announcement",
+  "form": null,
+  "title": "Transaction in Own Shares",
+  "content": {
+    "text": "04 September 2026\n\nTHE GLOBAL SMALLER COMPANIES TRUST PLC\n\nLEI: 2138008RRULYQP8VP386\n\n\nTRANSACTION IN OWN SHARES\nInformation disclosed in accordance with the Financial Conduct Authority's UK Listing Rule 9.6.6\n\nThe Global Smaller Companies Trust plc (the ' Company ') announces that today it has purchased the following number of its ordinary shares of 2.5 pence each on the London Stock Exchange through Investec Bank plc, to be held in treasury.\n\nDate of purchase:\n04 September 2026\nNumber of ordinary shares purchased:\n200,000\nLowest price per share:\n192.20p\nHighest price per share:\n192.20p\nWeighted average price paid:\n192.20p\n\nFollowing the above transaction, the Company holds 209,940,308 of its ordinary shares in treasury and has 410,593,462 ordinary shares in issue (excluding treasury shares).\n\nTherefore, the total number of voting rights in the Company is now 410,593,462.  This figure may be used by shareholders as the denominator for the calculations by which they will determine if they are required to notify their interest in, or a change to their interest in, the Company under the Financial Conduct Authority's Disclosure Guidance and Transparency Rules.\n\n\nName of contact and telephone number for enquiries:\n\n\nIan Ridge\nFor and on behalf of\nColumbia Threadneedle Investment Business Limited,\nCompany Secretary\nTelephone: 0 20 7464 5000\nThe content you are viewing has been generated or assisted by artificial intelligence (AI). While efforts are made to ensure accuracy and clarity, AI-generated text may contain inaccuracies, outdated information, or subjective interpretations. This content is intended for general informational purposes only and should not be considered professional advice or factual confirmation.\nWe encourage you to independently verify any information provided, especially if it will be relied upon for making decisions or taking action. Any reliance you place on this material is strictly at your own risk. The AI system that produced this content cannot assess the specifics of individual circumstances, and results may vary based on context and individual needs.\n5 hours ago Ondo Insurtech\n5 hours ago Ondo Insurtech\n5 hours ago Sunbelt Rentals Holdings, Inc.\n6 hours ago Savannah Energy\n6 hours ago Savills\nAll intraday prices are subject to a delay of fifteen (15) minutes.\nInvestegate takes no responsibility for the accuracy of the information within this site.\nThe announcements are supplied by the denoted source. Queries about the content of an announcement should be directed to the source. Investegate reserves the right to publish a filtered set of announcements. NAV, EMM/EPT, Rule 8 and FRN Variable Rate Fix announcements are filtered from this site.\nStockomendation\nUK Share Picking Game\n*A Private Investor is a recipient of the information who meets all of the conditions set out below, the recipient:\nObtains access to the information in a personal capacity;\nIs not required to be regulated or supervised by a body concerned with the regulation or supervision of investment or financial services;\nIs not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body;\nDoes not currently act in any capacity as an investment adviser, whether or not they have at some time been qualified to do so;\nUses the information solely in relation to the management of their personal funds and not as a trader to the public or for the investment of corporate funds;\nDoes not distribute, republish or otherwise provide any information or derived works to any third party in any manner or use or process information or derived works for any commercial purposes.\nPlease note, this site uses cookies. Some of the cookies are essential for parts of the site to operate and have already been set. You may delete and block all cookies from this site, but if you do, parts of the site may not work. To find out more about the cookies used on Investegate and how you can manage them, see our Privacy and Cookie Policy\nTo continue using Investegate, please confirm that you are a private investor as well as agreeing to our Privacy and Cookie Policy & Terms .\nCreate your FREE account to receive personalised announcements, watchlists, market updates, investment insights and new features.\nTell us a little about yourself to receive personalised content, announcements and relevant investment opportunities.",
+    "text_sha256": "82dfb5377d5e47768ebd48a66252b08cf3ba5ef295fcef4421ec117787b1e5b1",
+    "extraction": "html",
+    "raw_key": null,
+    "truncated": false
+  },
+  "flags": {
+    "is_admin_noise": true,
+    "noise_rule": "uk_admin_regex"
+  },
+  "scraper": {
+    "repo": "market-ingestion",
+    "version": "db1ec20381cd",
+    "run_id": "33922517605"
+  }
+}

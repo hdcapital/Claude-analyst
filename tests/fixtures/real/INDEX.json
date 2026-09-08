@@ -1,0 +1,14 @@
+{
+  "collected_at": "2026-09-08T09:06:04.111461+00:00",
+  "mirror": "/home/user/Claude-analyst/_lake_mirror",
+  "counts": {
+    "asx_quarterly": 25,
+    "asx_3b": 25,
+    "asx_substantial": 25,
+    "asx_3y": 25,
+    "rns_buyback": 25,
+    "rns_pdmr": 25,
+    "rns_tr1": 25,
+    "us_8k": 25
+  }
+}
