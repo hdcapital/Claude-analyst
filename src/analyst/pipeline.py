@@ -37,12 +37,18 @@ def situation_id_for(doc_id: str) -> str:
 
 def summarise_fact(fact_type: str, data: dict[str, Any]) -> str:
     """One-line rendering of a fact for the company file's time series."""
-    interesting = {
-        k: v
-        for k, v in data.items()
-        if v not in (None, "", []) and k not in ("url", "is_admin_noise", "delta_preview")
-    }
-    parts = [f"{k}={v}" for k, v in list(interesting.items())[:8]]
+    parts: list[str] = []
+    for key, value in data.items():
+        if value in (None, "", []) or key in ("url", "is_admin_noise", "delta_preview"):
+            continue
+        if isinstance(value, list):
+            parts.append(f"{key}[{len(value)}]")
+        elif isinstance(value, dict):
+            parts.append(f"{key}({len(value)})")
+        else:
+            parts.append(f"{key}={value}")
+        if len(parts) >= 8:
+            break
     return f"{fact_type}: " + ", ".join(parts) if parts else fact_type
 
 

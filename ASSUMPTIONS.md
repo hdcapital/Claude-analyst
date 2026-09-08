@@ -50,9 +50,16 @@ raw_key, truncated}, flags {is_admin_noise, noise_rule}.
 one-line config change.
 
 **US ingest scope.** The US adapter stores a curated in-scope form set
-(~180-200 filings/day, e.g. 8-K/4/13D/13G/10-Q...), not the full EDGAR
-firehose. Verified by querying the lake: September 2026 month-to-date holds
-~888 US documents.
+(`US_FORMS`: 8-K/10-K/10-Q + amendments, SC TO-I/TO-T, SC 14D9, SC 13D and
+13D/A, SC 13E3, 25/25-NSE, 15-12B/15-12G — ~180-200 filings/day), not the
+full EDGAR firehose. Verified by querying the lake: September 2026
+month-to-date holds ~888 US documents. **Form 4 and SC 13G are deliberately
+excluded** from the production lake; real Form 4 fixtures for the parser
+were harvested by running the unmodified ingester in `--dry-run` mode with
+`US_FORMS` widened (S3 untouched). SC 13x filings are genuinely rare in the
+curated set (1 across 8 exported days), so 13D/G parser fixtures depend on
+the same dry-run harvest, which intermittently fails when SEC 403-blocks
+GitHub's runner IPs.
 
 **Form 4 text shape.** The lake stores full-submission text with all
 SGML/HTML/XML *tags stripped* (`us_scraper.strip_sgml_noise`), so Form 4 XML
