@@ -302,6 +302,7 @@ class Pipeline:
         try:
             self._run_triage(ai_queue, report, realtime)
         except BudgetExceeded as exc:
+            # realtime path raises; batch paths stop internally and set the flag
             log.error("budget cap hit — stopping model calls cleanly: %s", exc)
             report.budget_stopped = True
         report.spend_usd = self.store.total_spend_usd()
@@ -328,9 +329,12 @@ class Pipeline:
             )
 
         if realtime:
-            verdicts = {a.doc_id: stage1.triage_realtime(a) for a in prepared}
+            verdicts: dict[str, TriageVerdict | None] = {
+                a.doc_id: stage1.triage_realtime(a) for a in prepared
+            }
         else:
-            verdicts = stage1.triage_batch(prepared)
+            verdicts, stage1_stopped = stage1.triage_batch(prepared)
+            report.budget_stopped = report.budget_stopped or stage1_stopped
 
         by_id = {a.doc_id: a for a, _ in ai_queue}
         stage2_queue: list[tuple[Announcement, str]] = []
@@ -355,13 +359,16 @@ class Pipeline:
         if not stage2_queue:
             return
         if realtime:
-            assessments = {
+            assessments: dict[str, dict[str, Any] | None] = {
                 ann.doc_id: stage2.assess_realtime(ann, cf) for ann, cf in stage2_queue
             }
         else:
-            assessments = stage2.assess_batch(stage2_queue)
+            assessments, stage2_stopped = stage2.assess_batch(stage2_queue)
+            report.budget_stopped = report.budget_stopped or stage2_stopped
         for ann, _cf in stage2_queue:
-            assessment = assessments.get(ann.doc_id)
+            if ann.doc_id not in assessments:
+                continue  # never submitted (budget stop) — stays unprocessed
+            assessment = assessments[ann.doc_id]
             if assessment is not None:
                 self._record_stage2(ann, assessment, self.llm.deep_model)
                 report.stage2_done += 1

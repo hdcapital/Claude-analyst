@@ -100,26 +100,38 @@ class Stage2Assessor:
             return None
 
     def assess_batch(
-        self, items: list[tuple[Announcement, str]]
-    ) -> dict[str, dict[str, Any] | None]:
+        self, items: list[tuple[Announcement, str]], chunk_size: int = 40
+    ) -> tuple[dict[str, dict[str, Any] | None], bool]:
+        """Returns (assessments, budget_stopped); docs absent from the dict
+        were never assessed (budget stop) and stay unprocessed for re-runs."""
         if not items:
-            return {}
-        requests = [
-            {"custom_id": ann.doc_id, "params": self._params(ann, company_file)}
-            for ann, company_file in items
-        ]
-        responses = self.llm.run_batch(
-            model=self.llm.deep_model, requests=requests, purpose="triage2"
-        )
+            return {}, False
+        from ..llm import BudgetExceeded
+
         out: dict[str, dict[str, Any] | None] = {}
-        for ann, _ in items:
-            resp = responses.get(ann.doc_id)
-            if resp is None:
-                out[ann.doc_id] = None
-                continue
+        budget_stopped = False
+        for start in range(0, len(items), chunk_size):
+            chunk = items[start : start + chunk_size]
+            requests = [
+                {"custom_id": ann.doc_id, "params": self._params(ann, company_file)}
+                for ann, company_file in chunk
+            ]
             try:
-                out[ann.doc_id] = validate_assessment(resp.text)
-            except Stage2Invalid as exc:
-                log.warning("stage2 invalid for %s: %s", ann.doc_id, exc)
-                out[ann.doc_id] = None
-        return out
+                responses = self.llm.run_batch(
+                    model=self.llm.deep_model, requests=requests, purpose="triage2"
+                )
+            except BudgetExceeded as exc:
+                log.warning("stage2 budget stop after %d assessments: %s", len(out), exc)
+                budget_stopped = True
+                break
+            for ann, _ in chunk:
+                resp = responses.get(ann.doc_id)
+                if resp is None:
+                    out[ann.doc_id] = None
+                    continue
+                try:
+                    out[ann.doc_id] = validate_assessment(resp.text)
+                except Stage2Invalid as exc:
+                    log.warning("stage2 invalid for %s: %s", ann.doc_id, exc)
+                    out[ann.doc_id] = None
+        return out, budget_stopped

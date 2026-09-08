@@ -114,34 +114,51 @@ class Stage1Triage:
             log.info("stage1 retry %d for %s", attempt, ann.doc_id)
         return None
 
-    def triage_batch(self, anns: list[Announcement]) -> dict[str, TriageVerdict | None]:
-        """Batch the whole set; retry invalid ones once in a second batch.
+    def triage_batch(
+        self, anns: list[Announcement], chunk_size: int = 250
+    ) -> tuple[dict[str, TriageVerdict | None], bool]:
+        """Batch the set in chunks; retry invalid ones once in a second batch.
 
-        Result maps doc_id -> verdict (None = escalate to Stage 2).
+        Chunking matters for the budget gate: it estimates a worst-case
+        ceiling per batch, so one huge batch could be refused outright while
+        chunked submission lets actual (much lower) spend accrue and stops
+        cleanly at the cap after finishing the affordable chunks.
+
+        Returns (results, budget_stopped). ``results`` maps doc_id -> verdict
+        (None = escalate to Stage 2); docs absent from it were never triaged
+        (budget stop) and stay unprocessed for the next run.
         """
         if not anns:
-            return {}
+            return {}, False
+        from ..llm import BudgetExceeded
+
         model = self.llm.triage_model
-        by_id = {a.doc_id: a for a in anns}
-        results: dict[str, TriageVerdict | None] = dict.fromkeys(by_id, None)
+        results: dict[str, TriageVerdict | None] = {}
+        budget_stopped = False
 
         pending = list(anns)
         for round_no in (1, 2):
-            if not pending:
+            if not pending or budget_stopped:
                 break
-            requests = [
-                {"custom_id": a.doc_id, "params": self._params(a)} for a in pending
-            ]
-            responses = self.llm.run_batch(model=model, requests=requests, purpose="triage1")
             next_pending: list[Announcement] = []
-            for ann in pending:
-                resp = responses.get(ann.doc_id)
-                verdict = self._to_verdict(ann, resp) if resp is not None else None
-                if verdict is not None:
-                    results[ann.doc_id] = verdict
-                else:
-                    next_pending.append(ann)
+            for start in range(0, len(pending), chunk_size):
+                chunk = pending[start : start + chunk_size]
+                requests = [{"custom_id": a.doc_id, "params": self._params(a)} for a in chunk]
+                try:
+                    responses = self.llm.run_batch(model=model, requests=requests, purpose="triage1")
+                except BudgetExceeded as exc:
+                    log.warning("stage1 budget stop after %d verdicts: %s", len(results), exc)
+                    budget_stopped = True
+                    break
+                for ann in chunk:
+                    resp = responses.get(ann.doc_id)
+                    verdict = self._to_verdict(ann, resp) if resp is not None else None
+                    if verdict is not None:
+                        results[ann.doc_id] = verdict
+                    else:
+                        results[ann.doc_id] = None
+                        next_pending.append(ann)
             pending = next_pending
-            if pending:
+            if pending and not budget_stopped:
                 log.info("stage1 batch round %d: %d invalid/missing", round_no, len(pending))
-        return results
+        return results, budget_stopped
