@@ -75,6 +75,7 @@ Other commands:
 analyst company show PME            # print an issuer's file (or asx/PME)
 analyst company diff PME --since 2026-09-01
 analyst audit --date 2026-09-05    # strong-model audit of culled/low-scored docs
+                                    # (--realtime to skip the Batch API queue)
 analyst eval                        # precision/recall vs the labels table
 analyst rate S-ab12cd34ef --score 4 --note "good catch"
 ```
