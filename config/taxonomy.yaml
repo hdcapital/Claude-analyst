@@ -1,0 +1,48 @@
+# Event/compounder taxonomy used by the AI triage cascade. Editable without
+# touching code; the Stage-1 system prompt is generated from this file (and
+# cached, so edits invalidate the prompt cache — that is expected).
+
+event_track:
+  - liquidation_wind_down
+  - strategic_review
+  - spinoff_demerger
+  - post_restructuring_equity
+  - cef_lic_discount_catalyst
+  - takeover_scheme_new
+  - takeover_scheme_revised
+  - takeover_scheme_competing
+  - takeover_scheme_broken
+  - delisting_squeeze_out
+  - activist_stake
+  - insider_buying_cluster
+  - forced_seller            # index deletion, rights issue shortfall, block trade
+  - capital_return           # tender, special dividend, buyback >10% of float
+  - board_change_with_strategic_review
+
+compounder_track:
+  - operational_inflection   # first positive operating cash flow, burn halving
+  - goodco_badco             # segment margin divergence, disposal of loss-maker
+  - self_inflicted_pain      # capex step-up, investment-driven guidance cut
+  - quality_wobble           # one-off issue at high-ROIC name
+  - improving_outlook        # contract wins, backlog growth, pricing power language
+  - management_incentive_signal  # hurdle levels, cash-based metrics, insider participation in raises
+  - accounting_obscured_economics  # policy changes, heavy acquired-intangible amortisation, recurring "non-recurring"
+  - early_serial_acquirer    # bolt-ons at disclosed low multiples funded from cash flow
+  - reinvestment_runway      # rollout with proven unit economics
+  - cyclical_trough_low_cost_producer
+  - orphaned_busted_ipo      # post-lockup
+  - recurring_revenue_transition
+  - new_stewardship_good_assets
+
+avoidance_flags:
+  - thesis_depends_on_capital_raise
+  - binary_outcome
+  - auditor_resignation
+  - cfo_departure_within_12m_of_acquisition
+  - substitution_risk
+
+# Stage-2 escalation threshold: Stage-1 interest_score >= this goes deep.
+stage2_interest_threshold: 6
+
+# Fraction of culled/low-scored announcements re-checked daily by the audit sampler.
+audit_sample_rate: 0.02

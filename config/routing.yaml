@@ -1,0 +1,113 @@
+# Routing rules: metadata only (form type, headline pattern, doc type).
+# First matching rule wins; anything unmatched falls through to the AI lane.
+#
+# lane: DETERMINISTIC (parser must be set) | DIFF (diff_group must be set) | AI
+# match:
+#   form:        exact SEC form types (US market only; "4/A" style included)
+#   form_prefix: prefix match on form type
+#   title_regex: case-insensitive regex on the headline ONLY (never body text)
+#
+# The admin_log parser is the zero-drop sink for pure paperwork: it records
+# the announcement as a dated fact and finishes. Nothing is discarded — the
+# audit sampler re-checks a slice of these daily.
+
+asx:
+  - name: asx.appendix_3y
+    match: { title_regex: "appendix\\s*3y|change of director'?s interest notice" }
+    lane: DETERMINISTIC
+    parser: asx_3y
+  - name: asx.initial_final_director_interest
+    match: { title_regex: "(initial|final) director'?s interest" }
+    lane: DETERMINISTIC
+    parser: admin_log
+  - name: asx.appendix_3b
+    match: { title_regex: "appendix\\s*(3b|2a)|proposed issue of securities|application for quotation" }
+    lane: DETERMINISTIC
+    parser: asx_3b
+  - name: asx.substantial_holder
+    match: { title_regex: "becoming a substantial holder|ceasing to be a substantial holder|change in substantial holding|form\\s*60[345]" }
+    lane: DETERMINISTIC
+    parser: asx_substantial
+  - name: asx.quarterly_cash_flow
+    match: { title_regex: "appendix\\s*(4c|5b)|quarterly activities|quarterly cashflow|quarterly cash flow" }
+    lane: DETERMINISTIC
+    parser: asx_quarterly
+  - name: asx.buyback_notice
+    match: { title_regex: "daily share buy-?back notice|appendix\\s*3[ce]" }
+    lane: DIFF
+    diff_group: buyback
+  - name: asx.nta_fund_update
+    match: { title_regex: "net tangible asset backing|nta( and)?( monthly)? (backing|update)|daily fund update|estimated distribution" }
+    lane: DIFF
+    diff_group: nta
+  - name: asx.dividend
+    match: { title_regex: "dividend/distribution|update - dividend" }
+    lane: DIFF
+    diff_group: dividend
+  - name: asx.periodic_report
+    match: { title_regex: "half year(ly)? report|full year report|annual report|preliminary final report|appendix 4[de]" }
+    lane: DIFF
+    diff_group: results
+  - name: asx.admin_paperwork
+    match: { title_regex: "notification regarding unquoted|notification of cessation|cleansing (notice|statement)|appendix 3[ghxz]|change of registry|change of registered office|change of company secretary|listing rule waiver|constitution|notice of (annual )?general meeting|proxy form|results of (annual general )?meeting|letter to (share|option)holders" }
+    lane: DETERMINISTIC
+    parser: admin_log
+
+uk:
+  - name: uk.tr1_holdings
+    match: { title_regex: "^(tr-?1|holding\\(s\\) in company)|standard form tr-?1|major holdings" }
+    lane: DETERMINISTIC
+    parser: rns_tr1
+  - name: uk.pdmr_dealing
+    match: { title_regex: "director/pdmr|pdmr (share)?dealing|pdmr notification|director'?s? (share)?dealing|directorate change: pdmr" }
+    lane: DETERMINISTIC
+    parser: rns_pdmr
+  - name: uk.buyback
+    match: { title_regex: "transaction in own shares|share buy-?back programme|purchase of own (ordinary )?shares|share repurchase" }
+    lane: DETERMINISTIC
+    parser: rns_buyback
+  - name: uk.nav_update
+    match: { title_regex: "net asset value|nav update" }
+    lane: DIFF
+    diff_group: nav
+  - name: uk.results
+    match: { title_regex: "(half|full)[- ]year(ly)? (results|report)|interim results|final results|annual (results|report)|trading (statement|update)|quarterly (results|report|update)" }
+    lane: DIFF
+    diff_group: results
+  - name: uk.takeover_dealing_forms
+    match: { title_regex: "^form 8(\\.3|\\.5| \\(|:)|rule 2\\.9 announcement|rule 8\\.3" }
+    lane: DETERMINISTIC
+    parser: admin_log
+  - name: uk.admin_paperwork
+    match: { title_regex: "total voting rights|block listing|result of agm|result of general meeting|notice of agm|director declaration|change of registered office|company secretary change" }
+    lane: DETERMINISTIC
+    parser: admin_log
+
+us:
+  - name: us.form_4
+    match: { form: ["4", "4/A"] }
+    lane: DETERMINISTIC
+    parser: us_form4
+  - name: us.form_3_5
+    match: { form: ["3", "3/A", "5", "5/A"] }
+    lane: DETERMINISTIC
+    parser: admin_log
+  - name: us.schedule_13d_13g
+    match: { form_prefix: ["SC 13D", "SC 13G", "SCHEDULE 13D", "SCHEDULE 13G"] }
+    lane: DETERMINISTIC
+    parser: us_13dg
+  - name: us.form_8k
+    match: { form_prefix: ["8-K"] }
+    lane: DETERMINISTIC
+    parser: us_8k
+  - name: us.periodic_reports
+    match: { form_prefix: ["10-Q", "10-K", "20-F", "40-F", "N-CSR", "N-Q"] }
+    lane: DIFF
+    diff_group: periodic
+  - name: us.registration_boilerplate
+    match:
+      form_prefix: ["S-8", "424B", "FWP", "D", "CERT", "EFFECT", "25-NSE", "NT ",
+                    "S-1MEF", "POS AM", "13F-HR", "13F-NT", "N-MFP", "N-CEN", "24F-2NT",
+                    "X-17A", "ARS", "IRANNOTICE", "SD", "11-K", "144"]
+    lane: DETERMINISTIC
+    parser: admin_log
