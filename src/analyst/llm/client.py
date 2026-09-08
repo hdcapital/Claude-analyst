@@ -268,10 +268,22 @@ class LLMClient:
             api_requests.append({"custom_id": safe, "params": {"model": model, **r["params"]}})
         batch = self.sdk.messages.batches.create(requests=api_requests)  # type: ignore[arg-type]
         log.info("batch %s submitted: %d requests (est ceiling $%.4f)", batch.id, len(requests), estimate)
+        # visible marker so an operator can reconcile a batch whose results
+        # were never collected (process killed mid-poll still costs money)
+        self.store.record_spend(
+            model=model, purpose=f"{purpose}:submitted", input_tokens=0, output_tokens=0,
+            cache_write_tokens=0, cache_read_tokens=0, batch=True, cost_usd=0.0,
+            doc_id=batch.id,
+        )
 
         deadline = time.monotonic() + timeout_seconds
         while batch.processing_status != "ended":
             if time.monotonic() > deadline:
+                try:
+                    self.sdk.messages.batches.cancel(batch.id)
+                    log.warning("batch %s cancelled at timeout", batch.id)
+                except Exception as exc:
+                    log.warning("batch %s cancel failed at timeout: %s", batch.id, exc)
                 raise TimeoutError(f"batch {batch.id} still {batch.processing_status} at timeout")
             time.sleep(poll_seconds)
             batch = self.sdk.messages.batches.retrieve(batch.id)
