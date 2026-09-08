@@ -10,3 +10,5 @@ dist/
 data/
 _lake_mirror/
 .venv/
+_form4_harvest/
+e2e_output/
