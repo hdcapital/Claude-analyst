@@ -138,6 +138,9 @@ def spend() -> None:
 @app.command()
 def audit(
     date: str = typer.Option(None, "--date", help="Day to audit (default: yesterday UTC)"),
+    realtime: bool = typer.Option(
+        False, "--realtime", help="Per-call API instead of the Batch API"
+    ),
     verbose: bool = typer.Option(False, "--verbose", "-v"),
 ) -> None:
     """Run the strong-model audit sampler over culled/low-scored announcements."""
@@ -145,19 +148,26 @@ def audit(
     settings = _settings(need_llm=True)
     store, lake, _router, _companies, llm = _open_all(settings, need_llm=True)
     from .audit import run_audit
+    from .llm import BudgetExceeded
     from .triage.prompts import load_taxonomy
 
     taxonomy = load_taxonomy(settings.taxonomy_yaml)
     day = date or (datetime.utcnow() - timedelta(days=1)).strftime("%Y-%m-%d")
     assert llm is not None
-    counts = run_audit(
-        store,
-        lake,
-        llm,
-        day,
-        sample_rate=float(taxonomy.get("audit_sample_rate", 0.02)),
-        stage2_threshold=int(taxonomy.get("stage2_interest_threshold", 6)),
-    )
+    try:
+        counts = run_audit(
+            store,
+            lake,
+            llm,
+            day,
+            sample_rate=float(taxonomy.get("audit_sample_rate", 0.02)),
+            stage2_threshold=int(taxonomy.get("stage2_interest_threshold", 6)),
+            realtime=realtime,
+        )
+    except BudgetExceeded as exc:
+        typer.secho(f"audit stopped at the budget cap: {exc}", fg=typer.colors.YELLOW, err=True)
+        _print_spend(store, settings)
+        raise typer.Exit(3) from exc
     typer.echo(f"audit {day}: {counts}")
     _print_spend(store, settings)
 

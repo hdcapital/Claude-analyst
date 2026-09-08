@@ -334,10 +334,18 @@ class Pipeline:
                 ann if override is None else _with_text(ann, override)
             )
 
+        # Realtime paths record incrementally: a BudgetExceeded mid-stream must
+        # keep everything already verdicted (lesson from the first full run,
+        # where a dict comprehension threw away 35 completed assessments).
+        verdicts: dict[str, TriageVerdict | None] = {}
         if realtime:
-            verdicts: dict[str, TriageVerdict | None] = {
-                a.doc_id: stage1.triage_realtime(a) for a in prepared
-            }
+            for a in prepared:
+                try:
+                    verdicts[a.doc_id] = stage1.triage_realtime(a)
+                except BudgetExceeded as exc:
+                    log.warning("stage1 budget stop after %d verdicts: %s", len(verdicts), exc)
+                    report.budget_stopped = True
+                    break
         else:
             verdicts, stage1_stopped = stage1.triage_batch(prepared)
             report.budget_stopped = report.budget_stopped or stage1_stopped
@@ -364,25 +372,32 @@ class Pipeline:
 
         if not stage2_queue:
             return
-        if realtime:
-            assessments: dict[str, dict[str, Any] | None] = {
-                ann.doc_id: stage2.assess_realtime(ann, cf) for ann, cf in stage2_queue
-            }
-        else:
-            assessments, stage2_stopped = stage2.assess_batch(stage2_queue)
-            report.budget_stopped = report.budget_stopped or stage2_stopped
-        for ann, _cf in stage2_queue:
-            if ann.doc_id not in assessments:
-                continue  # never submitted (budget stop) — stays unprocessed
-            assessment = assessments[ann.doc_id]
+
+        def record(ann: Announcement, assessment: dict[str, Any] | None) -> None:
+            assert self.llm is not None
             if assessment is not None:
                 self._record_stage2(ann, assessment, self.llm.deep_model)
                 report.stage2_done += 1
                 report.situations += 1
+                self.store.mark_processed(ann.doc_id)
             else:
                 log.warning("stage2 failed for %s — left unprocessed for re-run", ann.doc_id)
-                continue
-            self.store.mark_processed(ann.doc_id)
+
+        if realtime:
+            for ann, cf in stage2_queue:
+                try:
+                    record(ann, stage2.assess_realtime(ann, cf))
+                except BudgetExceeded as exc:
+                    log.warning("stage2 budget stop after %d assessments: %s", report.stage2_done, exc)
+                    report.budget_stopped = True
+                    break
+        else:
+            assessments, stage2_stopped = stage2.assess_batch(stage2_queue)
+            report.budget_stopped = report.budget_stopped or stage2_stopped
+            for ann, _cf in stage2_queue:
+                if ann.doc_id not in assessments:
+                    continue  # never submitted (budget stop) — stays unprocessed
+                record(ann, assessments[ann.doc_id])
 
 
 def _with_text(ann: Announcement, text: str) -> Announcement:

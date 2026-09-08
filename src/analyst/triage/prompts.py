@@ -134,7 +134,7 @@ Respond with STRICT JSON only — no markdown fences — exactly this shape:
 {"headline": "<one-line situation name>",
  "track": "event" | "compounder",
  "event_types": ["<taxonomy types>"],
- "memo": "<150-300 word assessment; every factual sentence ends with [source_id locator]>",
+ "memo": "<120-200 words, HARD MAX 200; every factual sentence ends with [source_id locator]>",
  "discount_or_upside_pct": <number or null — only if computable from sourced figures>,
  "months_to_catalyst": <number or null>,
  "catalyst_date": "<YYYY-MM-DD or null>",
@@ -144,8 +144,10 @@ Respond with STRICT JSON only — no markdown fences — exactly this shape:
  "avoidance_flags": ["<flags that apply>"],
  "watchlist": <true|false — should this issuer's future price-sensitive announcements go deep automatically>,
  "thesis": "<one-paragraph refreshed thesis for the company file, or null to keep the existing one>",
- "citations": [{"claim": "<short>", "source": "<doc_id>", "locator": "<where>"}]}
+ "citations": [{"claim": "<short>", "source": "<doc_id>", "locator": "<where>"}, "... at most 5"]}
 
+Brevity is a hard requirement: the memo tops out at 200 words and citations at 5 \
+entries — a response too long to finish is worthless, so ALWAYS close the JSON object. \
 Do not fabricate numbers, dates or holders; null beats a guess. discount_or_upside_pct \
 must be derived only from figures present in the provided documents."""
     return [{"type": "text", "text": text, "cache_control": {"type": "ephemeral"}}]
@@ -160,7 +162,9 @@ def stage2_user_message(
     published_date: str,
     text: str,
     company_file: str,
-    max_doc_chars: int = 60000,
+    # input cost dominates Stage 2; 24k chars (~7k tokens) keeps the substance
+    # of long PDFs while halving the spend of the 60k default we started with
+    max_doc_chars: int = 24000,
 ) -> list[dict[str, Any]]:
     """Company file first (cacheable across the issuer's docs), then the document."""
     blocks: list[dict[str, Any]] = []

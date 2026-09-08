@@ -14,9 +14,10 @@ from . import prompts
 
 log = logging.getLogger(__name__)
 
-# Validation E2E showed 1500 truncates the JSON mid-memo (every response hit
-# the cap and failed validation); 2800 leaves headroom for memo + citations.
-MAX_TOKENS = 2800
+# Live runs showed generous caps still get outrun by verbose memos (the model
+# wrote to whatever cap it had and truncated the JSON). The prompt now demands
+# brevity; 2400 covers a 200-word memo + citations with margin.
+MAX_TOKENS = 2400
 
 REQUIRED_KEYS = (
     "headline",

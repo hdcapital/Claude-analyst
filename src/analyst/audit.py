@@ -20,7 +20,7 @@ from sqlalchemy import select
 from .adapter import LakeAdapter
 from .db import Store
 from .db.schema import AnnouncementRow, AuditSampleRow, TriageResultRow
-from .llm import LLMClient
+from .llm import LLMClient, LLMResponse
 
 log = logging.getLogger(__name__)
 
@@ -105,6 +105,7 @@ def run_audit(
     sample_rate: float,
     stage2_threshold: int,
     rng: random.Random | None = None,
+    realtime: bool = False,
 ) -> dict[str, int]:
     rng = rng or random.Random()
     candidates = _candidates(store, day, stage2_threshold)
@@ -121,8 +122,8 @@ def run_audit(
     log.info("audit day=%s: %d candidates, sampling %d", day, len(candidates), len(sample))
 
     counts = {"ok": 0, "misrouted": 0, "under_scored": 0, "invalid": 0}
-    requests = []
-    rows_by_id = {}
+    requests: list[dict[str, Any]] = []
+    rows_by_id: dict[str, AnnouncementRow] = {}
     for row in sample:
         text = _fetch_text(lake, row)
         rows_by_id[row.doc_id] = row
@@ -147,10 +148,31 @@ def run_audit(
         )
     if not requests:
         return counts
-    responses = llm.run_batch(model=llm.deep_model, requests=requests, purpose="audit")
+    responses: dict[str, LLMResponse]
+    if realtime:
+        from .llm import BudgetExceeded
+
+        responses = {}
+        for req in requests:
+            custom_id = str(req["custom_id"])
+            params: dict[str, Any] = dict(req["params"])
+            try:
+                responses[custom_id] = llm.message(
+                    model=llm.deep_model,
+                    purpose="audit",
+                    doc_id=custom_id,
+                    **params,
+                )
+            except BudgetExceeded as exc:
+                log.warning("audit budget stop after %d samples: %s", len(responses), exc)
+                break
+    else:
+        responses = llm.run_batch(model=llm.deep_model, requests=requests, purpose="audit")
     for doc_id, row in rows_by_id.items():
         resp = responses.get(doc_id)
-        data = _validate(resp.text) if resp is not None else None
+        if resp is None:
+            continue  # never sampled (budget stop) — not counted as invalid
+        data = _validate(resp.text)
         if data is None:
             counts["invalid"] += 1
             continue
