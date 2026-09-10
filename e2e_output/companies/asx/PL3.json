@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/PL3",
+ "identity": {
+  "ticker": "PL3",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

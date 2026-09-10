@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/AR3",
+ "identity": {
+  "ticker": "AR3",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=15000.0, issue_price=0.1, implied_raise=1500.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 15000.0,
+    "issue_price": 0.1,
+    "implied_raise": 1500.0
+   },
+   "source": "asx:1cf17785bc65076ece6ce96881cfb4e0",
+   "locator": "chars 302+",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

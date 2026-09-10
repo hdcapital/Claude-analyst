@@ -1,0 +1,66 @@
+{
+ "issuer_key": "asx/HCW",
+ "identity": {
+  "ticker": "HCW",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Kelly O’Dwyer, date_of_change=2026-09-04, number_acquired=22099.0, number_disposed=0.0, value_consideration=0.76, held_after_change=171320.0, direct_or_indirect=Direct and indirect",
+   "data": {
+    "director": "Kelly O’Dwyer",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 22099.0,
+    "number_disposed": 0.0,
+    "value_consideration": 0.76,
+    "held_after_change": 171320.0,
+    "direct_or_indirect": "Direct and indirect"
+   },
+   "source": "asx:0dac21db8e27295fa55e41e4eaf38a06",
+   "locator": "chars 690+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Joseph Carrozzi AM, date_of_change=2026-09-04, number_acquired=21912.0, number_disposed=0.0, value_consideration=0.75, held_after_change=480198.0, direct_or_indirect=Direct",
+   "data": {
+    "director": "Joseph Carrozzi AM",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 21912.0,
+    "number_disposed": 0.0,
+    "value_consideration": 0.75,
+    "held_after_change": 480198.0,
+    "direct_or_indirect": "Direct"
+   },
+   "source": "asx:7ad58af9b4e5aecbcea132efbebdd836",
+   "locator": "chars 690+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Natalie Jane Meyenn, date_of_change=2026-09-04, number_acquired=26087.0, number_disposed=0.0, value_consideration=0.76, held_after_change=214629.0, direct_or_indirect=Direct",
+   "data": {
+    "director": "Natalie Jane Meyenn",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 26087.0,
+    "number_disposed": 0.0,
+    "value_consideration": 0.76,
+    "held_after_change": 214629.0,
+    "direct_or_indirect": "Direct"
+   },
+   "source": "asx:7bf1cc20b9f241d7003780599a440034",
+   "locator": "chars 690+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

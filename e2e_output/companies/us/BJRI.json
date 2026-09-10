@@ -1,0 +1,55 @@
+{
+ "issuer_key": "us/BJRI",
+ "identity": {
+  "ticker": "BJRI",
+  "exchange": "US",
+  "name": "BJs RESTAURANTS INC",
+  "cik": "1013488"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[4], item_names(4), escalated=True",
+   "data": {
+    "items": [
+     "5.02",
+     "5.03",
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "5.02": "officer/director departure or appointment",
+     "5.03": "charter/bylaw amendment",
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001171843-26-005956",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-c606b910a0",
+   "date": "2026-09-09",
+   "headline": "BJ's Restaurants adds two independent directors (Brandt, White) in board refresh",
+   "status": "open",
+   "source": "us:0001171843-26-005956"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: BJ's Restaurants adds two independent directors (Brandt, White) in board refresh (interest 4, risk 2)",
+   "source": "us:0001171843-26-005956",
+   "recorded_at": "2026-09-10T06:20:20Z"
+  }
+ ],
+ "thesis": {
+  "text": "BJ's Restaurants is executing a governance refresh, adding experienced restaurant/CPG operators to its board alongside undisclosed bylaw and other-event items in the same 8-K; the full scope of the filing (fiscal year/bylaw amendments, other events) is not yet visible, warranting monitoring of subsequent filings for concrete operational or capital-structure implications before forming a variant view.",
+  "updated": "2026-09-09"
+ }
+}

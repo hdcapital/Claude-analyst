@@ -1,0 +1,49 @@
+{
+ "issuer_key": "asx/AKG",
+ "identity": {
+  "ticker": "AKG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/3986 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 3986,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:0cbba8fddb5dd2164216d141a8ffeef7",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: non_trivial (4273/619 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": "asx:0cbba8fddb5dd2164216d141a8ffeef7",
+    "changed_lines": 4273,
+    "total_lines": 619,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-ACADEMIES AUSTRALASIA GROUP LIMITED\n-ANNUAL REPORT 2026\n-ACN 000 003 725\n-For personal use only\n-- 1 -\n-ACADEMIES AUSTRALASIA GROUP LIMITED\n-ANNUAL REPORT 2026\n-CONTENTS\n-Page\n-Report of the Chairman and the Group Managing Director and CEO\n+9 September 2026\n+Company Announcements Office\n+Australian Securities Exchange\n+Via ASX Online\n+(Page 1 of 9)\n+ANNOUNCEMENT\n+APPENDIX 4E (AMENDED)\n+The Appendix 4E issued on 26 August 2026 is replaced with today’s release.\n+In section 6.19 (now 6.20) ’Reconciliation of cash’ on Page 6, the Company’s non-current cash\n+guarantee is now not included in the reconciliation of cash and cash equivalents.\n+This amendment does not impact the Company’s reported profit/loss, net assets, net cash flows,\n+or underlying cash position.\n+Stephanie Noble\n+Company Secretary\n+Academies Australasia has been operating for 118 years and listed on the Australian Securities Exchange for 49\n+years. The group comprises 18 separately licensed colleges operating in New South Wales, Queensland, South\n+Australia, Victoria and Western Australia in Australia, and overseas in Singapore. The group offers a wide range\n+of recognised courses at different levels – Certificate, Diploma, Advanced Diploma, Bachelor and Master Degrees.\n+Over the years, Academies Australasia colleges have taught more than 200,000 students from 138 countries.\n+For personal use only\n+1\n+APPENDIX 4E: PRELIMINARY FINAL REPORT\n+1.\n+Company details\n+Name: Academies Australasia Group Limited\n+ABN: 93 000 003 725\n+Reporting Period (RP): Financial year ended 30 June 2026 (FY26)\n+Previous Period (PP): Financial year ended 30 June 2025 (FY25)\n+2.\n+Results for announcement to the market\n+2.1\n+Revenue from ordinary activities was down 6.9% to $44,267,000 (See item 4.1)\n+2.2\n+Loss from ordinary activities after tax attributable to members, was $1,418,000, up 11% on the PP\n+loss of $1,282,000 (See item 4.7).\n+2.3\n+Net loss for the period attributable to owners of the parent entity, was $1,418,000, up "
+   },
+   "source": "asx:cdcf5f8e1da8d04ada448324e0948c6c",
+   "locator": "diff vs asx:0cbba8fddb5dd2164216d141a8ffeef7",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

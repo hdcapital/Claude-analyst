@@ -1,0 +1,33 @@
+{
+ "issuer_key": "us/CIK1919369",
+ "identity": {
+  "exchange": "US",
+  "name": "VISTA CREDIT STRATEGIC LENDING CORP.",
+  "cik": "1919369"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=False",
+   "data": {
+    "items": [
+     "8.01"
+    ],
+    "item_names": {
+     "8.01": "other events"
+    },
+    "escalated": false
+   },
+   "source": "us:0001193125-26-386477",
+   "locator": "chars 226+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

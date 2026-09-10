@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/BUT",
+ "identity": {
+  "ticker": "BUT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=10761.0",
+   "data": {
+    "shares_purchased": 10761.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9764132",
+   "locator": "chars 213+",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

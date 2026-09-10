@@ -1,0 +1,44 @@
+{
+ "issuer_key": "asx/RLC",
+ "identity": {
+  "ticker": "RLC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=8640000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 8640000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:bcacdbcc54a78abecdb0d759f1febc36",
+   "locator": "chars 257+",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-3271385d46",
+   "date": "2026-09-09",
+   "headline": "RLC $1.8M fully underwritten placement at 65% dilution with leadership change",
+   "status": "open",
+   "source": "asx:00c9fae9eefcca6c19670c534b573a2b"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: RLC $1.8M fully underwritten placement at 65% dilution with leadership change (interest 3, risk 8)",
+   "source": "asx:00c9fae9eefcca6c19670c534b573a2b",
+   "recorded_at": "2026-09-10T05:58:11Z"
+  }
+ ],
+ "thesis": {
+  "text": "RLC is a distressed ASX microcap executing a heavily dilutive recapitalisation (65% of post-raise shares issued at $0.00125) to fund operations and clear related-party debt tied to its outgoing MD. The deal stabilises the balance sheet short-term but existing holders face severe dilution and the underwriter/alignment-option structure suggests weak organic demand. Future price-sensitive filings (EGM outcome, use of proceeds, project updates) should be monitored closely given the fragile capital position and leadership transition risk.",
+  "updated": "2026-09-09"
+ }
+}

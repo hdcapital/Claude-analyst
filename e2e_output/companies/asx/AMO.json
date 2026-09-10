@@ -1,0 +1,47 @@
+{
+ "issuer_key": "asx/AMO",
+ "identity": {
+  "ticker": "AMO",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Appwam Pty Limited, previous_voting_power_pct=34.93, present_voting_power_pct=35.94",
+   "data": {
+    "form": "604_change",
+    "holder": "Appwam Pty Limited",
+    "became_on": null,
+    "previous_voting_power_pct": 34.93,
+    "present_voting_power_pct": 35.94
+   },
+   "source": "asx:242e18439eaf2c857e9e1c36a4944e98",
+   "locator": "chars 196+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Mr Santo Carlini, date_of_change=2026-09-08, number_acquired=700006.0, number_disposed=0.0, value_consideration=45346.73, held_after_change=1713046.0, direct_or_indirect=Direct and Indirect",
+   "data": {
+    "director": "Mr Santo Carlini",
+    "date_of_change": "2026-09-08",
+    "number_acquired": 700006.0,
+    "number_disposed": 0.0,
+    "value_consideration": 45346.73,
+    "held_after_change": 1713046.0,
+    "direct_or_indirect": "Direct and Indirect"
+   },
+   "source": "asx:785703fafa6902c3a796e9ec3ef53efb",
+   "locator": "chars 624+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

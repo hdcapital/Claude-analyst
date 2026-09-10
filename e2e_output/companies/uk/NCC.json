@@ -1,0 +1,119 @@
+{
+ "issuer_key": "uk/NCC",
+ "identity": {
+  "ticker": "NCC",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Odyssean Investment Trust PLC, resulting_voting_rights_pct=11.965504, previous_voting_rights_pct=7.006281",
+   "data": {
+    "holder": "Odyssean Investment Trust PLC",
+    "resulting_voting_rights_pct": 11.965504,
+    "previous_voting_rights_pct": 7.006281
+   },
+   "source": "uk:9763026",
+   "locator": "chars 230+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=6.501658",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 6.501658,
+    "previous_voting_rights_pct": null
+   },
+   "source": "uk:9763041",
+   "locator": "chars 862+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Perpetual Limited, resulting_voting_rights_pct=5.375848, previous_voting_rights_pct=5.375848",
+   "data": {
+    "holder": "Perpetual Limited",
+    "resulting_voting_rights_pct": 5.375848,
+    "previous_voting_rights_pct": 5.375848
+   },
+   "source": "uk:9763043",
+   "locator": "chars 230+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Odyssean Investment Trust PLC, resulting_voting_rights_pct=9.553677, previous_voting_rights_pct=11.965504",
+   "data": {
+    "holder": "Odyssean Investment Trust PLC",
+    "resulting_voting_rights_pct": 9.553677,
+    "previous_voting_rights_pct": 11.965504
+   },
+   "source": "uk:9763791",
+   "locator": "chars 225+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=6.07, previous_voting_rights_pct=11.87",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 6.07,
+    "previous_voting_rights_pct": 11.87
+   },
+   "source": "uk:9763798",
+   "locator": "chars 841+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=The Wellcome Trust Limited as trustee of The Wellcome Trust, resulting_voting_rights_pct=1.81, previous_voting_rights_pct=4.0334",
+   "data": {
+    "holder": "The Wellcome Trust Limited as trustee of The Wellcome Trust",
+    "resulting_voting_rights_pct": 1.81,
+    "previous_voting_rights_pct": 4.0334
+   },
+   "source": "uk:9763804",
+   "locator": "chars 225+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Perpetual Limited, resulting_voting_rights_pct=4.953412, previous_voting_rights_pct=5.375848",
+   "data": {
+    "holder": "Perpetual Limited",
+    "resulting_voting_rights_pct": 4.953412,
+    "previous_voting_rights_pct": 5.375848
+   },
+   "source": "uk:9764016",
+   "locator": "chars 225+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Aberforth Partners LLP, resulting_voting_rights_pct=11.055, previous_voting_rights_pct=10.983",
+   "data": {
+    "holder": "Aberforth Partners LLP",
+    "resulting_voting_rights_pct": 11.055,
+    "previous_voting_rights_pct": 10.983
+   },
+   "source": "uk:9764021",
+   "locator": "chars 275+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/CC",
+ "identity": {
+  "ticker": "CC",
+  "exchange": "US",
+  "name": "Chemours Co",
+  "cik": "1627223"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=False",
+   "data": {
+    "items": [
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001627223-26-000027",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

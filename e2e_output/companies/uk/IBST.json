@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/IBST",
+ "identity": {
+  "ticker": "IBST",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Perpetual Limited, resulting_voting_rights_pct=8.177619, previous_voting_rights_pct=7.961688",
+   "data": {
+    "holder": "Perpetual Limited",
+    "resulting_voting_rights_pct": 8.177619,
+    "previous_voting_rights_pct": 7.961688
+   },
+   "source": "uk:9764005",
+   "locator": "chars 276+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

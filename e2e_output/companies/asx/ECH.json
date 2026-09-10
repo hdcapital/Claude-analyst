@@ -1,0 +1,49 @@
+{
+ "issuer_key": "asx/ECH",
+ "identity": {
+  "ticker": "ECH",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/952 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 952,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:3e2cfa67759d9a704677c362cc1817c1",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: non_trivial (8571/7623 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": "asx:3e2cfa67759d9a704677c362cc1817c1",
+    "changed_lines": 8571,
+    "total_lines": 7623,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-Rules 4.7.3 and 4.10.3\n-ASX Listing Rules Appendix 4G (current at 17/7/2020)\n-Page 1\n-Appendix 4G\n-Key to Disclosures\n-Corporate Governance Council Principles and Recommendations\n+Echelon Resources Limited\n+Annual\n+Report\n+2026\n+For personal use only\n+The Energy\n+Explorers.\n+2\n+Echelon Annual Report 2026\n+For personal use only\n+Signed on behalf of the Board of\n+Echelon Resources Limited (Echelon)\n+on 27 August 2026.\n+Alastair McGregor\n+Director\n+Samuel Kellner\n+Chairman\n+Highlights\n+4\n+Our Values\n+5\n+Our Compass\n+6\n+Letter from the Chair and CEO\n+8\n+Production and Reserves\n+10\n+Reserves Compliance Statement\n+13\n+Our Operations\n+14\n+Sustainability and Community\n+15\n+Supporting Tree Planting\n+16\n+Social and Community Initiatives\n+18\n+Corporate Governance\n+20\n+Consolidated Financial Statements\n+50\n+Consolidated Statement of Cash Flows\n+51\n+Consolidated Statement of Comprehensive Income\n+53\n+Consolidated Statement of Financial Position\n+54\n+Consolidated Statement of Changes in Equity\n+55\n+Notes to the Financial Statements\n+56\n+Independent Auditor’s Report\n+86\n+Shareholder Information\n+90\n+Corporate Directory\n+92\n+Contents\n+3\n+Echelon Annual Report 2026\n+For personal use only\n+Highlights\n+Net Profit\n+After Tax\n+Operating\n+Cashflow\n+Revenue\n+5% to\n+A$49.9m\n+A$63.4m\n+A$28.2m\n+up from $6.4m in FY25\n+Total dividends\n+declared\n+AUD0.40cents\n+per share\n+AUD10.8cents\n+per share\n+up from 1.4 cents in FY25\n+1.6mmboe\n+Profit of\n+Production of\n+ACTIVITIES TIMELINE\n+Calendar year 2026\n+Calendar year 2027\n+Quarter\n+Q2\n+Q3\n+Q4\n+Q1\n+Q2\n+Q3\n+Q4\n+EP145\n+Prospectivity evaluation\n+Mereenie\n+Potential WM-31\n+& WM-32 Wells\n+Potential stairway\n+appraisal\n+Palm Valley\n+PV-14 & PV-15 infill wells\n+Kupe\n+Possible\n+in‑well work\n+Development\n+Exploration & Appraisal\n+4\n+Echelon Annual Report 2026\n+For personal use only\n+Our Values\n+Tikanga\n+The right things the\n+right way"
+   },
+   "source": "asx:8f14f0aafd2f6f7d67feb8beb556ed2d",
+   "locator": "diff vs asx:3e2cfa67759d9a704677c362cc1817c1",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

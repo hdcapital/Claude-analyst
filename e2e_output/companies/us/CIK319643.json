@@ -1,0 +1,33 @@
+{
+ "issuer_key": "us/CIK319643",
+ "identity": {
+  "exchange": "US",
+  "name": "CANADIAN DERIVATIVES CLEARING CORP",
+  "cik": "319643"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=False",
+   "data": {
+    "items": [
+     "9.01"
+    ],
+    "item_names": {
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001099910-26-000259",
+   "locator": "chars 226+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -21,6 +21,23 @@
    "source": "asx:8611994e1b3250da275ecc2ccbfa49ad",
    "locator": "diff vs none",
    "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (38/42 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:8611994e1b3250da275ecc2ccbfa49ad",
+    "changed_lines": 38,
+    "total_lines": 42,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-7 September 2026\n+9 September 2026\n-4/09/2026\n-$2.0036\n+8/09/2026\n+$2.0053\n-The financial information in this Daily NTA Estimate has been prepared taking into account information provided by the Fund’s Investment\n-Manager, Metrics Credit Partners Pty Ltd (Metrics). The Responsible Entity notes that the financial information contained in the Appendix\n-4E Preliminary Final Report for year ended 30 June 2026 is unaudited and remains subject to completion of audit procedures and Board\n-approval of the 2026 financial statements. KPMG (the auditor of the Fund) has notified the Responsible Entity that as of 31 August 2026,\n-KPMG’s audit of the 30 June 2026 Financial Report for the Fund is incomplete and that KPMG continues to work through remaining audit\n-procedures required to bring the audit to completion, noting the statutory deadline as required by the Corporations Act 2001 (Cth), 30\n-September 2026. Accordingly, it is possible that amounts shown in the Appendix 4E Preliminary Final Report for year ended 30 June 2026\n-may differ materially from the final audited financial statements for the Fund. Any such material differences may result in changes to the\n-amount reported in this Daily NTA Estimate. There will be a further announcement to the market if we become aware any circumstance is\n-likely to materially affect the information contained in this Daily NTA Estimate.\n+The financial information in this Daily NTA Estimate has been prepared taking into account information provided by the Fund’s\n+Investment Manager, Metrics Credit Partners Pty Ltd (Metrics). The Responsible Entity notes that the financial information contained\n+in the Appendix 4E Preliminary Final Report for year ended 30 June 2026 is unaudited and remains subject to completion of audit\n+procedures and Board approval of the 2026 financial statements. KPMG (the auditor of the Fund) has notified the Responsible Entity\n+that as of 31 August 2026, KPMG’s audit of the 30 June 2026 Financial Report for the Fun"
+   },
+   "source": "asx:6188bd914a40cdbc4988890ecb3721cd",
+   "locator": "diff vs asx:8611994e1b3250da275ecc2ccbfa49ad",
+   "recorded_at": "2026-09-10T05:39:54Z"
   }
  ],
  "situations": [],

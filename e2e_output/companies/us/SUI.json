@@ -1,0 +1,38 @@
+{
+ "issuer_key": "us/SUI",
+ "identity": {
+  "ticker": "SUI",
+  "exchange": "US",
+  "name": "SUN COMMUNITIES INC",
+  "cik": "912593"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=False",
+   "data": {
+    "items": [
+     "7.01",
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "7.01": "Reg FD disclosure",
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0000912593-26-000254",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

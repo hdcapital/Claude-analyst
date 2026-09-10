@@ -1,0 +1,53 @@
+{
+ "issuer_key": "us/JMKE",
+ "identity": {
+  "ticker": "JMKE",
+  "exchange": "US",
+  "name": "Jersey Mike's Subs Inc.",
+  "cik": "2127043"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=False",
+   "data": {
+    "items": [
+     "2.02",
+     "9.01"
+    ],
+    "item_names": {
+     "2.02": "results of operations",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0002127043-26-000008",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:01Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/30707 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 30707,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0002127043-26-000010",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:40:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/XPN",
+ "identity": {
+  "ticker": "XPN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

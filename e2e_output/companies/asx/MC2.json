@@ -18,6 +18,34 @@
    "source": "asx:4a08eec04f9b915d10287a24c5bafb16",
    "locator": "metadata",
    "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing Notice",
+   "data": {
+    "title": "Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137678",
+    "is_admin_noise": true
+   },
+   "source": "asx:b7f2ffc202d0dd3cf7027af8ae1867c9",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - MC2",
+   "data": {
+    "title": "Notification regarding unquoted securities - MC2",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137675",
+    "is_admin_noise": true
+   },
+   "source": "asx:e7255e25eb6b075d34313ff49556d243",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:56Z"
   }
  ],
  "situations": [],

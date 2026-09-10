@@ -4,7 +4,22 @@
   "ticker": "FUM",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Rule 2.9 Announcement",
+   "data": {
+    "title": "Rule 2.9 Announcement",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/futura-medical--fum/rule-2-9-announcement/9763725",
+    "is_admin_noise": true
+   },
+   "source": "uk:9763725",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

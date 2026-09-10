@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/CMET",
+ "identity": {
+  "ticker": "CMET",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of AGM",
+   "data": {
+    "title": "Notice of AGM",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/capital-metals--cmet/notice-of-agm/9763614",
+    "is_admin_noise": true
+   },
+   "source": "uk:9763614",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

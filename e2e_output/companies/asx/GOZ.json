@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/GOZ",
+ "identity": {
+  "ticker": "GOZ",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - GOZ",
+   "data": {
+    "title": "Notification regarding unquoted securities - GOZ",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137686",
+    "is_admin_noise": true
+   },
+   "source": "asx:0c84bc3907b4e1cb4dfa69160469f1c9",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

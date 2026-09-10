@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/CFCP",
+ "identity": {
+  "ticker": "CFCP",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Executive, price=40.0, volume=5630.0, value=225200.0",
+   "data": {
+    "person": "Name",
+    "position": "Chief Executive",
+    "nature": null,
+    "price": 40.0,
+    "volume": 5630.0,
+    "value": 225200.0
+   },
+   "source": "uk:9763538",
+   "locator": "chars 2999+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

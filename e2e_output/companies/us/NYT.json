@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/NYT",
+ "identity": {
+  "ticker": "NYT",
+  "exchange": "US",
+  "name": "NEW YORK TIMES CO",
+  "cik": "71691"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=True",
+   "data": {
+    "items": [
+     "5.02"
+    ],
+    "item_names": {
+     "5.02": "officer/director departure or appointment"
+    },
+    "escalated": true
+   },
+   "source": "us:0001193125-26-386067",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

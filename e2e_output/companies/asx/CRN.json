@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CRN",
+ "identity": {
+  "ticker": "CRN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

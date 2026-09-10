@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/FDEV",
+ "identity": {
+  "ticker": "FDEV",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

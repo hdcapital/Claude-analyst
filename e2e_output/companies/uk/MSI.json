@@ -1,0 +1,44 @@
+{
+ "issuer_key": "uk/MSI",
+ "identity": {
+  "ticker": "MSI",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Result of AGM",
+   "data": {
+    "title": "Result of AGM",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/ms-international--msi/result-of-agm/9763610",
+    "is_admin_noise": true
+   },
+   "source": "uk:9763610",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-c1f1c2dd68",
+   "date": "2026-09-09",
+   "headline": "MSI AGM: pending sale of Superstructures unit, Forgings interest queued, new NATO defence contract with 2027 delivery",
+   "status": "open",
+   "source": "uk:9763395"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: MSI AGM: pending sale of Superstructures unit, Forgings interest queued, new NATO defence contract with 2027 delivery (interest 5, risk 3)",
+   "source": "uk:9763395",
+   "recorded_at": "2026-09-10T06:12:22Z"
+  }
+ ],
+ "thesis": {
+  "text": "MSI is mid-transition: divesting non-core Petrol Station Superstructures/Branding (process ongoing, no firm date) [uk:9763395 p.1], with Forgings sale interest queued behind it [uk:9763395 p.1], while its Defence and Security segment wins new multi-year contracts (NATO country, 2027 delivery) [uk:9763395 p.1] amid a strong but delay-prone order pipeline [uk:9763395 p.1]. Catalyst path: (1) Superstructures sale announcement, (2) subsequent Forgings monetisation, (3) defence order conversion tied to rising NATO budgets and UK fiscal signals from the October budget [uk:9763395 p.1]. Track as event-driven divestiture optionality layered on a re-rating defence order book; re-underwrite once sale terms or budget-linked order flow are disclosed.",
+  "updated": "2026-09-09"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "issuer_key": "us/JOBY",
+ "identity": {
+  "ticker": "JOBY",
+  "exchange": "US",
+  "name": "Joby Aviation, Inc.",
+  "cik": "1819848"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "5.02",
+     "9.01"
+    ],
+    "item_names": {
+     "5.02": "officer/director departure or appointment",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001819848-26-000453",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-a1c96b50e3",
+   "date": "2026-09-09",
+   "headline": "Joby Aviation 8-K: director/officer change disclosed, details not in filing text",
+   "status": "open",
+   "source": "us:0001819848-26-000453"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Joby Aviation 8-K: director/officer change disclosed, details not in filing text (interest 3, risk 3)",
+   "source": "us:0001819848-26-000453",
+   "recorded_at": "2026-09-10T06:24:32Z"
+  }
+ ],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

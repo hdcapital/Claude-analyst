@@ -1,0 +1,33 @@
+{
+ "issuer_key": "us/CIK1076262",
+ "identity": {
+  "exchange": "US",
+  "name": "FOOD CULTURE INC.",
+  "cik": "1076262"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=False",
+   "data": {
+    "items": [
+     "8.01"
+    ],
+    "item_names": {
+     "8.01": "other events"
+    },
+    "escalated": false
+   },
+   "source": "us:0001477932-26-005464",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

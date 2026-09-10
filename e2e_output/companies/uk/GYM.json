@@ -20,6 +20,23 @@
    "source": "uk:9757483",
    "locator": "chars 1224+ (purchase table)",
    "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/1855 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 1855,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "uk:9761804",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:56Z"
   }
  ],
  "situations": [],

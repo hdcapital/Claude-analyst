@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/PPC",
+ "identity": {
+  "ticker": "PPC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=JPMorgan Chase & Co. and its affiliates",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "JPMorgan Chase & Co. and its affiliates",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:9092cae6e0798d6d9be5f0ea267548ef",
+   "locator": "chars 206+ (form 605)",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

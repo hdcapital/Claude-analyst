@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/GHH",
+ "identity": {
+  "ticker": "GHH",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Odyssean Investment Trust PLC, resulting_voting_rights_pct=3.653538, previous_voting_rights_pct=5.58991",
+   "data": {
+    "holder": "Odyssean Investment Trust PLC",
+    "resulting_voting_rights_pct": 3.653538,
+    "previous_voting_rights_pct": 5.58991
+   },
+   "source": "uk:9763190",
+   "locator": "chars 231+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

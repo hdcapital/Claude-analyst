@@ -1,0 +1,44 @@
+{
+ "issuer_key": "uk/COST",
+ "identity": {
+  "ticker": "COST",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=234414.0, vwap=223.9182, lowest_price=217.5, highest_price=233.5, days=5, implied_consideration=52489560.93",
+   "data": {
+    "shares_purchased": 234414.0,
+    "vwap": 223.9182,
+    "lowest_price": 217.5,
+    "highest_price": 233.5,
+    "days": 5,
+    "implied_consideration": 52489560.93
+   },
+   "source": "uk:9763400",
+   "locator": "chars 429+ (purchase table)",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=FIL Limited, resulting_voting_rights_pct=10.2064, previous_voting_rights_pct=5.0228",
+   "data": {
+    "holder": "FIL Limited",
+    "resulting_voting_rights_pct": 10.2064,
+    "previous_voting_rights_pct": 5.0228
+   },
+   "source": "uk:9764012",
+   "locator": "chars 282+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

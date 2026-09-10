@@ -21,6 +21,22 @@
    "source": "uk:9757479",
    "locator": "diff vs none",
    "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Executive Officer/Director, nature=Purchase and allocation of partnership and matching shares (no consideration), respectively, under the Grainger plc Share Incentive Plan, price=1.71, volume=1.71, value=2.92",
+   "data": {
+    "person": "Name",
+    "position": "Chief Executive Officer/Director",
+    "nature": "Purchase and allocation of partnership and matching shares (no consideration), respectively, under the Grainger plc Share Incentive Plan",
+    "price": 1.71,
+    "volume": 1.71,
+    "value": 2.92
+   },
+   "source": "uk:9763965",
+   "locator": "chars 1833+",
+   "recorded_at": "2026-09-10T05:39:57Z"
   }
  ],
  "situations": [],

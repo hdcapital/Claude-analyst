@@ -4,7 +4,25 @@
   "ticker": "SOP",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Ian Campbell, date_of_change=2026-09-07, number_acquired=120000.0, number_disposed=11323.92, value_consideration=11323.92, held_after_change=700000.0, direct_or_indirect=Direct & Indirect",
+   "data": {
+    "director": "Ian Campbell",
+    "date_of_change": "2026-09-07",
+    "number_acquired": 120000.0,
+    "number_disposed": 11323.92,
+    "value_consideration": 11323.92,
+    "held_after_change": 700000.0,
+    "direct_or_indirect": "Direct & Indirect"
+   },
+   "source": "asx:66b78c6d6075015ef534203072e2b3b7",
+   "locator": "chars 656+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
  "situations": [
   {
    "situation_id": "S-ccf1356171",

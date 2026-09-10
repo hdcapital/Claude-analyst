@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/AXB",
+ "identity": {
+  "ticker": "AXB",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

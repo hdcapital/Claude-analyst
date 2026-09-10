@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/IXR",
+ "identity": {
+  "ticker": "IXR",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=34922.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 34922.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:4df988961721218937202302ce35dc08",
+   "locator": "chars 250+",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

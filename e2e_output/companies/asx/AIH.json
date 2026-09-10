@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/AIH",
+ "identity": {
+  "ticker": "AIH",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Samuel Terry Asset Management Pty Ltd (ACN: 108 611 785) atf Samuel, previous_voting_power_pct=5.2, present_voting_power_pct=6.4",
+   "data": {
+    "form": "604_change",
+    "holder": "Samuel Terry Asset Management Pty Ltd (ACN: 108 611 785) atf Samuel",
+    "became_on": null,
+    "previous_voting_power_pct": 5.2,
+    "present_voting_power_pct": 6.4
+   },
+   "source": "asx:06b3cc8e7a1d641ba263b6952c430a8d",
+   "locator": "chars 212+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

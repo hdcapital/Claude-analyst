@@ -1,0 +1,37 @@
+{
+ "issuer_key": "us/CIK2011498",
+ "identity": {
+  "exchange": "US",
+  "name": "AGL Private Credit Income Fund",
+  "cik": "2011498"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "2.03",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "2.03": "creation of financial obligation",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001193125-26-386441",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/CGS",
+ "identity": {
+  "ticker": "CGS",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=197997.0, issue_price=0.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 197997.0,
+    "issue_price": 0.0,
+    "implied_raise": null
+   },
+   "source": "asx:68f6e3aed55a861f6254d9d33ba7836c",
+   "locator": "chars 284+",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - CGS",
+   "data": {
+    "title": "Notification of cessation of securities - CGS",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137494",
+    "is_admin_noise": true
+   },
+   "source": "asx:d2525eada7ecef446b35866aebc1d40c",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

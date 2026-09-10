@@ -4,11 +4,69 @@
   "ticker": "FOS",
   "exchange": "ASX"
  },
- "facts": [],
- "situations": [],
- "changelog": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=6250000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 6250000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:144497740a2204254660395ca1f59661",
+   "locator": "chars 240+",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=12916667.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 12916667.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:eaa92abde6b63c2809c9012f13370171",
+   "locator": "chars 240+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=2583333.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 2583333.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:f66cdb2f67662122136b20f7e868edd2",
+   "locator": "chars 240+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-c7d62a1135",
+   "date": "2026-09-09",
+   "headline": "FOS Capital SPP to raise up to $1.25m at $0.12 following $1.86m placement",
+   "status": "open",
+   "source": "asx:c39304e2313ff51dc2bcd3d5ceebb59d"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: FOS Capital SPP to raise up to $1.25m at $0.12 following $1.86m placement (interest 3, risk 6)",
+   "source": "asx:c39304e2313ff51dc2bcd3d5ceebb59d",
+   "recorded_at": "2026-09-10T06:05:30Z"
+  }
+ ],
  "thesis": {
-  "text": "",
-  "updated": null
+  "text": "FOS Capital is a small-cap ASX company undergoing successive dilutive capital raises (placement + SPP) to fund working capital across its Queensland Schools Lighting and Aldridge Traffic Systems operations while simultaneously running a cost-reduction program, signalling near-term liquidity pressure rather than growth-driven equity issuance; monitor subsequent announcements for shortfall placements, further capital raises, or going-concern language that would confirm balance-sheet stress.",
+  "updated": "2026-09-09"
  }
 }

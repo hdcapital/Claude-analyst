@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/LXFR",
+ "identity": {
+  "ticker": "LXFR",
+  "exchange": "US",
+  "name": "LUXFER HOLDINGS PLC",
+  "cik": "1096056"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=False",
+   "data": {
+    "items": [
+     "8.01"
+    ],
+    "item_names": {
+     "8.01": "other events"
+    },
+    "escalated": false
+   },
+   "source": "us:0002077096-26-000244",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

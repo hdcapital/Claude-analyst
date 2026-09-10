@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/BPM",
+ "identity": {
+  "ticker": "BPM",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=5000.0, vwap=672.0, implied_consideration=3360000.0",
+   "data": {
+    "shares_purchased": 5000.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 672.0,
+    "implied_consideration": 3360000.0
+   },
+   "source": "uk:9761831",
+   "locator": "chars 266+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

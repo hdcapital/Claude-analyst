@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/CTHT",
+ "identity": {
+  "ticker": "CTHT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=30936.0, vwap=131.6, implied_consideration=4071177.6",
+   "data": {
+    "shares_purchased": 30936.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 131.6,
+    "implied_consideration": 4071177.6
+   },
+   "source": "uk:9761823",
+   "locator": "chars 270+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

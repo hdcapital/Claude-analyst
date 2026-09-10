@@ -21,6 +21,23 @@
    "source": "asx:64f6b24ac09cc5efc79aa4bdc5d29f96",
    "locator": "diff vs none",
    "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (20/40 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:64f6b24ac09cc5efc79aa4bdc5d29f96",
+    "changed_lines": 20,
+    "total_lines": 40,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-7 September 2026\n+9 September 2026\n-4/09/2026\n-$2.1469\n+8/09/2026\n+$2.1491\n-procedures and Board approval of the 2026 financial statements. KPMG (the auditor of the Fund) has notified the Responsible Entity that\n-as of 31 August 2026, KPMG’s audit of the 30 June 2026 Financial Report for the Fund is incomplete and that KPMG continues to work\n-through remaining audit procedures required to bring the audit to completion, noting the statutory deadline as required by the\n+procedures and Board approval of the 2026 financial statements. KPMG (the auditor of the Fund) has notified the Responsible Entity\n+that as of 31 August 2026, KPMG’s audit of the 30 June 2026 Financial Report for the Fund is incomplete and that KPMG continues to\n+work through remaining audit procedures required to bring the audit to completion, noting the statutory deadline as required by the\n-differences may result in changes to the amount reported in this Daily NTA Estimate. There will be a further announcement to the market\n-if we become aware any circumstance is likely to materially affect the information contained in this Daily NTA Estimate.\n+differences may result in changes to the amount reported in this Daily NTA Estimate. There will be a further announcement to the\n+market if we become aware any circumstance is likely to materially affect the information contained in this Daily NTA Estimate.\n-Perpetual is a financial services group operating in funds management, financial advisory and trustee services. For further information, go\n-to www.perpetual.com.au\n+Perpetual is a financial services group operating in funds management, financial advisory and trustee services. For further information,\n+go to www.perpetual.com.au"
+   },
+   "source": "asx:3f0c0109fbac85e3ec318d02f6a58bee",
+   "locator": "diff vs asx:64f6b24ac09cc5efc79aa4bdc5d29f96",
+   "recorded_at": "2026-09-10T05:39:54Z"
   }
  ],
  "situations": [],

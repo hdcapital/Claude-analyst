@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/SAFE",
+ "identity": {
+  "ticker": "SAFE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=PDMR, CHIEF EXECUTIVE OFFICER, nature=Purchase of share on London Stock Exchange, price=5.515, volume=5.515, value=30.42",
+   "data": {
+    "person": "Name",
+    "position": "PDMR, CHIEF EXECUTIVE OFFICER",
+    "nature": "Purchase of share on London Stock Exchange",
+    "price": 5.515,
+    "volume": 5.515,
+    "value": 30.42
+   },
+   "source": "uk:9763817",
+   "locator": "chars 206+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

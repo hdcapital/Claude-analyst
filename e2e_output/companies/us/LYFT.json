@@ -1,0 +1,53 @@
+{
+ "issuer_key": "us/LYFT",
+ "identity": {
+  "ticker": "LYFT",
+  "exchange": "US",
+  "name": "Lyft, Inc.",
+  "cik": "1759509"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=True",
+   "data": {
+    "items": [
+     "5.02",
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "5.02": "officer/director departure or appointment",
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001628280-26-061020",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-e9db1b027c",
+   "date": "2026-09-09",
+   "headline": "Lyft CFO transition: Brous succeeds Brewer, Q3 guidance reaffirmed",
+   "status": "open",
+   "source": "us:0001628280-26-061020"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Lyft CFO transition: Brous succeeds Brewer, Q3 guidance reaffirmed (interest 3, risk 2)",
+   "source": "us:0001628280-26-061020",
+   "recorded_at": "2026-09-10T06:23:13Z"
+  }
+ ],
+ "thesis": {
+  "text": "Lyft's CFO transition appears orderly and internally sourced, with the outgoing CFO staying on through year-end to ensure continuity, and management simultaneously reaffirming Q3 2026 guidance — signaling no underlying operational surprise. The file should continue tracking Q3 2026 earnings (expected November 2026) as the next real catalyst to confirm guidance was met and to assess Brous's early execution, particularly around AV integration commentary referenced in the release.",
+  "updated": "2026-09-09"
+ }
+}

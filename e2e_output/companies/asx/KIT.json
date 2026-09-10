@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/KIT",
+ "identity": {
+  "ticker": "KIT",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "dividend filing: first_of_type (0/165 lines changed)",
+   "data": {
+    "diff_group": "dividend",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 165,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:f9710d47c1e12631cb3fe66f854d8a49",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

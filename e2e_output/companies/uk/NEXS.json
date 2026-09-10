@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/NEXS",
+ "identity": {
+  "ticker": "NEXS",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=BNYM - Omnibus A/C (GROSS), resulting_voting_rights_pct=4.881, previous_voting_rights_pct=9.979",
+   "data": {
+    "holder": "BNYM - Omnibus A/C (GROSS)",
+    "resulting_voting_rights_pct": 4.881,
+    "previous_voting_rights_pct": 9.979
+   },
+   "source": "uk:9763347",
+   "locator": "chars 896+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

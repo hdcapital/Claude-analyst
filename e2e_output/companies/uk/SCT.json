@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/SCT",
+ "identity": {
+  "ticker": "SCT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Graham Charlton, nature=Purchase of Partnership Shares under the Softcat plc Share Incentive Plan, price=2082.0, volume=2082.0, value=4334724.0",
+   "data": {
+    "person": "Graham Charlton",
+    "position": null,
+    "nature": "Purchase of Partnership Shares under the Softcat plc Share Incentive Plan",
+    "price": 2082.0,
+    "volume": 2082.0,
+    "value": 4334724.0
+   },
+   "source": "uk:9763591",
+   "locator": "chars 349+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

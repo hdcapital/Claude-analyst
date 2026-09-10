@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/ARU",
+ "identity": {
+  "ticker": "ARU",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - ARU",
+   "data": {
+    "title": "Notification of cessation of securities - ARU",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137833",
+    "is_admin_noise": true
+   },
+   "source": "asx:e023384004b662c45ecc8cc80633475d",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

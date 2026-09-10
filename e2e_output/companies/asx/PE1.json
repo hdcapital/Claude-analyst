@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/PE1",
+ "identity": {
+  "ticker": "PE1",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

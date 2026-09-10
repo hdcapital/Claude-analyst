@@ -1,0 +1,49 @@
+{
+ "issuer_key": "asx/PXA",
+ "identity": {
+  "ticker": "PXA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Paul Gordon Rickard, date_of_change=2026-09-09, number_acquired=10000.0, number_disposed=0.0, value_consideration=7.05, held_after_change=5837.0, direct_or_indirect=Direct and Indirect",
+   "data": {
+    "director": "Paul Gordon Rickard",
+    "date_of_change": "2026-09-09",
+    "number_acquired": 10000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 7.05,
+    "held_after_change": 5837.0,
+    "direct_or_indirect": "Direct and Indirect"
+   },
+   "source": "asx:872ec77036bf714f323ca76e1a0696aa",
+   "locator": "chars 668+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Georgina Lynch, date_of_change=2026-09-08, number_acquired=12064.0, number_disposed=0.0, value_consideration=7.45, held_after_change=12064.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Georgina Lynch",
+    "date_of_change": "2026-09-08",
+    "number_acquired": 12064.0,
+    "number_disposed": 0.0,
+    "value_consideration": 7.45,
+    "held_after_change": 12064.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:adc2f8602f5aa11f0fdf87f716cc02c9",
+   "locator": "chars 667+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

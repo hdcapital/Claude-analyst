@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/T-PC",
+ "identity": {
+  "ticker": "T-PC",
+  "exchange": "US",
+  "name": "AT&T INC.",
+  "cik": "732717"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "5.02",
+     "9.01"
+    ],
+    "item_names": {
+     "5.02": "officer/director departure or appointment",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001193125-26-386534",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

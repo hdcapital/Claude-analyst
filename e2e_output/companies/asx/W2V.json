@@ -4,7 +4,22 @@
   "ticker": "W2V",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=2028.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 2028.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:b8ddf04b29eca5f25e2323a177feeb16",
+   "locator": "chars 239+",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

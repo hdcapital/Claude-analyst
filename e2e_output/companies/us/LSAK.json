@@ -1,0 +1,53 @@
+{
+ "issuer_key": "us/LSAK",
+ "identity": {
+  "ticker": "LSAK",
+  "exchange": "US",
+  "name": "LESAKA TECHNOLOGIES INC",
+  "cik": "1041514"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=False",
+   "data": {
+    "items": [
+     "2.02",
+     "9.01"
+    ],
+    "item_names": {
+     "2.02": "results of operations",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001062993-26-004866",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/30814 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 30814,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001562762-26-000104",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

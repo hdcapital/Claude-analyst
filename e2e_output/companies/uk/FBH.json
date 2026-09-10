@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/FBH",
+ "identity": {
+  "ticker": "FBH",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Financial Officer, FBD Holdings plc, nature=1.    Sale of 14,522 shares, price=18.9, volume=18.9, value=357.21",
+   "data": {
+    "person": "Name",
+    "position": "Chief Financial Officer, FBD Holdings plc",
+    "nature": "1.    Sale of 14,522 shares",
+    "price": 18.9,
+    "volume": 18.9,
+    "value": 357.21
+   },
+   "source": "uk:9764052",
+   "locator": "chars 331+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/ONT",
+ "identity": {
+  "ticker": "ONT",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

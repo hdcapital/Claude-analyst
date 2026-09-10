@@ -32,6 +32,62 @@
    "source": "asx:d0bdd74a8df158b9363678703ff48007",
    "locator": "metadata",
    "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing Notice",
+   "data": {
+    "title": "Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137519",
+    "is_admin_noise": true
+   },
+   "source": "asx:4b72ef4688c79c2843c7c7a287503a70",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - EXT",
+   "data": {
+    "title": "Notification regarding unquoted securities - EXT",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137511",
+    "is_admin_noise": true
+   },
+   "source": "asx:bb88c609f139dad6b22a590939976542",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - EXT",
+   "data": {
+    "title": "Notification regarding unquoted securities - EXT",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137581",
+    "is_admin_noise": true
+   },
+   "source": "asx:da47c7f9b40e5c7dca1d39f1105af301",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=53598474.0, issue_price=0.006, implied_raise=321590.84",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 53598474.0,
+    "issue_price": 0.006,
+    "implied_raise": 321590.84
+   },
+   "source": "asx:f4b819d7c7c9bdaf1b746f425725fa7a",
+   "locator": "chars 302+",
+   "recorded_at": "2026-09-10T05:39:56Z"
   }
  ],
  "situations": [],

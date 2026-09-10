@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/E79",
+ "identity": {
+  "ticker": "E79",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/3794 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 3794,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:ea3b9e40a49b4b77caef3e61943fc38f",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

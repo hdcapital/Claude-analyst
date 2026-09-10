@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/DMP",
+ "identity": {
+  "ticker": "DMP",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

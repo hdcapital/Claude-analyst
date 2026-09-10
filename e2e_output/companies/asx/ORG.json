@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/ORG",
+ "identity": {
+  "ticker": "ORG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Origin Energy 2026 Notice of Annual General Meeting",
+   "data": {
+    "title": "Origin Energy 2026 Notice of Annual General Meeting",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137699",
+    "is_admin_noise": true
+   },
+   "source": "asx:93e119244d159957d32b39631f790904",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -30,6 +30,45 @@
    "source": "uk:9759492",
    "locator": "chars 225+",
    "recorded_at": "2026-09-08T14:34:29Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=BNP PARIBAS SA, resulting_voting_rights_pct=4.908575, previous_voting_rights_pct=5.018637",
+   "data": {
+    "holder": "BNP PARIBAS SA",
+    "resulting_voting_rights_pct": 4.908575,
+    "previous_voting_rights_pct": 5.018637
+   },
+   "source": "uk:9763703",
+   "locator": "chars 278+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Societe Generale, resulting_voting_rights_pct=9.601486, previous_voting_rights_pct=10.074649",
+   "data": {
+    "holder": "Societe Generale",
+    "resulting_voting_rights_pct": 9.601486,
+    "previous_voting_rights_pct": 10.074649
+   },
+   "source": "uk:9763722",
+   "locator": "chars 225+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Morgan Stanley, resulting_voting_rights_pct=7.052554, previous_voting_rights_pct=6.10053",
+   "data": {
+    "holder": "Morgan Stanley",
+    "resulting_voting_rights_pct": 7.052554,
+    "previous_voting_rights_pct": 6.10053
+   },
+   "source": "uk:9764116",
+   "locator": "chars 225+",
+   "recorded_at": "2026-09-10T05:39:57Z"
   }
  ],
  "situations": [],

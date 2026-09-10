@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/GDR",
+ "identity": {
+  "ticker": "GDR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

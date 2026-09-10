@@ -33,6 +33,35 @@
    "source": "uk:9757827",
    "locator": "metadata",
    "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=7501.0, vwap=602.4, implied_consideration=4518602.4",
+   "data": {
+    "shares_purchased": 7501.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 602.4,
+    "implied_consideration": 4518602.4
+   },
+   "source": "uk:9759700",
+   "locator": "chars 202+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Total Voting Rights",
+   "data": {
+    "title": "Total Voting Rights",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/prn/blackrock-greater-europe-inv-trust--brge/total-voting-rights/9762145",
+    "is_admin_noise": true
+   },
+   "source": "uk:9762145",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:56Z"
   }
  ],
  "situations": [],

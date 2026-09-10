@@ -1,0 +1,47 @@
+{
+ "issuer_key": "uk/GSK",
+ "identity": {
+  "ticker": "GSK",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Roanne Parry, position=Chief People Officer, nature=A conditional award of Ordinary Shares under the Company's 2017 Performance Share Plan, price=18.375, volume=18.375, value=337.64",
+   "data": {
+    "person": "Roanne Parry",
+    "position": "Chief People Officer",
+    "nature": "A conditional award of Ordinary Shares under the Company's 2017 Performance Share Plan",
+    "price": 18.375,
+    "volume": 18.375,
+    "value": 337.64
+   },
+   "source": "uk:9764003",
+   "locator": "chars 1876+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Victoria Whyte, position=SVP & Company Secretary, nature=Award of Ordinary Shares under the Company’s 2025 Share Value Plan, price=17.965, volume=17.965, value=322.74",
+   "data": {
+    "person": "Victoria Whyte",
+    "position": "SVP & Company Secretary",
+    "nature": "Award of Ordinary Shares under the Company’s 2025 Share Value Plan",
+    "price": 17.965,
+    "volume": 17.965,
+    "value": 322.74
+   },
+   "source": "uk:9764004",
+   "locator": "chars 114+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

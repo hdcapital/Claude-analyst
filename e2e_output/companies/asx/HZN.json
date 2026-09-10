@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/HZN",
+ "identity": {
+  "ticker": "HZN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-6990162b01",
+   "date": "2026-09-09",
+   "headline": "Horizon Oil: Nam Phong Booster Gas Compressor delivers 84% production uplift, on time and under budget",
+   "status": "open",
+   "source": "asx:d990c626e118a14e5b778dd90bf248a2"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Horizon Oil: Nam Phong Booster Gas Compressor delivers 84% production uplift, on time and under budget (interest 6, risk 3)",
+   "source": "asx:d990c626e118a14e5b778dd90bf248a2",
+   "recorded_at": "2026-09-10T06:06:44Z"
+  }
+ ],
+ "thesis": {
+  "text": "Horizon Oil's disciplined, low-cost brownfield development strategy is being validated: the Nam Phong BGC, executed quickly post-acquisition and delivered under budget, produced an immediate 84% production uplift under favorable oil-linked gas pricing, supporting near-term cash flow growth from Thai assets and reinforcing management's execution credibility on further low-cost reserve unlocks across the portfolio [asx:d990c626e118a14e5b778dd90bf248a2 p.1].",
+  "updated": "2026-09-09"
+ }
+}

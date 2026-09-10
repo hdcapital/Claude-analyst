@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/CAL",
+ "identity": {
+  "ticker": "CAL",
+  "exchange": "US",
+  "name": "CALERES INC",
+  "cik": "14707"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=False",
+   "data": {
+    "items": [
+     "2.02",
+     "9.01"
+    ],
+    "item_names": {
+     "2.02": "results of operations",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0000014707-26-000138",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/AMP",
+ "identity": {
+  "ticker": "AMP",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

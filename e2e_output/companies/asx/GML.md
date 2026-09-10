@@ -5,13 +5,20 @@
 - exchange: ASX
 
 ## Thesis
-GML is a small-cap ASX gold miner/explorer now pursuing a material capital raising, per its own trading halt request; until pricing and size are disclosed, the situation is a placeholder event to monitor for dilution quantum and use of proceeds (judgement) [asx:d50ce512b8e571cab9f2a5ef4dab93e8 p.1].
-*(updated 2026-09-07)*
+GML has resolved its capital-raising overhang via a heavily oversubscribed $45M placement at $0.08/share (16.7% discount to last close), cornerstoned by Jupiter Asset Management, fully funding an aggressive multi-prospect drilling campaign at the Yandal Gold Project centered on the high-grade Cowza discovery (41m @ 2.0g/t Au inc. 9m @ 7.5g/t Au) [asx:7db08def6e92acc83f39f90daa63ec65 p.1-2]. Dilution is material (562.5M new shares issued), so forward tracking should focus on resource growth/drilling results as the next value catalyst versus the fresh, larger share base (judgement).
+*(updated 2026-09-09)*
 
 ## Open situations
 - 2026-09-07 **GML trading halt ahead of material capital raising announcement** (S-bda4d0d02f) [asx:d50ce512b8e571cab9f2a5ef4dab93e8]
+- 2026-09-09 **GML investor presentation confirms $45M placement completed, Cowza discovery advances Yandal gold camp** (S-0beb5cfe7e) [asx:5b4e085df7dfbc762263b8275211d661]
+- 2026-09-09 **GML completes $45M placement to fund aggressive Yandal drilling** (S-f2c4017edd) [asx:7db08def6e92acc83f39f90daa63ec65]
 
 ## Fact time series
+- 2026-09-09 [securities_issue] securities_issue: form=Appendix 2A, securities_count=562500000.0 [asx:c6c79fdf2d17a6719322753f62f21e2c @ 2026-09-09, chars 247+]
 
 ## What changed (newest first)
+- 2026-09-09: thesis superseded (was: "GML has funded its exploration program via a completed $45M placement (plus $15.1M cash) and is advancing a belt-scale discovery at Yandal, highlighted by the high-grade Cowza fresh-rock intercept (41m @ 2.0 g/t Au incl. 9m @ 7.5 g/t Au) on a structure never previously drill-tested, alongside an exi") [asx:7db08def6e92acc83f39f90daa63ec65]
+- 2026-09-09: stage-2 assessment: GML completes $45M placement to fund aggressive Yandal drilling (interest 6, risk 6) [asx:7db08def6e92acc83f39f90daa63ec65]
+- 2026-09-09: thesis superseded (was: "GML is a small-cap ASX gold miner/explorer now pursuing a material capital raising, per its own trading halt request; until pricing and size are disclosed, the situation is a placeholder event to monitor for dilution quantum and use of proceeds (judgement) [asx:d50ce512b8e571cab9f2a5ef4dab93e8 p.1].") [asx:5b4e085df7dfbc762263b8275211d661]
+- 2026-09-09: stage-2 assessment: GML investor presentation confirms $45M placement completed, Cowza discovery advances Yandal gold camp (interest 6, risk 5) [asx:5b4e085df7dfbc762263b8275211d661]
 - 2026-09-07: stage-2 assessment: GML trading halt ahead of material capital raising announcement (interest 5, risk 5) [asx:d50ce512b8e571cab9f2a5ef4dab93e8]

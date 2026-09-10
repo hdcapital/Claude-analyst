@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/SLS",
+ "identity": {
+  "ticker": "SLS",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

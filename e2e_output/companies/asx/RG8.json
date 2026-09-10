@@ -21,6 +21,20 @@
    "source": "asx:0a60578ec4ee0d8dd323bb12140a71f7",
    "locator": "diff vs none",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - RG8",
+   "data": {
+    "title": "Notification of cessation of securities - RG8",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137604",
+    "is_admin_noise": true
+   },
+   "source": "asx:730c6d5db6380a9527a31e73ccd91c95",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:54Z"
   }
  ],
  "situations": [],

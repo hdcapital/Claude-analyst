@@ -4,7 +4,23 @@
   "ticker": "FRS",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=Pinnacle Investment Management Group Limited (and its subsidiaries, became_on=2026-09-04, present_voting_power_pct=5.28",
+   "data": {
+    "form": "603_becoming",
+    "holder": "Pinnacle Investment Management Group Limited (and its subsidiaries",
+    "became_on": "2026-09-04",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 5.28
+   },
+   "source": "asx:78af563189c8a4bf38689310cea39625",
+   "locator": "chars 179+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

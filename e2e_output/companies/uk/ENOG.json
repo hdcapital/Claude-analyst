@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/ENOG",
+ "identity": {
+  "ticker": "ENOG",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

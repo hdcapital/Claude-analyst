@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/MGU",
+ "identity": {
+  "ticker": "MGU",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

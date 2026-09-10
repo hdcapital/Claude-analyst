@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/ISTR",
+ "identity": {
+  "ticker": "ISTR",
+  "exchange": "US",
+  "name": "Investar Holding Corp",
+  "cik": "1602658"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=False",
+   "data": {
+    "items": [
+     "8.01"
+    ],
+    "item_names": {
+     "8.01": "other events"
+    },
+    "escalated": false
+   },
+   "source": "us:0001437749-26-029996",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

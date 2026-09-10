@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/SUN",
+ "identity": {
+  "ticker": "SUN",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "dividend filing: first_of_type (0/242 lines changed)",
+   "data": {
+    "diff_group": "dividend",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 242,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:929a7c87ad513e7454a16edd3e25a4bb",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

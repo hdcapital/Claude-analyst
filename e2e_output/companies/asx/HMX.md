@@ -1,0 +1,17 @@
+# HMX
+
+## Identity
+- ticker: HMX
+- exchange: ASX
+
+## Thesis
+HMX is a merger-arbitrage/demerger situation: Austral's scheme to acquire Hammer is progressing with key regulatory waivers now secured (option/performance-rights cancellation and sub-20c capital reduction for the WA gold demerger), reducing execution risk ahead of the Scheme Booklet and shareholder votes; value depends on the yet-undisclosed scheme consideration and demerger entity valuation, both to be detailed in forthcoming Scheme Booklet and Notice of Meeting filings.
+*(updated 2026-09-09)*
+
+## Open situations
+- 2026-09-09 **Hammer Metals (HMX) merger-arb: ASX grants listing-rule waivers clearing path for Austral scheme + WA gold demerger** (S-d7c84e989c) [asx:decd13d4ec979d993aad344a45e73b37]
+
+## Fact time series
+
+## What changed (newest first)
+- 2026-09-09: stage-2 assessment: Hammer Metals (HMX) merger-arb: ASX grants listing-rule waivers clearing path for Austral scheme + WA gold demerger (interest 6, risk 4) [asx:decd13d4ec979d993aad344a45e73b37]

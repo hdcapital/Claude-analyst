@@ -34,6 +34,21 @@
    "source": "asx:756a70d07897d15688a1ab73f836e3f1",
    "locator": "chars 54+ (form 605)",
    "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=Macquarie Group Limited ('MQG'); and",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "Macquarie Group Limited ('MQG'); and",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:d9d9c3c1c5880e41178d0abcbe5f30bc",
+   "locator": "chars 54+ (form 605)",
+   "recorded_at": "2026-09-10T05:39:56Z"
   }
  ],
  "situations": [],

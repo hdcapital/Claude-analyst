@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/CRPR",
+ "identity": {
+  "ticker": "CRPR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Result of AGM",
+   "data": {
+    "title": "Result of AGM",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/cropper-james---crpr/result-of-agm/9764031",
+    "is_admin_noise": true
+   },
+   "source": "uk:9764031",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

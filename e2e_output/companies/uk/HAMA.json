@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/HAMA",
+ "identity": {
+  "ticker": "HAMA",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

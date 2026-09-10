@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/MFAI",
+ "identity": {
+  "ticker": "MFAI",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

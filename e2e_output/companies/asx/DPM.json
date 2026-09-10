@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/DPM",
+ "identity": {
+  "ticker": "DPM",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

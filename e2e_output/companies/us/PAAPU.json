@@ -1,0 +1,38 @@
+{
+ "issuer_key": "us/PAAPU",
+ "identity": {
+  "ticker": "PAAPU",
+  "exchange": "US",
+  "name": "PLAINS ALL AMERICAN PIPELINE LP",
+  "cik": "1070423"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=False",
+   "data": {
+    "items": [
+     "2.02",
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "2.02": "results of operations",
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001104659-26-105984",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

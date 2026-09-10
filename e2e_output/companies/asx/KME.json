@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/KME",
+ "identity": {
+  "ticker": "KME",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Crimson Consulting Australia Pty Ltd (Crimson Australia), previous_voting_power_pct=19.25, present_voting_power_pct=19.5",
+   "data": {
+    "form": "604_change",
+    "holder": "Crimson Consulting Australia Pty Ltd (Crimson Australia)",
+    "became_on": null,
+    "previous_voting_power_pct": 19.25,
+    "present_voting_power_pct": 19.5
+   },
+   "source": "asx:69856db64178721fbef724b59deb76ad",
+   "locator": "chars 341+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

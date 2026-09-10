@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/WLC",
+ "identity": {
+  "ticker": "WLC",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

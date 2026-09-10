@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/CRDA",
+ "identity": {
+  "ticker": "CRDA",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=1)         Member of Executive Committee (PDMR), nature=2026 Grant of an option under the Croda International Plc Sharesave Scheme (2023) as detailed in c)., price=1.0, volume=1.0, value=1.0",
+   "data": {
+    "person": "Name",
+    "position": "1)         Member of Executive Committee (PDMR)",
+    "nature": "2026 Grant of an option under the Croda International Plc Sharesave Scheme (2023) as detailed in c).",
+    "price": 1.0,
+    "volume": 1.0,
+    "value": 1.0
+   },
+   "source": "uk:9763360",
+   "locator": "chars 146+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

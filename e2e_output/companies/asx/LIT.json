@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/LIT",
+ "identity": {
+  "ticker": "LIT",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-d803c5b417",
+   "date": "2026-09-09",
+   "headline": "Livium: Recycling Volume Ramp, VSPC Due-Diligence Progress, SPP Extension",
+   "status": "open",
+   "source": "asx:7120b47d949016a17f8358ac64db3b8f"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Livium: Recycling Volume Ramp, VSPC Due-Diligence Progress, SPP Extension (interest 5, risk 6)",
+   "source": "asx:7120b47d949016a17f8358ac64db3b8f",
+   "recorded_at": "2026-09-10T06:02:51Z"
+  }
+ ],
+ "thesis": {
+  "text": "Livium is a small-cap Australian battery/solar recycler (via Envirostream) scaling LIB volumes through customer diversification (Sell & Parker, BYD, CATL, LGES, Hyundai Glovis) while pursuing optionality in solar panel recycling (Won Kwang/Iondrive) and a potential strategic alliance for its VSPC LFP cathode technology with a multinational partner now moving toward due diligence. Near-term catalysts include SPP completion (18 Sept 2026 results) and progress on VSPC due-diligence scope, but the company remains pre-profit at group level, reliant on non-binding partnership discussions, and operates in a volatile, nascent recycling industry, warranting continued monitoring rather than high-conviction sizing.",
+  "updated": "2026-09-09"
+ }
+}

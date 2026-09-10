@@ -18,6 +18,34 @@
    "source": "uk:9759354",
    "locator": "metadata",
    "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - Permanent TSB Group Holdings plc",
+   "data": {
+    "title": "Form 8.3 - Permanent TSB Group Holdings plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/permanent-tsb-group-holdings-cdi---ptsb/form-8-3-permanent-tsb-group-holdings-plc/9763777",
+    "is_admin_noise": true
+   },
+   "source": "uk:9763777",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - Permanent TSB Group Holdings plc",
+   "data": {
+    "title": "Form 8.3 - Permanent TSB Group Holdings plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/permanent-tsb-group-holdings-cdi---ptsb/form-8-3-permanent-tsb-group-holdings-plc/9763920",
+    "is_admin_noise": true
+   },
+   "source": "uk:9763920",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
   }
  ],
  "situations": [
@@ -34,6 +62,27 @@
    "headline": "PTSB scheme sanction hearing set for 27 October 2026 in BAWAG acquisition",
    "status": "open",
    "source": "uk:9758782"
+  },
+  {
+   "situation_id": "S-ad86d9ccdc",
+   "date": "2026-09-09",
+   "headline": "PTSB/BAWAG scheme: routine Rule 38.5 dealing disclosure confirms deal still live pre-sanction hearing",
+   "status": "open",
+   "source": "uk:9763056"
+  },
+  {
+   "situation_id": "S-6582a02963",
+   "date": "2026-09-09",
+   "headline": "PTSB/BAWAG scheme – routine dealing disclosure confirms trading near deal price",
+   "status": "open",
+   "source": "uk:9763446"
+  },
+  {
+   "situation_id": "S-2437dcf960",
+   "date": "2026-09-09",
+   "headline": "PTSB/BAWAG scheme – routine Rule 8.3 dealing disclosure (Goldman Sachs)",
+   "status": "open",
+   "source": "uk:9763542"
   }
  ],
  "changelog": [
@@ -54,6 +103,24 @@
    "entry": "thesis superseded (was: \"Permanent TSB is subject to a live, Irish Takeover Panel-regulated offer situation involving BAWAG Group AG as offeror; dealing disclosures from connected exempt principal traders (e.g., Citigroup) confirm ongoing market activity around EUR 2.94/share, but the specific offer price, structure and tim\")",
    "source": "uk:9758782",
    "recorded_at": "2026-09-08T15:01:30Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: PTSB/BAWAG scheme: routine Rule 38.5 dealing disclosure confirms deal still live pre-sanction hearing (interest 3, risk 2)",
+   "source": "uk:9763056",
+   "recorded_at": "2026-09-10T06:11:52Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: PTSB/BAWAG scheme – routine dealing disclosure confirms trading near deal price (interest 2, risk 2)",
+   "source": "uk:9763446",
+   "recorded_at": "2026-09-10T06:12:36Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: PTSB/BAWAG scheme – routine Rule 8.3 dealing disclosure (Goldman Sachs) (interest 2, risk 2)",
+   "source": "uk:9763542",
+   "recorded_at": "2026-09-10T06:14:36Z"
   }
  ],
  "thesis": {

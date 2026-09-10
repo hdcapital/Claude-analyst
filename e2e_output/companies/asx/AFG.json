@@ -21,6 +21,23 @@
    "source": "asx:255c5626f247263705e8ebc73fdeef9c",
    "locator": "chars 1229+ (form fields)",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=David Flynn, date_of_change=2026-09-08, number_acquired=26000.0, number_disposed=0.0, value_consideration=74432.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "David Flynn",
+    "date_of_change": "2026-09-08",
+    "number_acquired": 26000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 74432.0,
+    "held_after_change": null,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:eba5ecb7d8715a588b76f743d5bbca4d",
+   "locator": "chars 1228+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:56Z"
   }
  ],
  "situations": [],

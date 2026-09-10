@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/RTG",
+ "identity": {
+  "ticker": "RTG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - RTG",
+   "data": {
+    "title": "Notification of cessation of securities - RTG",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137650",
+    "is_admin_noise": true
+   },
+   "source": "asx:1bc3688918b9fac18b3d6a3cb2c6093d",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

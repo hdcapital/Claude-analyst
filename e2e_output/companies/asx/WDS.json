@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/WDS",
+ "identity": {
+  "ticker": "WDS",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "dividend filing: first_of_type (0/196 lines changed)",
+   "data": {
+    "diff_group": "dividend",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 196,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:5f56ed1c439c69f3936f943eeab0cfe9",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

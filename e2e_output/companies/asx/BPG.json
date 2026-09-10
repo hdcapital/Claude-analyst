@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/BPG",
+ "identity": {
+  "ticker": "BPG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=2000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 2000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:c389129ce296a280d23b8621cecee216",
+   "locator": "chars 297+",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

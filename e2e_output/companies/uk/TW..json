@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/TW.",
+ "identity": {
+  "ticker": "TW.",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Executive, nature=Acquisition of Partnership and award of free Matching shares through the Company's Share Incentive Plan, price=81.62, volume=81.62, value=6661.82",
+   "data": {
+    "person": "Name",
+    "position": "Chief Executive",
+    "nature": "Acquisition of Partnership and award of free Matching shares through the Company's Share Incentive Plan",
+    "price": 81.62,
+    "volume": 81.62,
+    "value": 6661.82
+   },
+   "source": "uk:9764050",
+   "locator": "chars 627+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

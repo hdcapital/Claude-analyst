@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/CCH",
+ "identity": {
+  "ticker": "CCH",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Commercial Digital Products Director, nature=SALE OF 10,000 SHARES UNDER EMPLOYEE STOCK PURCHASE PLAN AT GBP 46.15383 PER SHARE, RESULTING IN THE NET AMOUNT OF APPROX GBP 460,038, price=46.15383, volume=46.15383, value=2130.18",
+   "data": {
+    "person": "Name",
+    "position": "Commercial Digital Products Director",
+    "nature": "SALE OF 10,000 SHARES UNDER EMPLOYEE STOCK PURCHASE PLAN AT GBP 46.15383 PER SHARE, RESULTING IN THE NET AMOUNT OF APPROX GBP 460,038",
+    "price": 46.15383,
+    "volume": 46.15383,
+    "value": 2130.18
+   },
+   "source": "uk:9763928",
+   "locator": "chars 296+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

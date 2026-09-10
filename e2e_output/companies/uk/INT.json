@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/INT",
+ "identity": {
+  "ticker": "INT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Result of AGM",
+   "data": {
+    "title": "Result of AGM",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/intelliam-ai-plc--int/result-of-agm-/9764104",
+    "is_admin_noise": true
+   },
+   "source": "uk:9764104",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

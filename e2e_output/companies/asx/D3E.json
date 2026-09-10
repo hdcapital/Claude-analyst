@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/D3E",
+ "identity": {
+  "ticker": "D3E",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

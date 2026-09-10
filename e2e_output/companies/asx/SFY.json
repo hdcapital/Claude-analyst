@@ -21,6 +21,23 @@
    "source": "asx:31c36db2bfba6a9463163b6169573a32",
    "locator": "diff vs none",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (62/268 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:31c36db2bfba6a9463163b6169573a32",
+    "changed_lines": 62,
+    "total_lines": 268,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-September 04, 2026\n+September 08, 2026\n-2,737\n+2,738\n-4,614\n+4,615\n-Index Basket Shares per Creation Unit for 07-September-2026\n+Index Basket Shares per Creation Unit for 09-September-2026\n-04-September-2026\n+08-September-2026\n-$ 79.03\n+$ 78.27\n-$ 1,975,835.00\n-Value of Index Basket Shares for 04-September-2026\n-$ 1,975,909.13\n+$ 1,956,805.00\n+Value of Index Basket Shares for 08-September-2026\n+$ 1,956,571.27\n-- $ 74.13\n+$ 233.73\n-$ 732,738,794.40\n+$ 725,681,847.32\n-07-September-2026\n+09-September-2026\n-1,844\n+1,845\n-1,739\n+1,740\n-2,134\n+2,135\n-71\n+72\n-1,298\n+1,299\n-1,564\n+1,565\n-2,779\n+2,780\n-4,074\n+4,075\n-4,743\n+4,744\n-2,208\n+2,209\n-5,241\n+5,242\n-2,949\n+2,950\n-983\n+984\n-2,833\n+2,834\n-2,021\n+2,022\n-10,161\n+10,163\n-3,106\n+3,107\n-1,726\n+1,727\n-1,109\n+1,110"
+   },
+   "source": "asx:24007374a7253737534e18f1582e168c",
+   "locator": "diff vs asx:31c36db2bfba6a9463163b6169573a32",
+   "recorded_at": "2026-09-10T05:39:53Z"
   }
  ],
  "situations": [],

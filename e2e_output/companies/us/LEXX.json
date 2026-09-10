@@ -1,0 +1,55 @@
+{
+ "issuer_key": "us/LEXX",
+ "identity": {
+  "ticker": "LEXX",
+  "exchange": "US",
+  "name": "Lexaria Bioscience Corp.",
+  "cik": "1348362"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[4], item_names(4), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "3.02",
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "3.02": "unregistered equity sales",
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001640334-26-001468",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-57c4197ccf",
+   "date": "2026-09-09",
+   "headline": "Lexaria Bioscience warrant inducement/exercise financing (Sept 2026)",
+   "status": "open",
+   "source": "us:0001640334-26-001468"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Lexaria Bioscience warrant inducement/exercise financing (Sept 2026) (interest 4, risk 6)",
+   "source": "us:0001640334-26-001468",
+   "recorded_at": "2026-09-10T06:23:31Z"
+  }
+ ],
+ "thesis": {
+  "text": "Lexaria is a microcap pharmaceutical (DehydraTECH platform) that continues to rely on equity/warrant financings to fund operations; this warrant inducement exchange (new Series A/B warrants at $12.67 strike) signals ongoing need for capital and potential further dilution. Until proceeds, share count post-exercise, and use of funds are disclosed, this remains a financing-risk event rather than a fundamental catalyst; monitor subsequent 8-Ks/10-Qs for cash runway and dilution impact.",
+  "updated": "2026-09-09"
+ }
+}

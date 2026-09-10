@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CP8",
+ "identity": {
+  "ticker": "CP8",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

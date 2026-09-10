@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/AQD",
+ "identity": {
+  "ticker": "AQD",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

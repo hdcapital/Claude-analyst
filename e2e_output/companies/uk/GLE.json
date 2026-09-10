@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/GLE",
+ "identity": {
+  "ticker": "GLE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Is this a PDMR or PCA submission?, nature=Acquisition of Ordinary Shares of £0.02 each through the Scheme, price=2.65, volume=2.65, value=7.02",
+   "data": {
+    "person": "Is this a PDMR or PCA submission?",
+    "position": null,
+    "nature": "Acquisition of Ordinary Shares of £0.02 each through the Scheme",
+    "price": 2.65,
+    "volume": 2.65,
+    "value": 7.02
+   },
+   "source": "uk:9764047",
+   "locator": "chars 873+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

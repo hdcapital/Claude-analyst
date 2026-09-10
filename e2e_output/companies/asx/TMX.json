@@ -4,7 +4,36 @@
   "ticker": "TMX",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=6.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 6.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:08c08b16d8e4107e927c1ae987a2333b",
+   "locator": "chars 249+",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=6.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 6.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:591b33aa2a9fd627f304b88df1fcdc66",
+   "locator": "chars 249+",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

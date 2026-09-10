@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/SER",
+ "identity": {
+  "ticker": "SER",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

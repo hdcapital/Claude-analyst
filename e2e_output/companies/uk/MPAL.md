@@ -10,9 +10,11 @@ MedPal AI is an early-stage, AIM-listed digital health/pharmacy roll-up showing 
 
 ## Open situations
 - 2026-09-07 **MedPal AI (MPAL): August trading update shows explosive New Health GLP-1 growth to £28m annualised run-rate** (S-307c23a332) [uk:9757541]
+- 2026-09-09 **MedPal AI (MPAL): eMARx final consideration settled via cash and new shares, minor dilution** (S-b47bb4b243) [uk:9756694]
 
 ## Fact time series
 - 2026-09-07 [repeat_filing_diff] results filing: first_of_type (0/67 lines changed) [uk:9757541 @ 2026-09-07, diff vs none]
 
 ## What changed (newest first)
+- 2026-09-09: stage-2 assessment: MedPal AI (MPAL): eMARx final consideration settled via cash and new shares, minor dilution (interest 2, risk 6) [uk:9756694]
 - 2026-09-07: stage-2 assessment: MedPal AI (MPAL): August trading update shows explosive New Health GLP-1 growth to £28m annualised run-rate (interest 7, risk 7) [uk:9757541]

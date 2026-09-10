@@ -4,7 +4,23 @@
   "ticker": "JUSC",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=60000.0",
+   "data": {
+    "shares_purchased": 60000.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9764068",
+   "locator": "chars 229+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

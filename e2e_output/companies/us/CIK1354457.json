@@ -1,0 +1,30 @@
+{
+ "issuer_key": "us/CIK1354457",
+ "identity": {
+  "exchange": "US",
+  "name": "Nasdaq Stock Market LLC",
+  "cik": "1354457"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=25-NSE — Nasdaq Stock Market LLC, form=25-NSE",
+   "data": {
+    "title": "25-NSE — Nasdaq Stock Market LLC",
+    "form": "25-NSE",
+    "url": "https://www.sec.gov/Archives/edgar/data/1354457/0001354457-26-000866.txt",
+    "is_admin_noise": false
+   },
+   "source": "us:0001354457-26-000866",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

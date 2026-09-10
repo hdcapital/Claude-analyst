@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/TRUG",
+ "identity": {
+  "ticker": "TRUG",
+  "exchange": "US",
+  "name": "TruGolf Holdings, Inc.",
+  "cik": "1857086"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001493152-26-041991",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

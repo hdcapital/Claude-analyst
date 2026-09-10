@@ -32,6 +32,49 @@
    "source": "asx:873267a3e180b6b71dbbd458d4ea09d7",
    "locator": "chars 3851+",
    "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - LOT",
+   "data": {
+    "title": "Notification regarding unquoted securities - LOT",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137645",
+    "is_admin_noise": true
+   },
+   "source": "asx:23c4bd333f70d7c42cc0f71b8b7bdb44",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=JPMorgan Chase & Co. and its affiliates, previous_voting_power_pct=5.46, present_voting_power_pct=6.48",
+   "data": {
+    "form": "604_change",
+    "holder": "JPMorgan Chase & Co. and its affiliates",
+    "became_on": null,
+    "previous_voting_power_pct": 5.46,
+    "present_voting_power_pct": 6.48
+   },
+   "source": "asx:67dca201b0af173cf86a3037bc89d4f1",
+   "locator": "chars 220+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - LOT",
+   "data": {
+    "title": "Notification regarding unquoted securities - LOT",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137644",
+    "is_admin_noise": true
+   },
+   "source": "asx:eb2024fc349ad0ff87c48e1e1753461e",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:56Z"
   }
  ],
  "situations": [],

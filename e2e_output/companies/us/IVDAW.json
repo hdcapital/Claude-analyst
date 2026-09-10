@@ -1,0 +1,51 @@
+{
+ "issuer_key": "us/IVDAW",
+ "identity": {
+  "ticker": "IVDAW",
+  "exchange": "US",
+  "name": "Iveda Solutions, Inc.",
+  "cik": "1397183"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "3.01",
+     "9.01"
+    ],
+    "item_names": {
+     "3.01": "delisting / listing-standard notice",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001493152-26-041878",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-7deb1fca28",
+   "date": "2026-09-09",
+   "headline": "Iveda gets second Nasdaq bid-price extension to March 2027",
+   "status": "open",
+   "source": "us:0001493152-26-041878"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Iveda gets second Nasdaq bid-price extension to March 2027 (interest 3, risk 8)",
+   "source": "us:0001493152-26-041878",
+   "recorded_at": "2026-09-10T06:22:22Z"
+  }
+ ],
+ "thesis": {
+  "text": "Iveda is a micro-cap AI video/drone story with chronic Nasdaq bid-price non-compliance; this second 180-day extension to March 1, 2027 buys time but does not resolve the underlying issue, and management explicitly floats a reverse split as a lever, implying dilution/mechanical repricing risk ahead of the catalyst; commercial pipeline (IvedaAI, IvedaAir, CEREBRO) remains unmonetized per the company's own forward-looking caveats, so this stays a speculative, event-driven watch rather than a compounder.",
+  "updated": "2026-09-09"
+ }
+}

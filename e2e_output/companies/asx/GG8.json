@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/GG8",
+ "identity": {
+  "ticker": "GG8",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

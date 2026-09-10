@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/ORE",
+ "identity": {
+  "ticker": "ORE",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

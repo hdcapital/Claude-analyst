@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/DOTD",
+ "identity": {
+  "ticker": "DOTD",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Exercise of Options and Total Voting Rights",
+   "data": {
+    "title": "Exercise of Options and Total Voting Rights",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dotdigital-group--dotd/exercise-of-options-and-total-voting-rights/9763924",
+    "is_admin_noise": true
+   },
+   "source": "uk:9763924",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/TGP",
+ "identity": {
+  "ticker": "TGP",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

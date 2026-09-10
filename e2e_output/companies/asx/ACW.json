@@ -18,6 +18,37 @@
    "source": "asx:26a9a7510b55884d4bc4cf3a64b2e7c2",
    "locator": "chars 294+",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Dr Geoffrey Brooke, date_of_change=2026-09-09, number_acquired=2.0, number_disposed=2.0, value_consideration=8888.59, direct_or_indirect=1. Direct",
+   "data": {
+    "director": "Dr Geoffrey Brooke",
+    "date_of_change": "2026-09-09",
+    "number_acquired": 2.0,
+    "number_disposed": 2.0,
+    "value_consideration": 8888.59,
+    "held_after_change": null,
+    "direct_or_indirect": "1. Direct"
+   },
+   "source": "asx:66c0f745c54ffbbf3cc7358d220d2fa9",
+   "locator": "chars 629+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=27380179.0, issue_price=0.0375, implied_raise=1026756.71",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 27380179.0,
+    "issue_price": 0.0375,
+    "implied_raise": 1026756.71
+   },
+   "source": "asx:c285885e43b323ba63dfdaf8125b1ef0",
+   "locator": "chars 297+",
+   "recorded_at": "2026-09-10T05:39:55Z"
   }
  ],
  "situations": [],

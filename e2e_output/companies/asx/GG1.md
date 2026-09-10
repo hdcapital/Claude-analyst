@@ -10,6 +10,7 @@ GG1 is a dual-commodity NE Queensland explorer using a discounted, director-back
 
 ## Open situations
 - 2026-09-07 **GG1 $3.2m Renounceable Rights Issue to Fund Copper & Gold Drilling** (S-5c41bc6f4e) [asx:b7b410cb2857634e42cfc50e190734d4]
+- 2026-09-09 **GG1 Rights Trading Commences (GG1R) - Procedural Update to Existing Rights Issue** (S-c796200a88) [asx:5a32e15c237f14d6ab2ae555b5359630]
 
 ## Fact time series
 - 2026-09-07 [admin_announcement] admin_announcement: title=Letter to Optionholders [asx:2719139b736337efb2fd574bfd980636 @ 2026-09-07, metadata]
@@ -17,4 +18,5 @@ GG1 is a dual-commodity NE Queensland explorer using a discounted, director-back
 - 2026-09-07 [securities_issue] securities_issue: form=Appendix 2A, securities_count=6384238.0 [asx:736a0c6878f5a582efafb33127a5d194 @ 2026-09-07, chars 254+]
 
 ## What changed (newest first)
+- 2026-09-09: stage-2 assessment: GG1 Rights Trading Commences (GG1R) - Procedural Update to Existing Rights Issue (interest 3, risk 7) [asx:5a32e15c237f14d6ab2ae555b5359630]
 - 2026-09-07: stage-2 assessment: GG1 $3.2m Renounceable Rights Issue to Fund Copper & Gold Drilling (interest 6, risk 7) [asx:b7b410cb2857634e42cfc50e190734d4]

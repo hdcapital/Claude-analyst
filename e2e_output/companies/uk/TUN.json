@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/TUN",
+ "identity": {
+  "ticker": "TUN",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=David Lilley, resulting_voting_rights_pct=6.996, previous_voting_rights_pct=7.98",
+   "data": {
+    "holder": "David Lilley",
+    "resulting_voting_rights_pct": 6.996,
+    "previous_voting_rights_pct": 7.98
+   },
+   "source": "uk:9763818",
+   "locator": "chars 861+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/EL8",
+ "identity": {
+  "ticker": "EL8",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

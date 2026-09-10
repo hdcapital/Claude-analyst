@@ -21,6 +21,21 @@
    "source": "asx:ba919eac1d7255d071f2fef0c94d79e6",
    "locator": "chars 680+ (form fields)",
    "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Aslan Equities Pty Ltd <Aslan Equities A/C>. (Aslan Equities), previous_voting_power_pct=8.46, present_voting_power_pct=10.67",
+   "data": {
+    "form": "604_change",
+    "holder": "Aslan Equities Pty Ltd <Aslan Equities A/C>. (Aslan Equities)",
+    "became_on": null,
+    "previous_voting_power_pct": 8.46,
+    "present_voting_power_pct": 10.67
+   },
+   "source": "asx:0a92918abb67224df0a2044f99493d88",
+   "locator": "chars 212+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:53Z"
   }
  ],
  "situations": [],

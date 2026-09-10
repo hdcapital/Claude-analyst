@@ -4,7 +4,21 @@
   "ticker": "GROW",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Jefferies Financial Group Inc, resulting_voting_rights_pct=7.434, previous_voting_rights_pct=6.434",
+   "data": {
+    "holder": "Jefferies Financial Group Inc",
+    "resulting_voting_rights_pct": 7.434,
+    "previous_voting_rights_pct": 6.434
+   },
+   "source": "uk:9764172",
+   "locator": "chars 361+",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

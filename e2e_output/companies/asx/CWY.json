@@ -1,0 +1,74 @@
+{
+ "issuer_key": "asx/CWY",
+ "identity": {
+  "ticker": "CWY",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Mark John Schubert, date_of_change=2026-09-07, number_acquired=327141.0, number_disposed=1.0, value_consideration=24.0, held_after_change=1470447.0, direct_or_indirect=Direct (in relation to Rights)",
+   "data": {
+    "director": "Mark John Schubert",
+    "date_of_change": "2026-09-07",
+    "number_acquired": 327141.0,
+    "number_disposed": 1.0,
+    "value_consideration": 24.0,
+    "held_after_change": 1470447.0,
+    "direct_or_indirect": "Direct (in relation to Rights)"
+   },
+   "source": "asx:0c0e18eb41dff91a36a391074beb517b",
+   "locator": "chars 719+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=498125.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 498125.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:7a726f5983f1cfa2cbd50e76d4e7d708",
+   "locator": "chars 306+",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=40552.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 40552.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:84b778bd36c65aeec24c44795e3b8896",
+   "locator": "chars 306+",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - CWY",
+   "data": {
+    "title": "Notification of cessation of securities - CWY",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137389",
+    "is_admin_noise": true
+   },
+   "source": "asx:d108d3a2a28c9c6f72561987ac7492ca",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

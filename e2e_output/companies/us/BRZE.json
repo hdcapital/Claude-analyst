@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/BRZE",
+ "identity": {
+  "ticker": "BRZE",
+  "exchange": "US",
+  "name": "Braze, Inc.",
+  "cik": "1676238"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/37509 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 37509,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001676238-26-000040",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

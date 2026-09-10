@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/AO.",
+ "identity": {
+  "ticker": "AO.",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=4323324.0, highest_price=313774.0",
+   "data": {
+    "shares_purchased": 4323324.0,
+    "highest_price": 313774.0,
+    "lowest_price": null,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9761798",
+   "locator": "chars 585+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

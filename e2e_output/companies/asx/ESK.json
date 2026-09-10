@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/ESK",
+ "identity": {
+  "ticker": "ESK",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - ESK",
+   "data": {
+    "title": "Notification of cessation of securities - ESK",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137757",
+    "is_admin_noise": true
+   },
+   "source": "asx:96e8be86007dcf1d9785f8d5752f420b",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - ESK",
+   "data": {
+    "title": "Notification regarding unquoted securities - ESK",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137784",
+    "is_admin_noise": true
+   },
+   "source": "asx:a889377cfd90b0e99096627976e351ce",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

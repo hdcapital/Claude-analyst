@@ -4,7 +4,22 @@
   "ticker": "HILS",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Director Declaration",
+   "data": {
+    "title": "Director Declaration",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/hill-and-smith--hils/director-declaration/9763228",
+    "is_admin_noise": false
+   },
+   "source": "uk:9763228",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

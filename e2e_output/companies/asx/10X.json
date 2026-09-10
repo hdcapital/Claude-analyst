@@ -18,6 +18,23 @@
    "source": "asx:aaa3fcde395e6774ab77ff6261f0e3d6",
    "locator": "chars 294+",
    "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/3411 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 3411,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:519ca1d67621e60e7bbd1609083d157f",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:54Z"
   }
  ],
  "situations": [],

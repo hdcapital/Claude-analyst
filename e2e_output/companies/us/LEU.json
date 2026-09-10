@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/LEU",
+ "identity": {
+  "ticker": "LEU",
+  "exchange": "US",
+  "name": "CENTRUS ENERGY CORP",
+  "cik": "1065059"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=False",
+   "data": {
+    "items": [
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001628280-26-061036",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

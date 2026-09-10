@@ -27,6 +27,13 @@
    "headline": "OncoSil secures $5.6m placement/option exercise from top holders to fund US/AU commercial launch",
    "status": "open",
    "source": "asx:cb2d73f4933a03fc71013da3429ab782"
+  },
+  {
+   "situation_id": "S-ecf892fbc3",
+   "date": "2026-09-09",
+   "headline": "OncoSil manufacturing partner Cyclotek achieves ISO 13485 certification, on track for 2Q FY27 production",
+   "status": "open",
+   "source": "asx:3a0a78c57ffe0854294deb728452d6fb"
   }
  ],
  "changelog": [
@@ -35,6 +42,12 @@
    "entry": "stage-2 assessment: OncoSil secures $5.6m placement/option exercise from top holders to fund US/AU commercial launch (interest 5, risk 6)",
    "source": "asx:cb2d73f4933a03fc71013da3429ab782",
    "recorded_at": "2026-09-08T14:56:43Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: OncoSil manufacturing partner Cyclotek achieves ISO 13485 certification, on track for 2Q FY27 production (interest 4, risk 6)",
+   "source": "asx:3a0a78c57ffe0854294deb728452d6fb",
+   "recorded_at": "2026-09-10T06:00:51Z"
   }
  ],
  "thesis": {

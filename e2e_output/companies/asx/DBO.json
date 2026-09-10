@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/DBO",
+ "identity": {
+  "ticker": "DBO",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

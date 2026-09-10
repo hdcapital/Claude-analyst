@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/ARN",
+ "identity": {
+  "ticker": "ARN",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=835520.0, issue_price=0.25, implied_raise=208880.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 835520.0,
+    "issue_price": 0.25,
+    "implied_raise": 208880.0
+   },
+   "source": "asx:b61085fae912cf7be3bf7038ceb5e35f",
+   "locator": "chars 296+",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing Statement",
+   "data": {
+    "title": "Cleansing Statement",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137756",
+    "is_admin_noise": true
+   },
+   "source": "asx:de847b9c83236141d13da52d18245e9e",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

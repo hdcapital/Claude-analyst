@@ -1,0 +1,46 @@
+{
+ "issuer_key": "uk/TPFG",
+ "identity": {
+  "ticker": "TPFG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Change of Registered Office",
+   "data": {
+    "title": "Change of Registered Office",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/property-franchise-group--tpfg/change-of-registered-office/9761818",
+    "is_admin_noise": false
+   },
+   "source": "uk:9761818",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/1275 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 1275,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "uk:9762111",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -19,6 +19,19 @@
    "source": "uk:9757497",
    "locator": "chars 495+",
    "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=JPMorgan Chase & Co., resulting_voting_rights_pct=6.936972, previous_voting_rights_pct=7.129187",
+   "data": {
+    "holder": "JPMorgan Chase & Co.",
+    "resulting_voting_rights_pct": 6.936972,
+    "previous_voting_rights_pct": 7.129187
+   },
+   "source": "uk:9764027",
+   "locator": "chars 222+",
+   "recorded_at": "2026-09-10T05:39:57Z"
   }
  ],
  "situations": [],

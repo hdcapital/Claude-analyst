@@ -18,6 +18,21 @@
    "source": "asx:3f0d21193d0d5dd8cdec299754488dfe",
    "locator": "metadata",
    "recorded_at": "2026-09-08T14:34:24Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=Consideration Given In, present_voting_power_pct=7.93",
+   "data": {
+    "form": "603_becoming",
+    "holder": "Consideration Given In",
+    "became_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 7.93
+   },
+   "source": "asx:1dd3f8564a17fa3ab4ba837015213db2",
+   "locator": "chars 2903+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:53Z"
   }
  ],
  "situations": [],

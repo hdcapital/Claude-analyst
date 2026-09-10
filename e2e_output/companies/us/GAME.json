@@ -1,0 +1,70 @@
+{
+ "issuer_key": "us/GAME",
+ "identity": {
+  "ticker": "GAME",
+  "exchange": "US",
+  "name": "GameSquare Holdings, Inc.",
+  "cik": "1714562"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "3.02",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "3.02": "unregistered equity sales",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001493152-26-041884",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=False",
+   "data": {
+    "items": [
+     "8.01"
+    ],
+    "item_names": {
+     "8.01": "other events"
+    },
+    "escalated": false
+   },
+   "source": "us:0001493152-26-041889",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-6f4b8f9558",
+   "date": "2026-09-09",
+   "headline": "GameSquare acquires FanEngine assets via contribution agreement with stock/earnout structure",
+   "status": "open",
+   "source": "us:0001493152-26-041884"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: GameSquare acquires FanEngine assets via contribution agreement with stock/earnout structure (interest 5, risk 6)",
+   "source": "us:0001493152-26-041884",
+   "recorded_at": "2026-09-10T06:22:35Z"
+  }
+ ],
+ "thesis": {
+  "text": "GameSquare (formerly Engine Gaming/Torque Esports) continues a pattern of asset acquisitions funded partly via unregistered equity issuance and earnouts, per the FanEngine Contribution Agreement; the transaction's economic terms (purchase price, share issuance size, earnout caps) are not disclosed in the exhibit table of contents provided, so materiality and dilution impact cannot yet be assessed and require follow-up on the definitive purchase price and share count once fully disclosed [us:0001493152-26-041884 EX-10.1].",
+  "updated": "2026-09-09"
+ }
+}

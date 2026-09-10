@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/CSN",
+ "identity": {
+  "ticker": "CSN",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Chesnara plc, position=Group Chief Risk Officer, nature=Granted under the Chesnara 2023 Long Term Incentive Plan, the option is subject to performance targets over a period of three financial years., price=46676.0, volume=46676.0, value=2178648976.0",
+   "data": {
+    "person": "Chesnara plc",
+    "position": "Group Chief Risk Officer",
+    "nature": "Granted under the Chesnara 2023 Long Term Incentive Plan, the option is subject to performance targets over a period of three financial years.",
+    "price": 46676.0,
+    "volume": 46676.0,
+    "value": 2178648976.0
+   },
+   "source": "uk:9761845",
+   "locator": "chars 804+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

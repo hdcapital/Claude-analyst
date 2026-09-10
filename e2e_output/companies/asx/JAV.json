@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/JAV",
+ "identity": {
+  "ticker": "JAV",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

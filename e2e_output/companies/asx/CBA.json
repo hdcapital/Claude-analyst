@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/CBA",
+ "identity": {
+  "ticker": "CBA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=Commonwealth Bank of Australia ACN 123 123 124 (CBA) and its related bodies corporate listed in annexure A, became_on=2026-09-07, present_voting_power_pct=0.15",
+   "data": {
+    "form": "603_becoming",
+    "holder": "Commonwealth Bank of Australia ACN 123 123 124 (CBA) and its related bodies corporate listed in annexure A",
+    "became_on": "2026-09-07",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 0.15
+   },
+   "source": "asx:0f6fa0cd211ef77129e78ec5bce98a2b",
+   "locator": "chars 181+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

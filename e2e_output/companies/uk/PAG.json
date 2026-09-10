@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/PAG",
+ "identity": {
+  "ticker": "PAG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=BlackRock, Inc., resulting_voting_rights_pct=5.07, previous_voting_rights_pct=5.06",
+   "data": {
+    "holder": "BlackRock, Inc.",
+    "resulting_voting_rights_pct": 5.07,
+    "previous_voting_rights_pct": 5.06
+   },
+   "source": "uk:9764029",
+   "locator": "chars 237+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

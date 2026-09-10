@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/GTE",
+ "identity": {
+  "ticker": "GTE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=See 1 a) above, nature=Acquisition of Common Shares through the Company's Employee Share Savings Plan, price=10.03, volume=10.03, value=100.6",
+   "data": {
+    "person": "Name",
+    "position": "See 1 a) above",
+    "nature": "Acquisition of Common Shares through the Company's Employee Share Savings Plan",
+    "price": 10.03,
+    "volume": 10.03,
+    "value": 100.6
+   },
+   "source": "uk:9761765",
+   "locator": "chars 454+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

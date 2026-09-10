@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/ARK",
+ "identity": {
+  "ticker": "ARK",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

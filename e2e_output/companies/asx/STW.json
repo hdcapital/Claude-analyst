@@ -21,6 +21,23 @@
    "source": "asx:de51c5e09d91b2b2667a6ece65198b8b",
    "locator": "diff vs none",
    "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (162/750 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:de51c5e09d91b2b2667a6ece65198b8b",
+    "changed_lines": 162,
+    "total_lines": 750,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-September 04, 2026\n+September 08, 2026\n-376\n+377\n-207\n+208\n-803\n+804\n-1,884\n-Index Basket Shares per Creation Unit for 07-September-2026\n+1,885\n+Index Basket Shares per Creation Unit for 09-September-2026\n-04-September-2026\n+08-September-2026\n-$ 81.24\n+$ 80.50\n-$ 2,031,122.50\n-Value of Index Basket Shares for 04-September-2026\n-$ 2,030,775.61\n+$ 2,012,470.00\n+Value of Index Basket Shares for 08-September-2026\n+$ 2,012,034.98\n-$ 346.89\n+$ 435.02\n-$ 6,791,093,172.33\n+$ 6,728,721,718.45\n-07-September-2026\n+09-September-2026\n-0.00\n+100,000.00\n-83,587,898.00\n+83,487,898.00\n-985\n+986\n-202\n+203\n-3,782\n+3,784\n-492\n+493\n-1,002\n+1,003\n-390\n+391\n-492\n+493\n-376\n+377\n-1,668\n+1,669\n-51\n+52\n-1,189\n+1,190\n-492\n+493\n-196\n+197\n-798\n+799\n-1,136\n+1,137\n-133\n+134\n-1,522\n+1,523\n-165\n+166\n-572\n+573\n-1,749\n+1,750\n-237\n+238\n-2,937\n+2,938\n-1,553\n+1,554\n-2,050\n+2,051\n-2,283\n+2,284\n-944\n+945\n-1,874\n+1,875\n-1,064\n+1,065\n-1,282\n+1,283\n+PDI\n+PDI Gold Ltd\n+583\n-334\n+335\n-2,278\n+2,279\n-72\n+73\n-1,000\n+1,001\n-1,126\n+1,127\n-1,413\n+1,414\n-1,591\n+1,592\n-3,339\n+3,341\n-3,888\n+3,889\n+6\n+State Street®\n+SPDR®\n+S&P®\n+/ASX 200 ETF\n+For personal use only\n-1,810\n-6\n-State Street®"
+   },
+   "source": "asx:b183b6a761a1f69365c8340ec3141d82",
+   "locator": "diff vs asx:de51c5e09d91b2b2667a6ece65198b8b",
+   "recorded_at": "2026-09-10T05:39:55Z"
   }
  ],
  "situations": [],

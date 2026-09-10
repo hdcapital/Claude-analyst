@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/HOC",
+ "identity": {
+  "ticker": "HOC",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

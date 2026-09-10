@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/NVA",
+ "identity": {
+  "ticker": "NVA",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

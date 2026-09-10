@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/AV.",
+ "identity": {
+  "ticker": "AV.",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Aviva PLC, resulting_voting_rights_pct=6.19, previous_voting_rights_pct=6.23",
+   "data": {
+    "holder": "Aviva PLC",
+    "resulting_voting_rights_pct": 6.19,
+    "previous_voting_rights_pct": 6.23
+   },
+   "source": "uk:9763908",
+   "locator": "chars 281+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

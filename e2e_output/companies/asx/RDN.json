@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/RDN",
+ "identity": {
+  "ticker": "RDN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

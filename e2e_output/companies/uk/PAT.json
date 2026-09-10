@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/PAT",
+ "identity": {
+  "ticker": "PAT",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

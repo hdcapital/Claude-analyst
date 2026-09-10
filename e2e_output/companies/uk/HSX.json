@@ -19,6 +19,19 @@
    "source": "uk:9757527",
    "locator": "chars 542+",
    "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Societe Generale, resulting_voting_rights_pct=5.112249, previous_voting_rights_pct=4.97857",
+   "data": {
+    "holder": "Societe Generale",
+    "resulting_voting_rights_pct": 5.112249,
+    "previous_voting_rights_pct": 4.97857
+   },
+   "source": "uk:9763788",
+   "locator": "chars 226+",
+   "recorded_at": "2026-09-10T05:39:57Z"
   }
  ],
  "situations": [],

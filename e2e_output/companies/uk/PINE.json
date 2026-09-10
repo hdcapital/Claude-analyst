@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/PINE",
+ "identity": {
+  "ticker": "PINE",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-4838afaa38",
+   "date": "2026-09-09",
+   "headline": "Pinewood.AI takeover by Ridgeview-backed Bidco: Feoh support shrinks to 0.06% but deal irrevocables hold ~45%",
+   "status": "open",
+   "source": "uk:9761772"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Pinewood.AI takeover by Ridgeview-backed Bidco: Feoh support shrinks to 0.06% but deal irrevocables hold ~45% (interest 5, risk 3)",
+   "source": "uk:9761772",
+   "recorded_at": "2026-09-10T06:07:54Z"
+  }
+ ],
+ "thesis": {
+  "text": "Pinewood.AI is subject to a recommended cash takeover by a Ridgeview Partners-backed vehicle announced 19 August 2026; support remains robust at ~44.6% of shares via irrevocables/letters of intent even as one shareholder (Feoh) has progressively sold down its stake from 3.49% to 0.06%, suggesting deal mechanics are intact but warranting monitoring of further shareholder disposals or competing bids ahead of the offer document and shareholder vote.",
+  "updated": "2026-09-09"
+ }
+}

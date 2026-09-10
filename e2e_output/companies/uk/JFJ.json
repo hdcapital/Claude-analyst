@@ -19,6 +19,21 @@
    "source": "uk:9759657",
    "locator": "chars 227+",
    "recorded_at": "2026-09-08T14:34:29Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=100000.0",
+   "data": {
+    "shares_purchased": 100000.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9764150",
+   "locator": "chars 227+",
+   "recorded_at": "2026-09-10T05:39:58Z"
   }
  ],
  "situations": [],

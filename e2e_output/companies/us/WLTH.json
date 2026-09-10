@@ -1,0 +1,38 @@
+{
+ "issuer_key": "us/WLTH",
+ "identity": {
+  "ticker": "WLTH",
+  "exchange": "US",
+  "name": "WEALTHFRONT CORP",
+  "cik": "1524566"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=False",
+   "data": {
+    "items": [
+     "2.02",
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "2.02": "results of operations",
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001628280-26-061131",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

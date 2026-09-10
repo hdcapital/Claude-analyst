@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/MDZ",
+ "identity": {
+  "ticker": "MDZ",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=16.06, previous_voting_rights_pct=15.65",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 16.06,
+    "previous_voting_rights_pct": 15.65
+   },
+   "source": "uk:9763044",
+   "locator": "chars 702+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

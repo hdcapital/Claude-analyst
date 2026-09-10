@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/WIA",
+ "identity": {
+  "ticker": "WIA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - WIA",
+   "data": {
+    "title": "Notification of cessation of securities - WIA",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137778",
+    "is_admin_noise": true
+   },
+   "source": "asx:aefe7a9e3d8cec4dd653e1975293cd9e",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - WIA",
+   "data": {
+    "title": "Notification regarding unquoted securities - WIA",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137775",
+    "is_admin_noise": true
+   },
+   "source": "asx:c28d9425ed3d1ecb511f105973a63695",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

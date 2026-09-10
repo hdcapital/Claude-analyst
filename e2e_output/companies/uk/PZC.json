@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/PZC",
+ "identity": {
+  "ticker": "PZC",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Supply Chain Officer, nature=Grant of conditional award pursuant to the rules of the PZ Cussons Long Term Incentive Plan, price=136584.0, volume=136584.0, value=18655189056.0",
+   "data": {
+    "person": "Name",
+    "position": "Chief Supply Chain Officer",
+    "nature": "Grant of conditional award pursuant to the rules of the PZ Cussons Long Term Incentive Plan",
+    "price": 136584.0,
+    "volume": 136584.0,
+    "value": 18655189056.0
+   },
+   "source": "uk:9764066",
+   "locator": "chars 2+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

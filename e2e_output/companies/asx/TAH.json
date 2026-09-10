@@ -23,8 +23,23 @@
    "recorded_at": "2026-09-08T14:34:26Z"
   }
  ],
- "situations": [],
- "changelog": [],
+ "situations": [
+  {
+   "situation_id": "S-915a3446bc",
+   "date": "2026-09-09",
+   "headline": "Macquarie Group discloses 5.18% relevant interest in Tabcorp",
+   "status": "open",
+   "source": "asx:f461710a7afd17bf3fba53c3264ef3d1"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Macquarie Group discloses 5.18% relevant interest in Tabcorp (interest 3, risk 2)",
+   "source": "asx:f461710a7afd17bf3fba53c3264ef3d1",
+   "recorded_at": "2026-09-10T06:07:14Z"
+  }
+ ],
  "thesis": {
   "text": "",
   "updated": null

@@ -55,6 +55,13 @@
    "headline": "GG1 $3.2m Renounceable Rights Issue to Fund Copper & Gold Drilling",
    "status": "open",
    "source": "asx:b7b410cb2857634e42cfc50e190734d4"
+  },
+  {
+   "situation_id": "S-c796200a88",
+   "date": "2026-09-09",
+   "headline": "GG1 Rights Trading Commences (GG1R) - Procedural Update to Existing Rights Issue",
+   "status": "open",
+   "source": "asx:5a32e15c237f14d6ab2ae555b5359630"
   }
  ],
  "changelog": [
@@ -63,6 +70,12 @@
    "entry": "stage-2 assessment: GG1 $3.2m Renounceable Rights Issue to Fund Copper & Gold Drilling (interest 6, risk 7)",
    "source": "asx:b7b410cb2857634e42cfc50e190734d4",
    "recorded_at": "2026-09-08T14:55:06Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: GG1 Rights Trading Commences (GG1R) - Procedural Update to Existing Rights Issue (interest 3, risk 7)",
+   "source": "asx:5a32e15c237f14d6ab2ae555b5359630",
+   "recorded_at": "2026-09-10T06:02:15Z"
   }
  ],
  "thesis": {

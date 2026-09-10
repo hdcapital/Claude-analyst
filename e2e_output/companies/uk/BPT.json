@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/BPT",
+ "identity": {
+  "ticker": "BPT",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

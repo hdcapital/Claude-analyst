@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/TENX",
+ "identity": {
+  "ticker": "TENX",
+  "exchange": "US",
+  "name": "TENAX THERAPEUTICS, INC.",
+  "cik": "34956"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=False",
+   "data": {
+    "items": [
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001193125-26-385910",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

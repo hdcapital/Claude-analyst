@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/AERI",
+ "identity": {
+  "ticker": "AERI",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Bank of America Corporation, resulting_voting_rights_pct=5.963078, previous_voting_rights_pct=6.000632",
+   "data": {
+    "holder": "Bank of America Corporation",
+    "resulting_voting_rights_pct": 5.963078,
+    "previous_voting_rights_pct": 6.000632
+   },
+   "source": "uk:9764006",
+   "locator": "chars 242+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

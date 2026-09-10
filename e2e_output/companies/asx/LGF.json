@@ -21,6 +21,23 @@
    "source": "asx:17ffcea1e6387679d8b6d17c94b23f36",
    "locator": "diff vs none",
    "recorded_at": "2026-09-08T12:45:18Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (29/30 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:17ffcea1e6387679d8b6d17c94b23f36",
+    "changed_lines": 29,
+    "total_lines": 30,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-07 September 2026\n+09 September 2026\n-(Company) as at 02 September 2026 were:\n+(Company) as at 04 September 2026 were:\n-2.2172\n+2.2729\n-2.2072\n+2.2429\n-During the offer period for the Entitlement Offer, NTA backing per share announcements will be released twice weekly as\n-follows:\n-•\n-Wednesdays, reporting the NTA backing per share calculated based on the close of the previous Friday; and\n-•\n-Fridays, reporting the NTA backing per share calculated based on the close of the previous Tuesday.\n-In addition, an NTA backing per share announcement will be released on each of the final three days of the Entitlement\n-Offer period, expected to end on Wednesday, 9 September 2026, which is the closing date for the retail component of the\n-Entitlement Offer (Retail Entitlement Offer).\n-After the closing date for the Retail Entitlement Offer, the Company’s NTA backing per share announcements will revert\n-to the usual weekly cadence.\n-Please refer to the Company’s 24 August 2026 announcement for further details, including the full timetable.4\n+During the offer period for the Entitlement Offer, the Company has been releasing more frequent NTA backing per share\n+announcements. As previously disclosed, with today being the closing date for the retail component of the Entitlement\n+Offer, the Company’s NTA backing per share announcements will revert to the usual weekly cadence following this\n+announcement. The Company will also continue to release its monthly NTA backing per share announcements.\n-4 The timetable set out in the Company’s announcement from 24 August 2026 is indicative only and subject to change without notice. The Company reserves the\n-right to amend any or all dates and times without prior notice, subject to the Corporations Act 2001 (Cth), the ASX Listing Rules and other applicable laws. In\n-particular, the Company reserves the right to close any part of the Entitlement Offer early, to accept late applications under any part of the Offer (either generally or\n-in part"
+   },
+   "source": "asx:7ac19e4cd262445ec5daeda7e72c3d57",
+   "locator": "diff vs asx:17ffcea1e6387679d8b6d17c94b23f36",
+   "recorded_at": "2026-09-10T05:39:54Z"
   }
  ],
  "situations": [],

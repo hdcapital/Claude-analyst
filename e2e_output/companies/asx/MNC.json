@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/MNC",
+ "identity": {
+  "ticker": "MNC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=10100000.0, issue_price=0.1, implied_raise=1010000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 10100000.0,
+    "issue_price": 0.1,
+    "implied_raise": 1010000.0
+   },
+   "source": "asx:1f03c77001462865244f0153344d2881",
+   "locator": "chars 292+",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing Notice",
+   "data": {
+    "title": "Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137672",
+    "is_admin_noise": true
+   },
+   "source": "asx:acb5a8476c1ecdfc322f99677eb8d5d3",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

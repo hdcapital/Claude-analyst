@@ -1,0 +1,51 @@
+{
+ "issuer_key": "us/SDCO",
+ "identity": {
+  "ticker": "SDCO",
+  "exchange": "US",
+  "name": "SDR Drone, Inc.",
+  "cik": "1331421"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "4.02",
+     "9.01"
+    ],
+    "item_names": {
+     "4.02": "non-reliance on prior financials",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001493152-26-041986",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-4f44e2b421",
+   "date": "2026-09-09",
+   "headline": "SDR Drone (SDCO) discloses non-reliance on prior financial statements",
+   "status": "open",
+   "source": "us:0001493152-26-041986"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: SDR Drone (SDCO) discloses non-reliance on prior financial statements (interest 5, risk 8)",
+   "source": "us:0001493152-26-041986",
+   "recorded_at": "2026-09-10T06:22:52Z"
+  }
+ ],
+ "thesis": {
+  "text": "SDCO's Item 4.02 non-reliance disclosure is a red flag typical of small-cap/former-shell issuers (ex-Hallmark Venture Group) and warrants close monitoring of the follow-up 8-K/A or amended financials for scope of restatement, auditor involvement, and any control-weakness admissions before taking a position either way.",
+  "updated": "2026-09-09"
+ }
+}

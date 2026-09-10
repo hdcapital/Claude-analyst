@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/NHE",
+ "identity": {
+  "ticker": "NHE",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

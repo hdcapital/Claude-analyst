@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/GATC",
+ "identity": {
+  "ticker": "GATC",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=3.11",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 3.11,
+    "previous_voting_rights_pct": null
+   },
+   "source": "uk:9762114",
+   "locator": "chars 872+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -30,6 +30,13 @@
    "headline": "MedPal AI (MPAL): August trading update shows explosive New Health GLP-1 growth to £28m annualised run-rate",
    "status": "open",
    "source": "uk:9757541"
+  },
+  {
+   "situation_id": "S-b47bb4b243",
+   "date": "2026-09-09",
+   "headline": "MedPal AI (MPAL): eMARx final consideration settled via cash and new shares, minor dilution",
+   "status": "open",
+   "source": "uk:9756694"
   }
  ],
  "changelog": [
@@ -38,6 +45,12 @@
    "entry": "stage-2 assessment: MedPal AI (MPAL): August trading update shows explosive New Health GLP-1 growth to £28m annualised run-rate (interest 7, risk 7)",
    "source": "uk:9757541",
    "recorded_at": "2026-09-08T14:59:53Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: MedPal AI (MPAL): eMARx final consideration settled via cash and new shares, minor dilution (interest 2, risk 6)",
+   "source": "uk:9756694",
+   "recorded_at": "2026-09-10T06:07:37Z"
   }
  ],
  "thesis": {

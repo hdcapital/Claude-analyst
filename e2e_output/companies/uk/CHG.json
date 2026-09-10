@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/CHG",
+ "identity": {
+  "ticker": "CHG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Director Declaration",
+   "data": {
+    "title": "Director Declaration",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/chemring-group--chg/director-declaration/9762772",
+    "is_admin_noise": false
+   },
+   "source": "uk:9762772",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/KNI",
+ "identity": {
+  "ticker": "KNI",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

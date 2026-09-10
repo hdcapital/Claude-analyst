@@ -1,0 +1,46 @@
+{
+ "issuer_key": "uk/CAR",
+ "identity": {
+  "ticker": "CAR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/56 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 56,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "uk:9762112",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Result of AGM",
+   "data": {
+    "title": "Result of AGM",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/carclo--car/result-of-agm/9764069",
+    "is_admin_noise": true
+   },
+   "source": "uk:9764069",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

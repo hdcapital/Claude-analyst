@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/SWT",
+ "identity": {
+  "ticker": "SWT",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

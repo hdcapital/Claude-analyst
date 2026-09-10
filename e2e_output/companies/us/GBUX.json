@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/GBUX",
+ "identity": {
+  "ticker": "GBUX",
+  "exchange": "US",
+  "name": "GIVBUX, INC.",
+  "cik": "1169138"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/19784 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 19784,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001640334-26-001479",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

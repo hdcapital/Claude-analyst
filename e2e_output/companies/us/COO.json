@@ -1,0 +1,55 @@
+{
+ "issuer_key": "us/COO",
+ "identity": {
+  "ticker": "COO",
+  "exchange": "US",
+  "name": "COOPER COMPANIES, INC.",
+  "cik": "711404"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=False",
+   "data": {
+    "items": [
+     "2.02",
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "2.02": "results of operations",
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001628280-26-061155",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/30666 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 30666,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001628280-26-061160",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

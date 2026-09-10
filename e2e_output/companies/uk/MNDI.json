@@ -18,6 +18,19 @@
    "source": "uk:9758599",
    "locator": "metadata",
    "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Coronation Fund Managers, resulting_voting_rights_pct=4.784214, previous_voting_rights_pct=9.001426",
+   "data": {
+    "holder": "Coronation Fund Managers",
+    "resulting_voting_rights_pct": 4.784214,
+    "previous_voting_rights_pct": 9.001426
+   },
+   "source": "uk:9763932",
+   "locator": "chars 426+",
+   "recorded_at": "2026-09-10T05:39:57Z"
   }
  ],
  "situations": [],

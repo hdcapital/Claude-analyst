@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/ARI",
+ "identity": {
+  "ticker": "ARI",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of General Meeting/Proxy Form",
+   "data": {
+    "title": "Notice of General Meeting/Proxy Form",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137663",
+    "is_admin_noise": true
+   },
+   "source": "asx:2693e11139e4cdaf35edd94e905c053a",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Letter to Shareholders",
+   "data": {
+    "title": "Letter to Shareholders",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137666",
+    "is_admin_noise": true
+   },
+   "source": "asx:5b873471a107649908d0104a4f284439",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/PTN",
+ "identity": {
+  "ticker": "PTN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

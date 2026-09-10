@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/FAL",
+ "identity": {
+  "ticker": "FAL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=Macquarie Group Limited ('MQG'); and",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "Macquarie Group Limited ('MQG'); and",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:fc7660b414ff679e6f9825bd2fbe8886",
+   "locator": "chars 47+ (form 605)",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

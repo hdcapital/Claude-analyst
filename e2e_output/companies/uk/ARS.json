@@ -12,6 +12,13 @@
    "headline": "Asiamet Resources: KSK Project (Indokal) sale to Norin Mining nearing Completion",
    "status": "open",
    "source": "uk:9757571"
+  },
+  {
+   "situation_id": "S-f8429bbe83",
+   "date": "2026-09-09",
+   "headline": "Asiamet completes Indokal/KSK sale to Norin Mining; US$93m special dividend declared, Beutong remains sole asset",
+   "status": "open",
+   "source": "uk:9762782"
   }
  ],
  "changelog": [
@@ -20,10 +27,22 @@
    "entry": "stage-2 assessment: Asiamet Resources: KSK Project (Indokal) sale to Norin Mining nearing Completion (interest 6, risk 4)",
    "source": "uk:9757571",
    "recorded_at": "2026-09-08T15:00:26Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Asiamet completes Indokal/KSK sale to Norin Mining; US$93m special dividend declared, Beutong remains sole asset (interest 5, risk 3)",
+   "source": "uk:9762782",
+   "recorded_at": "2026-09-10T06:10:22Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "thesis superseded (was: \"Asiamet is in the terminal stage of divesting its KSK Project subsidiary Indokal Limited to Norin Mining; with all conditions precedent satisfied or waived, the next material catalyst is the Completion announcement itself, which should clarify consideration, cash impact, and Asiamet's residual asset\")",
+   "source": "uk:9762782",
+   "recorded_at": "2026-09-10T06:10:22Z"
   }
  ],
  "thesis": {
-  "text": "Asiamet is in the terminal stage of divesting its KSK Project subsidiary Indokal Limited to Norin Mining; with all conditions precedent satisfied or waived, the next material catalyst is the Completion announcement itself, which should clarify consideration, cash impact, and Asiamet's residual asset base (likely centered on remaining projects) — warranting close monitoring of the next filing for deal terms and strategic direction post-sale.",
-  "updated": "2026-09-07"
+  "text": "Asiamet has completed the KSK Project (Indokal) sale to Norin Mining for US$104.9 million and declared a US$93.0 million special dividend (~US$0.0268/share), payable 29 Sep 2026 [uk:9762782]. With KSK monetized, the Company's sole remaining asset is the Beutong Project in Aceh, Indonesia, for which the Board is still 'evaluating all available options' with local and government stakeholders [uk:9762782]. The near-term catalyst is confirmation of the GBP dividend rate and successful payment; the medium-term catalyst is any strategic update on Beutong's path forward (JV, sale, or development), which will determine Asiamet's residual value beyond the cash distribution.",
+  "updated": "2026-09-09"
  }
 }

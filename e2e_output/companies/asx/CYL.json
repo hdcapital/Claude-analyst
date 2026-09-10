@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/CYL",
+ "identity": {
+  "ticker": "CYL",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-cf545f8d99",
+   "date": "2026-09-09",
+   "headline": "Catalyst Metals: Keillor Resource up 280% on path to 2Moz Reserve at Plutonic Belt",
+   "status": "open",
+   "source": "asx:3bc1348d8c513c99f83c5514d6ee42f5"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Catalyst Metals: Keillor Resource up 280% on path to 2Moz Reserve at Plutonic Belt (interest 6, risk 4)",
+   "source": "asx:3bc1348d8c513c99f83c5514d6ee42f5",
+   "recorded_at": "2026-09-10T06:01:14Z"
+  }
+ ],
+ "thesis": {
+  "text": "Catalyst Metals is executing a multi-mine buildout across the underexplored Plutonic Gold Belt, converting a centrally located, underutilised 2Mtpa CIL plant into a platform for doubling production to ±200koz pa via six feeder deposits. Keillor's 280% resource uplift after only a year of drilling, following 25 years of neglect, illustrates the low-cost, high-torque exploration upside embedded in the belt consolidation strategy. With nil debt and A$331m in cash/bullion, the company has balance-sheet flexibility to fund development while multiple concurrent Reserve/Resource updates (Keillor, Cinnamon, Trident, Old Highway) could serially re-rate the stock toward its stated 2Moz Reserve and 10-year mine-life targets. Key risks are execution/ramp-up timing and the company's own acknowledgment that prior long-term guidance is now only indicative.",
+  "updated": "2026-09-09"
+ }
+}

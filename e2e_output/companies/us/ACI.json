@@ -1,0 +1,51 @@
+{
+ "issuer_key": "us/ACI",
+ "identity": {
+  "ticker": "ACI",
+  "exchange": "US",
+  "name": "Albertsons Companies, Inc.",
+  "cik": "1646972"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "5.02",
+     "9.01"
+    ],
+    "item_names": {
+     "5.02": "officer/director departure or appointment",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001646972-26-000054",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-30ea6b9480",
+   "date": "2026-09-09",
+   "headline": "Albertsons appoints Meg Whitman as Executive Chair; board expands to 11, Fennebresque becomes Lead Independent Director",
+   "status": "open",
+   "source": "us:0001646972-26-000054"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Albertsons appoints Meg Whitman as Executive Chair; board expands to 11, Fennebresque becomes Lead Independent Director (interest 6, risk 3)",
+   "source": "us:0001646972-26-000054",
+   "recorded_at": "2026-09-10T06:23:51Z"
+  }
+ ],
+ "thesis": {
+  "text": "Albertsons' addition of Meg Whitman as Executive Chair, paired with governance restructuring (Fennebresque to Lead Independent Director, board expanded to 11), signals an accelerated push toward technology/AI-driven operating transformation under CEO Susan Morris [us:0001646972-26-000054 EX-99.1]. Whitman's track record turning around large-scale consumer/tech businesses (eBay, HP/HPE) and current board seats at CoreWeave and Fervo Energy suggest possible emphasis on AI infrastructure, digital retail modernization, or strategic optionality (including potential M&A or activist-style value creation) [us:0001646972-26-000054 EX-99.1]. No financial catalyst or transaction is disclosed yet, so this is a qualitative governance event; the file should be watched closely for follow-on strategic announcements (capital allocation, deal activity, AI capex) that could re-rate the stock.",
+  "updated": "2026-09-09"
+ }
+}

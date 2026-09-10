@@ -1,0 +1,63 @@
+{
+ "issuer_key": "asx/VSL",
+ "identity": {
+  "ticker": "VSL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - VSL",
+   "data": {
+    "title": "Notification of cessation of securities - VSL",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137495",
+    "is_admin_noise": true
+   },
+   "source": "asx:23c9aa644a59dcbe5e1671a85c87a8d4",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Adrian John Casey, date_of_change=2026-09-07, number_acquired=91217.0, number_disposed=91217.0, value_consideration=0.0, held_after_change=5870711.0, direct_or_indirect=Direct",
+   "data": {
+    "director": "Adrian John Casey",
+    "date_of_change": "2026-09-07",
+    "number_acquired": 91217.0,
+    "number_disposed": 91217.0,
+    "value_consideration": 0.0,
+    "held_after_change": 5870711.0,
+    "direct_or_indirect": "Direct"
+   },
+   "source": "asx:80939fdaa1f24370e898c31e082d821d",
+   "locator": "chars 677+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Rhys Jones, date_of_change=2026-09-07, number_acquired=191498.0, number_disposed=191498.0, value_consideration=0.0, held_after_change=67427.0, direct_or_indirect=Direct",
+   "data": {
+    "director": "Rhys Jones",
+    "date_of_change": "2026-09-07",
+    "number_acquired": 191498.0,
+    "number_disposed": 191498.0,
+    "value_consideration": 0.0,
+    "held_after_change": 67427.0,
+    "direct_or_indirect": "Direct"
+   },
+   "source": "asx:97ff7c583d4102aa7aec89f5f855ce14",
+   "locator": "chars 681+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

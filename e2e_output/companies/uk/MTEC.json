@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/MTEC",
+ "identity": {
+  "ticker": "MTEC",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

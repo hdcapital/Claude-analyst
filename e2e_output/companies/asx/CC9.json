@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CC9",
+ "identity": {
+  "ticker": "CC9",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

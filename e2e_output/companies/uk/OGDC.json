@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/OGDC",
+ "identity": {
+  "ticker": "OGDC",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

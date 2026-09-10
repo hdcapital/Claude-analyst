@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/PMT",
+ "identity": {
+  "ticker": "PMT",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -21,6 +21,38 @@
    "source": "asx:a574d227a809e1a12f19feaf969550e7",
    "locator": "chars 962+ (form fields)",
    "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=There was a change in the interests of the, previous_voting_power_pct=100.0, present_voting_power_pct=100.0",
+   "data": {
+    "form": "604_change",
+    "holder": "There was a change in the interests of the",
+    "became_on": null,
+    "previous_voting_power_pct": 100.0,
+    "present_voting_power_pct": 100.0
+   },
+   "source": "asx:2affe79f728ff6eaee3a1be22d047499",
+   "locator": "chars 46+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=John Richard Slater, date_of_change=2026-09-04, number_acquired=27836.0, number_disposed=0.0, value_consideration=1.25, held_after_change=1.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "John Richard Slater",
+    "date_of_change": "2026-09-04",
+    "number_acquired": 27836.0,
+    "number_disposed": 0.0,
+    "value_consideration": 1.25,
+    "held_after_change": 1.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:436724b1780dbdefa43e64ae7f32183e",
+   "locator": "chars 962+ (form fields)",
+   "recorded_at": "2026-09-10T05:39:54Z"
   }
  ],
  "situations": [],

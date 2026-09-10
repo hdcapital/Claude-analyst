@@ -1,0 +1,40 @@
+{
+ "issuer_key": "us/LMB",
+ "identity": {
+  "ticker": "LMB",
+  "exchange": "US",
+  "name": "Limbach Holdings, Inc.",
+  "cik": "1606163"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[4], item_names(4), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "1.02",
+     "2.03",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "1.02": "termination of material agreement",
+     "2.03": "creation of financial obligation",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001628280-26-061042",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

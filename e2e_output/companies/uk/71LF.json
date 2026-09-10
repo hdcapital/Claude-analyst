@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/71LF",
+ "identity": {
+  "ticker": "71LF",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

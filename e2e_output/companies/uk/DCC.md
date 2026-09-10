@@ -5,8 +5,8 @@
 - exchange: LSE
 
 ## Thesis
-DCC Energy plc is in an active takeover offer period, evidenced by multiple Rule 8.3 and 38.5(a) dealing disclosures on 2026-09-07, including UBS trading both sides of the stock and CFDs around GBP63.20-63.40 [uk:9759122]. No offer price or bidder terms are yet disclosed in the file, so the situation cannot be sized for arbitrage spread; future RNS releases disclosing the formal offer document, price, and acceptance condition should be treated as high-priority triggers for deep review.
-*(updated 2026-09-07)*
+DCC Energy plc is in a live, Irish Takeover Panel-regulated offer period, evidenced by continuing dense Rule 8.3/38 dealing disclosures through 08-09 September 2026, including UBS Asset Management's 3.38% opening position disclosure and a share sale at 63.5 GBP [uk:9763973]. No offer price, bidder terms, or formal offer document have yet been disclosed in any filing reviewed, so the situation cannot be sized for arbitrage spread; the file should treat the eventual formal offer announcement, scheme document, and acceptance condition as the priority catalysts for deep review.
+*(updated 2026-09-09)*
 
 ## Open situations
 - 2026-09-07 **DCC Energy plc – ECP/KKR consortium takeover situation, dealing disclosures ongoing** (S-dcb38e3122) [uk:9758650]
@@ -16,6 +16,19 @@ DCC Energy plc is in an active takeover offer period, evidenced by multiple Rule
 - 2026-09-07 **DCC Energy plc – active Irish Takeover Panel dealing disclosures signal live offer period** (S-feb966cfdc) [uk:9759044]
 - 2026-09-07 **DCC Energy plc – active takeover offer period evidenced by Rule 8.3/38.5 dealing disclosures** (S-23bf6beb28) [uk:9759093]
 - 2026-09-07 **DCC Energy plc – active takeover offer period, heavy dealer flow (UBS 38.5a disclosure)** (S-3e137ef057) [uk:9759122]
+- 2026-09-09 **DCC Energy plc – ECP/KKR consortium bid period, Morgan Stanley 38.5(a) dealing disclosure** (S-1700cd12d1) [uk:9762988]
+- 2026-09-09 **DCC Energy plc – ECP/KKR takeover offer period continues, Morgan Stanley connected dealing disclosed** (S-6fc9c72175) [uk:9762990]
+- 2026-09-09 **DCC Energy plc – ongoing Irish Takeover Panel dealing disclosures, no offer terms yet** (S-7aa5876bc8) [uk:9763450]
+- 2026-09-09 **DCC Energy plc – Irish Takeover Panel offer period continues, broker JPM discloses fresh purchases** (S-8f53ba9d6e) [uk:9763473]
+- 2026-09-09 **DCC Energy plc – live Irish Takeover Panel offer period, JPM SE broker discloses further dealing at 63.50 GBP** (S-09c302ddd9) [uk:9763499]
+- 2026-09-09 **DCC Energy plc – ECP/KKR consortium takeover, price disclosures now clustering at 63.75 GBP** (S-84e1f6f9b2) [uk:9763501]
+- 2026-09-09 **DCC Energy plc – ECP/KKR consortium takeover, BNPP FM 38.5(a) dealing disclosure shows price drift to ~63.65-63.82** (S-7e40f2cda8) [uk:9763505]
+- 2026-09-09 **DCC Energy plc – JPM (corporate broker) Rule 38.5(a) dealing disclosure, no offer terms yet** (S-8fda3e40ec) [uk:9763526]
+- 2026-09-09 **DCC Energy plc – Goldman Sachs (advisor to ECP/KKR offeree consortium) discloses heavy two-way CFD flow under Rule 38.5(a)** (S-92339b6262) [uk:9763541]
+- 2026-09-09 **DCC Energy plc – ECP/KKR consortium takeover, Goldman Sachs (advisor to offeree) discloses dealing under Rule 38.5(b)** (S-19a4bfb87d) [uk:9763543]
+- 2026-09-09 **DCC Energy plc – ECP/KKR consortium takeover, GS advisor-to-offeree dealing disclosure confirms live offer period** (S-37ae242503) [uk:9763545]
+- 2026-09-09 **DCC Energy plc – live Irish Takeover Panel offer period, routine Form 8.3 dealing disclosures continue** (S-33d53c3433) [uk:9763973]
+- 2026-09-09 **DCC Energy plc – ongoing Irish Takeover Panel offer period, JPM broker dealing amendment filed** (S-3291c153ec) [uk:9764161]
 
 ## Fact time series
 - 2026-09-07 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy plc [uk:9758878 @ 2026-09-07, metadata]
@@ -26,8 +39,39 @@ DCC Energy plc is in an active takeover offer period, evidenced by multiple Rule
 - 2026-09-07 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy plc [uk:9759341 @ 2026-09-07, metadata]
 - 2026-09-07 [admin_announcement] admin_announcement: title=Form 8.3 - DCC ENERGY PLC [uk:9759413 @ 2026-09-07, metadata]
 - 2026-09-07 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy plc [uk:9759432 @ 2026-09-07, metadata]
+- 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.5 (EPT/NON-RI)-Form 38.5b - DCC Energy plc [uk:9763351 @ 2026-09-09, metadata]
+- 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy Plc [uk:9763382 @ 2026-09-09, metadata]
+- 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.3 - DCC ENERGY PLC [uk:9763642 @ 2026-09-09, metadata]
+- 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy plc [uk:9763900 @ 2026-09-09, metadata]
+- 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.3 - DCC ENERGY PLC [uk:9763940 @ 2026-09-09, metadata]
+- 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.3: DCC LN [uk:9764001 @ 2026-09-09, metadata]
 
 ## What changed (newest first)
+- 2026-09-09: stage-2 assessment: DCC Energy plc – ongoing Irish Takeover Panel offer period, JPM broker dealing amendment filed (interest 3, risk 3) [uk:9764161]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc remains in an active, Irish Takeover Panel-regulated offer period tied to a consortium of Energy Capital Partners and KKR, now further evidenced by Goldman Sachs International's Form 38.5b dealing disclosure explicitly naming itself as 'Advisor to Offeree' to the consortium, with deal") [uk:9763973]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – live Irish Takeover Panel offer period, routine Form 8.3 dealing disclosures continue (interest 4, risk 3) [uk:9763973]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc remains in an active ECP/KKR consortium takeover offer period under Irish Takeover Panel Rule 38.5(a)/(b), evidenced by a dense sequence of Form 8.3 and 38.5 dealing disclosures through 09 September 2026, most recently Goldman Sachs Bank Europe SE (advisor to offeree) disclosing small") [uk:9763545]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – ECP/KKR consortium takeover, GS advisor-to-offeree dealing disclosure confirms live offer period (interest 6, risk 3) [uk:9763545]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc remains in an active Irish Takeover Panel offer period involving a consortium of Energy Capital Partners and KKR, evidenced by dense Rule 8.3 and 38.5(a) dealing disclosures through early-to-mid September 2026, with the latest from Goldman Sachs International (self-identified as 'Advi") [uk:9763543]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – ECP/KKR consortium takeover, Goldman Sachs (advisor to offeree) discloses dealing under Rule 38.5(b) (interest 4, risk 3) [uk:9763543]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc is confirmed to be in a live Irish Takeover Panel offer period, with its own corporate broker and financial adviser, J.P. Morgan Securities Plc, actively dealing in the target's shares and equity swaps around 63.25-63.51 GBP as of 08 September 2026 [uk:9763526 item 1(c),(d),(2)]. No b") [uk:9763541]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – Goldman Sachs (advisor to ECP/KKR offeree consortium) discloses heavy two-way CFD flow under Rule 38.5(a) (interest 4, risk 3) [uk:9763541]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc remains in a live Irish Takeover Panel offer period involving an Energy Capital Partners/KKR consortium, evidenced by continued Rule 38.5(a)/8.3 dealing disclosures through 2026-09-09, with BNP Paribas Financial Markets' latest connected-trader filing showing share prices trading up t") [uk:9763526]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – JPM (corporate broker) Rule 38.5(a) dealing disclosure, no offer terms yet (interest 4, risk 3) [uk:9763526]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc remains in an active Irish Takeover Panel-regulated offer period involving a consortium of Energy Capital Partners and KKR, evidenced by dense Rule 8.3/38.5(a) dealing disclosures through 2026-09-09, with CFD trades by BNP Paribas SA on 08/09/2026 clustering uniformly at 63.75 GBP per") [uk:9763505]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – ECP/KKR consortium takeover, BNPP FM 38.5(a) dealing disclosure shows price drift to ~63.65-63.82 (interest 5, risk 3) [uk:9763505]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc remains in an active, Irish Takeover Panel-regulated offer period as of 09 September 2026, with dense Rule 8.3/38.5 dealing disclosures continuing from multiple exempt principal traders and the corporate broker/financial adviser J.P. Morgan SE, whose own reported position (220,121 sha") [uk:9763501]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – ECP/KKR consortium takeover, price disclosures now clustering at 63.75 GBP (interest 5, risk 3) [uk:9763501]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc is in a continuing, Irish Takeover Panel-regulated offer period, evidenced by repeated Rule 38.5(b)/8.3 dealing disclosures through 09 September 2026, including its own corporate broker and financial adviser J.P. Morgan Markets Limited disclosing small purchases at 63.43-63.50 GBP per") [uk:9763499]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – live Irish Takeover Panel offer period, JPM SE broker discloses further dealing at 63.50 GBP (interest 4, risk 3) [uk:9763499]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc remains in an active, unresolved Irish Takeover Panel offer period, evidenced by continued Rule 38.5(a)/8.3 dealing disclosures through 09 September 2026, including UBS trading both long and short in cash and CFD form around GBP63.25-63.50 [uk:9763450]. No formal offer price, bidder i") [uk:9763473]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – Irish Takeover Panel offer period continues, broker JPM discloses fresh purchases (interest 4, risk 3) [uk:9763473]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc remains in a live, Irish Takeover Panel-regulated offer period involving an Energy Capital Partners/KKR consortium, evidenced by continued Rule 38.5(a) dealing disclosures from connected exempt principal traders, including Morgan Stanley Europe SE trading 499 shares on both sides at 6") [uk:9763450]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – ongoing Irish Takeover Panel dealing disclosures, no offer terms yet (interest 4, risk 3) [uk:9763450]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc is in an active, Irish Takeover Panel-regulated offer period involving an Energy Capital Partners/KKR consortium, evidenced by continuing Rule 8.3 and 38.5(a) dealing disclosures through 09 September 2026, including Morgan Stanley trading both cash shares and CFDs around 63.25-63.51 G") [uk:9762990]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – ECP/KKR takeover offer period continues, Morgan Stanley connected dealing disclosed (interest 4, risk 3) [uk:9762990]
+- 2026-09-09: thesis superseded (was: "DCC Energy plc is in an active takeover offer period, evidenced by multiple Rule 8.3 and 38.5(a) dealing disclosures on 2026-09-07, including UBS trading both sides of the stock and CFDs around GBP63.20-63.40 [uk:9759122]. No offer price or bidder terms are yet disclosed in the file, so the situatio") [uk:9762988]
+- 2026-09-09: stage-2 assessment: DCC Energy plc – ECP/KKR consortium bid period, Morgan Stanley 38.5(a) dealing disclosure (interest 5, risk 3) [uk:9762988]
 - 2026-09-07: thesis superseded (was: "DCC Energy plc is in an active UK/Irish takeover offer period, evidenced by concurrent Rule 8.3 opposing-party dealing disclosures and a Rule 38.5(a) exempt principal trader disclosure showing UBS trading around 63.3 GBP per share on 04 September 2026 [uk:9759093]. The primary offer announcement (bi") [uk:9759122]
 - 2026-09-07: stage-2 assessment: DCC Energy plc – active takeover offer period, heavy dealer flow (UBS 38.5a disclosure) (interest 5, risk 3) [uk:9759122]
 - 2026-09-07: thesis superseded (was: "DCC Energy plc is confirmed to be in an active Irish Takeover Panel offer period, evidenced by multiple Rule 8.3/38 dealing disclosures on 2026-09-07, including one from its own corporate broker/financial adviser J.P. Morgan Markets Limited. No offer terms, bidder, or price have yet been disclosed i") [uk:9759093]

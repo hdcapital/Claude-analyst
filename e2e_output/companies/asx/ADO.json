@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/ADO",
+ "identity": {
+  "ticker": "ADO",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

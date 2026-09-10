@@ -1,0 +1,44 @@
+{
+ "issuer_key": "uk/CLA",
+ "identity": {
+  "ticker": "CLA",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Result of General Meeting",
+   "data": {
+    "title": "Result of General Meeting",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/celsius-resources-limited-di---cla/result-of-general-meeting/9763025",
+    "is_admin_noise": true
+   },
+   "source": "uk:9763025",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-971bf50694",
+   "date": "2026-09-09",
+   "headline": "Celsius Resources (CLA): MHL's 40% MMCI stake foreclosed by Equinaire via credit-bid auction, company disputes and pursues legal/arbitration remedies",
+   "status": "open",
+   "source": "uk:9762681"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Celsius Resources (CLA): MHL's 40% MMCI stake foreclosed by Equinaire via credit-bid auction, company disputes and pursues legal/arbitration remedies (interest 6, risk 8)",
+   "source": "uk:9762681",
+   "recorded_at": "2026-09-10T06:09:20Z"
+  }
+ ],
+ "thesis": {
+  "text": "Celsius Resources' core asset value is now contingent on the outcome of a contested foreclosure of its 40% MMCI interest by Equinaire; near-term catalyst is the BIR tax clearance window (6-8 weeks) during which Celsius will seek judicial and arbitral relief to block transfer registration, making this a binary litigation-driven special situation rather than a compounder.",
+  "updated": "2026-09-09"
+ }
+}

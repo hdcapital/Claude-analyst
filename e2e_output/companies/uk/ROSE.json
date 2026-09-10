@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/ROSE",
+ "identity": {
+  "ticker": "ROSE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Senior Independent Director / PDMR, nature=P urchase of shares, price=3.346363, volume=3.346363, value=11.2",
+   "data": {
+    "person": "Name",
+    "position": "Senior Independent Director / PDMR",
+    "nature": "P urchase of shares",
+    "price": 3.346363,
+    "volume": 3.346363,
+    "value": 11.2
+   },
+   "source": "uk:9761846",
+   "locator": "chars 518+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -30,6 +30,20 @@
    "source": "uk:9759729",
    "locator": "chars 1601+",
    "recorded_at": "2026-09-08T14:34:29Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Rule 2.9 Announcement",
+   "data": {
+    "title": "Rule 2.9 Announcement",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/80-mile--80m/rule-2-9-announcement/9764169",
+    "is_admin_noise": true
+   },
+   "source": "uk:9764169",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:58Z"
   }
  ],
  "situations": [],

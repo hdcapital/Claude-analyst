@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/SDR",
+ "identity": {
+  "ticker": "SDR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8 (DD) - Schroder Reit, LondonMetric Property",
+   "data": {
+    "title": "Form 8 (DD) - Schroder Reit, LondonMetric Property",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/schroders--sdr/form-8-dd-schroder-reit-londonmetric-property/9763523",
+    "is_admin_noise": true
+   },
+   "source": "uk:9763523",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

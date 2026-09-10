@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/PHGE",
+ "identity": {
+  "ticker": "PHGE",
+  "exchange": "US",
+  "name": "BiomX Inc.",
+  "cik": "1739174"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=False",
+   "data": {
+    "items": [
+     "5.03",
+     "9.01"
+    ],
+    "item_names": {
+     "5.03": "charter/bylaw amendment",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001213900-26-098212",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "issuer_key": "asx/CLA",
+ "identity": {
+  "ticker": "CLA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Results of Meeting",
+   "data": {
+    "title": "Results of Meeting",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137708",
+    "is_admin_noise": true
+   },
+   "source": "asx:b9a2665a6fb2322880dee217d6011fe9",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-4a4ff6a786",
+   "date": "2026-09-09",
+   "headline": "Celsius Resources: Equinaire wins foreclosure auction for MHL's 40% MMCI stake amid contested OLSA default dispute",
+   "status": "open",
+   "source": "asx:a03de10eba061a4db1af88420efc9779"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Celsius Resources: Equinaire wins foreclosure auction for MHL's 40% MMCI stake amid contested OLSA default dispute (interest 7, risk 8)",
+   "source": "asx:a03de10eba061a4db1af88420efc9779",
+   "recorded_at": "2026-09-10T06:04:21Z"
+  }
+ ],
+ "thesis": {
+  "text": "Celsius Resources faces an existential asset-loss event as Equinaire has won a contested foreclosure auction over MHL's 40% interest in MMCI, a key project asset, via a credit bid with no competing bidders. The company disputes the underlying default triggers and is pursuing parallel legal and arbitration tracks, with a narrow 6-8 week procedural window (BIR tax clearance) before any share transfer can register. Outcome is binary and litigation-dependent: successful injunction/appeal preserves the MMCI stake, while failure crystallizes a material asset loss. High permanent capital loss risk warrants continued monitoring of court and arbitration developments.",
+  "updated": "2026-09-09"
+ }
+}

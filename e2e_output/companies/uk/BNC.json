@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/BNC",
+ "identity": {
+  "ticker": "BNC",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

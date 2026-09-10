@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/SRP",
+ "identity": {
+  "ticker": "SRP",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name of natural person, position=Group Chief People and Culture Officer, price=2.51354, volume=2.51354, value=6.32",
+   "data": {
+    "person": "Name of natural person",
+    "position": "Group Chief People and Culture Officer",
+    "nature": null,
+    "price": 2.51354,
+    "volume": 2.51354,
+    "value": 6.32
+   },
+   "source": "uk:9764035",
+   "locator": "chars 763+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

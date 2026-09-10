@@ -4,7 +4,38 @@
   "ticker": "R8R",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Mr Timothy Paul Neesham & Miss Alicia Nicole Honey, previous_voting_power_pct=12.21, present_voting_power_pct=10.26",
+   "data": {
+    "form": "604_change",
+    "holder": "Mr Timothy Paul Neesham & Miss Alicia Nicole Honey",
+    "became_on": null,
+    "previous_voting_power_pct": 12.21,
+    "present_voting_power_pct": 10.26
+   },
+   "source": "asx:cbbb9f52bccadc4d6092c11d7171c08e",
+   "locator": "chars 223+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=MRS PAMELA CHRISTINE NEESHAM & MR DAVID CHARLES NEESHAM, present_voting_power_pct=6.62",
+   "data": {
+    "form": "603_becoming",
+    "holder": "MRS PAMELA CHRISTINE NEESHAM & MR DAVID CHARLES NEESHAM",
+    "became_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 6.62
+   },
+   "source": "asx:d413d00c34c2a034cdb617b68d7fae24",
+   "locator": "chars 219+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

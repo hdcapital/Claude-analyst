@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/IFX",
+ "identity": {
+  "ticker": "IFX",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=2028.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 2028.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:4cafcb2f469e43f1e17a9983633c77dd",
+   "locator": "chars 460+",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

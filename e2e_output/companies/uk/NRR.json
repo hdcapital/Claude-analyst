@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/NRR",
+ "identity": {
+  "ticker": "NRR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=PDMR - Chief Executive Officer, nature=Exercise of 454,123 nil cost share options granted under the NewRiver REIT plc Performance Share Plan 2016 . Sale of 214,511 shares to cover the associated tax, price=78.85, volume=78.85, value=6217.32",
+   "data": {
+    "person": "Name",
+    "position": "PDMR - Chief Executive Officer",
+    "nature": "Exercise of 454,123 nil cost share options granted under the NewRiver REIT plc Performance Share Plan 2016 . Sale of 214,511 shares to cover the associated tax",
+    "price": 78.85,
+    "volume": 78.85,
+    "value": 6217.32
+   },
+   "source": "uk:9763572",
+   "locator": "chars 1866+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

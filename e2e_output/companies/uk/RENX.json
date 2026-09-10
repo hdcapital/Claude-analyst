@@ -1,0 +1,41 @@
+{
+ "issuer_key": "uk/RENX",
+ "identity": {
+  "ticker": "RENX",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Aberdeen Group plc, resulting_voting_rights_pct=9.848687, previous_voting_rights_pct=5.0",
+   "data": {
+    "holder": "Aberdeen Group plc",
+    "resulting_voting_rights_pct": 9.848687,
+    "previous_voting_rights_pct": 5.0
+   },
+   "source": "uk:9764058",
+   "locator": "chars 225+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=CVI Investments, Inc., resulting_voting_rights_pct=15.638, previous_voting_rights_pct=8.995",
+   "data": {
+    "holder": "CVI Investments, Inc.",
+    "resulting_voting_rights_pct": 15.638,
+    "previous_voting_rights_pct": 8.995
+   },
+   "source": "uk:9764103",
+   "locator": "chars 862+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

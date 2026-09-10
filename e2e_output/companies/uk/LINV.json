@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/LINV",
+ "identity": {
+  "ticker": "LINV",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Result of AGM",
+   "data": {
+    "title": "Result of AGM",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/lendinvest--linv/result-of-agm/9763795",
+    "is_admin_noise": true
+   },
+   "source": "uk:9763795",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

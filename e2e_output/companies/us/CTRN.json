@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/CTRN",
+ "identity": {
+  "ticker": "CTRN",
+  "exchange": "US",
+  "name": "Citi Trends Inc",
+  "cik": "1318484"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/17607 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 17607,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001104659-26-106249",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

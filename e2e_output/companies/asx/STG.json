@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/STG",
+ "identity": {
+  "ticker": "STG",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

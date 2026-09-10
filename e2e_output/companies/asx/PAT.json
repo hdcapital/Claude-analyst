@@ -4,7 +4,22 @@
   "ticker": "PAT",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of General Meeting/Proxy Form",
+   "data": {
+    "title": "Notice of General Meeting/Proxy Form",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137513",
+    "is_admin_noise": true
+   },
+   "source": "asx:a07c6f277f742da655729cd95426b70e",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

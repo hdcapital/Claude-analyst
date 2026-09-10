@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CHN",
+ "identity": {
+  "ticker": "CHN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

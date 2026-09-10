@@ -17,6 +17,22 @@
    "source": "uk:9759289",
    "locator": "chars 235+",
    "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Group Co-Chief Operating Officer and Barclays Execution Services Co-Chief Execut, nature=Disposal of Shares by Computershare Investor Services plc in its capacity as administrator of the Barclays’ nominee service., price=4.873, volume=4.873, value=23.75",
+   "data": {
+    "person": "Name",
+    "position": "Group Co-Chief Operating Officer and Barclays Execution Services Co-Chief Execut",
+    "nature": "Disposal of Shares by Computershare Investor Services plc in its capacity as administrator of the Barclays’ nominee service.",
+    "price": 4.873,
+    "volume": 4.873,
+    "value": 23.75
+   },
+   "source": "uk:9764072",
+   "locator": "chars 379+",
+   "recorded_at": "2026-09-10T05:39:57Z"
   }
  ],
  "situations": [
@@ -33,6 +49,13 @@
    "headline": "Barclays PLC discloses routine Rule 8.3 dealing position in Permanent TSB (not a BARC-specific event)",
    "status": "open",
    "source": "uk:9759386"
+  },
+  {
+   "situation_id": "S-ce40d5194a",
+   "date": "2026-09-09",
+   "headline": "Barclays PLC routine Rule 8.3 dealing disclosure in Permanent TSB (market-making, not BARC-specific)",
+   "status": "open",
+   "source": "uk:9763931"
   }
  ],
  "changelog": [
@@ -47,6 +70,12 @@
    "entry": "stage-2 assessment: Barclays PLC discloses routine Rule 8.3 dealing position in Permanent TSB (not a BARC-specific event) (interest 1, risk 0)",
    "source": "uk:9759386",
    "recorded_at": "2026-09-08T15:04:28Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Barclays PLC routine Rule 8.3 dealing disclosure in Permanent TSB (market-making, not BARC-specific) (interest 1, risk 0)",
+   "source": "uk:9763931",
+   "recorded_at": "2026-09-10T06:15:30Z"
   }
  ],
  "thesis": {

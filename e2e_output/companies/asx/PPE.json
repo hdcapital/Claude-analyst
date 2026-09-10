@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/PPE",
+ "identity": {
+  "ticker": "PPE",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - PPE",
+   "data": {
+    "title": "Notification of cessation of securities - PPE",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137832",
+    "is_admin_noise": true
+   },
+   "source": "asx:3004a37deeedb88a8e193974a149f414",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

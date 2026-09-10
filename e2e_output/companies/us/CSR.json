@@ -1,0 +1,53 @@
+{
+ "issuer_key": "us/CSR",
+ "identity": {
+  "ticker": "CSR",
+  "exchange": "US",
+  "name": "CENTERSPACE",
+  "cik": "798359"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001140361-26-035986",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:58Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-d3ad10f346",
+   "date": "2026-09-09",
+   "headline": "Centerspace to be acquired by Independence Realty Trust in stock/OP-unit merger",
+   "status": "open",
+   "source": "us:0001140361-26-035986"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Centerspace to be acquired by Independence Realty Trust in stock/OP-unit merger (interest 7, risk 4)",
+   "source": "us:0001140361-26-035986",
+   "recorded_at": "2026-09-10T06:20:03Z"
+  }
+ ],
+ "thesis": {
+  "text": "Centerspace is now a merger-arbitrage situation following its September 8, 2026 definitive agreement to be acquired by Independence Realty Trust via a stock/OP-unit combination structured to qualify as a tax-free reorganization; deal completion is contingent on shareholder votes, lender consents on designated loans, and other Article VII closing conditions, with Parent retaining discretion to defer closing near the End Date — future 8-Ks (S-4/proxy filing, exchange ratio detail, termination fee terms, and any competing bids) should be monitored closely given the escalated item disclosure.",
+  "updated": "2026-09-09"
+ }
+}

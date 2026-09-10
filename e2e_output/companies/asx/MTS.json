@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/MTS",
+ "identity": {
+  "ticker": "MTS",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

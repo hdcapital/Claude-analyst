@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/MUL",
+ "identity": {
+  "ticker": "MUL",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Result of AGM and Confirmation of Board changes",
+   "data": {
+    "title": "Result of AGM and Confirmation of Board changes",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/mulberry-group--mul/result-of-agm-and-confirmation-of-board-changes/9764014",
+    "is_admin_noise": true
+   },
+   "source": "uk:9764014",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/RXO",
+ "identity": {
+  "ticker": "RXO",
+  "exchange": "US",
+  "name": "RXO, Inc.",
+  "cik": "1929561"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=False",
+   "data": {
+    "items": [
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001929561-26-000041",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/BOOM",
+ "identity": {
+  "ticker": "BOOM",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

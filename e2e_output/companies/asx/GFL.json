@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/GFL",
+ "identity": {
+  "ticker": "GFL",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

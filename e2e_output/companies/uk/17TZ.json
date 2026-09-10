@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/17TZ",
+ "identity": {
+  "ticker": "17TZ",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

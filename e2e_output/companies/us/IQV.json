@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/IQV",
+ "identity": {
+  "ticker": "IQV",
+  "exchange": "US",
+  "name": "IQVIA HOLDINGS INC.",
+  "cik": "1478242"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=False",
+   "data": {
+    "items": [
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001193125-26-386633",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

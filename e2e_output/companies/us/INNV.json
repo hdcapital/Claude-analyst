@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/INNV",
+ "identity": {
+  "ticker": "INNV",
+  "exchange": "US",
+  "name": "InnovAge Holding Corp.",
+  "cik": "1834376"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/30295 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 30295,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001834376-26-000049",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,4 +1,0 @@
-run --since 2026-09-09 --until 2026-09-09 --realtime --plain-logs
-audit --date 2026-09-09 --realtime
-brief --date 2026-09-09
-spend

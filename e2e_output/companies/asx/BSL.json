@@ -66,6 +66,25 @@
    "source": "asx:eda2ed329a5689136b6a9467d4a7e835",
    "locator": "chars 656+ (form fields)",
    "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Ordinary, voting_power_pcts_seen_unordered[2]",
+   "data": {
+    "form": "604_change",
+    "holder": "Ordinary",
+    "became_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null,
+    "voting_power_pcts_seen_unordered": [
+     6.49,
+     7.65
+    ]
+   },
+   "source": "asx:22f052208df70e4bf16b8af318c79047",
+   "locator": "chars 4822+ (voting power table)",
+   "recorded_at": "2026-09-10T05:39:53Z"
   }
  ],
  "situations": [],

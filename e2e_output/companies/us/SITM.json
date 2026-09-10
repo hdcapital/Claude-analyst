@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/SITM",
+ "identity": {
+  "ticker": "SITM",
+  "exchange": "US",
+  "name": "SITIME Corp",
+  "cik": "1451809"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=False",
+   "data": {
+    "items": [
+     "9.01"
+    ],
+    "item_names": {
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001451809-26-000068",
+   "locator": "chars 229+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

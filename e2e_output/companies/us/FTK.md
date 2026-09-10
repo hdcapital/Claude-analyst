@@ -1,0 +1,12 @@
+# FLOTEK INDUSTRIES INC/CN/
+
+## Identity
+- ticker: FTK
+- exchange: US
+- name: FLOTEK INDUSTRIES INC/CN/
+- cik: 928054
+
+## Fact time series
+- 2026-09-09 [8k_items] 8k_items: items[2], item_names(2), escalated=False [us:0000928054-26-000087 @ 2026-09-09, chars 227+ (item headers)]
+
+## What changed (newest first)

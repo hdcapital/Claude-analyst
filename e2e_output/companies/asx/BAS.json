@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/BAS",
+ "identity": {
+  "ticker": "BAS",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "issuer_key": "us/STX",
+ "identity": {
+  "ticker": "STX",
+  "exchange": "US",
+  "name": "Seagate Technology Holdings plc",
+  "cik": "1137789"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[4], item_names(4), escalated=False",
+   "data": {
+    "items": [
+     "3.02",
+     "7.01",
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "3.02": "unregistered equity sales",
+     "7.01": "Reg FD disclosure",
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001193125-26-385961",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

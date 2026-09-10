@@ -4,11 +4,44 @@
   "ticker": "TOP",
   "exchange": "ASX"
  },
- "facts": [],
- "situations": [],
- "changelog": [],
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/245 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 245,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:be3ef59299dddacd57533c72e5574f7e",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-dda577c19b",
+   "date": "2026-09-09",
+   "headline": "Thorney Opportunities (TOP) trading at ~33% discount to August NTA amid active buyback",
+   "status": "open",
+   "source": "asx:be3ef59299dddacd57533c72e5574f7e"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Thorney Opportunities (TOP) trading at ~33% discount to August NTA amid active buyback (interest 5, risk 4)",
+   "source": "asx:be3ef59299dddacd57533c72e5574f7e",
+   "recorded_at": "2026-09-10T06:05:06Z"
+  }
+ ],
  "thesis": {
-  "text": "",
-  "updated": null
+  "text": "TOP is a Thorney-managed small-cap LIC trading at a persistent discount (~33%) to after-tax NTA, with active on-market buyback support and a concentrated, actively-managed portfolio of ASX small/mid-caps; monitor monthly NTA trend, buyback pace, and portfolio concentration for discount-narrowing catalysts or capital return actions.",
+  "updated": "2026-09-09"
  }
 }

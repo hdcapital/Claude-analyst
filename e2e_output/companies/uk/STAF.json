@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/STAF",
+ "identity": {
+  "ticker": "STAF",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Henry Spain Investment Services Limited, position=PCA of Thomas Spain, Non-Executive Director and Chairman, nature=Sale of Ordinary Shares, price=0.41, volume=0.41, value=0.17",
+   "data": {
+    "person": "Henry Spain Investment Services Limited",
+    "position": "PCA of Thomas Spain, Non-Executive Director and Chairman",
+    "nature": "Sale of Ordinary Shares",
+    "price": 0.41,
+    "volume": 0.41,
+    "value": 0.17
+   },
+   "source": "uk:9763841",
+   "locator": "chars 2151+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

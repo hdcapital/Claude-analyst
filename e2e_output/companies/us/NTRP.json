@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/NTRP",
+ "identity": {
+  "ticker": "NTRP",
+  "exchange": "US",
+  "name": "NextTrip, Inc.",
+  "cik": "788611"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=False",
+   "data": {
+    "items": [
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": false
+   },
+   "source": "us:0001493152-26-041880",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-10T05:39:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

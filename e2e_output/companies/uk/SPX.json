@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/SPX",
+ "identity": {
+  "ticker": "SPX",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Group Chief Executive Officer, nature=Acquisition of 2 Partnership Shares and award of 2 Matching Shares under the Company's Share Incentive Plan, price=68.97, volume=68.97, value=4756.86",
+   "data": {
+    "person": "Name",
+    "position": "Group Chief Executive Officer",
+    "nature": "Acquisition of 2 Partnership Shares and award of 2 Matching Shares under the Company's Share Incentive Plan",
+    "price": 68.97,
+    "volume": 68.97,
+    "value": 4756.86
+   },
+   "source": "uk:9761851",
+   "locator": "chars 419+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

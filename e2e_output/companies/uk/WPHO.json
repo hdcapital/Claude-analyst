@@ -1,0 +1,56 @@
+{
+ "issuer_key": "uk/WPHO",
+ "identity": {
+  "ticker": "WPHO",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=3.61, previous_voting_rights_pct=3.61",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 3.61,
+    "previous_voting_rights_pct": 3.61
+   },
+   "source": "uk:9763641",
+   "locator": "chars 829+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=5.86, previous_voting_rights_pct=5.86",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 5.86,
+    "previous_voting_rights_pct": 5.86
+   },
+   "source": "uk:9763732",
+   "locator": "chars 831+",
+   "recorded_at": "2026-09-10T05:39:57Z"
+  }
+ ],
+ "situations": [
+  {
+   "situation_id": "S-417fb73767",
+   "date": "2026-09-09",
+   "headline": "Windar Photonics launches second retail offer to raise up to £300k at 5p",
+   "status": "open",
+   "source": "uk:9764051"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Windar Photonics launches second retail offer to raise up to £300k at 5p (interest 3, risk 6)",
+   "source": "uk:9764051",
+   "recorded_at": "2026-09-10T06:16:57Z"
+  }
+ ],
+ "thesis": {
+  "text": "Windar Photonics is a micro-cap AIM LiDAR wind-measurement technology firm repeatedly tapping retail investors for small sums (two retail offers within weeks), suggesting persistent cash constraints; near-term catalyst is the 1 October 2026 admission and dilution from warrants exercisable at 10p, with limited visibility on underlying operating trajectory from this announcement alone (judgement).",
+  "updated": "2026-09-09"
+ }
+}

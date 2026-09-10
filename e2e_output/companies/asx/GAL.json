@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/GAL",
+ "identity": {
+  "ticker": "GAL",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/PALM",
+ "identity": {
+  "ticker": "PALM",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Richard Edwards, resulting_voting_rights_pct=5.9, previous_voting_rights_pct=6.0",
+   "data": {
+    "holder": "Richard Edwards",
+    "resulting_voting_rights_pct": 5.9,
+    "previous_voting_rights_pct": 6.0
+   },
+   "source": "uk:9761854",
+   "locator": "chars 1030+",
+   "recorded_at": "2026-09-10T05:39:56Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

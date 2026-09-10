@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/EVR",
+ "identity": {
+  "ticker": "EVR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-499e207903",
+   "date": "2026-09-09",
+   "headline": "EV Resources begins live antimony ore crushing at Tecomatlán, targeting first concentrate within ~6.5 weeks",
+   "status": "open",
+   "source": "asx:2382eea4484acd3b8147774e27839116"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: EV Resources begins live antimony ore crushing at Tecomatlán, targeting first concentrate within ~6.5 weeks (interest 6, risk 7)",
+   "source": "asx:2382eea4484acd3b8147774e27839116",
+   "recorded_at": "2026-09-10T05:59:24Z"
+  }
+ ],
+ "thesis": {
+  "text": "EVR is a speculative near-term antimony producer whose value hinges on successfully converting third-party regional ore into marketable concentrate at Tecomatlán; the current POC crushing milestone is a necessary but not sufficient step, with grade/marketability and offtake economics still unproven, and permanent capital loss risk remains high pending assay results and financing continuity.",
+  "updated": "2026-09-09"
+ }
+}

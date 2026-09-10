@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/PAC",
+ "identity": {
+  "ticker": "PAC",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-3bfd20c5ba",
+   "date": "2026-09-09",
+   "headline": "Pacific Assets Trust shareholders approve scheme of reconstruction with Schroder ATR",
+   "status": "open",
+   "source": "uk:9763741"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Pacific Assets Trust shareholders approve scheme of reconstruction with Schroder ATR (interest 4, risk 2)",
+   "source": "uk:9763741",
+   "recorded_at": "2026-09-10T06:15:21Z"
+  }
+ ],
+ "thesis": {
+  "text": "PAC is being wound up and combined into Schroder ATR via a Section 110 scheme; shareholder approval is secured with overwhelming votes, a pre-liquidation dividend of 3.8p is confirmed, and mechanical steps (CREST disablement, reclassification, listing suspension) are underway through late September 2026. Remaining catalysts are procedural completion of the scheme and issuance of new ATR shares; watch subsequent announcements for exchange ratio/NAV crystallization details to assess final value transfer.",
+  "updated": "2026-09-09"
+ }
+}

@@ -12,6 +12,13 @@
    "headline": "Amigo Resources: first gravity-gold output (10kg Aug) ahead of Q4 plant/leach-circuit commissioning",
    "status": "open",
    "source": "uk:9757539"
+  },
+  {
+   "situation_id": "S-cc6b2ece90",
+   "date": "2026-09-09",
+   "headline": "Amigo Resources: PGM/graphite/copper-matte multi-commodity update layered onto unproven gold ramp",
+   "status": "open",
+   "source": "uk:9761817"
   }
  ],
  "changelog": [
@@ -20,10 +27,22 @@
    "entry": "stage-2 assessment: Amigo Resources: first gravity-gold output (10kg Aug) ahead of Q4 plant/leach-circuit commissioning (interest 5, risk 7)",
    "source": "uk:9757539",
    "recorded_at": "2026-09-08T14:59:34Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Amigo Resources: PGM/graphite/copper-matte multi-commodity update layered onto unproven gold ramp (interest 5, risk 8)",
+   "source": "uk:9761817",
+   "recorded_at": "2026-09-10T06:08:17Z"
+  },
+  {
+   "date": "2026-09-09",
+   "entry": "thesis superseded (was: \"Amigo Resources is a micro-cap Tanzania-focused gold developer transitioning from pilot gravity recovery to an integrated gravity+CIL+flotation plant; the August 10kg output confirms free-gold recoverability but scale, cost, and sustainability remain unproven pending Q4 2026 plant commissioning and \")",
+   "source": "uk:9761817",
+   "recorded_at": "2026-09-10T06:08:17Z"
   }
  ],
  "thesis": {
-  "text": "Amigo Resources is a micro-cap Tanzania-focused gold developer transitioning from pilot gravity recovery to an integrated gravity+CIL+flotation plant; the August 10kg output confirms free-gold recoverability but scale, cost, and sustainability remain unproven pending Q4 2026 plant commissioning and the promised return to monthly financial disclosure, making this a speculative, catalyst-driven situation with high operational and disclosure risk until independently verified production/revenue data emerges.",
-  "updated": "2026-09-07"
+  "text": "Amigo Resources is layering PGM, graphite and copper-matte optionality onto an unproven Tanzanian gold gravity-recovery operation; each new workstream (PGM concentration circuits, pyrometallurgical furnace trial, STAMICO graphite tailings, Kabete historical-drilling validation) is explicitly preliminary, non-representative or conceptual per the company's own disclaimers, with no JORC resource, economic study, or updated financial disclosure accompanying the claims. The thesis remains speculative and catalyst-dependent: near-term value hinges on independently verified metallurgical/economic data and the still-pending Q4 2026 gold plant commissioning, while the widening set of unproven commodity narratives raises promotional and disclosure risk rather than reducing it.",
+  "updated": "2026-09-09"
  }
 }

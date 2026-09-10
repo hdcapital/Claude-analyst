@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/FHE",
+ "identity": {
+  "ticker": "FHE",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-e5f5db51d7",
+   "date": "2026-09-09",
+   "headline": "Frontier Energy (FHE) – Waroona Stage One construction mobilisation begins",
+   "status": "open",
+   "source": "asx:2c055e0d895d42717bdafe50f57746bf"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: Frontier Energy (FHE) – Waroona Stage One construction mobilisation begins (interest 6, risk 3)",
+   "source": "asx:2c055e0d895d42717bdafe50f57746bf",
+   "recorded_at": "2026-09-10T06:00:02Z"
+  }
+ ],
+ "thesis": {
+  "text": "Frontier Energy is a single-asset WA renewable developer transitioning its flagship Waroona Project (132MW solar + 81.5MW/6.9hr BESS) from development into a funded two-year construction phase with an experienced Owner's Team and EPC partner Monford Group, targeting first generation in 2028; near-term catalysts are construction milestones (piling, panel installation) rather than financial events, with execution risk being the primary variable to monitor.",
+  "updated": "2026-09-09"
+ }
+}

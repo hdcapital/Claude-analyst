@@ -18,6 +18,34 @@
    "source": "asx:e36dae827529b2268a2fd1cafaffdc50",
    "locator": "chars 2934+",
    "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=41750000.0, issue_price=0.02, implied_raise=835000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 41750000.0,
+    "issue_price": 0.02,
+    "implied_raise": 835000.0
+   },
+   "source": "asx:bbf82796aded1a384f55418914387499",
+   "locator": "chars 295+",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing Statement",
+   "data": {
+    "title": "Cleansing Statement",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137546",
+    "is_admin_noise": true
+   },
+   "source": "asx:e025da747b49924b9abd587edd758689",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:56Z"
   }
  ],
  "situations": [

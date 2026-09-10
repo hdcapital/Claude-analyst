@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/RML",
+ "identity": {
+  "ticker": "RML",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=96000000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 96000000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:afa854113a20b3b07d8c286c13196c9b",
+   "locator": "chars 295+",
+   "recorded_at": "2026-09-10T05:39:55Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/AEG",
+ "identity": {
+  "ticker": "AEG",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

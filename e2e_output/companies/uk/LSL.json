@@ -19,6 +19,22 @@
    "source": "uk:9757567",
    "locator": "chars 166+",
    "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Group Chief Executive Officer, price=2.696, volume=2.696, value=7.27",
+   "data": {
+    "person": "Name",
+    "position": "Group Chief Executive Officer",
+    "nature": null,
+    "price": 2.696,
+    "volume": 2.696,
+    "value": 7.27
+   },
+   "source": "uk:9764019",
+   "locator": "chars 1518+",
+   "recorded_at": "2026-09-10T05:39:57Z"
   }
  ],
  "situations": [],

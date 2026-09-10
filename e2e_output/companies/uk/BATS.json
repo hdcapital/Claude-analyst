@@ -19,6 +19,22 @@
    "source": "uk:9759104",
    "locator": "chars 921+",
    "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Corporate Officer, nature=Purchase of ordinary shares, price=40.76, volume=40.76, value=1661.38",
+   "data": {
+    "person": "Name",
+    "position": "Chief Corporate Officer",
+    "nature": "Purchase of ordinary shares",
+    "price": 40.76,
+    "volume": 40.76,
+    "value": 1661.38
+   },
+   "source": "uk:9763197",
+   "locator": "chars 196+",
+   "recorded_at": "2026-09-10T05:39:57Z"
   }
  ],
  "situations": [],

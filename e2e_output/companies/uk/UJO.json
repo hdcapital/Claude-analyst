@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/UJO",
+ "identity": {
+  "ticker": "UJO",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

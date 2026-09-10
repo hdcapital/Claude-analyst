@@ -21,6 +21,20 @@
    "source": "asx:c6ec804c3f4bcf521a509892d6042afa",
    "locator": "diff vs none",
    "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - RG1",
+   "data": {
+    "title": "Notification of cessation of securities - RG1",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137603",
+    "is_admin_noise": true
+   },
+   "source": "asx:42ab652adc182dbad268c7233d78c16b",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:54Z"
   }
  ],
  "situations": [],

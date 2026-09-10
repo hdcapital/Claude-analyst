@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/GWR",
+ "identity": {
+  "ticker": "GWR",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Results of Meeting",
+   "data": {
+    "title": "Results of Meeting",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137844",
+    "is_admin_noise": true
+   },
+   "source": "asx:0bf78fdb29750c6db988807743c761d8",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:53Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

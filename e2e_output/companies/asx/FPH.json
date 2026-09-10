@@ -1,0 +1,57 @@
+{
+ "issuer_key": "asx/FPH",
+ "identity": {
+  "ticker": "FPH",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - FPH",
+   "data": {
+    "title": "Notification regarding unquoted securities - FPH",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137662",
+    "is_admin_noise": true
+   },
+   "source": "asx:2ee073c9e241d875b2c42fa1681714d1",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - FPH",
+   "data": {
+    "title": "Notification regarding unquoted securities - FPH",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137664",
+    "is_admin_noise": true
+   },
+   "source": "asx:4aa31c2a887b4347de8a78a5cfc0b0ec",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - FPH",
+   "data": {
+    "title": "Notification regarding unquoted securities - FPH",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03137660",
+    "is_admin_noise": true
+   },
+   "source": "asx:7c9f864ab44747e00b494da540bbc60b",
+   "locator": "metadata",
+   "recorded_at": "2026-09-10T05:39:54Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

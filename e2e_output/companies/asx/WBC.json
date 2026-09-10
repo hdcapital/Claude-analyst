@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/WBC",
+ "identity": {
+  "ticker": "WBC",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/TGM",
+ "identity": {
+  "ticker": "TGM",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [
+  {
+   "situation_id": "S-94cd63d60c",
+   "date": "2026-09-09",
+   "headline": "TGM trading paused pending announcement",
+   "status": "open",
+   "source": "asx:8a8491648ad954bb8db553a06c183ea8"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-09-09",
+   "entry": "stage-2 assessment: TGM trading paused pending announcement (interest 3, risk 5)",
+   "source": "asx:8a8491648ad954bb8db553a06c183ea8",
+   "recorded_at": "2026-09-10T06:03:18Z"
+  }
+ ],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

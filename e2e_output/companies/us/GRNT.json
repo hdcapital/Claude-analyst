@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/GRNT",
+ "identity": {
+  "ticker": "GRNT",
+  "exchange": "US",
+  "name": "Granite Ridge Resources, Inc.",
+  "cik": "1928446"
+ },
+ "facts": [
+  {
+   "date": "2026-09-09",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=False",
+   "data": {
+    "items": [
+     "5.07"
+    ],
+    "item_names": {
+     "5.07": "shareholder vote results"
+    },
+    "escalated": false
+   },
+   "source": "us:0001928446-26-000062",
+   "locator": "chars 229+ (item headers)",
+   "recorded_at": "2026-09-10T05:40:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}
