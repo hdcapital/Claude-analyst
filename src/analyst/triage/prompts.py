@@ -13,7 +13,9 @@ from typing import Any
 
 import yaml
 
-STAGE1_SNIPPET_CHARS = 1500
+# 4,000 chars (~1.1k tokens): the measured audit misses were dense decks
+# whose substance sat past the old 1,500-char window
+STAGE1_SNIPPET_CHARS = 4000
 
 
 def load_taxonomy(path: Path) -> dict[str, Any]:

@@ -84,4 +84,4 @@ avoidance_flags:
 stage2_interest_threshold: 6
 
 # Fraction of culled/low-scored announcements re-checked daily by the audit sampler.
-audit_sample_rate: 0.02
+audit_sample_rate: 0.05

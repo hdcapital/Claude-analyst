@@ -18,8 +18,8 @@ from .models import Announcement, Fact, Provenance
 
 # Delta is "non-trivial" when at least this many lines changed AND the changed
 # share of the document exceeds this fraction.
-MIN_CHANGED_LINES = 3
-MIN_CHANGED_FRACTION = 0.02
+MIN_CHANGED_LINES = 1  # over-read bias: any real delta is forwarded
+MIN_CHANGED_FRACTION = 0.0  # over-read bias: no fraction floor
 MAX_DELTA_LINES = 120  # cap what we forward to the AI lane
 
 _WS = re.compile(r"[ \t]+")

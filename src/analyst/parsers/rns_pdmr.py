@@ -93,7 +93,9 @@ def parse_rns_pdmr(ann: Announcement) -> ParseResult:
                 provenance=provenance(ann, f"chars {header.start()}+ (PDMR table)"),
                 parser="rns_pdmr",
                 confidence="parsed",
-            )
+            ),
+            # over-read bias: every PDMR dealing gets a cheap model read
+            escalate=True,
         )
 
     nm = _NAME.search(text) or _NAME_SECTIONED.search(text)
@@ -128,5 +130,7 @@ def parse_rns_pdmr(ann: Announcement) -> ParseResult:
             provenance=provenance(ann, f"chars {nm.start()}+"),
             parser="rns_pdmr",
             confidence="parsed",
-        )
+        ),
+        # over-read bias: every PDMR dealing gets a cheap model read
+        escalate=True,
     )

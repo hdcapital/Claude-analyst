@@ -72,7 +72,9 @@ def parse_us_13dg(ann: Announcement) -> ParseResult:
         "has_purpose_section": bool(_PURPOSE.search(text)),
     }
     # a 13D (activist intent) is always worth analyst eyes; 13G is passive
-    escalate = kind.startswith("13D")
+    # over-read bias: 13G crossings and G→D switches matter too, and the
+    # volume is tiny (~1 filing per 8 days in this lake) — read them all
+    escalate = True
     return parsed(
         Fact(
             fact_type="schedule_13dg",

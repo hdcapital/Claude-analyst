@@ -48,8 +48,12 @@ asx:
     match: { title_regex: "half year(ly)? report|full year report|annual report|preliminary final report|appendix 4[de]" }
     lane: DIFF
     diff_group: results
+  # Over-read bias (2026-09-10): meeting notices/results, shareholder letters,
+  # constitutions and listing-rule waivers were removed from this sink — board
+  # spills, failed resolutions and activist requisitions hide in those titles,
+  # so they now fall through to the AI lane.
   - name: asx.admin_paperwork
-    match: { title_regex: "notification regarding unquoted|notification of cessation|cleansing (notice|statement)|appendix 3[ghxz]|change of registry|change of registered office|change of company secretary|listing rule waiver|constitution|notice of (annual )?general meeting|proxy form|results of (annual general )?meeting|letter to (share|option)holders" }
+    match: { title_regex: "notification regarding unquoted|notification of cessation|cleansing (notice|statement)|appendix 3[ghxz]|change of registry|change of registered office|change of company secretary|proxy form" }
     lane: DETERMINISTIC
     parser: admin_log
 
@@ -74,12 +78,16 @@ uk:
     match: { title_regex: "(half|full)[- ]year(ly)? (results|report)|interim results|final results|annual (results|report)|trading (statement|update)|quarterly (results|report|update)" }
     lane: DIFF
     diff_group: results
+  # Over-read bias (2026-09-10): "Rule 2.9 announcement" left this sink — it
+  # is the announcement that an offer period is live, not a dealing form.
   - name: uk.takeover_dealing_forms
-    match: { title_regex: "^form 8(\\.3|\\.5| \\(|:)|rule 2\\.9 announcement|rule 8\\.3" }
+    match: { title_regex: "^form 8(\\.3|\\.5| \\(|:)|rule 8\\.3" }
     lane: DETERMINISTIC
     parser: admin_log
+  # Over-read bias (2026-09-10): AGM/GM notices and results left this sink —
+  # failed resolutions and requisitioned meetings are needles.
   - name: uk.admin_paperwork
-    match: { title_regex: "total voting rights|block listing|result of agm|result of general meeting|notice of agm|director declaration|change of registered office|company secretary change" }
+    match: { title_regex: "total voting rights|block listing|director declaration|change of registered office|company secretary change" }
     lane: DETERMINISTIC
     parser: admin_log
 
@@ -104,9 +112,11 @@ us:
     match: { form_prefix: ["10-Q", "10-K", "20-F", "40-F", "N-CSR", "N-Q"] }
     lane: DIFF
     diff_group: periodic
+  # Over-read bias (2026-09-10): "25-NSE" (delisting) and "NT " (late-filing
+  # notification — a distress signal) left this sink for the AI lane.
   - name: us.registration_boilerplate
     match:
-      form_prefix: ["S-8", "424B", "FWP", "D", "CERT", "EFFECT", "25-NSE", "NT ",
+      form_prefix: ["S-8", "424B", "FWP", "D", "CERT", "EFFECT",
                     "S-1MEF", "POS AM", "13F-HR", "13F-NT", "N-MFP", "N-CEN", "24F-2NT",
                     "X-17A", "ARS", "IRANNOTICE", "SD", "11-K", "144"]
     lane: DETERMINISTIC

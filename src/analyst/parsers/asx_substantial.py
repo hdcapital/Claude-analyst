@@ -117,7 +117,8 @@ def _parse_nzx(ann: Announcement, text: str) -> ParseResult | None:
             provenance=provenance(ann, f"chars {holder_m.start()}+ (NZX disclosure)"),
             parser="asx_substantial",
             confidence="parsed",
-        )
+        ),
+        escalate=True,  # over-read bias: stake events always get a model read
     )
 
 
@@ -167,7 +168,8 @@ def parse_asx_substantial(ann: Announcement) -> ParseResult:
                 provenance=provenance(ann, f"chars {holder_offset}+ (form 605)"),
                 parser="asx_substantial",
                 confidence="parsed",
-            )
+            ),
+            escalate=True,  # over-read bias: stake events always get a model read
         )
 
     pcts = _percents_near_voting_power(text)
@@ -212,5 +214,6 @@ def parse_asx_substantial(ann: Announcement) -> ParseResult:
             provenance=provenance(ann, f"chars {holder_offset}+ (voting power table)"),
             parser="asx_substantial",
             confidence="parsed",
-        )
+        ),
+        escalate=True,  # over-read bias: stake events always get a model read
     )

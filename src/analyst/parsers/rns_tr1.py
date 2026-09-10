@@ -134,5 +134,6 @@ def parse_rns_tr1(ann: Announcement) -> ParseResult:
             provenance=provenance(ann, f"chars {holder_offset}+"),
             parser="rns_tr1",
             confidence="parsed",
-        )
+        ),
+        escalate=True,  # over-read bias: holdings crossings always get a model read
     )

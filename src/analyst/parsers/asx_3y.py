@@ -157,5 +157,8 @@ def parse_asx_3y(ann: Announcement) -> ParseResult:
             provenance=provenance(ann, f"chars {director_offset}+ (form fields)"),
             parser="asx_3y",
             confidence="parsed",
-        )
+        ),
+        # over-read bias: every director dealing gets a cheap model read —
+        # conviction buys hide among plan vestings, and Stage 1 is ~$0.003
+        escalate=True,
     )

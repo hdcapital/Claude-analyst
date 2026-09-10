@@ -1,9 +1,10 @@
 """SEC 8-K — extract the item codes as facts.
 
 Item codes are the 8-K's own metadata ("Item 1.03 Bankruptcy or
-Receivership"). The parser records every item present. Certain items are
-always escalated to the AI lane for a full read (escalation adds scrutiny;
-it never culls). Validation: at least one item code found, else unparsed.
+Receivership"). The parser records every item present, and every filing is
+escalated to the AI lane for a full read unless its only item is on the
+short routine list (escalation adds scrutiny; it never culls).
+Validation: at least one item code found, else unparsed.
 """
 
 from __future__ import annotations
@@ -63,19 +64,12 @@ def _codes_from_header(text_head: str) -> list[str]:
                 break
     return codes
 
-# Items that warrant analyst eyes regardless of what else the filing says.
-ESCALATE_ITEMS = {
-    "1.01",  # material definitive agreement
-    "1.02",  # termination of material agreement
-    "1.03",  # bankruptcy/receivership
-    "2.01",  # completion of acquisition or disposition
-    "2.05",  # exit/disposal costs
-    "2.06",  # material impairments
-    "3.01",  # delisting notice
-    "4.01",  # auditor change
-    "4.02",  # non-reliance on prior financials
-    "5.01",  # change in control
-    "5.02",  # officer/director departure or appointment
+# Over-read bias (2026-09-10, user-directed): every 8-K gets a model read
+# UNLESS its only item is on this routine list. 8-Ks are a news form, and
+# needles hide in "8.01 Other Events" and 7.01 Reg-FD disclosures; the item
+# codes are still recorded as facts either way.
+ROUTINE_ITEMS = {
+    "9.01",  # financial statements and exhibits (a bare exhibit index)
 }
 
 _ITEM_NAMES = {
@@ -114,7 +108,7 @@ def parse_us_8k(ann: Announcement) -> ParseResult:
         return unparsed("no 8-K item codes found")
     first = _ITEM_INFO.search(head) or _ITEM.search(head)
     assert first is not None
-    escalate = any(item in ESCALATE_ITEMS for item in items)
+    escalate = any(item not in ROUTINE_ITEMS for item in items)
     data = {
         "items": items,
         "item_names": {i: _ITEM_NAMES.get(i, "?") for i in items},

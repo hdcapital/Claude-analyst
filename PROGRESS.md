@@ -121,6 +121,39 @@ Outputs live in `e2e_output/` on this branch (`analyst.db`, `briefs/`,
 - **Company files**: per-issuer append-only MD+JSON with theses (e.g.
   `companies/asx/INA.md` carries the take-private thesis with provenance).
 
+## Over-read pass (2026-09-10, user-directed)
+
+"This is a needle-in-a-haystack game — better to over-read than under."
+Every place a document could be filed without model eyes was swept, and
+the bias flipped toward reading. Escalation adds a cheap Stage-1 read on
+top of deterministic parsing; it never removes a parse or a fact.
+
+- **8-K**: inverted — every filing is AI-read unless its *only* item is
+  9.01 (bare exhibit index). Needles hide in 8.01 "Other Events" and
+  7.01 Reg-FD, which the old escalation list skipped.
+- **Stake notices**: all ASX 603/604/605 (NZX variant included), TR-1 and
+  13D/G filings now escalate — creeping stakes are events.
+- **Director dealings**: every 3Y and PDMR notice gets a Haiku read —
+  conviction buys hide among plan vestings at ~$0.003 each.
+- **4C/5B quarterlies**: escalate when estimated quarters of funding is
+  below 2 — or unreadable (an unreadable runway is a needle not ruled out).
+- **Routing de-sinking**: meeting notices/results, shareholder letters,
+  constitutions and listing-rule waivers (ASX), "Rule 2.9 announcement"
+  (UK — that's the offer-period announcement, not a dealing form), and US
+  "25-NSE" (delisting) / "NT " (late-filing distress) all left the
+  admin-log sink for the AI lane.
+- **Diff lane**: any real delta forwards (was ≥3 lines and ≥2%) — a single
+  added line can be the needle; only an unchanged re-release stays trivial.
+- **Stage 1 reads deeper**: snippet window 1,500 → 4,000 chars, directly
+  addressing the two measured audit misses (dense decks whose substance
+  sat past the old window).
+- **Audit rate**: 2% → 5%.
+
+Estimated cost impact: +$0.6–1.2/day batched (mostly Haiku volume and the
+wider Stage-1 window) → **~$3.00–3.50/day** in production, more in
+reporting season. Not yet validated live: the Anthropic account's credit
+balance is exhausted, so the next E2E must wait for a top-up.
+
 ## Next steps (in order)
 
 1. **Backfill** — the highest-value missing piece. The lake holds months of

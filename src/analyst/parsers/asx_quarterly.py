@@ -84,6 +84,10 @@ def parse_asx_quarterly(ann: Announcement) -> ParseResult:
         "currency_unit": "A$'000",
         **values,
     }
+    # over-read bias: short funding runway is a financing-risk needle, and an
+    # unreadable runway figure is a needle we could not rule out
+    quarters = values.get("estimated_quarters_of_funding")
+    escalate = quarters is None or float(quarters) < 2
     return parsed(
         Fact(
             fact_type="quarterly_cash_flow",
@@ -92,5 +96,6 @@ def parse_asx_quarterly(ann: Announcement) -> ParseResult:
             provenance=provenance(ann, f"chars {max(first_offset, 0)}+ (items 1.1-8.5)"),
             parser="asx_quarterly",
             confidence="parsed",
-        )
+        ),
+        escalate=bool(escalate),
     )
