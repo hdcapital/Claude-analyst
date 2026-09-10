@@ -50,11 +50,14 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           MARKET_INGESTER_PATH: ./_lake_mirror
           ANALYST_DATA_DIR: ./data
-          ANALYST_BUDGET_USD_TOTAL: "10"
+          # $10 build cap raised to $14 with the user's explicit approval
+          # (2026-09-10) to fund the head-to-head comparison day; still a
+          # hard cap, never bypassed.
+          ANALYST_BUDGET_USD_TOTAL: "14"
           # Build runs replay several real lake days in one calendar day and
           # carry reconciled spend from earlier runs, so the per-day gate is
-          # set to the total; the $10 TOTAL cap is the binding hard limit.
-          ANALYST_BUDGET_USD_DAILY: "10"
+          # set to the total; the TOTAL cap is the binding hard limit.
+          ANALYST_BUDGET_USD_DAILY: "14"
         run: |
           set -euo pipefail
           if [ -z "$ANTHROPIC_API_KEY" ]; then
