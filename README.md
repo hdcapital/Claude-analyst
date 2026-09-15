@@ -110,7 +110,21 @@ Migrations: plain versioned schema — `meta.schema_version` plus ordered,
 additive SQL steps in `MIGRATIONS` (`src/analyst/db/store.py`). New tables
 appear via `create_all`; destructive changes are not used.
 
-## Scheduling (cron example)
+## Scheduling
+
+Production automation is `.github/workflows/daily.yml`: Tue–Sat 04:52 UTC
+(after the lake's overnight ingests), reading the lake straight from S3 and
+keeping all state (SQLite DB, company files, briefs) under
+`s3://<bucket>/claude-analyst/data/` so runs are cumulative. Each run also
+uploads the day's brief as an Actions artifact.
+
+Required repo secrets: `ANTHROPIC_API_KEY` plus the same `AWS_ACCESS_KEY_ID`,
+`AWS_SECRET_ACCESS_KEY`, `AWS_BUCKET_NAME`, `AWS_DEFAULT_REGION` that
+market-ingestion uses. Budget caps are tunable as repo variables
+(`ANALYST_BUDGET_USD_DAILY`, default $4; `ANALYST_BUDGET_USD_TOTAL`,
+default $250 lifetime backstop).
+
+Self-hosted alternative (plain cron):
 
 ```cron
 # after the lake's ingest slots (see market-ingestion README; times UTC):

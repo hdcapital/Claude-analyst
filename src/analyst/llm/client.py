@@ -209,9 +209,18 @@ class LLMClient:
             kwargs["system"] = system
         if temperature is not None:
             kwargs["temperature"] = temperature
-        response = self.sdk.messages.create(
-            model=model, max_tokens=max_tokens, messages=messages, **kwargs  # type: ignore[arg-type]
-        )
+        try:
+            response = self.sdk.messages.create(
+                model=model, max_tokens=max_tokens, messages=messages, **kwargs  # type: ignore[arg-type]
+            )
+        except anthropic.BadRequestError as exc:
+            # An exhausted account balance is a budget condition, not a bug:
+            # surface it as BudgetExceeded so every caller's budget-stop path
+            # (record partials, exit 3) handles it. Learned the hard way —
+            # 14 audit responses died with this error on 2026-09-10.
+            if "credit balance" in str(exc).lower():
+                raise BudgetExceeded(f"account credit balance exhausted: {exc}") from exc
+            raise
         usage = Usage.from_api(response.usage)
         cost = self._settle(model=model, purpose=purpose, usage=usage, batch=False, doc_id=doc_id)
         text = "".join(block.text for block in response.content if block.type == "text")
@@ -266,7 +275,12 @@ class LLMClient:
                 raise ValueError(f"batch custom_id collision after sanitizing: {safe}")
             id_map[safe] = original
             api_requests.append({"custom_id": safe, "params": {"model": model, **r["params"]}})
-        batch = self.sdk.messages.batches.create(requests=api_requests)  # type: ignore[arg-type]
+        try:
+            batch = self.sdk.messages.batches.create(requests=api_requests)  # type: ignore[arg-type]
+        except anthropic.BadRequestError as exc:
+            if "credit balance" in str(exc).lower():
+                raise BudgetExceeded(f"account credit balance exhausted: {exc}") from exc
+            raise
         log.info("batch %s submitted: %d requests (est ceiling $%.4f)", batch.id, len(requests), estimate)
         # visible marker so an operator can reconcile a batch whose results
         # were never collected (process killed mid-poll still costs money)

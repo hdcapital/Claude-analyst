@@ -1,0 +1,100 @@
+name: Daily analyst run
+
+# Runs after the lake's overnight ingests settle (ASX chain finishes by
+# ~03:30 UTC on heavy days; US ingests at 03:17 UTC Tue-Sat). Tue-Sat
+# covers Mon-Fri trading days. A day with no new partitions is a cheap
+# no-op. Odd minute to dodge GitHub's congested :00/:30 scheduler marks.
+on:
+  schedule:
+    - cron: "52 4 * * 2-6"
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Process from this date (YYYY-MM-DD; blank = latest complete day)"
+        default: ""
+      realtime:
+        description: "Use per-call API instead of the Batch API"
+        type: boolean
+        default: false
+
+# State lives in S3 (s3://$AWS_BUCKET_NAME/claude-analyst/data/): the SQLite
+# DB, company files and briefs are pulled before the run and synced back
+# after, so runs are cumulative and idempotent by doc_id.
+#
+# Required repo secrets: ANTHROPIC_API_KEY, AWS_ACCESS_KEY_ID,
+# AWS_SECRET_ACCESS_KEY, AWS_BUCKET_NAME, AWS_DEFAULT_REGION (the same
+# AWS values market-ingestion uses).
+
+concurrency:
+  group: daily-analyst
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330  # batch queue latency can be hours; run_batch cancels at its own timeout
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install
+        run: pip install -e ".[s3]"
+
+      - name: Pull state from S3
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
+          BUCKET: ${{ secrets.AWS_BUCKET_NAME }}
+        run: |
+          set -euo pipefail
+          mkdir -p data
+          aws s3 sync --only-show-errors "s3://$BUCKET/claude-analyst/data/" data/ || true
+
+      - name: Run pipeline, audit, brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MARKET_INGESTER_PATH: "s3://${{ secrets.AWS_BUCKET_NAME }}/market-data"
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
+          ANALYST_DATA_DIR: ./data
+          # Daily cap is the binding production gate (vars are tunable in
+          # repo Settings -> Variables); the total is a lifetime backstop.
+          ANALYST_BUDGET_USD_DAILY: ${{ vars.ANALYST_BUDGET_USD_DAILY || '4' }}
+          ANALYST_BUDGET_USD_TOTAL: ${{ vars.ANALYST_BUDGET_USD_TOTAL || '250' }}
+        run: |
+          set -euo pipefail
+          ARGS=""
+          if [ -n "${{ inputs.since }}" ]; then ARGS="--since ${{ inputs.since }}"; fi
+          if [ "${{ inputs.realtime }}" = "true" ]; then ARGS="$ARGS --realtime"; fi
+          # exit 3 = clean budget stop: state is good, still audit + brief
+          analyst run $ARGS --plain-logs && rc=0 || rc=$?
+          if [ "$rc" -ne 0 ] && [ "$rc" -ne 3 ]; then exit "$rc"; fi
+          analyst audit || [ "$?" -eq 3 ]
+          analyst brief
+          analyst spend
+
+      - name: Sync state back to S3
+        if: always()
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
+          BUCKET: ${{ secrets.AWS_BUCKET_NAME }}
+        run: |
+          set -euo pipefail
+          if [ -d data ]; then
+            aws s3 sync --only-show-errors data/ "s3://$BUCKET/claude-analyst/data/"
+          fi
+
+      - name: Upload the day's brief
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: brief-${{ github.run_id }}
+          path: data/briefs/
+          if-no-files-found: warn

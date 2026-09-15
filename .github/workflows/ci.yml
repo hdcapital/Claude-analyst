@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [claude/claude-analyst-build-vl01y0]
+    branches: [main, claude/claude-analyst-build-vl01y0]
 
 permissions:
   contents: write
