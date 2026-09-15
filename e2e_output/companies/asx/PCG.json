@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/PCG",
+ "identity": {
+  "ticker": "PCG",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

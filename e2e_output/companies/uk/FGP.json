@@ -19,6 +19,37 @@
    "source": "uk:9757833",
    "locator": "chars 650+",
    "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=31094910.0, highest_price=7.0, lowest_price=7.0, vwap=7.0, implied_consideration=217664370.0",
+   "data": {
+    "shares_purchased": 31094910.0,
+    "highest_price": 7.0,
+    "lowest_price": 7.0,
+    "vwap": 7.0,
+    "implied_consideration": 217664370.0
+   },
+   "source": "uk:9769366",
+   "locator": "chars 693+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Executive Director and Chief Financial Officer, nature=Purchase of Partnership Shares under the FirstGroup SIP, price=1.7015, volume=1.7015, value=2.9",
+   "data": {
+    "person": "Name",
+    "position": "Executive Director and Chief Financial Officer",
+    "nature": "Purchase of Partnership Shares under the FirstGroup SIP",
+    "price": 1.7015,
+    "volume": 1.7015,
+    "value": 2.9
+   },
+   "source": "uk:9771110",
+   "locator": "chars 773+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

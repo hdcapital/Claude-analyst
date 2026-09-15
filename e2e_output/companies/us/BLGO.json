@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/BLGO",
+ "identity": {
+  "ticker": "BLGO",
+  "exchange": "US",
+  "name": "BIOLARGO, INC.",
+  "cik": "880242"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001437749-26-030198",
+   "locator": "chars 229+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

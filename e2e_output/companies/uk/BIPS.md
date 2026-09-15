@@ -1,0 +1,9 @@
+# BIPS
+
+## Identity
+- ticker: BIPS
+- exchange: LSE
+
+## Fact time series
+
+## What changed (newest first)

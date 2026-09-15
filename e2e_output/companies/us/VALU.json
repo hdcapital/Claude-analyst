@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/VALU",
+ "identity": {
+  "ticker": "VALU",
+  "exchange": "US",
+  "name": "VALUE LINE INC",
+  "cik": "717720"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/27823 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 27823,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001437749-26-030292",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

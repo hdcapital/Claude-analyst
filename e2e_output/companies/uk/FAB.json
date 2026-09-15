@@ -4,7 +4,25 @@
   "ticker": "FAB",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/1793 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 1793,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "uk:9769010",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

@@ -4,7 +4,22 @@
   "ticker": "NAB",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Issue of JPY 15 billion Subordinated Notes Cleansing Notice",
+   "data": {
+    "title": "Issue of JPY 15 billion Subordinated Notes Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139139",
+    "is_admin_noise": true
+   },
+   "source": "asx:a9ea336524e4be355f4eb1ae4d909f79",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

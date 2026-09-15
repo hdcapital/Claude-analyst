@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/VTU",
+ "identity": {
+  "ticker": "VTU",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=30000.0, lowest_price=10.0, vwap=10.0, implied_consideration=300000.0",
+   "data": {
+    "shares_purchased": 30000.0,
+    "highest_price": null,
+    "lowest_price": 10.0,
+    "vwap": 10.0,
+    "implied_consideration": 300000.0
+   },
+   "source": "uk:9769073",
+   "locator": "chars 157+",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

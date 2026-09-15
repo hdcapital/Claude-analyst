@@ -4,7 +4,22 @@
   "ticker": "LIT",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=287733.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 287733.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:3ba57b09cf3e33a7692fcad0d084df16",
+   "locator": "chars 279+",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
  "situations": [
   {
    "situation_id": "S-d803c5b417",

@@ -19,6 +19,37 @@
    "source": "uk:9759188",
    "locator": "chars 752+",
    "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=4871987.0, highest_price=7.0, lowest_price=7.0",
+   "data": {
+    "shares_purchased": 4871987.0,
+    "highest_price": 7.0,
+    "lowest_price": 7.0,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9770272",
+   "locator": "chars 802+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Executive Officer, price=741.5, volume=7.415, value=5498.22",
+   "data": {
+    "person": "Name",
+    "position": "Chief Executive Officer",
+    "nature": null,
+    "price": 741.5,
+    "volume": 7.415,
+    "value": 5498.22
+   },
+   "source": "uk:9771216",
+   "locator": "chars 1106+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

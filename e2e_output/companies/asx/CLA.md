@@ -13,6 +13,7 @@ Celsius Resources faces an existential asset-loss event as Equinaire has won a c
 
 ## Fact time series
 - 2026-09-09 [admin_announcement] admin_announcement: title=Results of Meeting [asx:b9a2665a6fb2322880dee217d6011fe9 @ 2026-09-09, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Notification regarding unquoted securities - CLA [asx:822b222e1ea407d495448cb859f8bcda @ 2026-09-14, metadata]
 
 ## What changed (newest first)
 - 2026-09-09: stage-2 assessment: Celsius Resources: Equinaire wins foreclosure auction for MHL's 40% MMCI stake amid contested OLSA default dispute (interest 7, risk 8) [asx:a03de10eba061a4db1af88420efc9779]

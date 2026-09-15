@@ -32,6 +32,118 @@
    "source": "asx:91ef98ddcbf5e524913b715276ac8877",
    "locator": "chars 248+",
    "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=12000000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 12000000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:4847cb27a6214a03afc78fc80ff59a91",
+   "locator": "chars 3775+",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=1873950.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 1873950.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:704e667e70a7ba071f7461b6c49df936",
+   "locator": "chars 4572+",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=60923774.0, issue_price=3.0, implied_raise=182771322.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 60923774.0,
+    "issue_price": 3.0,
+    "implied_raise": 182771322.0
+   },
+   "source": "asx:78d28ffd68a362463f740745d59f95f8",
+   "locator": "chars 4077+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=3500000.0, issue_price=3.0, implied_raise=10500000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 3500000.0,
+    "issue_price": 3.0,
+    "implied_raise": 10500000.0
+   },
+   "source": "asx:931ce329c50d71cd5a663b0a1656ee9b",
+   "locator": "chars 4631+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=5333333.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 5333333.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:a0c72b3180794f3b3a1c81f85862a745",
+   "locator": "chars 4009+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=3857143.0, issue_price=1e-05, implied_raise=38.57",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 3857143.0,
+    "issue_price": 1e-05,
+    "implied_raise": 38.57
+   },
+   "source": "asx:c64491ffc5cecabbbb62425e2c44f528",
+   "locator": "chars 4226+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=7000000.0, issue_price=3.0, implied_raise=21000000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 7000000.0,
+    "issue_price": 3.0,
+    "implied_raise": 21000000.0
+   },
+   "source": "asx:c7f607932b8ec95bbddd1b4b672cdb80",
+   "locator": "chars 4628+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=64285714.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 64285714.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:e4f1135a7caa84d9907f95b741347163",
+   "locator": "chars 4436+",
+   "recorded_at": "2026-09-15T23:29:01Z"
   }
  ],
  "situations": [

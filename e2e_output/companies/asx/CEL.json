@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/CEL",
+ "identity": {
+  "ticker": "CEL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - CEL",
+   "data": {
+    "title": "Notification of cessation of securities - CEL",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139336",
+    "is_admin_noise": true
+   },
+   "source": "asx:23101661a522c9176124f1e79adcfb0f",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=39030.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 39030.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:77dd280fadb92695b2facad1dac4d07d",
+   "locator": "chars 292+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/HSCSW",
+ "identity": {
+  "ticker": "HSCSW",
+  "exchange": "US",
+  "name": "HeartSciences Inc.",
+  "cik": "1468492"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/24899 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 24899,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001437749-26-030319",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

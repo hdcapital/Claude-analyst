@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/BGL",
+ "identity": {
+  "ticker": "BGL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - BGL",
+   "data": {
+    "title": "Notification regarding unquoted securities - BGL",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139356",
+    "is_admin_noise": true
+   },
+   "source": "asx:863f7e3dc9cb89467edf8413fb7503a4",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

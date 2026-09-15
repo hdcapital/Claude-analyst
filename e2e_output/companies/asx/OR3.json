@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/OR3",
+ "identity": {
+  "ticker": "OR3",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - OR3",
+   "data": {
+    "title": "Notification regarding unquoted securities - OR3",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139316",
+    "is_admin_noise": true
+   },
+   "source": "asx:232185703147f718569589e3cc7ca2f3",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - OR3",
+   "data": {
+    "title": "Notification regarding unquoted securities - OR3",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139308",
+    "is_admin_noise": true
+   },
+   "source": "asx:4052825f6c213707f9462f1d7164fd83",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

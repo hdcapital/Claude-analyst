@@ -1,0 +1,40 @@
+{
+ "issuer_key": "us/VCYT",
+ "identity": {
+  "ticker": "VCYT",
+  "exchange": "US",
+  "name": "VERACYTE, INC.",
+  "cik": "1384101"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[4], item_names(4), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "2.01",
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "2.01": "completion of acquisition/disposition",
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001384101-26-000049",
+   "locator": "chars 228+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

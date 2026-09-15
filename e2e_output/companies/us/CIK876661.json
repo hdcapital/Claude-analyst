@@ -1,0 +1,15 @@
+{
+ "issuer_key": "us/CIK876661",
+ "identity": {
+  "exchange": "US",
+  "name": "NEW YORK STOCK EXCHANGE LLC",
+  "cik": "876661"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

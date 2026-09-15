@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/A4N",
+ "identity": {
+  "ticker": "A4N",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

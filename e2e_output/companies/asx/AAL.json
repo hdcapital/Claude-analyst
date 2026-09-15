@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/AAL",
+ "identity": {
+  "ticker": "AAL",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

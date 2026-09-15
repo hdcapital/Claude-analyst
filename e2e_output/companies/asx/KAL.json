@@ -1,0 +1,57 @@
+{
+ "issuer_key": "asx/KAL",
+ "identity": {
+  "ticker": "KAL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=56937017.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 56937017.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:3c3e3ac13f3f1735f301f9d0b07ccf97",
+   "locator": "chars 256+",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=10000000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 10000000.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:d3ba22a9a4e25e6d93038b2c352c54dd",
+   "locator": "chars 256+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=56937017.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 56937017.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:e849a25c23b1ad1dc265f1d9c0d02da6",
+   "locator": "chars 3775+",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

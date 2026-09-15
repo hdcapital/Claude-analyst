@@ -1,0 +1,40 @@
+{
+ "issuer_key": "us/BALY",
+ "identity": {
+  "ticker": "BALY",
+  "exchange": "US",
+  "name": "Bally's Corp",
+  "cik": "1747079"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[4], item_names(4), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "2.03",
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "2.03": "creation of financial obligation",
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001747079-26-000089",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:06Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

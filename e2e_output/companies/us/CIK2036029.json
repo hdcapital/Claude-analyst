@@ -1,0 +1,15 @@
+{
+ "issuer_key": "us/CIK2036029",
+ "identity": {
+  "exchange": "US",
+  "name": "83 Investment Group Income Fund",
+  "cik": "2036029"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/KDNC",
+ "identity": {
+  "ticker": "KDNC",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

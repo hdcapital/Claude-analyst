@@ -18,6 +18,23 @@
    "source": "asx:7825ca1db791c8340c27e6d96a7396b3",
    "locator": "metadata",
    "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/32 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 32,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:bf498252f6372115f38e04b26f4050f6",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:00Z"
   }
  ],
  "situations": [],

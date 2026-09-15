@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/ECT",
+ "identity": {
+  "ticker": "ECT",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=EGM - Letter to Shareholders & Proxy Form",
+   "data": {
+    "title": "EGM - Letter to Shareholders & Proxy Form",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139289",
+    "is_admin_noise": true
+   },
+   "source": "asx:1b0d4f20bdb1587320891758456a11bf",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:58Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of Extraordinary General Meeting/Proxy Form",
+   "data": {
+    "title": "Notice of Extraordinary General Meeting/Proxy Form",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139286",
+    "is_admin_noise": true
+   },
+   "source": "asx:2e17d5beb44c9508444512953ab2381d",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -19,6 +19,20 @@
    "source": "uk:9761831",
    "locator": "chars 266+",
    "recorded_at": "2026-09-10T05:39:56Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Exercise Of Options and Total Voting Rights",
+   "data": {
+    "title": "Exercise Of Options and Total Voting Rights",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/b-p-marsh-partners--bpm/exercise-of-options-and-total-voting-rights/9771257",
+    "is_admin_noise": true
+   },
+   "source": "uk:9771257",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

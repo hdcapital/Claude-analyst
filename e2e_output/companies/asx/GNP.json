@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/GNP",
+ "identity": {
+  "ticker": "GNP",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

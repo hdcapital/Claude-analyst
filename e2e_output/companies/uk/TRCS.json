@@ -4,7 +4,21 @@
   "ticker": "TRCS",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Downing LLP, resulting_voting_rights_pct=5.02, previous_voting_rights_pct=4.0",
+   "data": {
+    "holder": "Downing LLP",
+    "resulting_voting_rights_pct": 5.02,
+    "previous_voting_rights_pct": 4.0
+   },
+   "source": "uk:9771387",
+   "locator": "chars 223+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

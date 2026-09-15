@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/SVS",
+ "identity": {
+  "ticker": "SVS",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=James Sparrow, nature=Purchase of Ordinary Shares through the Savills Share Incentive Plan, volume=10.14",
+   "data": {
+    "person": "James Sparrow",
+    "position": null,
+    "nature": "Purchase of Ordinary Shares through the Savills Share Incentive Plan",
+    "price": null,
+    "volume": 10.14,
+    "value": null
+   },
+   "source": "uk:9771225",
+   "locator": "chars 1181+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

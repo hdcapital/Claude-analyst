@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/GMET",
+ "identity": {
+  "ticker": "GMET",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

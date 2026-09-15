@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/CARD",
+ "identity": {
+  "ticker": "CARD",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=411000.0, highest_price=73.5, lowest_price=71.3, vwap=71.7318, implied_consideration=29481769.8",
+   "data": {
+    "shares_purchased": 411000.0,
+    "highest_price": 73.5,
+    "lowest_price": 71.3,
+    "vwap": 71.7318,
+    "implied_consideration": 29481769.8
+   },
+   "source": "uk:9769023",
+   "locator": "chars 516+",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

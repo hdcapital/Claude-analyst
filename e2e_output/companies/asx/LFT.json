@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/LFT",
+ "identity": {
+  "ticker": "LFT",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

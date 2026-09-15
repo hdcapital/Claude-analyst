@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/T3M",
+ "identity": {
+  "ticker": "T3M",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

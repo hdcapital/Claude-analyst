@@ -1,0 +1,38 @@
+{
+ "issuer_key": "us/CITR",
+ "identity": {
+  "ticker": "CITR",
+  "exchange": "US",
+  "name": "CitroTech Inc.",
+  "cik": "894556"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001683168-26-007113",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:06Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

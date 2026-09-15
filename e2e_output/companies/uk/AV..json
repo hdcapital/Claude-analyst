@@ -17,6 +17,19 @@
    "source": "uk:9763908",
    "locator": "chars 281+",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Aviva PLC, resulting_voting_rights_pct=6.17, previous_voting_rights_pct=6.19",
+   "data": {
+    "holder": "Aviva PLC",
+    "resulting_voting_rights_pct": 6.17,
+    "previous_voting_rights_pct": 6.19
+   },
+   "source": "uk:9771117",
+   "locator": "chars 281+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

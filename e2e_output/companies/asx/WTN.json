@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/WTN",
+ "identity": {
+  "ticker": "WTN",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

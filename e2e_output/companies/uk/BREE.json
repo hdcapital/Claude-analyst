@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/BREE",
+ "identity": {
+  "ticker": "BREE",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=BlackRock, Inc., resulting_voting_rights_pct=5.55, previous_voting_rights_pct=5.55",
+   "data": {
+    "holder": "BlackRock, Inc.",
+    "resulting_voting_rights_pct": 5.55,
+    "previous_voting_rights_pct": 5.55
+   },
+   "source": "uk:9771280",
+   "locator": "chars 237+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

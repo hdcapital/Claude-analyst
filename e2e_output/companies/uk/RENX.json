@@ -30,6 +30,19 @@
    "source": "uk:9764103",
    "locator": "chars 862+",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=First Equity Limited, resulting_voting_rights_pct=2.697776, previous_voting_rights_pct=4.949445",
+   "data": {
+    "holder": "First Equity Limited",
+    "resulting_voting_rights_pct": 2.697776,
+    "previous_voting_rights_pct": 4.949445
+   },
+   "source": "uk:9771235",
+   "locator": "chars 225+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

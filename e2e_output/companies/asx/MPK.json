@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/MPK",
+ "identity": {
+  "ticker": "MPK",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Section 708(A) Cleansing Notice - Share Issue",
+   "data": {
+    "title": "Section 708(A) Cleansing Notice - Share Issue",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139197",
+    "is_admin_noise": true
+   },
+   "source": "asx:458c78e80194f9a3fd6bab6ddfbacdec",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=533335.0, issue_price=0.9, implied_raise=480001.5",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 533335.0,
+    "issue_price": 0.9,
+    "implied_raise": 480001.5
+   },
+   "source": "asx:7e4475156a9b0cf88c81e57793087f95",
+   "locator": "chars 292+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

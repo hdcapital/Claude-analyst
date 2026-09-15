@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/AYA",
+ "identity": {
+  "ticker": "AYA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Issue of Shares on Exercise of Securities & Cleansing Notice",
+   "data": {
+    "title": "Issue of Shares on Exercise of Securities & Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139325",
+    "is_admin_noise": true
+   },
+   "source": "asx:5cc1c1dfb8fbc4bd82170966e6b710e0",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=6667.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 6667.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:cbc518390bcea57b6a55640dc148c5ae",
+   "locator": "chars 283+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

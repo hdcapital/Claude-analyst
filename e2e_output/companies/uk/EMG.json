@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/EMG",
+ "identity": {
+  "ticker": "EMG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=1141946486.0, vwap=7.0, implied_consideration=7993625402.0",
+   "data": {
+    "shares_purchased": 1141946486.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 7.0,
+    "implied_consideration": 7993625402.0
+   },
+   "source": "uk:9771310",
+   "locator": "chars 1074+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

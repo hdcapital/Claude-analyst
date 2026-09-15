@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/HLCL",
+ "identity": {
+  "ticker": "HLCL",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=165000.0, vwap=200.0, lowest_price=200.0, highest_price=200.0, days=1, implied_consideration=33000000.0",
+   "data": {
+    "shares_purchased": 165000.0,
+    "vwap": 200.0,
+    "lowest_price": 200.0,
+    "highest_price": 200.0,
+    "days": 1,
+    "implied_consideration": 33000000.0
+   },
+   "source": "uk:9769085",
+   "locator": "chars 1126+ (purchase table)",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

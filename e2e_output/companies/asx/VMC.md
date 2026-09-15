@@ -14,6 +14,7 @@ Venus is a serial asset-recycler funding shareholder distributions via opportuni
 ## Fact time series
 - 2026-09-07 [repeat_filing_diff] dividend filing: first_of_type (0/122 lines changed) [asx:97d5f8481b1a188b534ae320062b4326 @ 2026-09-07, diff vs none]
 - 2026-09-09 [admin_announcement] admin_announcement: title=Results of Meeting [asx:34700c76bd21112d8d51d079b11d6bf6 @ 2026-09-09, metadata]
+- 2026-09-14 [director_interest_change] director_interest_change: director=Matthew Hogan, date_of_change=2026-09-10, number_acquired=75000.0, number_disposed=0.0, value_consideration=12750.0, direct_or_indirect=Indirect [asx:6a77453c3b4a436fbf527ae694da7f04 @ 2026-09-14, chars 683+ (form fields)]
 
 ## What changed (newest first)
 - 2026-09-09: stage-2 assessment: VMC: $35.15m special cash dividend post Youanmi royalty sale, paid 18-Sep-2026 (interest 6, risk 4) [asx:c5900c5c00ad39672786981bbe158bb9]

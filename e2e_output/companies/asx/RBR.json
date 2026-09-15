@@ -18,6 +18,62 @@
    "source": "asx:4d0a9962e2458aee159623f7f932463b",
    "locator": "metadata",
    "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Cleansing Notice",
+   "data": {
+    "title": "Cleansing Notice",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03138973",
+    "is_admin_noise": true
+   },
+   "source": "asx:6eb36283a3c58aa156fd0f63d5b6f47f",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - RBR",
+   "data": {
+    "title": "Notification of cessation of securities - RBR",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03138966",
+    "is_admin_noise": true
+   },
+   "source": "asx:dad28a46d7ce559ca0cd1d453c245d8e",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - RBR",
+   "data": {
+    "title": "Notification regarding unquoted securities - RBR",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03138963",
+    "is_admin_noise": true
+   },
+   "source": "asx:ee80f49324b7a5def84de52d1df9cbfd",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=4166667.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 4166667.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:f52ae27136c03c2955b12b754d2b5184",
+   "locator": "chars 605+",
+   "recorded_at": "2026-09-15T23:29:01Z"
   }
  ],
  "situations": [],

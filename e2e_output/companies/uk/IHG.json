@@ -34,6 +34,37 @@
    "source": "uk:9761820",
    "locator": "chars 610+",
    "recorded_at": "2026-09-10T05:39:56Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=70514.0, highest_price=154.5, lowest_price=153.2, vwap=153.9273, implied_consideration=10854029.63",
+   "data": {
+    "shares_purchased": 70514.0,
+    "highest_price": 154.5,
+    "lowest_price": 153.2,
+    "vwap": 153.9273,
+    "implied_consideration": 10854029.63
+   },
+   "source": "uk:9769059",
+   "locator": "chars 610+",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Non-Executive Director, nature=Acquisition, price=153.85, volume=153.85, value=23669.82",
+   "data": {
+    "person": "Name",
+    "position": "Non-Executive Director",
+    "nature": "Acquisition",
+    "price": 153.85,
+    "volume": 153.85,
+    "value": 23669.82
+   },
+   "source": "uk:9771242",
+   "locator": "chars 104+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

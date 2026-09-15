@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/PAR",
+ "identity": {
+  "ticker": "PAR",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=108235.0, issue_price=0.2375, implied_raise=25705.81",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 108235.0,
+    "issue_price": 0.2375,
+    "implied_raise": 25705.81
+   },
+   "source": "asx:d5fe2021f5fb555513df85bae0746027",
+   "locator": "chars 306+",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

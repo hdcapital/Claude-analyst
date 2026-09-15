@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/PEMB",
+ "identity": {
+  "ticker": "PEMB",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -4,7 +4,25 @@
   "ticker": "TGF",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "dividend filing: first_of_type (0/172 lines changed)",
+   "data": {
+    "diff_group": "dividend",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 172,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:fec2931c77d6d491d8fbab0e242dd63b",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

@@ -34,6 +34,37 @@
    "source": "uk:9764133",
    "locator": "chars 178+",
    "recorded_at": "2026-09-10T05:39:58Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=9152.0",
+   "data": {
+    "shares_purchased": 9152.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9771316",
+   "locator": "chars 179+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=NON EXECUTIVE DIRECTOR, nature=DIVIDEND REINVESTMENT, price=3.105, volume=3.105, value=9.64",
+   "data": {
+    "person": "Name",
+    "position": "NON EXECUTIVE DIRECTOR",
+    "nature": "DIVIDEND REINVESTMENT",
+    "price": 3.105,
+    "volume": 3.105,
+    "value": 9.64
+   },
+   "source": "uk:9773546",
+   "locator": "chars 236+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

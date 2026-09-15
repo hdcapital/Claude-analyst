@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/49M",
+ "identity": {
+  "ticker": "49M",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - 49M",
+   "data": {
+    "title": "Notification regarding unquoted securities - 49M",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139029",
+    "is_admin_noise": true
+   },
+   "source": "asx:6037c99a3df53867f7ee9cabe6ee2e49",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Initial Director's Interest Notice - PC",
+   "data": {
+    "title": "Initial Director's Interest Notice - PC",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139375",
+    "is_admin_noise": true
+   },
+   "source": "asx:d476d8d3dbe7947cf00cfb4c1b3ab3bf",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

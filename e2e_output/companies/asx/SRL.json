@@ -1,0 +1,44 @@
+{
+ "issuer_key": "asx/SRL",
+ "identity": {
+  "ticker": "SRL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=12506.0, issue_price=0.4, implied_raise=5002.4",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 12506.0,
+    "issue_price": 0.4,
+    "implied_raise": 5002.4
+   },
+   "source": "asx:a2c1d42672dcb2cbb810af93b218abc5",
+   "locator": "chars 298+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=SailingStone Capital Partners LLC, previous_voting_power_pct=8.07, present_voting_power_pct=6.7",
+   "data": {
+    "form": "604_change",
+    "holder": "SailingStone Capital Partners LLC",
+    "became_on": null,
+    "previous_voting_power_pct": 8.07,
+    "present_voting_power_pct": 6.7
+   },
+   "source": "asx:e3a2331350d408c68c33dfa443292526",
+   "locator": "chars 3957+ (voting power table)",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

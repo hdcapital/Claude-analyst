@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/NH3",
+ "identity": {
+  "ticker": "NH3",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/5401 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 5401,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:fdd1839a982da3d572bc19bc31ae3ddb",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "issuer_key": "uk/CLDN",
+ "identity": {
+  "ticker": "CLDN",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=110590.0, highest_price=386.0, lowest_price=386.0, vwap=386.0, implied_consideration=42687740.0",
+   "data": {
+    "shares_purchased": 110590.0,
+    "highest_price": 386.0,
+    "lowest_price": 386.0,
+    "vwap": 386.0,
+    "implied_consideration": 42687740.0
+   },
+   "source": "uk:9769016",
+   "locator": "chars 133+",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=131487.0, highest_price=381.5, lowest_price=381.0, vwap=381.11, implied_consideration=50111010.57",
+   "data": {
+    "shares_purchased": 131487.0,
+    "highest_price": 381.5,
+    "lowest_price": 381.0,
+    "vwap": 381.11,
+    "implied_consideration": 50111010.57
+   },
+   "source": "uk:9771473",
+   "locator": "chars 133+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

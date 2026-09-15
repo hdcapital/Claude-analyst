@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/FGX",
+ "identity": {
+  "ticker": "FGX",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

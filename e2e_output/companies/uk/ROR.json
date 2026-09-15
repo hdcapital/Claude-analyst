@@ -69,6 +69,48 @@
    "source": "uk:9764116",
    "locator": "chars 225+",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Morgan Stanley, resulting_voting_rights_pct=7.003143, previous_voting_rights_pct=7.052554",
+   "data": {
+    "holder": "Morgan Stanley",
+    "resulting_voting_rights_pct": 7.003143,
+    "previous_voting_rights_pct": 7.052554
+   },
+   "source": "uk:9770147",
+   "locator": "chars 225+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Morgan Stanley, resulting_voting_rights_pct=6.826624, previous_voting_rights_pct=7.003143",
+   "data": {
+    "holder": "Morgan Stanley",
+    "resulting_voting_rights_pct": 6.826624,
+    "previous_voting_rights_pct": 7.003143
+   },
+   "source": "uk:9770153",
+   "locator": "chars 225+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Managing Director, Water & Power, nature=Participation in the monthly partnership share purchase arrangements under the Company's HMRC approved Share Incentive Plan., price=484.2, volume=4.842, value=2344.5",
+   "data": {
+    "person": "Name",
+    "position": "Managing Director, Water & Power",
+    "nature": "Participation in the monthly partnership share purchase arrangements under the Company's HMRC approved Share Incentive Plan.",
+    "price": 484.2,
+    "volume": 4.842,
+    "value": 2344.5
+   },
+   "source": "uk:9770490",
+   "locator": "chars 798+",
+   "recorded_at": "2026-09-15T23:29:02Z"
   }
  ],
  "situations": [],

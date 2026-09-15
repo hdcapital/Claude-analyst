@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/FEVR",
+ "identity": {
+  "ticker": "FEVR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Non-Executive Chair, nature=Purchase of ordinary shares, price=7.7955, volume=1.0, value=7.8",
+   "data": {
+    "person": "Name",
+    "position": "Non-Executive Chair",
+    "nature": "Purchase of ordinary shares",
+    "price": 7.7955,
+    "volume": 1.0,
+    "value": 7.8
+   },
+   "source": "uk:9769110",
+   "locator": "chars 1499+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

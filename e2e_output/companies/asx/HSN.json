@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/HSN",
+ "identity": {
+  "ticker": "HSN",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - HSN",
+   "data": {
+    "title": "Notification of cessation of securities - HSN",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139193",
+    "is_admin_noise": true
+   },
+   "source": "asx:0a178e4ddacf52a40fdb1e0b41377b7e",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

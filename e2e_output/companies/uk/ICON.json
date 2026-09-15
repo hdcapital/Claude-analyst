@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/ICON",
+ "identity": {
+  "ticker": "ICON",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

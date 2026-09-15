@@ -1,0 +1,42 @@
+{
+ "issuer_key": "us/PAGP",
+ "identity": {
+  "ticker": "PAGP",
+  "exchange": "US",
+  "name": "PLAINS GP HOLDINGS LP",
+  "cik": "1581990"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[5], item_names(5), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "2.02",
+     "2.03",
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "2.02": "results of operations",
+     "2.03": "creation of financial obligation",
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001104659-26-107550",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:04Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

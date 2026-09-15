@@ -19,6 +19,37 @@
    "source": "uk:9757511",
    "locator": "chars 185+",
    "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=1288766.0, highest_price=853.5, lowest_price=847.0, vwap=851.13, implied_consideration=1096907405.58",
+   "data": {
+    "shares_purchased": 1288766.0,
+    "highest_price": 853.5,
+    "lowest_price": 847.0,
+    "vwap": 851.13,
+    "implied_consideration": 1096907405.58
+   },
+   "source": "uk:9769068",
+   "locator": "chars 186+",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=PDMR - Group Chief Financial Officer, nature=Purchase of shares under the Dividend Reinvestment Plan for the Inchcape plc 2026 interim dividend, price=8.099884, volume=8.099884, value=65.61",
+   "data": {
+    "person": "Name",
+    "position": "PDMR - Group Chief Financial Officer",
+    "nature": "Purchase of shares under the Dividend Reinvestment Plan for the Inchcape plc 2026 interim dividend",
+    "price": 8.099884,
+    "volume": 8.099884,
+    "value": 65.61
+   },
+   "source": "uk:9773719",
+   "locator": "chars 146+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

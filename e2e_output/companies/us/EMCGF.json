@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/EMCGF",
+ "identity": {
+  "ticker": "EMCGF",
+  "exchange": "US",
+  "name": "Embrace Change Acquisition Corp.",
+  "cik": "1869601"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=True",
+   "data": {
+    "items": [
+     "1.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement"
+    },
+    "escalated": true
+   },
+   "source": "us:0001493152-26-042465",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -4,7 +4,38 @@
   "ticker": "BHMG",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=15000.0, vwap=4.34, implied_consideration=65100.0",
+   "data": {
+    "shares_purchased": 15000.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 4.34,
+    "implied_consideration": 65100.0
+   },
+   "source": "uk:9770394",
+   "locator": "chars 472+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=4748.0, vwap=4.235, implied_consideration=20107.78",
+   "data": {
+    "shares_purchased": 4748.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 4.235,
+    "implied_consideration": 20107.78
+   },
+   "source": "uk:9772716",
+   "locator": "chars 499+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

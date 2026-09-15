@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/REEMF",
+ "identity": {
+  "ticker": "REEMF",
+  "exchange": "US",
+  "name": "RARE ELEMENT RESOURCES LTD",
+  "cik": "1419806"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=True",
+   "data": {
+    "items": [
+     "5.02"
+    ],
+    "item_names": {
+     "5.02": "officer/director departure or appointment"
+    },
+    "escalated": true
+   },
+   "source": "us:0001419806-26-000015",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

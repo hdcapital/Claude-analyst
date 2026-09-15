@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/VGL",
+ "identity": {
+  "ticker": "VGL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=nzx_substantial_product_holder, holder=Accident Compensation Corporation (ACC), present_voting_power_pct=5.244",
+   "data": {
+    "form": "nzx_substantial_product_holder",
+    "holder": "Accident Compensation Corporation (ACC)",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": 5.244
+   },
+   "source": "asx:5481f01d00429f42c911e3b239dc2650",
+   "locator": "chars 337+ (NZX disclosure)",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

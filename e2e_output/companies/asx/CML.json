@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CML",
+ "identity": {
+  "ticker": "CML",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

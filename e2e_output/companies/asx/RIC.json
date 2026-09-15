@@ -1,0 +1,49 @@
+{
+ "issuer_key": "asx/RIC",
+ "identity": {
+  "ticker": "RIC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Michael Peter McMahon, date_of_change=2026-09-11, number_acquired=11550.0, number_disposed=0.0, value_consideration=30133.93, held_after_change=46983.0, direct_or_indirect=Direct & Indirect",
+   "data": {
+    "director": "Michael Peter McMahon",
+    "date_of_change": "2026-09-11",
+    "number_acquired": 11550.0,
+    "number_disposed": 0.0,
+    "value_consideration": 30133.93,
+    "held_after_change": 46983.0,
+    "direct_or_indirect": "Direct & Indirect"
+   },
+   "source": "asx:50cac925adb9d65e62a25b095cd9aba0",
+   "locator": "chars 652+ (form fields)",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Rhys Jones, date_of_change=2026-09-11, number_acquired=7762.0, number_disposed=0.0, value_consideration=20250.0, held_after_change=170081.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Rhys Jones",
+    "date_of_change": "2026-09-11",
+    "number_acquired": 7762.0,
+    "number_disposed": 0.0,
+    "value_consideration": 20250.0,
+    "held_after_change": 170081.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:54f0eefadd80e38df52c4c9b1aea1756",
+   "locator": "chars 652+ (form fields)",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

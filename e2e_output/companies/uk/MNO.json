@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/MNO",
+ "identity": {
+  "ticker": "MNO",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

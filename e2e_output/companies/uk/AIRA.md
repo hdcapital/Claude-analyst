@@ -6,5 +6,6 @@
 
 ## Fact time series
 - 2026-09-07 [buyback_transaction] buyback_transaction: shares_purchased=1574722.0 [uk:9759115 @ 2026-09-07, chars 1579+]
+- 2026-09-14 [buyback_transaction] buyback_transaction: shares_purchased=1574722.0 [uk:9770356 @ 2026-09-14, chars 1616+]
 
 ## What changed (newest first)

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/JPH",
+ "identity": {
+  "ticker": "JPH",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

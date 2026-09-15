@@ -21,6 +21,25 @@
    "source": "asx:55482eec01e537972a53f3a406ebcf0b",
    "locator": "chars 867+ (form fields)",
    "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=UBS Group AG and its related bodies corporate, voting_power_pcts_seen_unordered[2]",
+   "data": {
+    "form": "604_change",
+    "holder": "UBS Group AG and its related bodies corporate",
+    "became_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null,
+    "voting_power_pcts_seen_unordered": [
+     5.09,
+     6.1
+    ]
+   },
+   "source": "asx:2c9983b3138200912dbffac6e005fa15",
+   "locator": "chars 156+ (voting power table)",
+   "recorded_at": "2026-09-15T23:28:59Z"
   }
  ],
  "situations": [],

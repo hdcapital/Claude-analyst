@@ -1,0 +1,35 @@
+{
+ "issuer_key": "us/CIK1853047",
+ "identity": {
+  "exchange": "US",
+  "name": "Hudson Acquisition I Corp.",
+  "cik": "1853047"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "5.07",
+     "8.01"
+    ],
+    "item_names": {
+     "5.07": "shareholder vote results",
+     "8.01": "other events"
+    },
+    "escalated": true
+   },
+   "source": "us:0001096906-26-001362",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:04Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

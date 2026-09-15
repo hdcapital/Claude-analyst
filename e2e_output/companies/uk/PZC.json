@@ -20,6 +20,19 @@
    "source": "uk:9764066",
    "locator": "chars 2+",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=FIL Limited, resulting_voting_rights_pct=9.9795, previous_voting_rights_pct=10.0158",
+   "data": {
+    "holder": "FIL Limited",
+    "resulting_voting_rights_pct": 9.9795,
+    "previous_voting_rights_pct": 10.0158
+   },
+   "source": "uk:9770533",
+   "locator": "chars 226+",
+   "recorded_at": "2026-09-15T23:29:02Z"
   }
  ],
  "situations": [],

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/SLX",
+ "identity": {
+  "ticker": "SLX",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of General Meeting/Proxy Form",
+   "data": {
+    "title": "Notice of General Meeting/Proxy Form",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03138962",
+    "is_admin_noise": true
+   },
+   "source": "asx:74c75d0343cc2f16c70c797437d9bc6c",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

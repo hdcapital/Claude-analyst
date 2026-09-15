@@ -1,0 +1,16 @@
+{
+ "issuer_key": "us/BCDRF",
+ "identity": {
+  "ticker": "BCDRF",
+  "exchange": "US",
+  "name": "Banco Santander, S.A.",
+  "cik": "891478"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

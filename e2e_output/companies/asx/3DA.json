@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/3DA",
+ "identity": {
+  "ticker": "3DA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - 3DA",
+   "data": {
+    "title": "Notification of cessation of securities - 3DA",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139047",
+    "is_admin_noise": true
+   },
+   "source": "asx:d79d3752cfff1226a827b14774b43cbf",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

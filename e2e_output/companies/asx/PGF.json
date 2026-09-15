@@ -21,6 +21,23 @@
    "source": "asx:fd9f470dce8551523e4483b79732ad28",
    "locator": "diff vs none",
    "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (16/30 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:fd9f470dce8551523e4483b79732ad28",
+    "changed_lines": 16,
+    "total_lines": 30,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-* Based on the closing share price as at 4 September 2026, and the dividend guidance issued to the ASX on 10 August 2026 (2\n+* Based on the closing share price as at 11 September 2026, and the dividend guidance issued to the ASX on 10 August 2026 (2\n-7 September 2026\n+14 September 2026\n-PGF confirms its weekly NTA as at 4 September 2026.\n+PGF confirms its weekly NTA as at 11 September 2026.\n-$3.11\n+$3.00\n-$2.74\n-The above NTA figures are before deduction for the fully franked dividend of 7.5 cents per share due to be\n-paid on 8 October 2026. The shares will trade ex-dividend on 11 September 2026.\n+$2.67\n+The above NTA figures are after deduction for the fully franked dividend of 7.5 cents per share due to be\n+paid on 8 October 2026.\n-7.05%\n+7.19%"
+   },
+   "source": "asx:39eb9068738d7a9559142f875ae9877b",
+   "locator": "diff vs asx:fd9f470dce8551523e4483b79732ad28",
+   "recorded_at": "2026-09-15T23:28:59Z"
   }
  ],
  "situations": [],

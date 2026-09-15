@@ -15,6 +15,8 @@ SThree plc has entered a Rule 2.6 offer period with Circle8 Group Inc. identifie
 ## Fact time series
 - 2026-09-09 [major_holding] major_holding: holder=FIL Limited, resulting_voting_rights_pct=10.4196, previous_voting_rights_pct=10.4196 [uk:9763029 @ 2026-09-09, chars 275+]
 - 2026-09-09 [admin_announcement] admin_announcement: title=Rule 2.9 Announcement [uk:9764117 @ 2026-09-09, metadata]
+- 2026-09-14 [buyback_transaction] buyback_transaction: shares_purchased=17157.0, vwap=291.4212, lowest_price=281.0, highest_price=300.0, days=1, implied_consideration=4999913.53 [uk:9769042 @ 2026-09-14, chars 2254+ (purchase table)]
+- 2026-09-14 [buyback_transaction] buyback_transaction: shares_purchased=16666.0, vwap=298.5449, lowest_price=291.5, highest_price=302.0, days=1, implied_consideration=4975549.3 [uk:9771545 @ 2026-09-14, chars 2250+ (purchase table)]
 
 ## What changed (newest first)
 - 2026-09-09: thesis superseded (was: "SThree is now an active Rule 2.4 bid-speculation situation following an unsolicited, highly conditional approach from Circle8 Group Inc.; with no price or structure disclosed, the position is a binary PUSU-deadline event (7 Oct 2026) where either a firm Rule 2.7 offer emerges (re-rating catalyst) or") [uk:9764017]

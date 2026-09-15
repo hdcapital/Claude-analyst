@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/CNXU",
+ "identity": {
+  "ticker": "CNXU",
+  "exchange": "US",
+  "name": "Conexeu Sciences Inc.",
+  "cik": "2066836"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/31355 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 31355,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001062993-26-004935",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:04Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

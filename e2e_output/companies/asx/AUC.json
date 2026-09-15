@@ -1,0 +1,48 @@
+{
+ "issuer_key": "asx/AUC",
+ "identity": {
+  "ticker": "AUC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=DIRECTIONS, voting_power_pcts_seen_unordered[2]",
+   "data": {
+    "form": "604_change",
+    "holder": "DIRECTIONS",
+    "became_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null,
+    "voting_power_pcts_seen_unordered": [
+     6.77,
+     7.78
+    ]
+   },
+   "source": "asx:3f09badb1fac42c562641d77f24e04da",
+   "locator": "chars 2310+ (voting power table)",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - AUC",
+   "data": {
+    "title": "Notification of cessation of securities - AUC",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139300",
+    "is_admin_noise": true
+   },
+   "source": "asx:805f4791ddeba9e93b9795092f812219",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

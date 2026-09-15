@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/WHF",
+ "identity": {
+  "ticker": "WHF",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/137 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 137,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:0e028f1dc3c0c81562a849ecf89e7874",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:28:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

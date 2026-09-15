@@ -6,5 +6,6 @@
 
 ## Fact time series
 - 2026-09-07 [repeat_filing_diff] dividend filing: first_of_type (0/165 lines changed) [asx:e0bfa42deb660bce4c29c69a0a59b3d8 @ 2026-09-07, diff vs none]
+- 2026-09-14 [securities_issue] securities_issue: form=Appendix 2A, securities_count=41154.0, issue_price=2.0, implied_raise=82308.0 [asx:40ffd0629a5daff7f68b4b12deb9eadf @ 2026-09-14, chars 291+]
 
 ## What changed (newest first)

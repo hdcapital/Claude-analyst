@@ -12,5 +12,6 @@
 - 2026-09-09 [director_interest_change] director_interest_change: director=Sophie Mitchell, date_of_change=2026-09-03, number_acquired=4000.0, number_disposed=0.0, value_consideration=2.65, held_after_change=42550.0, direct_or_indirect=Indirect interest [asx:4c587b7eb48db74ce3a044d1a3955a07 @ 2026-09-09, chars 734+ (form fields)]
 - 2026-09-09 [substantial_holder] substantial_holder: form=605_ceasing, holder=ECP Asset Management Pty Ltd ACN 158 527 582, EC Pohl & Co Pty Ltd, ceased_on=2026-09-04 [asx:96277d065313ae7b420b176e4b36cb51 @ 2026-09-09, chars 230+ (form 605)]
 - 2026-09-09 [director_interest_change] director_interest_change: director=Ewen Crouch, date_of_change=2026-09-04, number_acquired=10000.0, number_disposed=0.0, value_consideration=2.45, held_after_change=30000.0, direct_or_indirect=Indirect interest [asx:b74e99c965d26231a3cd3d0b8a278bac @ 2026-09-09, chars 734+ (form fields)]
+- 2026-09-14 [substantial_holder] substantial_holder: form=604_change, holder=There was a change in the interests of the, previous_voting_power_pct=100.0, present_voting_power_pct=6.38 [asx:9df12d8357a3e13971743d15bcd41c14 @ 2026-09-14, chars 46+ (voting power table)]
 
 ## What changed (newest first)

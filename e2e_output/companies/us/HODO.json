@@ -1,0 +1,46 @@
+{
+ "issuer_key": "us/HODO",
+ "identity": {
+  "ticker": "HODO",
+  "exchange": "US",
+  "name": "House of Doge Inc.",
+  "cik": "1903595"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[7], item_names(7), escalated=True",
+   "data": {
+    "items": [
+     "2.01",
+     "3.01",
+     "3.02",
+     "5.01",
+     "5.02",
+     "5.03",
+     "8.01"
+    ],
+    "item_names": {
+     "2.01": "completion of acquisition/disposition",
+     "3.01": "delisting / listing-standard notice",
+     "3.02": "unregistered equity sales",
+     "5.01": "change in control",
+     "5.02": "officer/director departure or appointment",
+     "5.03": "charter/bylaw amendment",
+     "8.01": "other events"
+    },
+    "escalated": true
+   },
+   "source": "us:0001213900-26-099794",
+   "locator": "chars 229+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

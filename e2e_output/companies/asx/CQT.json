@@ -4,7 +4,22 @@
   "ticker": "CQT",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=1636364.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 1636364.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:fe7a52896a65e3636fe01c19171397de",
+   "locator": "chars 248+",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

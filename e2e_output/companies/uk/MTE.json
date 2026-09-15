@@ -34,6 +34,37 @@
    "source": "uk:9764122",
    "locator": "chars 262+",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=30000.0",
+   "data": {
+    "shares_purchased": 30000.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9771308",
+   "locator": "chars 262+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Director, nature=Acquisition as per standing instruction (dividend re-investment), price=1.7175, volume=1.7175, value=2.95",
+   "data": {
+    "person": "Name",
+    "position": "Director",
+    "nature": "Acquisition as per standing instruction (dividend re-investment)",
+    "price": 1.7175,
+    "volume": 1.7175,
+    "value": 2.95
+   },
+   "source": "uk:9772820",
+   "locator": "chars 125+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

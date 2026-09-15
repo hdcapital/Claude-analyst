@@ -1,0 +1,100 @@
+{
+ "issuer_key": "asx/GTG",
+ "identity": {
+  "ticker": "GTG",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/939 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 939,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:1408aaacbf1f25c12213ce3af29c781a",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:28:58Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "quarterly_cash_flow",
+   "summary": "quarterly_cash_flow: form=Appendix 4C, currency_unit=A$'000, receipts_from_customers=1.2, operating_cash_flow=2.0, cash_at_end=10.0, estimated_quarters_of_funding=8.4",
+   "data": {
+    "form": "Appendix 4C",
+    "currency_unit": "A$'000",
+    "receipts_from_customers": 1.2,
+    "payments_total": null,
+    "operating_cash_flow": 2.0,
+    "cash_at_end": 10.0,
+    "estimated_quarters_of_funding": 8.4
+   },
+   "source": "asx:2b77381da59a15e110934ecf101d6ceb",
+   "locator": "chars 1794+ (items 1.1-8.5)",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: non_trivial (3210/2563 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": "asx:1408aaacbf1f25c12213ce3af29c781a",
+    "changed_lines": 3210,
+    "total_lines": 2563,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-HALF YEAR REPORT\n-Genetic Technologies Limited\n-Appendix 4D\n-Half-year ended 31 December 2025\n-Name of entity: Genetic Technologies Limited\n-ABN: 17 009 212 328\n-Half-year ended: 31 December 2025\n-Previous period: 31 December 2024\n-Results for announcement to the market\n+Genetic Technologies Limited\n+Appendix 4E\n+Preliminary final report\n+1. Company details\n+Name of entity:\n+Genetic Technologies Limited\n+ABN:\n+17 009 212 328\n+Reporting period:\n+For the year ended 30 June 2026\n+Previous period:\n+For the year ended 30 June 2025\n+2. Results for announcement to the market\n+This Appendix 4E should be read in conjunction with the Company’s Annual Report for the year ended 30 June 2026.\n+2026\n+2025\n+Change\n+$\n+$\n-$\n-Revenue for ordinary activities\n-Down\n-100%\n-to\n-NIL\n-Loss after tax (from ordinary activities) for the period\n-Down\n-92%\n-to\n-(239,902)\n-Total comprehensive loss for the period attributable to members\n-Down\n-94%\n-to\n-(239,902)\n-Net tangible assets per security\n-31 December\n-31 December\n-2025\n-2024\n+Revenue and other income from continuing operations\n+257\n+4,902,951\n+(100%)\n+Loss after tax from continuing operations\n+(428,603)\n+(429,734)\n+-\n+Net loss after tax attributable to members\n+(428,603)\n+(1,463,310)\n+(71%)\n+The FY2025 result included a $3,892,596 gain on extinguishment arising from the DOCA.\n+Dividends\n+There were no dividends paid, recommended or declared during the current financial period.\n+Review of results\n+The Company reported a net loss after tax of $428,603 compared with $1,463,310 in FY2025. The loss from continuing\n+operations was $428,603 compared with $429,734 in FY2025. Discontinued operations recorded a loss after tax of Nil,\n+compared with $1,033,576 in FY2025.\n+In the prior year, the Company entered voluntary administration on 20 November 2024. A Deed of Company Arrangement\n+proposed by Benelong Capital Partners Pty Ltd was approved by creditors on 27 February 2025, executed on 19 March 2025\n+and effectuated on 14 May 2025 following sha"
+   },
+   "source": "asx:5449bd570635145415a815ca8cb69c99",
+   "locator": "diff vs asx:1408aaacbf1f25c12213ce3af29c781a",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "quarterly_cash_flow",
+   "summary": "quarterly_cash_flow: form=Appendix 4C, currency_unit=A$'000, receipts_from_customers=1.2, operating_cash_flow=2.0, cash_at_end=10.0, estimated_quarters_of_funding=8.4",
+   "data": {
+    "form": "Appendix 4C",
+    "currency_unit": "A$'000",
+    "receipts_from_customers": 1.2,
+    "payments_total": null,
+    "operating_cash_flow": 2.0,
+    "cash_at_end": 10.0,
+    "estimated_quarters_of_funding": 8.4
+   },
+   "source": "asx:5cb7233736301a62cca6d69fc660d50b",
+   "locator": "chars 1795+ (items 1.1-8.5)",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "quarterly_cash_flow",
+   "summary": "quarterly_cash_flow: form=Appendix 4C, currency_unit=A$'000, receipts_from_customers=1.2, operating_cash_flow=2.0, cash_at_end=10.0, estimated_quarters_of_funding=8.4",
+   "data": {
+    "form": "Appendix 4C",
+    "currency_unit": "A$'000",
+    "receipts_from_customers": 1.2,
+    "payments_total": null,
+    "operating_cash_flow": 2.0,
+    "cash_at_end": 10.0,
+    "estimated_quarters_of_funding": 8.4
+   },
+   "source": "asx:ed5d81d2824af2d7819c48eb18b50605",
+   "locator": "chars 1821+ (items 1.1-8.5)",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

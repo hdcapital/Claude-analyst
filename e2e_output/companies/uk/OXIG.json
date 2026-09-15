@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/OXIG",
+ "identity": {
+  "ticker": "OXIG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Executive Officer and PDMR, nature=Acquisition of Partnership Shares and Matching Shares in the Company’s Share Incentive Plan, price=27.31334, volume=27.31334, value=746.02",
+   "data": {
+    "person": "Name",
+    "position": "Chief Executive Officer and PDMR",
+    "nature": "Acquisition of Partnership Shares and Matching Shares in the Company’s Share Incentive Plan",
+    "price": 27.31334,
+    "volume": 27.31334,
+    "value": 746.02
+   },
+   "source": "uk:9770225",
+   "locator": "chars 182+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

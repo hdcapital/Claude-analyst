@@ -22,6 +22,23 @@
    "source": "us:0001193125-26-386477",
    "locator": "chars 226+ (item headers)",
    "recorded_at": "2026-09-10T05:39:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=True",
+   "data": {
+    "items": [
+     "5.02"
+    ],
+    "item_names": {
+     "5.02": "officer/director departure or appointment"
+    },
+    "escalated": true
+   },
+   "source": "us:0001193125-26-390363",
+   "locator": "chars 226+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:04Z"
   }
  ],
  "situations": [],

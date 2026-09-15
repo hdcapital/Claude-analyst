@@ -10,5 +10,8 @@
 - 2026-09-09 [major_holding] major_holding: holder=BNP PARIBAS SA, resulting_voting_rights_pct=4.908575, previous_voting_rights_pct=5.018637 [uk:9763703 @ 2026-09-09, chars 278+]
 - 2026-09-09 [major_holding] major_holding: holder=Societe Generale, resulting_voting_rights_pct=9.601486, previous_voting_rights_pct=10.074649 [uk:9763722 @ 2026-09-09, chars 225+]
 - 2026-09-09 [major_holding] major_holding: holder=Morgan Stanley, resulting_voting_rights_pct=7.052554, previous_voting_rights_pct=6.10053 [uk:9764116 @ 2026-09-09, chars 225+]
+- 2026-09-14 [major_holding] major_holding: holder=Morgan Stanley, resulting_voting_rights_pct=7.003143, previous_voting_rights_pct=7.052554 [uk:9770147 @ 2026-09-14, chars 225+]
+- 2026-09-14 [major_holding] major_holding: holder=Morgan Stanley, resulting_voting_rights_pct=6.826624, previous_voting_rights_pct=7.003143 [uk:9770153 @ 2026-09-14, chars 225+]
+- 2026-09-14 [pdmr_dealing] pdmr_dealing: person=Name, position=Managing Director, Water & Power, nature=Participation in the monthly partnership share purchase arrangements under the Company's HMRC approved Share Incentive Plan., price=484.2, volume=4.842, value=2344.5 [uk:9770490 @ 2026-09-14, chars 798+]
 
 ## What changed (newest first)

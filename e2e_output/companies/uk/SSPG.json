@@ -19,6 +19,21 @@
    "source": "uk:9757498",
    "locator": "chars 816+",
    "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=50740178.0, highest_price=197.7, lowest_price=185.1, vwap=191.0895, implied_consideration=9695915243.93",
+   "data": {
+    "shares_purchased": 50740178.0,
+    "highest_price": 197.7,
+    "lowest_price": 185.1,
+    "vwap": 191.0895,
+    "implied_consideration": 9695915243.93
+   },
+   "source": "uk:9769040",
+   "locator": "chars 821+",
+   "recorded_at": "2026-09-15T23:29:01Z"
   }
  ],
  "situations": [],

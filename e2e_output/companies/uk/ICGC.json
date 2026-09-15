@@ -46,6 +46,48 @@
    "source": "uk:9763384",
    "locator": "metadata",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - ICG Irish Continental Group 140926",
+   "data": {
+    "title": "Form 8.3 - ICG Irish Continental Group 140926",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/irish-continental-group-units-comp-cdi---icgc/form-8-3-icg-irish-continental-group-140926-/9770373",
+    "is_admin_noise": true
+   },
+   "source": "uk:9770373",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - Irish Continental Group plc",
+   "data": {
+    "title": "Form 8.3 - Irish Continental Group plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/irish-continental-group-units-comp-cdi---icgc/form-8-3-irish-continental-group-plc/9770925",
+    "is_admin_noise": true
+   },
+   "source": "uk:9770925",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - Irish Continental Group plc",
+   "data": {
+    "title": "Form 8.3 - Irish Continental Group plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/irish-continental-group-units-comp-cdi---icgc/form-8-3-irish-continental-group-plc/9771161",
+    "is_admin_noise": true
+   },
+   "source": "uk:9771161",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

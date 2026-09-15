@@ -4,7 +4,21 @@
   "ticker": "BOKU",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=5.49, previous_voting_rights_pct=5.99",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 5.49,
+    "previous_voting_rights_pct": 5.99
+   },
+   "source": "uk:9771260",
+   "locator": "chars 835+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

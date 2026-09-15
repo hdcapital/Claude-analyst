@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/RTR",
+ "identity": {
+  "ticker": "RTR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

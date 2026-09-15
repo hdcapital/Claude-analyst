@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/AUTO",
+ "identity": {
+  "ticker": "AUTO",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=FIL Limited, resulting_voting_rights_pct=5.0783, previous_voting_rights_pct=4.9819",
+   "data": {
+    "holder": "FIL Limited",
+    "resulting_voting_rights_pct": 5.0783,
+    "previous_voting_rights_pct": 4.9819
+   },
+   "source": "uk:9771154",
+   "locator": "chars 232+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/OTAI-RI",
+ "identity": {
+  "ticker": "OTAI-RI",
+  "exchange": "US",
+  "name": "Starlink AI Acquisition Corp",
+  "cik": "2094076"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/16622 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 16622,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001493152-26-042538",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:06Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

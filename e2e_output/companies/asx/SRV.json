@@ -35,6 +35,37 @@
    "source": "asx:deb7b6b6b90fa07bb12024ee991a1f44",
    "locator": "chars 285+",
    "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=225000.0, issue_price=3.0, implied_raise=675000.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 225000.0,
+    "issue_price": 3.0,
+    "implied_raise": 675000.0
+   },
+   "source": "asx:3cb5fc587cd6c3c9d07eeb93104b3f83",
+   "locator": "chars 285+",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Alfred George Moufarrige, date_of_change=2026-09-07, number_acquired=1000000.0, number_disposed=0.0, value_consideration=3350000.0, held_after_change=547436.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Alfred George Moufarrige",
+    "date_of_change": "2026-09-07",
+    "number_acquired": 1000000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 3350000.0,
+    "held_after_change": 547436.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:f383b9a22f957952192ae8102c27271a",
+   "locator": "chars 645+ (form fields)",
+   "recorded_at": "2026-09-15T23:29:01Z"
   }
  ],
  "situations": [],

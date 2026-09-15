@@ -4,7 +4,39 @@
   "ticker": "EVR",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Mr Luke Martino, date_of_change=2026-09-14, number_acquired=768308.0, number_disposed=38415.0, value_consideration=38415.0, held_after_change=4847218.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Mr Luke Martino",
+    "date_of_change": "2026-09-14",
+    "number_acquired": 768308.0,
+    "number_disposed": 38415.0,
+    "value_consideration": 38415.0,
+    "held_after_change": 4847218.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:287f569648be112e9366745fc3ac70a8",
+   "locator": "chars 648+ (form fields)",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=11936650.0, issue_price=0.005, implied_raise=59683.25",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 11936650.0,
+    "issue_price": 0.005,
+    "implied_raise": 59683.25
+   },
+   "source": "asx:b3ca76969b81e164461e6a3fabddda6b",
+   "locator": "chars 285+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
  "situations": [
   {
    "situation_id": "S-499e207903",

@@ -4,7 +4,21 @@
   "ticker": "OIT",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Odyssean Investment Trust PLC, resulting_voting_rights_pct=4.291482, previous_voting_rights_pct=3.02415",
+   "data": {
+    "holder": "Odyssean Investment Trust PLC",
+    "resulting_voting_rights_pct": 4.291482,
+    "previous_voting_rights_pct": 3.02415
+   },
+   "source": "uk:9771353",
+   "locator": "chars 240+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

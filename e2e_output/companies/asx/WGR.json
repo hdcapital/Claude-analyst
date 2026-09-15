@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/WGR",
+ "identity": {
+  "ticker": "WGR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

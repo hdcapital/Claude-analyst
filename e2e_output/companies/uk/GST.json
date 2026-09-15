@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/GST",
+ "identity": {
+  "ticker": "GST",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/ORCP",
+ "identity": {
+  "ticker": "ORCP",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

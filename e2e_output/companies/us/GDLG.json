@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/GDLG",
+ "identity": {
+  "ticker": "GDLG",
+  "exchange": "US",
+  "name": "Glidelogic Corp.",
+  "cik": "1848672"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/12071 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 12071,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001096906-26-001359",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:04Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

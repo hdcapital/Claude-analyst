@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/LPM",
+ "identity": {
+  "ticker": "LPM",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of Annual General Meeting/Proxy Form",
+   "data": {
+    "title": "Notice of Annual General Meeting/Proxy Form",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03138993",
+    "is_admin_noise": true
+   },
+   "source": "asx:d5626ea48b7453504ca688b0606b7213",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/BML",
+ "identity": {
+  "ticker": "BML",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

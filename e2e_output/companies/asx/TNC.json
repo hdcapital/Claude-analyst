@@ -4,7 +4,25 @@
   "ticker": "TNC",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/5613 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 5613,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:ec42f144edcd2c6b1a89c9e1bd4d0921",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

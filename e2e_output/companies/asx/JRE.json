@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/JRE",
+ "identity": {
+  "ticker": "JRE",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

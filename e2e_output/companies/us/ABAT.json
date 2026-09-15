@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/ABAT",
+ "identity": {
+  "ticker": "ABAT",
+  "exchange": "US",
+  "name": "AMERICAN BATTERY TECHNOLOGY Co",
+  "cik": "1576873"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/36819 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 36819,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001493152-26-042497",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

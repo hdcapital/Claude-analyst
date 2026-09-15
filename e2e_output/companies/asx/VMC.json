@@ -35,6 +35,23 @@
    "source": "asx:34700c76bd21112d8d51d079b11d6bf6",
    "locator": "metadata",
    "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Matthew Hogan, date_of_change=2026-09-10, number_acquired=75000.0, number_disposed=0.0, value_consideration=12750.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Matthew Hogan",
+    "date_of_change": "2026-09-10",
+    "number_acquired": 75000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 12750.0,
+    "held_after_change": null,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:6a77453c3b4a436fbf527ae694da7f04",
+   "locator": "chars 683+ (form fields)",
+   "recorded_at": "2026-09-15T23:28:59Z"
   }
  ],
  "situations": [

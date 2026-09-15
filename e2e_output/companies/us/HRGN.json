@@ -1,0 +1,38 @@
+{
+ "issuer_key": "us/HRGN",
+ "identity": {
+  "ticker": "HRGN",
+  "exchange": "US",
+  "name": "Harvard Apparatus Regenerative Technology, Inc.",
+  "cik": "1563665"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "3.02",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "3.02": "unregistered equity sales",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001437749-26-030244",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

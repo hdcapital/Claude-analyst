@@ -19,6 +19,9 @@ PTSB is in the final stages of a court-sanctioned scheme of arrangement to be ac
 - 2026-09-07 [admin_announcement] admin_announcement: title=Form 8.3 - Permanent TSB Group Holdings plc [uk:9759354 @ 2026-09-07, metadata]
 - 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.3 - Permanent TSB Group Holdings plc [uk:9763777 @ 2026-09-09, metadata]
 - 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.3 - Permanent TSB Group Holdings plc [uk:9763920 @ 2026-09-09, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 - Permanent TSB Group Holdings plc [uk:9770430 @ 2026-09-14, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 - Permanent TSB Group Holdings plc [uk:9771114 @ 2026-09-14, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3: PTSB ID [uk:9771189 @ 2026-09-14, metadata]
 
 ## What changed (newest first)
 - 2026-09-09: stage-2 assessment: PTSB/BAWAG scheme – routine Rule 8.3 dealing disclosure (Goldman Sachs) (interest 2, risk 2) [uk:9763542]

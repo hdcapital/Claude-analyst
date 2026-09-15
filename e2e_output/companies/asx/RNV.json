@@ -4,7 +4,40 @@
   "ticker": "RNV",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Julian John Chick, date_of_change=2026-09-11, number_acquired=128036.0, number_disposed=0.0, value_consideration=0.0753, held_after_change=1.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Julian John Chick",
+    "date_of_change": "2026-09-11",
+    "number_acquired": 128036.0,
+    "number_disposed": 0.0,
+    "value_consideration": 0.0753,
+    "held_after_change": 1.0,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:73bc871623955971625e8f049f7e44b3",
+   "locator": "chars 630+ (form fields)",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=DR JULIAN JOHN CHICK, previous_voting_power_pct=9.85, present_voting_power_pct=8.81",
+   "data": {
+    "form": "604_change",
+    "holder": "DR JULIAN JOHN CHICK",
+    "became_on": null,
+    "previous_voting_power_pct": 9.85,
+    "present_voting_power_pct": 8.81
+   },
+   "source": "asx:9dd5e256ef8dd49f8ff1d8d92a65b11d",
+   "locator": "chars 217+ (voting power table)",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

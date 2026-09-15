@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/TRA",
+ "identity": {
+  "ticker": "TRA",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=163540.0, issue_price=7.6536, implied_raise=1251669.74",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 163540.0,
+    "issue_price": 7.6536,
+    "implied_raise": 1251669.74
+   },
+   "source": "asx:8378b774e7100f5c6d486962a41b3d7c",
+   "locator": "chars 301+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/AVL",
+ "identity": {
+  "ticker": "AVL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - AVL",
+   "data": {
+    "title": "Notification regarding unquoted securities - AVL",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139363",
+    "is_admin_noise": true
+   },
+   "source": "asx:0c62f3039eec0d015713324bc81af960",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "issuer_key": "uk/SHR",
+ "identity": {
+  "ticker": "SHR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=7.08, previous_voting_rights_pct=18.59",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 7.08,
+    "previous_voting_rights_pct": 18.59
+   },
+   "source": "uk:9770193",
+   "locator": "chars 850+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Woodline Partners LP, resulting_voting_rights_pct=9.33, previous_voting_rights_pct=9.33",
+   "data": {
+    "holder": "Woodline Partners LP",
+    "resulting_voting_rights_pct": 9.33,
+    "previous_voting_rights_pct": 9.33
+   },
+   "source": "uk:9770194",
+   "locator": "chars 700+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City of Registered office, resulting_voting_rights_pct=20.846636, previous_voting_rights_pct=20.846636",
+   "data": {
+    "holder": "City of Registered office",
+    "resulting_voting_rights_pct": 20.846636,
+    "previous_voting_rights_pct": 20.846636
+   },
+   "source": "uk:9770195",
+   "locator": "chars 852+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Ava Private Markets S.à r.l. (APM), resulting_voting_rights_pct=14.0",
+   "data": {
+    "holder": "Ava Private Markets S.à r.l. (APM)",
+    "resulting_voting_rights_pct": 14.0,
+    "previous_voting_rights_pct": null
+   },
+   "source": "uk:9770196",
+   "locator": "chars 1648+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=3.1, previous_voting_rights_pct=3.1",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 3.1,
+    "previous_voting_rights_pct": 3.1
+   },
+   "source": "uk:9770197",
+   "locator": "chars 889+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=5.21, previous_voting_rights_pct=23.23",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 5.21,
+    "previous_voting_rights_pct": 23.23
+   },
+   "source": "uk:9770198",
+   "locator": "chars 856+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=5.2",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 5.2,
+    "previous_voting_rights_pct": null
+   },
+   "source": "uk:9770199",
+   "locator": "chars 887+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=5.2",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 5.2,
+    "previous_voting_rights_pct": null
+   },
+   "source": "uk:9770200",
+   "locator": "chars 865+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

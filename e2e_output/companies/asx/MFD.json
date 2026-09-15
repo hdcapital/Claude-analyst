@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/MFD",
+ "identity": {
+  "ticker": "MFD",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Riversdale Road Shareholding Company Pty Ltd ATF the Riversdale Road, previous_voting_power_pct=13.3, present_voting_power_pct=9.67",
+   "data": {
+    "form": "604_change",
+    "holder": "Riversdale Road Shareholding Company Pty Ltd ATF the Riversdale Road",
+    "became_on": null,
+    "previous_voting_power_pct": 13.3,
+    "present_voting_power_pct": 9.67
+   },
+   "source": "asx:33e316e1888c0ce6cb9c8a87673a1138",
+   "locator": "chars 214+ (voting power table)",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/TMK",
+ "identity": {
+  "ticker": "TMK",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

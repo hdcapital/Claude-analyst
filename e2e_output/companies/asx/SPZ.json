@@ -4,7 +4,42 @@
   "ticker": "SPZ",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Jeremy King, date_of_change=2026-09-10, number_acquired=7616.0, number_disposed=0.0, value_consideration=5597.76, held_after_change=700000.0, direct_or_indirect=Direct",
+   "data": {
+    "director": "Jeremy King",
+    "date_of_change": "2026-09-10",
+    "number_acquired": 7616.0,
+    "number_disposed": 0.0,
+    "value_consideration": 5597.76,
+    "held_after_change": 700000.0,
+    "direct_or_indirect": "Direct"
+   },
+   "source": "asx:43519fa0d48e7cbd7bbe173eab9de49b",
+   "locator": "chars 686+ (form fields)",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "results filing: first_of_type (0/8610 lines changed)",
+   "data": {
+    "diff_group": "results",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 8610,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:b22965b07b1446dfc2f8304a0e62c385",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

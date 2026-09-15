@@ -6,5 +6,6 @@
 
 ## Fact time series
 - 2026-09-07 [buyback_transaction] buyback_transaction: shares_purchased=480000.0, vwap=1.0, implied_consideration=480000.0 [uk:9757515 @ 2026-09-07, chars 180+]
+- 2026-09-14 [buyback_transaction] buyback_transaction: shares_purchased=600000.0, vwap=7.0, implied_consideration=4200000.0 [uk:9769063 @ 2026-09-14, chars 180+]
 
 ## What changed (newest first)

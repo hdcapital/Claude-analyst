@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/62QE",
+ "identity": {
+  "ticker": "62QE",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

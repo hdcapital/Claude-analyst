@@ -4,7 +4,24 @@
   "ticker": "ONT",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Executive Officer, nature=Purchase of Ordinary Shares under the SIP, held through the SIP Trustee., price=1.57, volume=1.57, value=2.46",
+   "data": {
+    "person": "Name",
+    "position": "Chief Executive Officer",
+    "nature": "Purchase of Ordinary Shares under the SIP, held through the SIP Trustee.",
+    "price": 1.57,
+    "volume": 1.57,
+    "value": 2.46
+   },
+   "source": "uk:9771243",
+   "locator": "chars 1765+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/JAR",
+ "identity": {
+  "ticker": "JAR",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name: Raymond CO, position=Chief People and Culture Officer, nature=Acquisition of 2,300 ordinary shares, price=57.823, volume=57.823, value=3343.5",
+   "data": {
+    "person": "Name: Raymond CO",
+    "position": "Chief People and Culture Officer",
+    "nature": "Acquisition of 2,300 ordinary shares",
+    "price": 57.823,
+    "volume": 57.823,
+    "value": 3343.5
+   },
+   "source": "uk:9770368",
+   "locator": "chars 157+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

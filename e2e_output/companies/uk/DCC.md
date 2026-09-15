@@ -45,6 +45,15 @@ DCC Energy plc is in a live, Irish Takeover Panel-regulated offer period, eviden
 - 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy plc [uk:9763900 @ 2026-09-09, metadata]
 - 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.3 - DCC ENERGY PLC [uk:9763940 @ 2026-09-09, metadata]
 - 2026-09-09 [admin_announcement] admin_announcement: title=Form 8.3: DCC LN [uk:9764001 @ 2026-09-09, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy plc 140926 [uk:9770313 @ 2026-09-14, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy plc [uk:9770491 @ 2026-09-14, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 - DCC ENERGY PLC [uk:9770750 @ 2026-09-14, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy plc [uk:9770775 @ 2026-09-14, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy plc [uk:9770910 @ 2026-09-14, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 - DCC Energy plc [uk:9771095 @ 2026-09-14, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 - DCC ENERGY PLC [uk:9771134 @ 2026-09-14, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 DCC Energy Plc [uk:9771199 @ 2026-09-14, metadata]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Form 8.3 - DCC ENERGY PLC [uk:9771240 @ 2026-09-14, metadata]
 
 ## What changed (newest first)
 - 2026-09-09: stage-2 assessment: DCC Energy plc – ongoing Irish Takeover Panel offer period, JPM broker dealing amendment filed (interest 3, risk 3) [uk:9764161]

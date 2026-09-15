@@ -4,7 +4,22 @@
   "ticker": "EIQ",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - EIQ",
+   "data": {
+    "title": "Notification regarding unquoted securities - EIQ",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139385",
+    "is_admin_noise": true
+   },
+   "source": "asx:3787600a941178a851d08cf22e7f6307",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
  "situations": [
   {
    "situation_id": "S-c76b27ece4",

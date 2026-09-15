@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/COBR",
+ "identity": {
+  "ticker": "COBR",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/POLB",
+ "identity": {
+  "ticker": "POLB",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=6.27, previous_voting_rights_pct=5.67",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 6.27,
+    "previous_voting_rights_pct": 5.67
+   },
+   "source": "uk:9770805",
+   "locator": "chars 824+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/MYX",
+ "identity": {
+  "ticker": "MYX",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Harwood Capital LLP, resulting_voting_rights_pct=4.00184, previous_voting_rights_pct=3.9813",
+   "data": {
+    "holder": "Harwood Capital LLP",
+    "resulting_voting_rights_pct": 4.00184,
+    "previous_voting_rights_pct": 3.9813
+   },
+   "source": "uk:9771312",
+   "locator": "chars 247+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/MYE",
+ "identity": {
+  "ticker": "MYE",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=48169.0, issue_price=0.23, implied_raise=11078.87",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 48169.0,
+    "issue_price": 0.23,
+    "implied_raise": 11078.87
+   },
+   "source": "asx:dc7c30fdb43c8fdf925929f68200f281",
+   "locator": "chars 293+",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

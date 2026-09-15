@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/LTI",
+ "identity": {
+  "ticker": "LTI",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Non-executive Director, nature=Acquisition of shares, price=579.9999, volume=579.9999, value=336399.88",
+   "data": {
+    "person": "Name",
+    "position": "Non-executive Director",
+    "nature": "Acquisition of shares",
+    "price": 579.9999,
+    "volume": 579.9999,
+    "value": 336399.88
+   },
+   "source": "uk:9771356",
+   "locator": "chars 147+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/BUR",
+ "identity": {
+  "ticker": "BUR",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

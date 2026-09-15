@@ -4,7 +4,23 @@
   "ticker": "WAM",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Refer to Annexure A, previous_voting_power_pct=5.19, present_voting_power_pct=6.3",
+   "data": {
+    "form": "604_change",
+    "holder": "Refer to Annexure A",
+    "became_on": null,
+    "previous_voting_power_pct": 5.19,
+    "present_voting_power_pct": 6.3
+   },
+   "source": "asx:e5f12c81d5c7213e6d7a5ffc3fb6644f",
+   "locator": "chars 2566+ (voting power table)",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

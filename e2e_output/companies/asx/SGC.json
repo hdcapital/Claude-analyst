@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/SGC",
+ "identity": {
+  "ticker": "SGC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - SGC",
+   "data": {
+    "title": "Notification of cessation of securities - SGC",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139403",
+    "is_admin_noise": true
+   },
+   "source": "asx:4b00a63121cd1a688a5f694d06664fda",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

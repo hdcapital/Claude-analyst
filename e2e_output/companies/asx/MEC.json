@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/MEC",
+ "identity": {
+  "ticker": "MEC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - MEC",
+   "data": {
+    "title": "Notification of cessation of securities - MEC",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139187",
+    "is_admin_noise": true
+   },
+   "source": "asx:469bc948497fdfbb9a882e8ebcec8095",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

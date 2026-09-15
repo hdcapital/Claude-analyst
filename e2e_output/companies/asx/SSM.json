@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/SSM",
+ "identity": {
+  "ticker": "SSM",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=Person whose, ceased_on=2026-09-10",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "Person whose",
+    "ceased_on": "2026-09-10",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:005fbd1bcb38c1735a564562995d766b",
+   "locator": "chars 2333+ (form 605)",
+   "recorded_at": "2026-09-15T23:28:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "issuer_key": "asx/TVL",
+ "identity": {
+  "ticker": "TVL",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: first_of_type (0/235 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 235,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:0e6929442676aea97db885a3143ad0e8",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:28:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

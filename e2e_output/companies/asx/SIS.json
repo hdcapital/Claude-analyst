@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/SIS",
+ "identity": {
+  "ticker": "SIS",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

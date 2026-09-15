@@ -117,6 +117,21 @@
    "source": "asx:b74e99c965d26231a3cd3d0b8a278bac",
    "locator": "chars 734+ (form fields)",
    "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=There was a change in the interests of the, previous_voting_power_pct=100.0, present_voting_power_pct=6.38",
+   "data": {
+    "form": "604_change",
+    "holder": "There was a change in the interests of the",
+    "became_on": null,
+    "previous_voting_power_pct": 100.0,
+    "present_voting_power_pct": 6.38
+   },
+   "source": "asx:9df12d8357a3e13971743d15bcd41c14",
+   "locator": "chars 46+ (voting power table)",
+   "recorded_at": "2026-09-15T23:29:00Z"
   }
  ],
  "situations": [],

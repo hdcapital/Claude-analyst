@@ -1,0 +1,43 @@
+{
+ "issuer_key": "asx/BRY",
+ "identity": {
+  "ticker": "BRY",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=264033878.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 264033878.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:564fa5ed47db54f9ae630a251f74c0de",
+   "locator": "chars 249+",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=2029.0",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 2029.0,
+    "issue_price": null,
+    "implied_raise": null
+   },
+   "source": "asx:a4c8bc2f426bf274ad45c10872189c71",
+   "locator": "chars 249+",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

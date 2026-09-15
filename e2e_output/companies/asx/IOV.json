@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/IOV",
+ "identity": {
+  "ticker": "IOV",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - IOV",
+   "data": {
+    "title": "Notification of cessation of securities - IOV",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03138944",
+    "is_admin_noise": true
+   },
+   "source": "asx:ad28103b64ff5356d8a413b658f9883b",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

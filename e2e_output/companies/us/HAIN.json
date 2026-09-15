@@ -1,0 +1,59 @@
+{
+ "issuer_key": "us/HAIN",
+ "identity": {
+  "ticker": "HAIN",
+  "exchange": "US",
+  "name": "HAIN CELESTIAL GROUP INC",
+  "cik": "910406"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[5], item_names(5), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "2.02",
+     "5.02",
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "2.02": "results of operations",
+     "5.02": "officer/director departure or appointment",
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001193125-26-389814",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:04Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/32739 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 32739,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001193125-26-390505",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:04Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

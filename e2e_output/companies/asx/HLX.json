@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/HLX",
+ "identity": {
+  "ticker": "HLX",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

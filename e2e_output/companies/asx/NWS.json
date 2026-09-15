@@ -100,6 +100,68 @@
    "source": "asx:d2fab21a1335620428e64eefefa5a9a7",
    "locator": "diff vs asx:c20082e2780dee2258b99d8c926a25e8",
    "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "buyback filing: non_trivial (37/302 lines changed)",
+   "data": {
+    "diff_group": "buyback",
+    "previous_doc_id": "asx:d2fab21a1335620428e64eefefa5a9a7",
+    "changed_lines": 37,
+    "total_lines": 302,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-☐ Update/amendment to\n+☒ Update/amendment to\n+Update to 3A.1\n+15/07/2025\n+11/09/2026\n-09/09/2026\n+14/09/2026\n-ASX Security Code: NWSAA\n+ASX Security Code: NWSAB\n-STOCK CLASS A\n+STOCK CLASS B\n-359,946,996\n+141,267,210\n-09/09/2026\n+14/09/2026\n-08/09/2026\n+11/09/2026\n-11,669,450\n-58,482\n+5,524,474\n+25,457\n-US$302,935,791.80\n-US$1,735,394.87\n+US$162,895,036.21\n+US$833,704.02\n-US$31.58\n+US$35.69\n-US$30.18\n+US$33.05\n-US$22.20\n+US$25.49\n-paid: 09/02/2026\n-US$29.41\n+paid: 13/02/2026\n+US$32.545\n-US$465,891,369 worth of\n+US$473,565,291 worth of"
+   },
+   "source": "asx:1d37097e1a7680d166960b4a2931ddd5",
+   "locator": "diff vs asx:d2fab21a1335620428e64eefefa5a9a7",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - NWS",
+   "data": {
+    "title": "Notification of cessation of securities - NWS",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03138914",
+    "is_admin_noise": true
+   },
+   "source": "asx:4fda7e2644741e02b4f691cf813c5ba7",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification of cessation of securities - NWS",
+   "data": {
+    "title": "Notification of cessation of securities - NWS",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03138915",
+    "is_admin_noise": true
+   },
+   "source": "asx:7c16765d6f6dd908bacc47ff0b66b9e2",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "buyback filing: non_trivial (24/302 lines changed)",
+   "data": {
+    "diff_group": "buyback",
+    "previous_doc_id": "asx:1d37097e1a7680d166960b4a2931ddd5",
+    "changed_lines": 24,
+    "total_lines": 302,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-ASX Security Code: NWSAB\n+ASX Security Code: NWSAA\n-STOCK CLASS B\n+STOCK CLASS A\n-141,267,210\n+359,720,370\n-5,524,474\n-25,457\n+11,844,896\n+58,482\n-US$162,895,036.21\n-US$833,704.02\n+US$308,114,682.85\n+US$1,721,867.98\n-US$35.69\n+US$31.58\n-US$33.05\n+US$29.63\n-US$25.49\n+US$22.20\n-paid: 13/02/2026\n-US$32.545\n+paid: 09/02/2026\n+US$29.23"
+   },
+   "source": "asx:e72275f8d68ed1d95e0abe6aad01a766",
+   "locator": "diff vs asx:1d37097e1a7680d166960b4a2931ddd5",
+   "recorded_at": "2026-09-15T23:29:01Z"
   }
  ],
  "situations": [],

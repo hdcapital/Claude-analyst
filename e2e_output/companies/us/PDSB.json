@@ -1,0 +1,42 @@
+{
+ "issuer_key": "us/PDSB",
+ "identity": {
+  "ticker": "PDSB",
+  "exchange": "US",
+  "name": "PDS Biotechnology Corp",
+  "cik": "1472091"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[5], item_names(5), escalated=True",
+   "data": {
+    "items": [
+     "1.02",
+     "5.02",
+     "7.01",
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.02": "termination of material agreement",
+     "5.02": "officer/director departure or appointment",
+     "7.01": "Reg FD disclosure",
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001140361-26-036489",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:04Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

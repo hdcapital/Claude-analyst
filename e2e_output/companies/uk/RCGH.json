@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/RCGH",
+ "identity": {
+  "ticker": "RCGH",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

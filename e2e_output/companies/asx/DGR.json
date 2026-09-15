@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/DGR",
+ "identity": {
+  "ticker": "DGR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -18,6 +18,20 @@
    "source": "asx:b9a2665a6fb2322880dee217d6011fe9",
    "locator": "metadata",
    "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - CLA",
+   "data": {
+    "title": "Notification regarding unquoted securities - CLA",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139265",
+    "is_admin_noise": true
+   },
+   "source": "asx:822b222e1ea407d495448cb859f8bcda",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:00Z"
   }
  ],
  "situations": [

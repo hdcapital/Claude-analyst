@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/QLT",
+ "identity": {
+  "ticker": "QLT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=1722572.0, highest_price=2026.0, vwap=2026.0, implied_consideration=3489930872.0",
+   "data": {
+    "shares_purchased": 1722572.0,
+    "highest_price": 2026.0,
+    "lowest_price": null,
+    "vwap": 2026.0,
+    "implied_consideration": 3489930872.0
+   },
+   "source": "uk:9769034",
+   "locator": "chars 912+",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

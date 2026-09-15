@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/JHG",
+ "identity": {
+  "ticker": "JHG",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

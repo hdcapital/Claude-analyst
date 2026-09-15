@@ -4,7 +4,21 @@
   "ticker": "FOX",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=City and country of registered office (if applicable), resulting_voting_rights_pct=5.82, previous_voting_rights_pct=6.5",
+   "data": {
+    "holder": "City and country of registered office (if applicable)",
+    "resulting_voting_rights_pct": 5.82,
+    "previous_voting_rights_pct": 6.5
+   },
+   "source": "uk:9771196",
+   "locator": "chars 848+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

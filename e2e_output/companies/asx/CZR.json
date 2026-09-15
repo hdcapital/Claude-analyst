@@ -33,6 +33,21 @@
    "source": "asx:99c6bcf44726e8a42007b05deeb73861",
    "locator": "chars 318+ (voting power table)",
    "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=CZR Resources Ltd (CZR) and each of the entities referred to in Annexure A (CZR Group Entities), previous_voting_power_pct=58.6, present_voting_power_pct=59.75",
+   "data": {
+    "form": "604_change",
+    "holder": "CZR Resources Ltd (CZR) and each of the entities referred to in Annexure A (CZR Group Entities)",
+    "became_on": null,
+    "previous_voting_power_pct": 58.6,
+    "present_voting_power_pct": 59.75
+   },
+   "source": "asx:2d5daf348fe19d83287ababd7b2827af",
+   "locator": "chars 318+ (voting power table)",
+   "recorded_at": "2026-09-15T23:28:59Z"
   }
  ],
  "situations": [],

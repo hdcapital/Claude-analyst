@@ -4,7 +4,22 @@
   "ticker": "BPT",
   "exchange": "LSE"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Issue of Equity and Total Voting Rights",
+   "data": {
+    "title": "Issue of Equity and Total Voting Rights",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/bridgepoint-group-reg-s---bpt/issue-of-equity-and-total-voting-rights/9771055",
+    "is_admin_noise": true
+   },
+   "source": "uk:9771055",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

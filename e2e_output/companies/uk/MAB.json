@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/MAB",
+ "identity": {
+  "ticker": "MAB",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Director, nature=Purchase of partnership shares by the SIP Trustee (notified on 14 September 2026), price=2.735, volume=2.735, value=7.48",
+   "data": {
+    "person": "Name",
+    "position": "Director",
+    "nature": "Purchase of partnership shares by the SIP Trustee (notified on 14 September 2026)",
+    "price": 2.735,
+    "volume": 2.735,
+    "value": 7.48
+   },
+   "source": "uk:9770294",
+   "locator": "chars 104+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

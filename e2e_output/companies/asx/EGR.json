@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/EGR",
+ "identity": {
+  "ticker": "EGR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

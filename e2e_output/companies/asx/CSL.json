@@ -18,6 +18,23 @@
    "source": "asx:eecc4e6469b980c722404ed2ab6a623f",
    "locator": "metadata",
    "recorded_at": "2026-09-08T14:34:27Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "dividend filing: first_of_type (0/164 lines changed)",
+   "data": {
+    "diff_group": "dividend",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 164,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:24e5efb5fef3c7d240af022d286f78cf",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:28:59Z"
   }
  ],
  "situations": [],

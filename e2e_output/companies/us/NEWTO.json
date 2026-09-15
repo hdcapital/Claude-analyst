@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/NEWTO",
+ "identity": {
+  "ticker": "NEWTO",
+  "exchange": "US",
+  "name": "NewtekOne, Inc.",
+  "cik": "1587987"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "2.02",
+     "9.01"
+    ],
+    "item_names": {
+     "2.02": "results of operations",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001628280-26-061720",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:06Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

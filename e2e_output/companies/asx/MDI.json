@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/MDI",
+ "identity": {
+  "ticker": "MDI",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

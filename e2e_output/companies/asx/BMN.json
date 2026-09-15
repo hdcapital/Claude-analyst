@@ -18,6 +18,39 @@
    "source": "asx:4bf7b3a8566dcce06a7242fb07961806",
    "locator": "chars 245+",
    "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=Citibank, N.A. Sydney Branch, became_on=2026-09-09, voting_power_pcts_seen_unordered[1]",
+   "data": {
+    "form": "603_becoming",
+    "holder": "Citibank, N.A. Sydney Branch",
+    "became_on": "2026-09-09",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null,
+    "voting_power_pcts_seen_unordered": [
+     6.1885
+    ]
+   },
+   "source": "asx:980f751c7361ad4cb63ade89cdbeebc1",
+   "locator": "chars 4743+ (voting power table)",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=Citibank, N.A. Sydney Branch",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "Citibank, N.A. Sydney Branch",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:f1a6d06009be64b8bde0df35ad2f8026",
+   "locator": "chars 3037+ (form 605)",
+   "recorded_at": "2026-09-15T23:29:01Z"
   }
  ],
  "situations": [

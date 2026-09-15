@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/LCL",
+ "identity": {
+  "ticker": "LCL",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

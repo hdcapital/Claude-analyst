@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/MLHL",
+ "identity": {
+  "ticker": "MLHL",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

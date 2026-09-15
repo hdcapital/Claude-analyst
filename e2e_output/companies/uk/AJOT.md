@@ -12,6 +12,7 @@ AJOT is a concentrated Japanese small-cap activist closed-end fund managed by AV
 - 2026-09-09 **AJOT's top holding Sharingtechnology hit with take-private tender offer at premium** (S-bac5b4f034) [uk:9764000]
 
 ## Fact time series
+- 2026-09-14 [buyback_transaction] buyback_transaction: shares_purchased=50000.0 [uk:9771363 @ 2026-09-14, chars 614+]
 
 ## What changed (newest first)
 - 2026-09-09: stage-2 assessment: AJOT's top holding Sharingtechnology hit with take-private tender offer at premium (interest 6, risk 2) [uk:9764000]

@@ -18,6 +18,19 @@
    "source": "uk:9763523",
    "locator": "metadata",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Schroders Plc, resulting_voting_rights_pct=3.84202, previous_voting_rights_pct=9.995167",
+   "data": {
+    "holder": "Schroders Plc",
+    "resulting_voting_rights_pct": 3.84202,
+    "previous_voting_rights_pct": 9.995167
+   },
+   "source": "uk:9771309",
+   "locator": "chars 261+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

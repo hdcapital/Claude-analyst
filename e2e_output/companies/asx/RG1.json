@@ -35,6 +35,23 @@
    "source": "asx:42ab652adc182dbad268c7233d78c16b",
    "locator": "metadata",
    "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (8/34 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:c6ec804c3f4bcf521a509892d6042afa",
+    "changed_lines": 8,
+    "total_lines": 34,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-7 September 2026\n+14 September 2026\n-As at market close on 4 September 2026 (which is inclusive of offshore equity market moves), the estimated net tangible\n-asset (NTA) backing per ordinary share for Regal Partners Global Investments Limited (RG1) was $2.88, after all applicable\n+As at market close on 11 September 2026 (which is inclusive of offshore equity market moves), the estimated net tangible\n+asset (NTA) backing per ordinary share for Regal Partners Global Investments Limited (RG1) was $2.83, after all applicable\n-The NTA of $2.88 is ex-dividend, that is, after subtracting the recently announced final dividend of 5c per share. The\n+The NTA of $2.83 is ex-dividend, that is, after subtracting the recently announced final dividend of 5c per share. The"
+   },
+   "source": "asx:33ed5f97cec6d53c2af032d4e6d5e1dc",
+   "locator": "diff vs asx:c6ec804c3f4bcf521a509892d6042afa",
+   "recorded_at": "2026-09-15T23:28:59Z"
   }
  ],
  "situations": [],

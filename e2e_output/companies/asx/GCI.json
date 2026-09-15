@@ -38,6 +38,23 @@
    "source": "asx:7cf3064f2ba1e3fc96bcf5c943b84fcc",
    "locator": "diff vs asx:8227cb433fac03572cae215ace5b6677",
    "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (47/53 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:7cf3064f2ba1e3fc96bcf5c943b84fcc",
+    "changed_lines": 47,
+    "total_lines": 53,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-9 September 2026\n-Daily Net Tangible Asset Backing\n-Please find below information on the Net Tangible Asset (NTA) per unit of Gryphon\n-Capital Income Trust (ASX: GCI) as at the close of business on 8 September 2026:\n-$2.0092\n-NTA per unit as at 8 September 2026\n-All figures are unaudited and approximate.\n+14\n+September\n+2026\n+Daily\n+Net Tangible Asset\n+Backing\n+Please find\n+below information on the Net\n+Tangible\n+Asset\n+(NTA)\n+per unit\n+of\n+Gryphon Capital\n+Income\n+Trust\n+(ASX:\n+GCI)\n+as\n+at\n+the\n+close\n+of\n+business\n+on\n+11\n+September\n+2026:\n+$2.0105\n+NTA per unit\n+as\n+at\n+11\n+September\n+2026\n+All\n+figures\n+are unaudited\n+and\n+approximate."
+   },
+   "source": "asx:f40b6188e697a9a64e132b0d73e1335a",
+   "locator": "diff vs asx:7cf3064f2ba1e3fc96bcf5c943b84fcc",
+   "recorded_at": "2026-09-15T23:29:01Z"
   }
  ],
  "situations": [],

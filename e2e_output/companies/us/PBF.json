@@ -1,0 +1,38 @@
+{
+ "issuer_key": "us/PBF",
+ "identity": {
+  "ticker": "PBF",
+  "exchange": "US",
+  "name": "PBF Energy Inc.",
+  "cik": "1534504"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=True",
+   "data": {
+    "items": [
+     "7.01",
+     "8.01",
+     "9.01"
+    ],
+    "item_names": {
+     "7.01": "Reg FD disclosure",
+     "8.01": "other events",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001193125-26-389847",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:04Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

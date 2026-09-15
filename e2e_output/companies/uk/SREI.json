@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/SREI",
+ "identity": {
+  "ticker": "SREI",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Non-Executive Director, nature=Share purchase, price=40.0997, volume=40.0997, value=1607.99",
+   "data": {
+    "person": "Name",
+    "position": "Non-Executive Director",
+    "nature": "Share purchase",
+    "price": 40.0997,
+    "volume": 40.0997,
+    "value": 1607.99
+   },
+   "source": "uk:9773801",
+   "locator": "chars 195+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

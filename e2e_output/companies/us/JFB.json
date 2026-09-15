@@ -1,0 +1,16 @@
+{
+ "issuer_key": "us/JFB",
+ "identity": {
+  "ticker": "JFB",
+  "exchange": "US",
+  "name": "JFB Construction Holdings",
+  "cik": "2024306"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -46,6 +46,21 @@
    "source": "asx:c31df3e362012572a93a52cd41414733",
    "locator": "metadata",
    "recorded_at": "2026-09-08T14:34:26Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=MA FINANCIAL GROUP LIMITED (MAF) and the entities listed in Annexure A, previous_voting_power_pct=10.1, present_voting_power_pct=8.35",
+   "data": {
+    "form": "604_change",
+    "holder": "MA FINANCIAL GROUP LIMITED (MAF) and the entities listed in Annexure A",
+    "became_on": null,
+    "previous_voting_power_pct": 10.1,
+    "present_voting_power_pct": 8.35
+   },
+   "source": "asx:45e4efc3a6e67fc236ab6f07347d37f7",
+   "locator": "chars 251+ (voting power table)",
+   "recorded_at": "2026-09-15T23:28:59Z"
   }
  ],
  "situations": [],

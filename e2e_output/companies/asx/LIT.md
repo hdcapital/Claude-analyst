@@ -12,6 +12,7 @@ Livium is a small-cap Australian battery/solar recycler (via Envirostream) scali
 - 2026-09-09 **Livium: Recycling Volume Ramp, VSPC Due-Diligence Progress, SPP Extension** (S-d803c5b417) [asx:7120b47d949016a17f8358ac64db3b8f]
 
 ## Fact time series
+- 2026-09-14 [securities_issue] securities_issue: form=Appendix 2A, securities_count=287733.0 [asx:3ba57b09cf3e33a7692fcad0d084df16 @ 2026-09-14, chars 279+]
 
 ## What changed (newest first)
 - 2026-09-09: stage-2 assessment: Livium: Recycling Volume Ramp, VSPC Due-Diligence Progress, SPP Extension (interest 5, risk 6) [asx:7120b47d949016a17f8358ac64db3b8f]

@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/AXL",
+ "identity": {
+  "ticker": "AXL",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Edale Capital LLP, resulting_voting_rights_pct=5.58, previous_voting_rights_pct=6.91",
+   "data": {
+    "holder": "Edale Capital LLP",
+    "resulting_voting_rights_pct": 5.58,
+    "previous_voting_rights_pct": 6.91
+   },
+   "source": "uk:9771071",
+   "locator": "chars 240+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

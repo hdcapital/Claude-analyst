@@ -35,6 +35,20 @@
    "source": "asx:91f1a8b63f6381661ed5c50ae93507ee",
    "locator": "chars 664+ (form fields)",
    "recorded_at": "2026-09-10T05:39:55Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notification regarding unquoted securities - KLS",
+   "data": {
+    "title": "Notification regarding unquoted securities - KLS",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139354",
+    "is_admin_noise": true
+   },
+   "source": "asx:0aedcecf0191104b4e7eee07ebd29e96",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:58Z"
   }
  ],
  "situations": [],

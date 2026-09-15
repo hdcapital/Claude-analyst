@@ -21,6 +21,23 @@
    "source": "asx:7fce00c27c23dc91f39cfff53530c857",
    "locator": "diff vs none",
    "recorded_at": "2026-09-08T14:34:25Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (12/58 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:7fce00c27c23dc91f39cfff53530c857",
+    "changed_lines": 12,
+    "total_lines": 58,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-7 September 2026\n+14 September 2026\n-$2.3039\n-02-Sep-26\n+$2.3063\n+09-Sep-26\n-$2.3072\n-31-Aug-26\n+$2.3067\n+07-Sep-26\n--0.14%\n+-0.02%"
+   },
+   "source": "asx:1a229646a39b50b2f4d39d4cf27dc8c3",
+   "locator": "diff vs asx:7fce00c27c23dc91f39cfff53530c857",
+   "recorded_at": "2026-09-15T23:28:58Z"
   }
  ],
  "situations": [],

@@ -13,5 +13,6 @@
 - 2026-09-09 [major_holding] major_holding: holder=The Wellcome Trust Limited as trustee of The Wellcome Trust, resulting_voting_rights_pct=1.81, previous_voting_rights_pct=4.0334 [uk:9763804 @ 2026-09-09, chars 225+]
 - 2026-09-09 [major_holding] major_holding: holder=Perpetual Limited, resulting_voting_rights_pct=4.953412, previous_voting_rights_pct=5.375848 [uk:9764016 @ 2026-09-09, chars 225+]
 - 2026-09-09 [major_holding] major_holding: holder=Aberforth Partners LLP, resulting_voting_rights_pct=11.055, previous_voting_rights_pct=10.983 [uk:9764021 @ 2026-09-09, chars 275+]
+- 2026-09-14 [buyback_transaction] buyback_transaction: shares_purchased=167474781.0, highest_price=130.7, lowest_price=129.9, vwap=130.43, implied_consideration=21843735685.83 [uk:9772396 @ 2026-09-14, chars 468+]
 
 ## What changed (newest first)

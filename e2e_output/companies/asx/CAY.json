@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/CAY",
+ "identity": {
+  "ticker": "CAY",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

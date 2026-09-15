@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/SKK",
+ "identity": {
+  "ticker": "SKK",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

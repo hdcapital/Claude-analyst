@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/SCGL",
+ "identity": {
+  "ticker": "SCGL",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

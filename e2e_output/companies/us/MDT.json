@@ -1,0 +1,16 @@
+{
+ "issuer_key": "us/MDT",
+ "identity": {
+  "ticker": "MDT",
+  "exchange": "US",
+  "name": "Medtronic plc",
+  "cik": "1613103"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

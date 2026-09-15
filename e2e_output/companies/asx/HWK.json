@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/HWK",
+ "identity": {
+  "ticker": "HWK",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

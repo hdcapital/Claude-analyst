@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/BCG",
+ "identity": {
+  "ticker": "BCG",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

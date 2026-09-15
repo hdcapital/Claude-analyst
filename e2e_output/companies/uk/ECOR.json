@@ -18,6 +18,20 @@
    "source": "uk:9759385",
    "locator": "metadata",
    "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Director Declaration",
+   "data": {
+    "title": "Director Declaration",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/ecora-resources--ecor/director-declaration/9770237",
+    "is_admin_noise": false
+   },
+   "source": "uk:9770237",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:02Z"
   }
  ],
  "situations": [],

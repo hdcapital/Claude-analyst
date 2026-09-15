@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/SEIT",
+ "identity": {
+  "ticker": "SEIT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Jefferies Financial Group Inc, resulting_voting_rights_pct=15.534, previous_voting_rights_pct=15.178",
+   "data": {
+    "holder": "Jefferies Financial Group Inc",
+    "resulting_voting_rights_pct": 15.534,
+    "previous_voting_rights_pct": 15.178
+   },
+   "source": "uk:9771441",
+   "locator": "chars 297+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

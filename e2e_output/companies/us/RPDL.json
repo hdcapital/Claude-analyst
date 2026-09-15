@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/RPDL",
+ "identity": {
+  "ticker": "RPDL",
+  "exchange": "US",
+  "name": "Rapid Line Inc.",
+  "cik": "1910975"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/16496 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 16496,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001683168-26-007104",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:06Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

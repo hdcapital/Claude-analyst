@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/ASC",
+ "identity": {
+  "ticker": "ASC",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=The Goldman Sachs Group Inc, resulting_voting_rights_pct=3.054092, previous_voting_rights_pct=2.990063",
+   "data": {
+    "holder": "The Goldman Sachs Group Inc",
+    "resulting_voting_rights_pct": 3.054092,
+    "previous_voting_rights_pct": 2.990063
+   },
+   "source": "uk:9770367",
+   "locator": "chars 273+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

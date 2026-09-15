@@ -1,0 +1,59 @@
+{
+ "issuer_key": "asx/WEC",
+ "identity": {
+  "ticker": "WEC",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Initial Director's Interest Notice - NT",
+   "data": {
+    "title": "Initial Director's Interest Notice - NT",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139350",
+    "is_admin_noise": true
+   },
+   "source": "asx:855626a3f786b22fc6564b830deaaace",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Gaffwick Pty Ltd, previous_voting_power_pct=29.09, present_voting_power_pct=25.8",
+   "data": {
+    "form": "604_change",
+    "holder": "Gaffwick Pty Ltd",
+    "became_on": null,
+    "previous_voting_power_pct": 29.09,
+    "present_voting_power_pct": 25.8
+   },
+   "source": "asx:a366f448b67409a1dad5bd06f66db044",
+   "locator": "chars 2677+ (voting power table)",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Ganra Pty Ltd, previous_voting_power_pct=27.96, present_voting_power_pct=24.8",
+   "data": {
+    "form": "604_change",
+    "holder": "Ganra Pty Ltd",
+    "became_on": null,
+    "previous_voting_power_pct": 27.96,
+    "present_voting_power_pct": 24.8
+   },
+   "source": "asx:b2a8df9870aa88abfbd7a7e8d5600ec1",
+   "locator": "chars 3141+ (voting power table)",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

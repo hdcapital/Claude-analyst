@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/AAP",
+ "identity": {
+  "ticker": "AAP",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

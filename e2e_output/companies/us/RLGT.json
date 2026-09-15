@@ -1,0 +1,53 @@
+{
+ "issuer_key": "us/RLGT",
+ "identity": {
+  "ticker": "RLGT",
+  "exchange": "US",
+  "name": "RADIANT LOGISTICS, INC",
+  "cik": "1171155"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/31853 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 31853,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001193125-26-390768",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "2.02",
+     "9.01"
+    ],
+    "item_names": {
+     "2.02": "results of operations",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001193125-26-390772",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

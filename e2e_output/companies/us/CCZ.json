@@ -1,0 +1,16 @@
+{
+ "issuer_key": "us/CCZ",
+ "identity": {
+  "ticker": "CCZ",
+  "exchange": "US",
+  "name": "COMCAST CORP",
+  "cik": "1166691"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

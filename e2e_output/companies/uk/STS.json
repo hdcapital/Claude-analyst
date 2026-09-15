@@ -1,0 +1,30 @@
+{
+ "issuer_key": "uk/STS",
+ "identity": {
+  "ticker": "STS",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=260000.0, vwap=222.2308, implied_consideration=57780008.0",
+   "data": {
+    "shares_purchased": 260000.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": 222.2308,
+    "implied_consideration": 57780008.0
+   },
+   "source": "uk:9771313",
+   "locator": "chars 156+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

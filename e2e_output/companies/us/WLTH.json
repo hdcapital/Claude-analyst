@@ -27,6 +27,23 @@
    "source": "us:0001628280-26-061131",
    "locator": "chars 227+ (item headers)",
    "recorded_at": "2026-09-10T05:40:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/32003 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 32003,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001628280-26-061848",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:06Z"
   }
  ],
  "situations": [],

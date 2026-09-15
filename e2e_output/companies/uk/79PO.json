@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/79PO",
+ "identity": {
+  "ticker": "79PO",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

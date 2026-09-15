@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/PTX",
+ "identity": {
+  "ticker": "PTX",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Notice of Annual General Meeting/Proxy Form",
+   "data": {
+    "title": "Notice of Annual General Meeting/Proxy Form",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139040",
+    "is_admin_noise": true
+   },
+   "source": "asx:2c7ee2210cf8f6b49f9fe3346523d603",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

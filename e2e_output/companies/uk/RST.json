@@ -20,6 +20,35 @@
    "source": "uk:9758786",
    "locator": "chars 319+ (purchase table)",
    "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=186000.0, vwap=287.6078, lowest_price=280.0, highest_price=297.2, days=5, implied_consideration=53495050.8",
+   "data": {
+    "shares_purchased": 186000.0,
+    "vwap": 287.6078,
+    "lowest_price": 280.0,
+    "highest_price": 297.2,
+    "days": 5,
+    "implied_consideration": 53495050.8
+   },
+   "source": "uk:9770803",
+   "locator": "chars 321+ (purchase table)",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Octopus Investments Limited, resulting_voting_rights_pct=8.99, previous_voting_rights_pct=9.98",
+   "data": {
+    "holder": "Octopus Investments Limited",
+    "resulting_voting_rights_pct": 8.99,
+    "previous_voting_rights_pct": 9.98
+   },
+   "source": "uk:9770825",
+   "locator": "chars 223+",
+   "recorded_at": "2026-09-15T23:29:02Z"
   }
  ],
  "situations": [],

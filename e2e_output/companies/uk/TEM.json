@@ -34,6 +34,37 @@
    "source": "uk:9764099",
    "locator": "chars 217+",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Director, nature=Purchase of Shares, price=323.4, volume=323.4, value=104587.56",
+   "data": {
+    "person": "Name",
+    "position": "Director",
+    "nature": "Purchase of Shares",
+    "price": 323.4,
+    "volume": 323.4,
+    "value": 104587.56
+   },
+   "source": "uk:9770833",
+   "locator": "chars 166+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=493363.0",
+   "data": {
+    "shares_purchased": 493363.0,
+    "highest_price": null,
+    "lowest_price": null,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9771282",
+   "locator": "chars 218+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

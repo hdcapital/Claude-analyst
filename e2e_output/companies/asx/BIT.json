@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/BIT",
+ "identity": {
+  "ticker": "BIT",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Resignation of Managing Director and Appendix 3Z",
+   "data": {
+    "title": "Resignation of Managing Director and Appendix 3Z",
+    "form": null,
+    "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139151",
+    "is_admin_noise": true
+   },
+   "source": "asx:0f38c394100760b487282f7934aab915",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:28:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

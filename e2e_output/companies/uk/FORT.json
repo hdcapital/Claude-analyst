@@ -19,6 +19,35 @@
    "source": "uk:9758779",
    "locator": "chars 1401+",
    "recorded_at": "2026-09-08T14:34:28Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=9389658.0, highest_price=7.0, lowest_price=7.0, vwap=7.0, implied_consideration=65727606.0",
+   "data": {
+    "shares_purchased": 9389658.0,
+    "highest_price": 7.0,
+    "lowest_price": 7.0,
+    "vwap": 7.0,
+    "implied_consideration": 65727606.0
+   },
+   "source": "uk:9770818",
+   "locator": "chars 1417+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Total Voting Rights and Capital",
+   "data": {
+    "title": "Total Voting Rights and Capital",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/forterra--fort/total-voting-rights-and-capital/9771032",
+    "is_admin_noise": true
+   },
+   "source": "uk:9771032",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/ENR",
+ "identity": {
+  "ticker": "ENR",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

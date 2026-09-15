@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/GBE",
+ "identity": {
+  "ticker": "GBE",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

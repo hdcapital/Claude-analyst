@@ -4,7 +4,25 @@
   "ticker": "EGH",
   "exchange": "ASX"
  },
- "facts": [],
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "dividend filing: first_of_type (0/215 lines changed)",
+   "data": {
+    "diff_group": "dividend",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 215,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "asx:47fcc4a171d37dafb26894a1a810efae",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
  "situations": [],
  "changelog": [],
  "thesis": {

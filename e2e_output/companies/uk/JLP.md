@@ -1,0 +1,9 @@
+# JLP
+
+## Identity
+- ticker: JLP
+- exchange: LSE
+
+## Fact time series
+
+## What changed (newest first)

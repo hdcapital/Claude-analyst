@@ -46,6 +46,48 @@
    "source": "uk:9763920",
    "locator": "metadata",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - Permanent TSB Group Holdings plc",
+   "data": {
+    "title": "Form 8.3 - Permanent TSB Group Holdings plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/permanent-tsb-group-holdings-cdi---ptsb/form-8-3-permanent-tsb-group-holdings-plc/9770430",
+    "is_admin_noise": true
+   },
+   "source": "uk:9770430",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - Permanent TSB Group Holdings plc",
+   "data": {
+    "title": "Form 8.3 - Permanent TSB Group Holdings plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/permanent-tsb-group-holdings-cdi---ptsb/form-8-3-permanent-tsb-group-holdings-plc/9771114",
+    "is_admin_noise": true
+   },
+   "source": "uk:9771114",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3: PTSB ID",
+   "data": {
+    "title": "Form 8.3: PTSB ID",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/permanent-tsb-group-holdings-cdi---ptsb/form-8-3-ptsb-id/9771189",
+    "is_admin_noise": true
+   },
+   "source": "uk:9771189",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [

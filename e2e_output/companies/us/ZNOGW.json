@@ -1,0 +1,36 @@
+{
+ "issuer_key": "us/ZNOGW",
+ "identity": {
+  "ticker": "ZNOGW",
+  "exchange": "US",
+  "name": "ZION OIL & GAS INC",
+  "cik": "1131312"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[2], item_names(2), escalated=True",
+   "data": {
+    "items": [
+     "5.03",
+     "9.01"
+    ],
+    "item_names": {
+     "5.03": "charter/bylaw amendment",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001437749-26-030287",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

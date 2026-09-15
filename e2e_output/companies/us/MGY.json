@@ -1,0 +1,44 @@
+{
+ "issuer_key": "us/MGY",
+ "identity": {
+  "ticker": "MGY",
+  "exchange": "US",
+  "name": "Magnolia Oil & Gas Corp",
+  "cik": "1698990"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[6], item_names(6), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "2.01",
+     "2.03",
+     "3.02",
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "2.01": "completion of acquisition/disposition",
+     "2.03": "creation of financial obligation",
+     "3.02": "unregistered equity sales",
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001104659-26-107498",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:04Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

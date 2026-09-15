@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/JSG",
+ "identity": {
+  "ticker": "JSG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=FIL Limited, resulting_voting_rights_pct=12.0182, previous_voting_rights_pct=11.4123",
+   "data": {
+    "holder": "FIL Limited",
+    "resulting_voting_rights_pct": 12.0182,
+    "previous_voting_rights_pct": 11.4123
+   },
+   "source": "uk:9771239",
+   "locator": "chars 245+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

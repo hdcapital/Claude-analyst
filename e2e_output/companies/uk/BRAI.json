@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/BRAI",
+ "identity": {
+  "ticker": "BRAI",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

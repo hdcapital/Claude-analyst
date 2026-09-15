@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/UFO",
+ "identity": {
+  "ticker": "UFO",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

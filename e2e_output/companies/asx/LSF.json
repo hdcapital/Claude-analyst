@@ -55,6 +55,23 @@
    "source": "asx:4172ad619ae2ceb98c6815b541c8502d",
    "locator": "diff vs asx:ca36dfa9ce20e73a3237777678a5e7b5",
    "recorded_at": "2026-09-10T05:39:54Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "nta filing: non_trivial (14/24 lines changed)",
+   "data": {
+    "diff_group": "nta",
+    "previous_doc_id": "asx:4172ad619ae2ceb98c6815b541c8502d",
+    "changed_lines": 14,
+    "total_lines": 24,
+    "trivial": false,
+    "reason": "non_trivial",
+    "delta_preview": "-09 September\n+14 September\n-Net Tangible Assets (NTA) backing per share for the L1 Long Short Fund Limited as at 04\n+Net Tangible Assets (NTA) backing per share for the L1 Long Short Fund Limited as at 09\n-Net Tangible Asset Backing Per Ordinary Share1\n-NTA before tax2\n-$ 4.4280\n-NTA after tax3\n-$ 4.1305\n+Net Tangible Asset Backing Per Ordinary Share 1\n+NTA before tax 2\n+$ 4.4437\n+NTA after tax 3\n+$ 4.1440"
+   },
+   "source": "asx:8ab4bf9fbe4d0f0798ef31e0ec29a7aa",
+   "locator": "diff vs asx:4172ad619ae2ceb98c6815b541c8502d",
+   "recorded_at": "2026-09-15T23:29:00Z"
   }
  ],
  "situations": [],

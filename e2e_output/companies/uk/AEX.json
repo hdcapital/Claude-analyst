@@ -1,0 +1,29 @@
+{
+ "issuer_key": "uk/AEX",
+ "identity": {
+  "ticker": "AEX",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Exercise of Options and Total Voting Rights",
+   "data": {
+    "title": "Exercise of Options and Total Voting Rights",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/aminex-cdi---aex/exercise-of-options-and-total-voting-rights/9769062",
+    "is_admin_noise": true
+   },
+   "source": "uk:9769062",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:01Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

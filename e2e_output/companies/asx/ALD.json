@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/ALD",
+ "identity": {
+  "ticker": "ALD",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=BlackRock Group",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "BlackRock Group",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:9d0a2fd269ccf9db56c90391a47f0798",
+   "locator": "chars 12372+ (form 605)",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

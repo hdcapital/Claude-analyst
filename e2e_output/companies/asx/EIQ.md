@@ -12,6 +12,7 @@ EchoIQ is a pre-revenue/early-commercial ASX-listed AI diagnostics company whose
 - 2026-09-07 **EIQ trading halt pending EchoSolv HF regulatory pathway announcement** (S-c76b27ece4) [asx:b2fd52d5bca64690481b76cbde727894]
 
 ## Fact time series
+- 2026-09-14 [admin_announcement] admin_announcement: title=Notification regarding unquoted securities - EIQ [asx:3787600a941178a851d08cf22e7f6307 @ 2026-09-14, metadata]
 
 ## What changed (newest first)
 - 2026-09-07: stage-2 assessment: EIQ trading halt pending EchoSolv HF regulatory pathway announcement (interest 6, risk 6) [asx:b2fd52d5bca64690481b76cbde727894]

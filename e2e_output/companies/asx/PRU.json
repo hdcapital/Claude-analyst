@@ -1,0 +1,30 @@
+{
+ "issuer_key": "asx/PRU",
+ "identity": {
+  "ticker": "PRU",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=Macquarie Group Limited ('MQG'); and",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "Macquarie Group Limited ('MQG'); and",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:05ea97539eac54e67d9cdb2cbfc7c2c6",
+   "locator": "chars 52+ (form 605)",
+   "recorded_at": "2026-09-15T23:28:58Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

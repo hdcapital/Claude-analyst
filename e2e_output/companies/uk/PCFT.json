@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/PCFT",
+ "identity": {
+  "ticker": "PCFT",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=TrinityBridge Limited, resulting_voting_rights_pct=4.99, previous_voting_rights_pct=5.0",
+   "data": {
+    "holder": "TrinityBridge Limited",
+    "resulting_voting_rights_pct": 4.99,
+    "previous_voting_rights_pct": 5.0
+   },
+   "source": "uk:9770886",
+   "locator": "chars 253+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

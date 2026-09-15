@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/AA2",
+ "identity": {
+  "ticker": "AA2",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

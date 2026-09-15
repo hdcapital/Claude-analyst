@@ -1,0 +1,29 @@
+{
+ "issuer_key": "asx/KEY",
+ "identity": {
+  "ticker": "KEY",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "securities_issue",
+   "summary": "securities_issue: form=Appendix 2A, securities_count=3384286.0, issue_price=0.073, implied_raise=247052.88",
+   "data": {
+    "form": "Appendix 2A",
+    "securities_count": 3384286.0,
+    "issue_price": 0.073,
+    "implied_raise": 247052.88
+   },
+   "source": "asx:2b2c997ef098888ff3af1628a2b604d1",
+   "locator": "chars 290+",
+   "recorded_at": "2026-09-15T23:28:59Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

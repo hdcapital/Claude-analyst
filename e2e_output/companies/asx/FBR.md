@@ -14,6 +14,8 @@ FBR remains a speculative, pre-commercial robotics developer (Hadrian bricklayin
 ## Fact time series
 - 2026-09-07 [securities_issue] securities_issue: form=Appendix 2A, securities_count=21739130.0 [asx:a241bbab5fd7bb6adfa835db42446bce @ 2026-09-07, chars 232+]
 - 2026-09-07 [securities_issue] securities_issue: form=Appendix 2A, securities_count=21739130.0 [asx:fe588822179e1789fb46659100d165f6 @ 2026-09-07, chars 232+]
+- 2026-09-14 [admin_announcement] admin_announcement: title=Cleansing Notice [asx:2448f7391acbf5b86516e7d341f7df3d @ 2026-09-14, metadata]
+- 2026-09-14 [securities_issue] securities_issue: form=Appendix 2A, securities_count=600000.0, issue_price=0.115, implied_raise=69000.0 [asx:7767931a301f71735442842a439a9bc4 @ 2026-09-14, chars 276+]
 
 ## What changed (newest first)
 - 2026-09-07: stage-2 assessment: FBR raises A$4m via discounted placement + SPP to fund Mantis/Hadrian and repay debt (interest 3, risk 7) [asx:c0cb1fe168843b0a44ca488542513696]

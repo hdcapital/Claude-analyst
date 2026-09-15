@@ -17,6 +17,45 @@
    "source": "uk:9764172",
    "locator": "chars 361+",
    "recorded_at": "2026-09-10T05:39:58Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Jefferies Financial Group Inc, resulting_voting_rights_pct=7.872, previous_voting_rights_pct=7.434",
+   "data": {
+    "holder": "Jefferies Financial Group Inc",
+    "resulting_voting_rights_pct": 7.872,
+    "previous_voting_rights_pct": 7.434
+   },
+   "source": "uk:9771359",
+   "locator": "chars 361+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Jefferies Financial Group Inc, resulting_voting_rights_pct=7.65, previous_voting_rights_pct=7.872",
+   "data": {
+    "holder": "Jefferies Financial Group Inc",
+    "resulting_voting_rights_pct": 7.65,
+    "previous_voting_rights_pct": 7.872
+   },
+   "source": "uk:9771360",
+   "locator": "chars 361+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Saba Capital Management, L.P., resulting_voting_rights_pct=16.169479, previous_voting_rights_pct=15.495215",
+   "data": {
+    "holder": "Saba Capital Management, L.P.",
+    "resulting_voting_rights_pct": 16.169479,
+    "previous_voting_rights_pct": 15.495215
+   },
+   "source": "uk:9771361",
+   "locator": "chars 366+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

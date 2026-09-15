@@ -21,6 +21,25 @@
    "source": "asx:120803d9efee4a9d0cae0042674430a2",
    "locator": "chars 650+ (form fields)",
    "recorded_at": "2026-09-10T05:39:53Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=604_change, holder=Signature, voting_power_pcts_seen_unordered[2]",
+   "data": {
+    "form": "604_change",
+    "holder": "Signature",
+    "became_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null,
+    "voting_power_pcts_seen_unordered": [
+     16.0038,
+     18.8837
+    ]
+   },
+   "source": "asx:2993e6c14f87d91b05b2bc1d9ac79f01",
+   "locator": "chars 2571+ (voting power table)",
+   "recorded_at": "2026-09-15T23:28:59Z"
   }
  ],
  "situations": [],

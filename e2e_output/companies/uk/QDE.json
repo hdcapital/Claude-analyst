@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/QDE",
+ "identity": {
+  "ticker": "QDE",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

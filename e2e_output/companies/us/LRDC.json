@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/LRDC",
+ "identity": {
+  "ticker": "LRDC",
+  "exchange": "US",
+  "name": "Laredo Oil, Inc.",
+  "cik": "1442492"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/3259 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 3259,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001199835-26-000334",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

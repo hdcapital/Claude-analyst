@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/OPTT",
+ "identity": {
+  "ticker": "OPTT",
+  "exchange": "US",
+  "name": "Ocean Power Technologies, Inc.",
+  "cik": "1378140"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/34114 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 34114,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001493152-26-042579",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:06Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/INF",
+ "identity": {
+  "ticker": "INF",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Parvus Asset Management Jersey Limited, resulting_voting_rights_pct=13.047761, previous_voting_rights_pct=12.315982",
+   "data": {
+    "holder": "Parvus Asset Management Jersey Limited",
+    "resulting_voting_rights_pct": 13.047761,
+    "previous_voting_rights_pct": 12.315982
+   },
+   "source": "uk:9771351",
+   "locator": "chars 231+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

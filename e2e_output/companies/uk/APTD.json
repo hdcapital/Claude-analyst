@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/APTD",
+ "identity": {
+  "ticker": "APTD",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

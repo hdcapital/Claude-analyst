@@ -1,0 +1,59 @@
+{
+ "issuer_key": "us/RAKR",
+ "identity": {
+  "ticker": "RAKR",
+  "exchange": "US",
+  "name": "Rainmaker Worldwide Inc.",
+  "cik": "1872292"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=True",
+   "data": {
+    "items": [
+     "1.02",
+     "5.02",
+     "9.01"
+    ],
+    "item_names": {
+     "1.02": "termination of material agreement",
+     "5.02": "officer/director departure or appointment",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001493152-26-042560",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:06Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[3], item_names(3), escalated=True",
+   "data": {
+    "items": [
+     "1.02",
+     "5.02",
+     "9.01"
+    ],
+    "item_names": {
+     "1.02": "termination of material agreement",
+     "5.02": "officer/director departure or appointment",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001493152-26-042563",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:06Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

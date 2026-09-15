@@ -32,6 +32,24 @@
    "source": "asx:e6c47459c71bd827c8495689b95a5ae1",
    "locator": "chars 306+",
    "recorded_at": "2026-09-10T05:39:56Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=603_becoming, holder=Citibank, N.A. Sydney Branch, became_on=2026-09-10, voting_power_pcts_seen_unordered[1]",
+   "data": {
+    "form": "603_becoming",
+    "holder": "Citibank, N.A. Sydney Branch",
+    "became_on": "2026-09-10",
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null,
+    "voting_power_pcts_seen_unordered": [
+     5.1552
+    ]
+   },
+   "source": "asx:132fab20188e735c1067907667523e3f",
+   "locator": "chars 4023+ (voting power table)",
+   "recorded_at": "2026-09-15T23:28:58Z"
   }
  ],
  "situations": [],

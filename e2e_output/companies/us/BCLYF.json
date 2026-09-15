@@ -1,0 +1,16 @@
+{
+ "issuer_key": "us/BCLYF",
+ "identity": {
+  "ticker": "BCLYF",
+  "exchange": "US",
+  "name": "BARCLAYS PLC",
+  "cik": "312069"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

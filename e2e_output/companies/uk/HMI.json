@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/HMI",
+ "identity": {
+  "ticker": "HMI",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

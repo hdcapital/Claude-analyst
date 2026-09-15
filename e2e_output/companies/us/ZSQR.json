@@ -1,0 +1,44 @@
+{
+ "issuer_key": "us/ZSQR",
+ "identity": {
+  "ticker": "ZSQR",
+  "exchange": "US",
+  "name": "Z Squared Inc.",
+  "cik": "1759186"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[6], item_names(6), escalated=True",
+   "data": {
+    "items": [
+     "1.01",
+     "2.01",
+     "3.02",
+     "5.03",
+     "7.01",
+     "9.01"
+    ],
+    "item_names": {
+     "1.01": "material definitive agreement",
+     "2.01": "completion of acquisition/disposition",
+     "3.02": "unregistered equity sales",
+     "5.03": "charter/bylaw amendment",
+     "7.01": "Reg FD disclosure",
+     "9.01": "exhibits"
+    },
+    "escalated": true
+   },
+   "source": "us:0001185185-26-003984",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:04Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

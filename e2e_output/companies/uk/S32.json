@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/S32",
+ "identity": {
+  "ticker": "S32",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

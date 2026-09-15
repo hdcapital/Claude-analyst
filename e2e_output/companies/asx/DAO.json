@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/DAO",
+ "identity": {
+  "ticker": "DAO",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "issuer_key": "uk/HFG",
+ "identity": {
+  "ticker": "HFG",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=Name, position=Chief Financial Officer / PDMR, nature=Market purchase of shares, volume=6.66",
+   "data": {
+    "person": "Name",
+    "position": "Chief Financial Officer / PDMR",
+    "nature": "Market purchase of shares",
+    "price": null,
+    "volume": 6.66,
+    "value": null
+   },
+   "source": "uk:9769126",
+   "locator": "chars 700+",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

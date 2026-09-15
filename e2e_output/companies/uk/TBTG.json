@@ -17,6 +17,19 @@
    "source": "uk:9759709",
    "locator": "chars 237+",
    "recorded_at": "2026-09-08T14:34:29Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Pageant Investments Limited, resulting_voting_rights_pct=3.04, previous_voting_rights_pct=2.45",
+   "data": {
+    "holder": "Pageant Investments Limited",
+    "resulting_voting_rights_pct": 3.04,
+    "previous_voting_rights_pct": 2.45
+   },
+   "source": "uk:9770247",
+   "locator": "chars 237+",
+   "recorded_at": "2026-09-15T23:29:02Z"
   }
  ],
  "situations": [],

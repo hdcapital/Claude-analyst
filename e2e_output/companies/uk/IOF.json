@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/IOF",
+ "identity": {
+  "ticker": "IOF",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

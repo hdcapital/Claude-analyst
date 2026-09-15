@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/37QB",
+ "identity": {
+  "ticker": "37QB",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

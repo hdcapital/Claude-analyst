@@ -1,0 +1,54 @@
+{
+ "issuer_key": "uk/APN",
+ "identity": {
+  "ticker": "APN",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Thomas Ryder, resulting_voting_rights_pct=32.464997, previous_voting_rights_pct=34.264998",
+   "data": {
+    "holder": "Thomas Ryder",
+    "resulting_voting_rights_pct": 32.464997,
+    "previous_voting_rights_pct": 34.264998
+   },
+   "source": "uk:9771197",
+   "locator": "chars 233+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Steven Granite, resulting_voting_rights_pct=4.80304, previous_voting_rights_pct=5.80304",
+   "data": {
+    "holder": "Steven Granite",
+    "resulting_voting_rights_pct": 4.80304,
+    "previous_voting_rights_pct": 5.80304
+   },
+   "source": "uk:9771198",
+   "locator": "chars 233+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=Pageant Investments Limited, resulting_voting_rights_pct=3.04, previous_voting_rights_pct=2.28",
+   "data": {
+    "holder": "Pageant Investments Limited",
+    "resulting_voting_rights_pct": 3.04,
+    "previous_voting_rights_pct": 2.28
+   },
+   "source": "uk:9771298",
+   "locator": "chars 286+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

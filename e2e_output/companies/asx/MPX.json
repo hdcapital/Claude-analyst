@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/MPX",
+ "identity": {
+  "ticker": "MPX",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/TWE",
+ "identity": {
+  "ticker": "TWE",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "issuer_key": "asx/MSV",
+ "identity": {
+  "ticker": "MSV",
+  "exchange": "ASX"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "director_interest_change",
+   "summary": "director_interest_change: director=Nathan Andrew Mitchell, date_of_change=2026-09-11, number_acquired=500000.0, number_disposed=0.0, value_consideration=260000.0, direct_or_indirect=Indirect",
+   "data": {
+    "director": "Nathan Andrew Mitchell",
+    "date_of_change": "2026-09-11",
+    "number_acquired": 500000.0,
+    "number_disposed": 0.0,
+    "value_consideration": 260000.0,
+    "held_after_change": null,
+    "direct_or_indirect": "Indirect"
+   },
+   "source": "asx:83bc480d138beb5b7ad66af8c1a2cabf",
+   "locator": "chars 650+ (form fields)",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "substantial_holder",
+   "summary": "substantial_holder: form=605_ceasing, holder=Signature",
+   "data": {
+    "form": "605_ceasing",
+    "holder": "Signature",
+    "ceased_on": null,
+    "previous_voting_power_pct": null,
+    "present_voting_power_pct": null
+   },
+   "source": "asx:ba8cc8bdb248e9414d83216baccae736",
+   "locator": "chars 1567+ (form 605)",
+   "recorded_at": "2026-09-15T23:29:00Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

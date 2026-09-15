@@ -34,6 +34,37 @@
    "source": "uk:9764124",
    "locator": "chars 116+",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "buyback_transaction",
+   "summary": "buyback_transaction: shares_purchased=100000.0, highest_price=259.0, lowest_price=258.5",
+   "data": {
+    "shares_purchased": 100000.0,
+    "highest_price": 259.0,
+    "lowest_price": 258.5,
+    "vwap": null,
+    "implied_consideration": null
+   },
+   "source": "uk:9771314",
+   "locator": "chars 117+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "pdmr_dealing",
+   "summary": "pdmr_dealing: person=SEEMA PATERSON, nature=Purchase of shares, price=2.58677, volume=2.58677, value=6.69",
+   "data": {
+    "person": "SEEMA PATERSON",
+    "position": null,
+    "nature": "Purchase of shares",
+    "price": 2.58677,
+    "volume": 2.58677,
+    "value": 6.69
+   },
+   "source": "uk:9773444",
+   "locator": "chars 242+",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

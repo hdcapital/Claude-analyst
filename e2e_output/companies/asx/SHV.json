@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/SHV",
+ "identity": {
+  "ticker": "SHV",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

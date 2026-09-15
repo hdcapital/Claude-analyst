@@ -1,0 +1,14 @@
+{
+ "issuer_key": "uk/TM1",
+ "identity": {
+  "ticker": "TM1",
+  "exchange": "LSE"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "issuer_key": "asx/GPT",
+ "identity": {
+  "ticker": "GPT",
+  "exchange": "ASX"
+ },
+ "facts": [],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

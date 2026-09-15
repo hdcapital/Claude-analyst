@@ -44,6 +44,23 @@
    "source": "us:0000832988-26-000229",
    "locator": "diff vs none",
    "recorded_at": "2026-09-10T05:39:58Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "8k_items",
+   "summary": "8k_items: items[1], item_names(1), escalated=True",
+   "data": {
+    "items": [
+     "8.01"
+    ],
+    "item_names": {
+     "8.01": "other events"
+    },
+    "escalated": true
+   },
+   "source": "us:0000832988-26-000231",
+   "locator": "chars 227+ (item headers)",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [],

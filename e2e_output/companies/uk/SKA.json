@@ -1,0 +1,28 @@
+{
+ "issuer_key": "uk/SKA",
+ "identity": {
+  "ticker": "SKA",
+  "exchange": "LSE"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "major_holding",
+   "summary": "major_holding: holder=MENEL ENERGY AND RESOURCES LIMITED, resulting_voting_rights_pct=10.84, previous_voting_rights_pct=10.84",
+   "data": {
+    "holder": "MENEL ENERGY AND RESOURCES LIMITED",
+    "resulting_voting_rights_pct": 10.84,
+    "previous_voting_rights_pct": 10.84
+   },
+   "source": "uk:9771191",
+   "locator": "chars 230+",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

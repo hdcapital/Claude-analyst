@@ -1,0 +1,34 @@
+{
+ "issuer_key": "us/ESSI",
+ "identity": {
+  "ticker": "ESSI",
+  "exchange": "US",
+  "name": "ECO SCIENCE SOLUTIONS, INC.",
+  "cik": "1490873"
+ },
+ "facts": [
+  {
+   "date": "2026-09-14",
+   "type": "repeat_filing_diff",
+   "summary": "periodic filing: first_of_type (0/13644 lines changed)",
+   "data": {
+    "diff_group": "periodic",
+    "previous_doc_id": null,
+    "changed_lines": 0,
+    "total_lines": 13644,
+    "trivial": false,
+    "reason": "first_of_type",
+    "delta_preview": ""
+   },
+   "source": "us:0001477932-26-005573",
+   "locator": "diff vs none",
+   "recorded_at": "2026-09-15T23:29:05Z"
+  }
+ ],
+ "situations": [],
+ "changelog": [],
+ "thesis": {
+  "text": "",
+  "updated": null
+ }
+}

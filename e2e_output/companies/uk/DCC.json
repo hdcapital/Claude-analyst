@@ -200,6 +200,132 @@
    "source": "uk:9764001",
    "locator": "metadata",
    "recorded_at": "2026-09-10T05:39:57Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - DCC Energy plc 140926",
+   "data": {
+    "title": "Form 8.3 - DCC Energy plc 140926",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc-140926/9770313",
+    "is_admin_noise": true
+   },
+   "source": "uk:9770313",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - DCC Energy plc",
+   "data": {
+    "title": "Form 8.3 - DCC Energy plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9770491",
+    "is_admin_noise": true
+   },
+   "source": "uk:9770491",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - DCC ENERGY PLC",
+   "data": {
+    "title": "Form 8.3 - DCC ENERGY PLC",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc-/9770750",
+    "is_admin_noise": true
+   },
+   "source": "uk:9770750",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - DCC Energy plc",
+   "data": {
+    "title": "Form 8.3 - DCC Energy plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc-/9770775",
+    "is_admin_noise": true
+   },
+   "source": "uk:9770775",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - DCC Energy plc",
+   "data": {
+    "title": "Form 8.3 - DCC Energy plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc-/9770910",
+    "is_admin_noise": true
+   },
+   "source": "uk:9770910",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:02Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - DCC Energy plc",
+   "data": {
+    "title": "Form 8.3 - DCC Energy plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9771095",
+    "is_admin_noise": true
+   },
+   "source": "uk:9771095",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - DCC ENERGY PLC",
+   "data": {
+    "title": "Form 8.3 - DCC ENERGY PLC",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9771134",
+    "is_admin_noise": true
+   },
+   "source": "uk:9771134",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 DCC Energy Plc",
+   "data": {
+    "title": "Form 8.3 DCC Energy Plc",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9771199",
+    "is_admin_noise": true
+   },
+   "source": "uk:9771199",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "admin_announcement",
+   "summary": "admin_announcement: title=Form 8.3 - DCC ENERGY PLC",
+   "data": {
+    "title": "Form 8.3 - DCC ENERGY PLC",
+    "form": null,
+    "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9771240",
+    "is_admin_noise": true
+   },
+   "source": "uk:9771240",
+   "locator": "metadata",
+   "recorded_at": "2026-09-15T23:29:03Z"
   }
  ],
  "situations": [
